@@ -1,3 +1,15 @@
 {
-  "workspace": {}
+  "workspace": {},
+  "studio-open-web": {},
+  "studio-open-git": {},
+  "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "firstVersion": "1.0.6",
+    "tutorialBranch": "master",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
+    "fontsize": 12,
+    "skinBranch": "1.0.6",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "currentVersion": "1.0.6"
+  }
 }
