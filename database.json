@@ -1,15 +1,25 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/OperationSmallKat/Luna.git": [
+      "OperationSmallKat/Luna",
+      "1577665246476"
+    ]
+  },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/OperationSmallKat/Luna.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "launch.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.0.6",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.0.7",
+    "skinBranch": "1.0.8",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.0.7"
+    "currentVersion": "1.0.8"
   }
 }
