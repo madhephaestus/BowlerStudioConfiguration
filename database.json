@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/Luna_copy.git": [
+      "madhephaestus/Luna_copy",
+      "1577687877384"
+    ],
     "https://github.com/OperationSmallKat/Luna.git": [
       "OperationSmallKat/Luna",
       "1577665246476"
@@ -17,6 +21,10 @@
     ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "launch.groovy"
+    ],
+    "https://github.com/madhephaestus/Luna_copy.git:launch.groovy": [
+      "https://github.com/madhephaestus/Luna_copy.git",
       "launch.groovy"
     ]
   },
