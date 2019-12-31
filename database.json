@@ -8,6 +8,10 @@
       "OperationSmallKat/Luna",
       "1577665246476"
     ],
+    "https://gist.github.com/5f9a911d81d49696f3d6551c5fa095dc.git": [
+      "GIST: RockerBogie copy of NASA_Curiosity",
+      "1577768789071"
+    ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "GIST: Robot smashes through pile of bricks",
       "1577768650453"
@@ -34,6 +38,10 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "launch.groovy"
+    ],
+    "https://gist.github.com/5f9a911d81d49696f3d6551c5fa095dc.git:steer_wheel.groovy": [
+      "https://gist.github.com/5f9a911d81d49696f3d6551c5fa095dc.git",
+      "steer_wheel.groovy"
     ],
     "https://gist.github.com/b8744a18d1f12d10f295.git:physicsCad.groovy": [
       "https://gist.github.com/b8744a18d1f12d10f295.git",
