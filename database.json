@@ -11,6 +11,10 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1577665267136"
+    ],
+    "https://gist.github.com/b8744a18d1f12d10f295.git": [
+      "GIST: Physics runner for arm",
+      "1577768501100"
     ]
   },
   "studio-open-web": {},
@@ -19,13 +23,17 @@
       "https://github.com/OperationSmallKat/Luna.git",
       "launch.groovy"
     ],
+    "https://github.com/xaveagle/blackcat.git:walking.groovy": [
+      "https://github.com/xaveagle/blackcat.git",
+      "walking.groovy"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "launch.groovy"
     ],
-    "https://github.com/madhephaestus/Luna_copy.git:launch.groovy": [
-      "https://github.com/madhephaestus/Luna_copy.git",
-      "launch.groovy"
+    "https://gist.github.com/b8744a18d1f12d10f295.git:physicsCad.groovy": [
+      "https://gist.github.com/b8744a18d1f12d10f295.git",
+      "physicsCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
