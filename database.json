@@ -8,6 +8,10 @@
       "OperationSmallKat/Luna",
       "1577665246476"
     ],
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
+      "GIST: Robot smashes through pile of bricks",
+      "1577768650453"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1577665267136"
@@ -34,6 +38,10 @@
     "https://gist.github.com/b8744a18d1f12d10f295.git:physicsCad.groovy": [
       "https://gist.github.com/b8744a18d1f12d10f295.git",
       "physicsCad.groovy"
+    ],
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
+      "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
+      "SimulatePhysics.groovy"
     ]
   },
   "BowlerStudioConfigs": {
