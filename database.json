@@ -24,6 +24,10 @@
       "CommonWealthRobotics/BowlerStudio",
       "1577990993104"
     ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1578007169780"
+    ],
     "https://gist.github.com/b8744a18d1f12d10f295.git": [
       "GIST: Physics runner for arm",
       "1577768501100"
@@ -34,6 +38,10 @@
     "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
       "https://github.com/OperationSmallKat/greycat.git",
       "launch.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/MediumCad.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/MediumCad.groovy"
     ],
     "https://gist.github.com/b8744a18d1f12d10f295.git:physicsCad.groovy": [
       "https://gist.github.com/b8744a18d1f12d10f295.git",
