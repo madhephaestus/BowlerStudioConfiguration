@@ -4,6 +4,10 @@
       "madhephaestus/Luna_copy",
       "1577687877384"
     ],
+    "https://github.com/OperationSmallKat/greycat.git": [
+      "OperationSmallKat/greycat",
+      "1578007194395"
+    ],
     "https://gist.github.com/1e9e518d62c2e17cdf02489351909bf8.git": [
       "GIST: JavaFXUIAdversary.groovy",
       "1577990221465"
@@ -38,10 +42,6 @@
     "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
       "https://github.com/OperationSmallKat/greycat.git",
       "launch.groovy"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/MediumCad.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/MediumCad.groovy"
     ],
     "https://gist.github.com/b8744a18d1f12d10f295.git:physicsCad.groovy": [
       "https://gist.github.com/b8744a18d1f12d10f295.git",
