@@ -28,6 +28,10 @@
       "CommonWealthRobotics/BowlerStudio",
       "1577990993104"
     ],
+    "https://github.com/madhephaestus/MediumKat_copy.git": [
+      "madhephaestus/MediumKat_copy",
+      "1578065107177"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1578007169780"
@@ -41,6 +45,10 @@
   "studio-open-git": {
     "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
       "https://github.com/OperationSmallKat/greycat.git",
+      "launch.groovy"
+    ],
+    "https://github.com/madhephaestus/MediumKat_copy.git:launch.groovy": [
+      "https://github.com/madhephaestus/MediumKat_copy.git",
       "launch.groovy"
     ],
     "https://gist.github.com/b8744a18d1f12d10f295.git:physicsCad.groovy": [
