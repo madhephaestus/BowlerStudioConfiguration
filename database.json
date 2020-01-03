@@ -46,14 +46,6 @@
     "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
       "https://github.com/OperationSmallKat/greycat.git",
       "launch.groovy"
-    ],
-    "https://github.com/madhephaestus/MediumKat_copy.git:launch.groovy": [
-      "https://github.com/madhephaestus/MediumKat_copy.git",
-      "launch.groovy"
-    ],
-    "https://gist.github.com/b8744a18d1f12d10f295.git:physicsCad.groovy": [
-      "https://gist.github.com/b8744a18d1f12d10f295.git",
-      "physicsCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
