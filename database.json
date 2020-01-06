@@ -4,6 +4,10 @@
       "OperationSmallKat/greycat",
       "1578007194395"
     ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
+      "GIST: Cap screw generator",
+      "1578350072126"
+    ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "GIST: Robot smashes through pile of bricks",
       "1577768650453"
@@ -70,6 +74,10 @@
     "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
       "https://github.com/OperationSmallKat/greycat.git",
       "launch.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
     ],
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git:brushlessMotor.groovy": [
       "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
