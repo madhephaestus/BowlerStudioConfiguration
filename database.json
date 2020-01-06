@@ -36,6 +36,10 @@
       "madhephaestus/MediumKat_copy",
       "1578065107177"
     ],
+    "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
+      "madhephaestus/brushlessMotorShaftCadGenerator",
+      "1578346503737"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1578007169780"
@@ -50,6 +54,10 @@
     "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git:testVitamins.groovy": [
       "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git",
       "testVitamins.groovy"
+    ],
+    "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git:brushlessMotorShaft.groovy": [
+      "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git",
+      "brushlessMotorShaft.groovy"
     ],
     "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
       "https://github.com/OperationSmallKat/greycat.git",
