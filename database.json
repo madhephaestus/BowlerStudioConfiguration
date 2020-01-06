@@ -12,6 +12,10 @@
       "GIST: JavaFXUIAdversary.groovy",
       "1577990221465"
     ],
+    "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
+      "madhephaestus/brushlessMotorCadGenerator",
+      "1578282035079"
+    ],
     "https://github.com/OperationSmallKat/Luna.git": [
       "OperationSmallKat/Luna",
       "1577665246476"
@@ -39,9 +43,17 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git:testVitamins.groovy": [
+      "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git",
+      "testVitamins.groovy"
+    ],
     "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
       "https://github.com/OperationSmallKat/greycat.git",
       "launch.groovy"
+    ],
+    "https://github.com/madhephaestus/brushlessMotorCadGenerator.git:brushlessMotor.groovy": [
+      "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
+      "brushlessMotor.groovy"
     ]
   },
   "BowlerStudioConfigs": {
