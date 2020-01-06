@@ -1,12 +1,16 @@
 {
   "workspace": {
-    "https://github.com/madhephaestus/Luna_copy.git": [
-      "madhephaestus/Luna_copy",
-      "1577687877384"
-    ],
     "https://github.com/OperationSmallKat/greycat.git": [
       "OperationSmallKat/greycat",
       "1578007194395"
+    ],
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
+      "GIST: Robot smashes through pile of bricks",
+      "1577768650453"
+    ],
+    "https://github.com/madhephaestus/Luna_copy.git": [
+      "madhephaestus/Luna_copy",
+      "1577687877384"
     ],
     "https://gist.github.com/1e9e518d62c2e17cdf02489351909bf8.git": [
       "GIST: JavaFXUIAdversary.groovy",
@@ -24,9 +28,9 @@
       "GIST: RockerBogie copy of NASA_Curiosity",
       "1577768789071"
     ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
-      "GIST: Robot smashes through pile of bricks",
-      "1577768650453"
+    "https://github.com/madhephaestus/RoundMotorVitamin.git": [
+      "madhephaestus/RoundMotorVitamin",
+      "1578349571486"
     ],
     "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git": [
       "GIST: testVitamins.groovy",
@@ -58,6 +62,10 @@
     "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git:brushlessMotorShaft.groovy": [
       "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git",
       "brushlessMotorShaft.groovy"
+    ],
+    "https://github.com/madhephaestus/RoundMotorVitamin.git:dShaft.groovy": [
+      "https://github.com/madhephaestus/RoundMotorVitamin.git",
+      "dShaft.groovy"
     ],
     "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
       "https://github.com/OperationSmallKat/greycat.git",
