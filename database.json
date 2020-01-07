@@ -12,6 +12,10 @@
       "GIST: Robot smashes through pile of bricks",
       "1577768650453"
     ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git": [
+      "madhephaestus/VexVitaminScripts",
+      "1578421182635"
+    ],
     "https://github.com/madhephaestus/Luna_copy.git": [
       "madhephaestus/Luna_copy",
       "1577687877384"
@@ -63,6 +67,10 @@
       "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git",
       "testVitamins.groovy"
     ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Gear.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/Gear.groovy"
+    ],
     "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git:brushlessMotorShaft.groovy": [
       "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git",
       "brushlessMotorShaft.groovy"
@@ -78,6 +86,10 @@
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "capScrew.groovy"
+    ],
+    "https://github.com/madhephaestus/encoderCadGenerator.git:encoder.groovy": [
+      "https://github.com/madhephaestus/encoderCadGenerator.git",
+      "encoder.groovy"
     ],
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git:brushlessMotor.groovy": [
       "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
