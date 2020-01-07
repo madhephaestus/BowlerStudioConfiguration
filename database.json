@@ -8,6 +8,10 @@
       "GIST: Cap screw generator",
       "1578350072126"
     ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
+      "GIST: Sealed Bearing generator",
+      "1578423225607"
+    ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "GIST: Robot smashes through pile of bricks",
       "1577768650453"
@@ -27,10 +31,6 @@
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
       "madhephaestus/brushlessMotorCadGenerator",
       "1578282035079"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1577665246476"
     ],
     "https://gist.github.com/5f9a911d81d49696f3d6551c5fa095dc.git": [
       "GIST: RockerBogie copy of NASA_Curiosity",
@@ -78,6 +78,10 @@
     "https://github.com/madhephaestus/RoundMotorVitamin.git:dShaft.groovy": [
       "https://github.com/madhephaestus/RoundMotorVitamin.git",
       "dShaft.groovy"
+    ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
+      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+      "bearing.groovy"
     ],
     "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
       "https://github.com/OperationSmallKat/greycat.git",
