@@ -16,10 +16,6 @@
       "GIST: Sealed Bearing generator",
       "1578423225607"
     ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
-      "GIST: Robot smashes through pile of bricks",
-      "1577768650453"
-    ],
     "https://github.com/madhephaestus/encoderCadGenerator.git": [
       "madhephaestus/encoderCadGenerator",
       "1578523929764"
@@ -44,6 +40,10 @@
       "madhephaestus/RoundMotorVitamin",
       "1578349571486"
     ],
+    "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git": [
+      "madhephaestus/brushlessBoltOnShaftCadGenerator",
+      "1578526942247"
+    ],
     "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git": [
       "GIST: testVitamins.groovy",
       "1578330468771"
@@ -67,9 +67,9 @@
       "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git",
       "testVitamins.groovy"
     ],
-    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
-      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
-      "bearing.groovy"
+    "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git:brushlessBoltOnShaft.groovy": [
+      "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git",
+      "brushlessBoltOnShaft.groovy"
     ],
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git:brushlessMotor.groovy": [
       "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
