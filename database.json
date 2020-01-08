@@ -67,33 +67,9 @@
       "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git",
       "testVitamins.groovy"
     ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Gear.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/Gear.groovy"
-    ],
-    "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git:brushlessMotorShaft.groovy": [
-      "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git",
-      "brushlessMotorShaft.groovy"
-    ],
-    "https://github.com/madhephaestus/RoundMotorVitamin.git:dShaft.groovy": [
-      "https://github.com/madhephaestus/RoundMotorVitamin.git",
-      "dShaft.groovy"
-    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
       "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
       "bearing.groovy"
-    ],
-    "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/greycat.git",
-      "launch.groovy"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
-      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
-      "capScrew.groovy"
-    ],
-    "https://github.com/madhephaestus/encoderCadGenerator.git:encoder.groovy": [
-      "https://github.com/madhephaestus/encoderCadGenerator.git",
-      "encoder.groovy"
     ],
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git:brushlessMotor.groovy": [
       "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
