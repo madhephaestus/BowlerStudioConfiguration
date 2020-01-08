@@ -20,6 +20,10 @@
       "GIST: Robot smashes through pile of bricks",
       "1577768650453"
     ],
+    "https://github.com/madhephaestus/encoderCadGenerator.git": [
+      "madhephaestus/encoderCadGenerator",
+      "1578523929764"
+    ],
     "https://github.com/madhephaestus/VexVitaminScripts.git": [
       "madhephaestus/VexVitaminScripts",
       "1578421182635"
@@ -55,10 +59,6 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1578007169780"
-    ],
-    "https://gist.github.com/b8744a18d1f12d10f295.git": [
-      "GIST: Physics runner for arm",
-      "1577768501100"
     ]
   },
   "studio-open-web": {},
