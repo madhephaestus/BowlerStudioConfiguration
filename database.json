@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "madhephaestus/carl-the-hexapod",
+      "1578776091736"
+    ],
     "https://github.com/OperationSmallKat/greycat.git": [
       "OperationSmallKat/greycat",
       "1578007194395"
@@ -23,10 +27,6 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git": [
       "madhephaestus/VexVitaminScripts",
       "1578421182635"
-    ],
-    "https://gist.github.com/1e9e518d62c2e17cdf02489351909bf8.git": [
-      "GIST: JavaFXUIAdversary.groovy",
-      "1577990221465"
     ],
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
       "madhephaestus/brushlessMotorCadGenerator",
@@ -78,6 +78,10 @@
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "capScrew.groovy"
+    ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git:WalkingDriveEngine.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "WalkingDriveEngine.groovy"
     ],
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git:brushlessMotor.groovy": [
       "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
