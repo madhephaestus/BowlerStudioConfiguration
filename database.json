@@ -32,10 +32,6 @@
       "madhephaestus/brushlessMotorCadGenerator",
       "1578282035079"
     ],
-    "https://gist.github.com/5f9a911d81d49696f3d6551c5fa095dc.git": [
-      "GIST: RockerBogie copy of NASA_Curiosity",
-      "1577768789071"
-    ],
     "https://github.com/madhephaestus/RoundMotorVitamin.git": [
       "madhephaestus/RoundMotorVitamin",
       "1578349571486"
@@ -59,6 +55,10 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1578007169780"
+    ],
+    "https://github.com/madhephaestus/microMetalMotorCadGenerator.git": [
+      "madhephaestus/microMetalMotorCadGenerator",
+      "1578769473827"
     ]
   },
   "studio-open-web": {},
@@ -66,6 +66,10 @@
     "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git:testVitamins.groovy": [
       "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git",
       "testVitamins.groovy"
+    ],
+    "https://github.com/madhephaestus/microMetalMotorCadGenerator.git:microMetalMotor.groovy": [
+      "https://github.com/madhephaestus/microMetalMotorCadGenerator.git",
+      "microMetalMotor.groovy"
     ],
     "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git:brushlessBoltOnShaft.groovy": [
       "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git",
