@@ -4,13 +4,13 @@
       "madhephaestus/carl-the-hexapod",
       "1578776091736"
     ],
-    "https://github.com/OperationSmallKat/greycat.git": [
-      "OperationSmallKat/greycat",
-      "1578007194395"
-    ],
     "https://github.com/madhephaestus/BevelGearWristModule.git": [
       "madhephaestus/BevelGearWristModule",
       "1578430090924"
+    ],
+    "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git": [
+      "GIST: Linear Bearing generator",
+      "1578796453769"
     ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
@@ -63,6 +63,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git:LinearBearing.groovy": [
+      "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git",
+      "LinearBearing.groovy"
+    ],
     "https://gist.github.com/c15329c19b4a33248fe9.git:roundedcube.groovy": [
       "https://gist.github.com/c15329c19b4a33248fe9.git",
       "roundedcube.groovy"
