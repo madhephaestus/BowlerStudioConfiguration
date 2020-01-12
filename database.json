@@ -52,9 +52,9 @@
       "madhephaestus/brushlessMotorShaftCadGenerator",
       "1578346503737"
     ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "OperationSmallKat/SmallKat_V2",
-      "1578007169780"
+    "https://gist.github.com/c15329c19b4a33248fe9.git": [
+      "GIST: roundedcube.groovy",
+      "1578796024587"
     ],
     "https://github.com/madhephaestus/microMetalMotorCadGenerator.git": [
       "madhephaestus/microMetalMotorCadGenerator",
@@ -63,29 +63,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git:testVitamins.groovy": [
-      "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git",
-      "testVitamins.groovy"
-    ],
-    "https://github.com/madhephaestus/microMetalMotorCadGenerator.git:microMetalMotor.groovy": [
-      "https://github.com/madhephaestus/microMetalMotorCadGenerator.git",
-      "microMetalMotor.groovy"
-    ],
-    "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git:brushlessBoltOnShaft.groovy": [
-      "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git",
-      "brushlessBoltOnShaft.groovy"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
-      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
-      "capScrew.groovy"
-    ],
-    "https://github.com/madhephaestus/carl-the-hexapod.git:WalkingDriveEngine.groovy": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "WalkingDriveEngine.groovy"
-    ],
-    "https://github.com/madhephaestus/brushlessMotorCadGenerator.git:brushlessMotor.groovy": [
-      "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
-      "brushlessMotor.groovy"
+    "https://gist.github.com/c15329c19b4a33248fe9.git:roundedcube.groovy": [
+      "https://gist.github.com/c15329c19b4a33248fe9.git",
+      "roundedcube.groovy"
     ]
   },
   "BowlerStudioConfigs": {
