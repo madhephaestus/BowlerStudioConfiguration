@@ -63,13 +63,13 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git:LinearBearing.groovy": [
-      "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git",
-      "LinearBearing.groovy"
+    "https://github.com/madhephaestus/MediumKat_copy.git:loadRobot.groovy": [
+      "https://github.com/madhephaestus/MediumKat_copy.git",
+      "loadRobot.groovy"
     ],
-    "https://gist.github.com/c15329c19b4a33248fe9.git:roundedcube.groovy": [
-      "https://gist.github.com/c15329c19b4a33248fe9.git",
-      "roundedcube.groovy"
+    "https://github.com/madhephaestus/MediumKat_copy.git:launch.groovy": [
+      "https://github.com/madhephaestus/MediumKat_copy.git",
+      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
