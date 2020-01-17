@@ -70,6 +70,10 @@
     "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git:testKotlin.kt": [
       "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git",
       "testKotlin.kt"
+    ],
+    "https://gist.github.com/cc889f5408b241d54762abb11a9008ce.git:kotlinCad.kt": [
+      "https://gist.github.com/cc889f5408b241d54762abb11a9008ce.git",
+      "kotlinCad.kt"
     ]
   },
   "BowlerStudioConfigs": {
