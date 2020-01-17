@@ -66,6 +66,10 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "launch.groovy"
+    ],
+    "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git:testKotlin.kt": [
+      "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git",
+      "testKotlin.kt"
     ]
   },
   "BowlerStudioConfigs": {
