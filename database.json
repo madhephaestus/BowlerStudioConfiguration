@@ -1,93 +1,86 @@
 {
   "workspace": {
-    "https://gist.github.com/cc889f5408b241d54762abb11a9008ce.git": [
-      "GIST: testing the cad system in kotlin",
-      "1579295347648"
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "madhephaestus/carl-the-hexapod",
+      "1578776091736"
     ],
-    "https://github.com/madhephaestus/AnimatronicHand.git": [
-      "madhephaestus/AnimatronicHand",
-      "1573339485156"
+    "https://github.com/madhephaestus/BevelGearWristModule.git": [
+      "madhephaestus/BevelGearWristModule",
+      "1578430090924"
+    ],
+    "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git": [
+      "GIST: Linear Bearing generator",
+      "1578796453769"
     ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
-      "1566654311985"
+      "1578350072126"
     ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
-      "WPIRoboticsEngineering/RBELabCustomParts",
-      "1566313516737"
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
+      "GIST: Sealed Bearing generator",
+      "1578423225607"
     ],
-    "https://github.com/javatechs/greycat.git": [
-      "javatechs/greycat",
-      "1568080820427"
-    ],
-    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
-      "GIST: parabola",
-      "1565900267398"
-    ],
-    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
-      "GIST: Servo Horn generator",
-      "1566261183338"
-    ],
-    "https://github.com/NotOctogonapus/SeriesElasticActuator.git": [
-      "NotOctogonapus/SeriesElasticActuator",
-      "1566301240674"
+    "https://github.com/madhephaestus/encoderCadGenerator.git": [
+      "madhephaestus/encoderCadGenerator",
+      "1578523929764"
     ],
     "https://github.com/madhephaestus/VexVitaminScripts.git": [
       "madhephaestus/VexVitaminScripts",
-      "1566261182606"
+      "1578421182635"
     ],
-    "https://github.com/madhephaestus/SeriesElasticActuator.git": [
-      "madhephaestus/SeriesElasticActuator",
-      "1565989761051"
-    ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1565899662172"
+    "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
+      "madhephaestus/brushlessMotorCadGenerator",
+      "1578282035079"
     ],
     "https://github.com/madhephaestus/RoundMotorVitamin.git": [
       "madhephaestus/RoundMotorVitamin",
-      "1566654310562"
+      "1578349571486"
     ],
-    "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git": [
-      "GIST: adding a kotlin file\n",
-      "1579293138938"
+    "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git": [
+      "madhephaestus/brushlessBoltOnShaftCadGenerator",
+      "1578526942247"
     ],
-    "https://github.com/madhephaestus/GearGenerator.git": [
-      "madhephaestus/GearGenerator",
-      "1566302110845"
+    "https://gist.github.com/c89468f6401b253e263d6b69b87276e1.git": [
+      "GIST: testVitamins.groovy",
+      "1578330468771"
     ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "OperationSmallKat/SmallKat_V2",
-      "1579293158112"
+    "https://github.com/madhephaestus/MediumKat_copy.git": [
+      "madhephaestus/MediumKat_copy",
+      "1578065107177"
+    ],
+    "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
+      "madhephaestus/brushlessMotorShaftCadGenerator",
+      "1578346503737"
+    ],
+    "https://gist.github.com/c15329c19b4a33248fe9.git": [
+      "GIST: roundedcube.groovy",
+      "1578796024587"
+    ],
+    "https://github.com/madhephaestus/microMetalMotorCadGenerator.git": [
+      "madhephaestus/microMetalMotorCadGenerator",
+      "1578769473827"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+    "https://github.com/madhephaestus/MediumKat_copy.git:loadRobot.groovy": [
+      "https://github.com/madhephaestus/MediumKat_copy.git",
+      "loadRobot.groovy"
+    ],
+    "https://github.com/madhephaestus/MediumKat_copy.git:launch.groovy": [
+      "https://github.com/madhephaestus/MediumKat_copy.git",
       "launch.groovy"
-    ],
-    "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git:testKotlin.kt": [
-      "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git",
-      "testKotlin.kt"
-    ],
-    "https://gist.github.com/cc889f5408b241d54762abb11a9008ce.git:kotlinCad.kt": [
-      "https://gist.github.com/cc889f5408b241d54762abb11a9008ce.git",
-      "kotlinCad.kt"
     ]
   },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
-    "firstVersion": "0.18.8",
-    "showTerminal": true,
+    "firstVersion": "1.0.6",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.2.4",
-    "showDevices": true,
+    "skinBranch": "1.3.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.2.4",
-    "notifiedArduinoDep": true,
-    "showCreatureLab": true
+    "currentVersion": "1.3.0",
+    "notifiedArduinoDep": true
   }
 }
