@@ -32,10 +32,6 @@
       "madhephaestus/VexVitaminScripts",
       "1578421182635"
     ],
-    "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
-      "madhephaestus/brushlessMotorCadGenerator",
-      "1578282035079"
-    ],
     "https://github.com/madhephaestus/RoundMotorVitamin.git": [
       "madhephaestus/RoundMotorVitamin",
       "1578349571486"
@@ -51,6 +47,10 @@
     "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
       "madhephaestus/brushlessMotorShaftCadGenerator",
       "1578346503737"
+    ],
+    "https://github.com/madhephaestus/MediumKat_copy.git": [
+      "madhephaestus/MediumKat_copy",
+      "1579388380065"
     ],
     "https://gist.github.com/c15329c19b4a33248fe9.git": [
       "GIST: roundedcube.groovy",
