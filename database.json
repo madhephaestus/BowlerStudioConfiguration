@@ -24,6 +24,10 @@
       "GIST: Sealed Bearing generator",
       "1578423225607"
     ],
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
+      "WPIRoboticsEngineering/RBELabCustomParts",
+      "1579785078855"
+    ],
     "https://github.com/madhephaestus/encoderCadGenerator.git": [
       "madhephaestus/encoderCadGenerator",
       "1578523929764"
@@ -43,10 +47,6 @@
     "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git": [
       "GIST: adding a kotlin file\n",
       "1579388385591"
-    ],
-    "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
-      "madhephaestus/brushlessMotorShaftCadGenerator",
-      "1578346503737"
     ],
     "https://github.com/madhephaestus/MediumKat_copy.git": [
       "madhephaestus/MediumKat_copy",
