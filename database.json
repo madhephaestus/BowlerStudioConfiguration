@@ -67,10 +67,6 @@
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "cadGenHephaestusArm.groovy"
     ],
-    "https://gist.github.com/e54cfebe4f55fb0549dd.git:ExampleCadGenerator.groovy": [
-      "https://gist.github.com/e54cfebe4f55fb0549dd.git",
-      "ExampleCadGenerator.groovy"
-    ],
     "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git:TransformExample.groovy": [
       "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git",
       "TransformExample.groovy"
