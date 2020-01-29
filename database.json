@@ -36,9 +36,9 @@
       "madhephaestus/VexVitaminScripts",
       "1578421182635"
     ],
-    "https://github.com/madhephaestus/RoundMotorVitamin.git": [
-      "madhephaestus/RoundMotorVitamin",
-      "1578349571486"
+    "https://github.com/madhephaestus/HephaestusArm2.git": [
+      "madhephaestus/HephaestusArm2",
+      "1580303743351"
     ],
     "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git": [
       "madhephaestus/brushlessBoltOnShaftCadGenerator",
@@ -62,28 +62,7 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://github.com/madhephaestus/MediumKat_copy.git:loadRobot.groovy": [
-      "https://github.com/madhephaestus/MediumKat_copy.git",
-      "loadRobot.groovy"
-    ],
-    "https://github.com/madhephaestus/RoundMotorVitamin.git:dShaft.groovy": [
-      "https://github.com/madhephaestus/RoundMotorVitamin.git",
-      "dShaft.groovy"
-    ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git:WheelModule.groovy": [
-      "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
-      "WheelModule.groovy"
-    ],
-    "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git:testKotlin.kt": [
-      "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git",
-      "testKotlin.kt"
-    ],
-    "https://github.com/madhephaestus/MediumKat_copy.git:launch.groovy": [
-      "https://github.com/madhephaestus/MediumKat_copy.git",
-      "launch.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.0.6",
