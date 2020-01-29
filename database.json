@@ -20,10 +20,6 @@
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1579785078855"
     ],
-    "https://github.com/madhephaestus/encoderCadGenerator.git": [
-      "madhephaestus/encoderCadGenerator",
-      "1578523929764"
-    ],
     "https://gist.github.com/e54cfebe4f55fb0549dd.git": [
       "GIST: CreatureCadGenerator.groovy",
       "1580321639828"
@@ -31,6 +27,10 @@
     "https://github.com/madhephaestus/HephaestusArm2.git": [
       "madhephaestus/HephaestusArm2",
       "1580303743351"
+    ],
+    "https://github.com/madhephaestus/domeHeadScrewCadGenerator.git": [
+      "madhephaestus/domeHeadScrewCadGenerator",
+      "1580323649822"
     ],
     "https://github.com/madhephaestus/SeriesElasticActuator.git": [
       "madhephaestus/SeriesElasticActuator",
@@ -66,6 +66,10 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
+    ],
+    "https://github.com/madhephaestus/domeHeadScrewCadGenerator.git:domeHeadScrew.groovy": [
+      "https://github.com/madhephaestus/domeHeadScrewCadGenerator.git",
+      "domeHeadScrew.groovy"
     ],
     "https://github.com/madhephaestus/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
