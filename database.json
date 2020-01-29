@@ -16,10 +16,6 @@
       "GIST: testing the cad system in kotlin",
       "1579388378911"
     ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "GIST: Cap screw generator",
-      "1578350072126"
-    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
       "1578423225607"
@@ -27,6 +23,10 @@
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1579785078855"
+    ],
+    "https://github.com/madhephaestus/HephaestusArmVersion2.git": [
+      "madhephaestus/HephaestusArmVersion2",
+      "1580304052430"
     ],
     "https://github.com/madhephaestus/encoderCadGenerator.git": [
       "madhephaestus/encoderCadGenerator",
