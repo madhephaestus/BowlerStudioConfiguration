@@ -32,13 +32,13 @@
       "madhephaestus/domeHeadScrewCadGenerator",
       "1580323649822"
     ],
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
+      "OperationSmallKat/SmallKatLinkLoader",
+      "1580488340698"
+    ],
     "https://github.com/madhephaestus/SeriesElasticActuator.git": [
       "madhephaestus/SeriesElasticActuator",
       "1580321610857"
-    ],
-    "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git": [
-      "madhephaestus/brushlessBoltOnShaftCadGenerator",
-      "1578526942247"
     ],
     "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git": [
       "GIST: adding a kotlin file\n",
@@ -62,28 +62,7 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
-      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
-      "dhcad.groovy"
-    ],
-    "https://github.com/madhephaestus/domeHeadScrewCadGenerator.git:domeHeadScrew.groovy": [
-      "https://github.com/madhephaestus/domeHeadScrewCadGenerator.git",
-      "domeHeadScrew.groovy"
-    ],
-    "https://github.com/madhephaestus/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
-      "https://github.com/madhephaestus/HephaestusArm2.git",
-      "cadGenHephaestusArm.groovy"
-    ],
-    "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git:TransformExample.groovy": [
-      "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git",
-      "TransformExample.groovy"
-    ],
-    "https://github.com/madhephaestus/HephaestusArm2.git:launch.groovy": [
-      "https://github.com/madhephaestus/HephaestusArm2.git",
-      "launch.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.0.6",
