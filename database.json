@@ -4,10 +4,6 @@
       "OperationSmallKat/greycat",
       "1580497763580"
     ],
-    "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git": [
-      "GIST: Linear Bearing generator",
-      "1578796453769"
-    ],
     "https://gist.github.com/cc889f5408b241d54762abb11a9008ce.git": [
       "GIST: testing the cad system in kotlin",
       "1579388378911"
@@ -59,6 +55,10 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1580492128218"
+    ],
+    "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git": [
+      "CommonWealthRobotics/HotfixBowlerStudio",
+      "1580499153985"
     ]
   },
   "studio-open-web": {},
@@ -78,6 +78,10 @@
     "https://github.com/CommonWealthRobotics/DeviceProviders.git:loadAll.groovy": [
       "https://github.com/CommonWealthRobotics/DeviceProviders.git",
       "loadAll.groovy"
+    ],
+    "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git:hotfix.groovy": [
+      "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git",
+      "hotfix.groovy"
     ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git:loadRobot.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
