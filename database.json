@@ -79,6 +79,10 @@
       "https://github.com/CommonWealthRobotics/DeviceProviders.git",
       "loadAll.groovy"
     ],
+    "https://github.com/OperationSmallKat/greycat.git:walking.groovy": [
+      "https://github.com/OperationSmallKat/greycat.git",
+      "walking.groovy"
+    ],
     "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git:hotfix.groovy": [
       "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git",
       "hotfix.groovy"
