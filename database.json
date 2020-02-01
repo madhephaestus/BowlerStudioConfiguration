@@ -67,6 +67,10 @@
       "https://github.com/OperationSmallKat/greycat.git",
       "MediumKat.xml"
     ],
+    "https://github.com/madhephaestus/KevinKat.git:KevinKat.xml": [
+      "https://github.com/madhephaestus/KevinKat.git",
+      "KevinKat.xml"
+    ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git:devices.json": [
       "https://github.com/CommonWealthRobotics/DeviceProviders.git",
       "devices.json"
