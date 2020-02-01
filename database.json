@@ -4,10 +4,6 @@
       "OperationSmallKat/greycat",
       "1580497763580"
     ],
-    "https://gist.github.com/cc889f5408b241d54762abb11a9008ce.git": [
-      "GIST: testing the cad system in kotlin",
-      "1579388378911"
-    ],
     "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git": [
       "GIST: Demonstrate advance motions using transforms.",
       "1580321354077"
@@ -15,6 +11,10 @@
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1579785078855"
+    ],
+    "https://github.com/madhephaestus/KevinKat.git": [
+      "madhephaestus/KevinKat",
+      "1580574921746"
     ],
     "https://gist.github.com/e54cfebe4f55fb0549dd.git": [
       "GIST: CreatureCadGenerator.groovy",
