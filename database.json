@@ -66,6 +66,14 @@
     "https://github.com/madhephaestus/KevKat2.git:KevKat2.xml": [
       "https://github.com/madhephaestus/KevKat2.git",
       "KevKat2.xml"
+    ],
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:load.groovy": [
+      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
+      "load.groovy"
+    ],
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git:loadAll.groovy": [
+      "https://github.com/CommonWealthRobotics/DeviceProviders.git",
+      "loadAll.groovy"
     ]
   },
   "BowlerStudioConfigs": {
