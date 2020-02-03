@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/01a13fb9dd23559e545250404bd641da.git": [
+      "GIST: grabtest.groovy",
+      "1580753226503"
+    ],
     "https://github.com/OperationSmallKat/greycat.git": [
       "OperationSmallKat/greycat",
       "1580497763580"
@@ -8,21 +12,17 @@
       "GIST: Demonstrate advance motions using transforms.",
       "1580321354077"
     ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
-      "WPIRoboticsEngineering/RBELabCustomParts",
-      "1579785078855"
-    ],
     "https://github.com/madhephaestus/KevinKat.git": [
       "madhephaestus/KevinKat",
       "1580574921746"
     ],
+    "https://github.com/OperationSmallKat/HIDSmallKat.git": [
+      "OperationSmallKat/HIDSmallKat",
+      "1580754100090"
+    ],
     "https://gist.github.com/e54cfebe4f55fb0549dd.git": [
       "GIST: CreatureCadGenerator.groovy",
       "1580321639828"
-    ],
-    "https://github.com/madhephaestus/HephaestusArm2.git": [
-      "madhephaestus/HephaestusArm2",
-      "1580303743351"
     ],
     "https://github.com/madhephaestus/domeHeadScrewCadGenerator.git": [
       "madhephaestus/domeHeadScrewCadGenerator",
@@ -40,10 +40,6 @@
       "CommonWealthRobotics/DeviceProviders",
       "1580488350696"
     ],
-    "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git": [
-      "GIST: adding a kotlin file\n",
-      "1579388385591"
-    ],
     "https://github.com/madhephaestus/KevKat2.git": [
       "madhephaestus/KevKat2",
       "1580576631614"
@@ -59,21 +55,29 @@
     "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git": [
       "CommonWealthRobotics/HotfixBowlerStudio",
       "1580499153985"
+    ],
+    "https://github.com/javatechs/BStudioGameController.git": [
+      "javatechs/BStudioGameController",
+      "1580741606638"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/madhephaestus/KevKat2.git:KevKat2.xml": [
-      "https://github.com/madhephaestus/KevKat2.git",
-      "KevKat2.xml"
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:hidLinkLoader.groovy": [
+      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
+      "hidLinkLoader.groovy"
+    ],
+    "https://github.com/OperationSmallKat/HIDSmallKat.git:HIDSmallKat.xml": [
+      "https://github.com/OperationSmallKat/HIDSmallKat.git",
+      "HIDSmallKat.xml"
     ],
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:load.groovy": [
       "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
       "load.groovy"
     ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git:loadAll.groovy": [
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git:devices.json": [
       "https://github.com/CommonWealthRobotics/DeviceProviders.git",
-      "loadAll.groovy"
+      "devices.json"
     ]
   },
   "BowlerStudioConfigs": {
