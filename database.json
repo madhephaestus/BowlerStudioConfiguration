@@ -16,13 +16,13 @@
       "madhephaestus/KevinKat",
       "1580574921746"
     ],
+    "https://github.com/OperationSmallKat/HIDSmallKat.git": [
+      "OperationSmallKat/HIDSmallKat",
+      "1580754100090"
+    ],
     "https://gist.github.com/e54cfebe4f55fb0549dd.git": [
       "GIST: CreatureCadGenerator.groovy",
       "1580321639828"
-    ],
-    "https://github.com/madhephaestus/HephaestusArm2.git": [
-      "madhephaestus/HephaestusArm2",
-      "1580303743351"
     ],
     "https://github.com/madhephaestus/domeHeadScrewCadGenerator.git": [
       "madhephaestus/domeHeadScrewCadGenerator",
@@ -67,25 +67,17 @@
       "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
       "hidLinkLoader.groovy"
     ],
+    "https://github.com/OperationSmallKat/HIDSmallKat.git:HIDSmallKat.xml": [
+      "https://github.com/OperationSmallKat/HIDSmallKat.git",
+      "HIDSmallKat.xml"
+    ],
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:load.groovy": [
       "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
       "load.groovy"
     ],
-    "https://github.com/madhephaestus/KevKat2.git:KevKat2.xml": [
-      "https://github.com/madhephaestus/KevKat2.git",
-      "KevKat2.xml"
-    ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git:devices.json": [
       "https://github.com/CommonWealthRobotics/DeviceProviders.git",
       "devices.json"
-    ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git:loadAll.groovy": [
-      "https://github.com/CommonWealthRobotics/DeviceProviders.git",
-      "loadAll.groovy"
-    ],
-    "https://gist.github.com/01a13fb9dd23559e545250404bd641da.git:grabtest.groovy": [
-      "https://gist.github.com/01a13fb9dd23559e545250404bd641da.git",
-      "grabtest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
