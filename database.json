@@ -12,10 +12,6 @@
       "jdalmeida/BestTrophy",
       "1580785240903"
     ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
-      "WPIRoboticsEngineering/RBELabCustomParts",
-      "1579785078855"
-    ],
     "https://github.com/madhephaestus/KevinKat.git": [
       "madhephaestus/KevinKat",
       "1580574921746"
@@ -35,6 +31,10 @@
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
       "1580488340698"
+    ],
+    "https://github.com/madhephaestus/HIDSmallKat.git": [
+      "madhephaestus/HIDSmallKat",
+      "1580823183837"
     ],
     "https://github.com/madhephaestus/SeriesElasticActuator.git": [
       "madhephaestus/SeriesElasticActuator",
