@@ -8,6 +8,10 @@
       "GIST: Demonstrate advance motions using transforms.",
       "1580321354077"
     ],
+    "https://github.com/jdalmeida/BestTrophy.git": [
+      "jdalmeida/BestTrophy",
+      "1580785240903"
+    ],
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1579785078855"
@@ -39,10 +43,6 @@
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1580488350696"
-    ],
-    "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git": [
-      "GIST: adding a kotlin file\n",
-      "1579388385591"
     ],
     "https://github.com/madhephaestus/KevKat2.git": [
       "madhephaestus/KevKat2",
