@@ -67,6 +67,10 @@
       "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
       "hidLinkLoader.groovy"
     ],
+    "https://github.com/madhephaestus/HIDSmallKat.git:HIDSmallKat.xml": [
+      "https://github.com/madhephaestus/HIDSmallKat.git",
+      "HIDSmallKat.xml"
+    ],
     "https://github.com/madhephaestus/KevKat2.git:KevKat2.xml": [
       "https://github.com/madhephaestus/KevKat2.git",
       "KevKat2.xml"
