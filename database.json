@@ -8,10 +8,6 @@
       "OperationSmallKat/greycat",
       "1580497763580"
     ],
-    "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git": [
-      "GIST: Demonstrate advance motions using transforms.",
-      "1580321354077"
-    ],
     "https://github.com/madhephaestus/KevinKat.git": [
       "madhephaestus/KevinKat",
       "1580574921746"
@@ -27,6 +23,10 @@
     "https://github.com/madhephaestus/domeHeadScrewCadGenerator.git": [
       "madhephaestus/domeHeadScrewCadGenerator",
       "1580323649822"
+    ],
+    "https://github.com/madhephaestus/HephaestusArm2.git": [
+      "madhephaestus/HephaestusArm2",
+      "1580926892288"
     ],
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
@@ -62,24 +62,7 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:hidLinkLoader.groovy": [
-      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
-      "hidLinkLoader.groovy"
-    ],
-    "https://github.com/OperationSmallKat/HIDSmallKat.git:HIDSmallKat.xml": [
-      "https://github.com/OperationSmallKat/HIDSmallKat.git",
-      "HIDSmallKat.xml"
-    ],
-    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:load.groovy": [
-      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
-      "load.groovy"
-    ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git:devices.json": [
-      "https://github.com/CommonWealthRobotics/DeviceProviders.git",
-      "devices.json"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.0.6",
