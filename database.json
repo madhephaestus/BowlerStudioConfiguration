@@ -1,28 +1,28 @@
 {
   "workspace": {
+    "https://gist.github.com/01a13fb9dd23559e545250404bd641da.git": [
+      "GIST: grabtest.groovy",
+      "1580753226503"
+    ],
     "https://github.com/OperationSmallKat/greycat.git": [
       "OperationSmallKat/greycat",
       "1580497763580"
     ],
-    "https://github.com/jdalmeida/BestTrophy.git": [
-      "jdalmeida/BestTrophy",
-      "1580785240903"
+    "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git": [
+      "GIST: Demonstrate advance motions using transforms.",
+      "1580321354077"
     ],
     "https://github.com/madhephaestus/KevinKat.git": [
       "madhephaestus/KevinKat",
       "1580574921746"
     ],
-    "https://gist.github.com/1606010b686494cea33527b71c98570a.git": [
-      "GIST: Extrude objects along a path defined by a bezier interpolation.",
-      "1580871071675"
-    ],
     "https://github.com/OperationSmallKat/HIDSmallKat.git": [
       "OperationSmallKat/HIDSmallKat",
-      "1580823524686"
+      "1580754100090"
     ],
-    "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git": [
-      "GIST: SVG loading example",
-      "1580871071065"
+    "https://gist.github.com/e54cfebe4f55fb0549dd.git": [
+      "GIST: CreatureCadGenerator.groovy",
+      "1580321639828"
     ],
     "https://github.com/madhephaestus/domeHeadScrewCadGenerator.git": [
       "madhephaestus/domeHeadScrewCadGenerator",
@@ -32,9 +32,9 @@
       "OperationSmallKat/SmallKatLinkLoader",
       "1580488340698"
     ],
-    "https://github.com/madhephaestus/HIDSmallKat.git": [
-      "madhephaestus/HIDSmallKat",
-      "1580823183837"
+    "https://github.com/madhephaestus/SeriesElasticActuator.git": [
+      "madhephaestus/SeriesElasticActuator",
+      "1580321610857"
     ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
@@ -55,25 +55,29 @@
     "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git": [
       "CommonWealthRobotics/HotfixBowlerStudio",
       "1580499153985"
+    ],
+    "https://github.com/javatechs/BStudioGameController.git": [
+      "javatechs/BStudioGameController",
+      "1580741606638"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:hidLinkLoader.groovy": [
+      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
+      "hidLinkLoader.groovy"
+    ],
     "https://github.com/OperationSmallKat/HIDSmallKat.git:HIDSmallKat.xml": [
       "https://github.com/OperationSmallKat/HIDSmallKat.git",
       "HIDSmallKat.xml"
     ],
-    "https://github.com/madhephaestus/HIDSmallKat.git:test.groovy": [
-      "https://github.com/madhephaestus/HIDSmallKat.git",
-      "test.groovy"
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:load.groovy": [
+      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
+      "load.groovy"
     ],
-    "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git:SVGExtrude.groovy": [
-      "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git",
-      "SVGExtrude.groovy"
-    ],
-    "https://gist.github.com/1606010b686494cea33527b71c98570a.git:airFoil.svg": [
-      "https://gist.github.com/1606010b686494cea33527b71c98570a.git",
-      "airFoil.svg"
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git:devices.json": [
+      "https://github.com/CommonWealthRobotics/DeviceProviders.git",
+      "devices.json"
     ]
   },
   "BowlerStudioConfigs": {
