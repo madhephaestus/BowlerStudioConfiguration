@@ -4,10 +4,6 @@
       "OperationSmallKat/greycat",
       "1580497763580"
     ],
-    "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git": [
-      "GIST: Demonstrate advance motions using transforms.",
-      "1580321354077"
-    ],
     "https://github.com/jdalmeida/BestTrophy.git": [
       "jdalmeida/BestTrophy",
       "1580785240903"
@@ -23,6 +19,10 @@
     "https://gist.github.com/e54cfebe4f55fb0549dd.git": [
       "GIST: CreatureCadGenerator.groovy",
       "1580321639828"
+    ],
+    "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git": [
+      "GIST: SVG loading example",
+      "1580868554149"
     ],
     "https://github.com/madhephaestus/domeHeadScrewCadGenerator.git": [
       "madhephaestus/domeHeadScrewCadGenerator",
@@ -66,6 +66,14 @@
     "https://github.com/OperationSmallKat/HIDSmallKat.git:HIDSmallKat.xml": [
       "https://github.com/OperationSmallKat/HIDSmallKat.git",
       "HIDSmallKat.xml"
+    ],
+    "https://github.com/madhephaestus/HIDSmallKat.git:test.groovy": [
+      "https://github.com/madhephaestus/HIDSmallKat.git",
+      "test.groovy"
+    ],
+    "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git:SVGExtrude.groovy": [
+      "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git",
+      "SVGExtrude.groovy"
     ]
   },
   "BowlerStudioConfigs": {
