@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/01a13fb9dd23559e545250404bd641da.git": [
+      "GIST: grabtest.groovy",
+      "1581009256895"
+    ],
     "https://github.com/OperationSmallKat/greycat.git": [
       "OperationSmallKat/greycat",
       "1580497763580"
@@ -48,10 +52,6 @@
       "madhephaestus/KevKat2",
       "1580576631614"
     ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1580321932098"
-    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1580492128218"
@@ -67,9 +67,21 @@
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "hephaestus.xml"
     ],
+    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git:gsonExample.groovy": [
+      "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git",
+      "gsonExample.groovy"
+    ],
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git:devices.json": [
+      "https://github.com/CommonWealthRobotics/DeviceProviders.git",
+      "devices.json"
+    ],
     "https://github.com/madhephaestus/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "cadGenHephaestusArm.groovy"
+    ],
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git:loadAll.groovy": [
+      "https://github.com/CommonWealthRobotics/DeviceProviders.git",
+      "loadAll.groovy"
     ]
   },
   "BowlerStudioConfigs": {
