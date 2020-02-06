@@ -28,10 +28,6 @@
       "GIST: SVG loading example",
       "1580871071065"
     ],
-    "https://github.com/madhephaestus/domeHeadScrewCadGenerator.git": [
-      "madhephaestus/domeHeadScrewCadGenerator",
-      "1580323649822"
-    ],
     "https://github.com/madhephaestus/HephaestusArm2.git": [
       "madhephaestus/HephaestusArm2",
       "1581005910445"
@@ -39,6 +35,10 @@
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
       "1580488340698"
+    ],
+    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
+      "GIST: gsonExample.groovy",
+      "1581009286144"
     ],
     "https://github.com/madhephaestus/HIDSmallKat.git": [
       "madhephaestus/HIDSmallKat",
