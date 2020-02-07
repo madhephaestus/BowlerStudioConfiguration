@@ -78,6 +78,10 @@
     "https://github.com/madhephaestus/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "cadGenHephaestusArm.groovy"
+    ],
+    "https://github.com/madhephaestus/brushlessMotorCadGenerator.git:brushlessMotor.groovy": [
+      "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
+      "brushlessMotor.groovy"
     ]
   },
   "BowlerStudioConfigs": {
