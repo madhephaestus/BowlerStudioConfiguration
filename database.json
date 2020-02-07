@@ -12,6 +12,10 @@
       "jdalmeida/BestTrophy",
       "1580785240903"
     ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
+      "GIST: Cap screw generator",
+      "1581108287881"
+    ],
     "https://github.com/madhephaestus/KevinKat.git": [
       "madhephaestus/KevinKat",
       "1580574921746"
@@ -48,10 +52,6 @@
       "madhephaestus/KevKat2",
       "1580576631614"
     ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "OperationSmallKat/SmallKat_V2",
-      "1580492128218"
-    ],
     "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git": [
       "CommonWealthRobotics/HotfixBowlerStudio",
       "1580499153985"
@@ -82,6 +82,10 @@
     "https://github.com/madhephaestus/HephaestusArm2.git:PID-G_DeviceLoader.groovy": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "PID-G_DeviceLoader.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
     ],
     "https://github.com/madhephaestus/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
