@@ -32,6 +32,10 @@
       "madhephaestus/HephaestusArm2",
       "1581005910445"
     ],
+    "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
+      "madhephaestus/brushlessMotorCadGenerator",
+      "1581108287143"
+    ],
     "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
       "GIST: gsonExample.groovy",
       "1581009286144"
@@ -39,10 +43,6 @@
     "https://github.com/madhephaestus/HIDSmallKat.git": [
       "madhephaestus/HIDSmallKat",
       "1580823183837"
-    ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
-      "CommonWealthRobotics/DeviceProviders",
-      "1580488350696"
     ],
     "https://github.com/madhephaestus/KevKat2.git": [
       "madhephaestus/KevKat2",
@@ -90,6 +90,10 @@
     "https://github.com/madhephaestus/HephaestusArm2.git:launch.groovy": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "launch.groovy"
+    ],
+    "https://github.com/madhephaestus/brushlessMotorCadGenerator.git:brushlessMotor.groovy": [
+      "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
+      "brushlessMotor.groovy"
     ]
   },
   "BowlerStudioConfigs": {
