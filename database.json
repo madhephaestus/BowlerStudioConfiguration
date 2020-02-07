@@ -40,6 +40,10 @@
       "madhephaestus/brushlessMotorCadGenerator",
       "1581108287143"
     ],
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
+      "OperationSmallKat/SmallKatLinkLoader",
+      "1581108621359"
+    ],
     "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
       "GIST: gsonExample.groovy",
       "1581009286144"
@@ -51,10 +55,6 @@
     "https://github.com/madhephaestus/KevKat2.git": [
       "madhephaestus/KevKat2",
       "1580576631614"
-    ],
-    "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git": [
-      "CommonWealthRobotics/HotfixBowlerStudio",
-      "1580499153985"
     ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
