@@ -8,10 +8,6 @@
       "madhephaestus/Hardware-Dimensions",
       "1581108450537"
     ],
-    "https://github.com/jdalmeida/BestTrophy.git": [
-      "jdalmeida/BestTrophy",
-      "1580785240903"
-    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1581108287881"
@@ -48,6 +44,10 @@
       "madhephaestus/HIDSmallKat",
       "1580823183837"
     ],
+    "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git": [
+      "madhephaestus/brushlessBoltOnShaftCadGenerator",
+      "1581531469839"
+    ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1581108768073"
@@ -74,6 +74,10 @@
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "capScrew.groovy"
+    ],
+    "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git:brushlessBoltOnShaft.groovy": [
+      "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git",
+      "brushlessBoltOnShaft.groovy"
     ],
     "https://github.com/madhephaestus/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
