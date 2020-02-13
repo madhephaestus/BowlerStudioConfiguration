@@ -20,10 +20,6 @@
       "GIST: Extrude objects along a path defined by a bezier interpolation.",
       "1580871071675"
     ],
-    "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git": [
-      "GIST: SVG loading example",
-      "1580871071065"
-    ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1581610760676"
@@ -48,6 +44,10 @@
       "madhephaestus/brushlessBoltOnShaftCadGenerator",
       "1581531469839"
     ],
+    "https://github.com/madhephaestus/RoundMotorVitamin.git": [
+      "madhephaestus/RoundMotorVitamin",
+      "1581619173491"
+    ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1581108768073"
@@ -67,13 +67,13 @@
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "hephaestus.xml"
     ],
-    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
-      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
-      "bearing.groovy"
+    "https://github.com/madhephaestus/Hardware-Dimensions.git:json/roundMotor.json": [
+      "https://github.com/madhephaestus/Hardware-Dimensions.git",
+      "json/roundMotor.json"
     ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "heatedThreadedInsert.groovy"
+    "https://github.com/madhephaestus/RoundMotorVitamin.git:roundMotor.groovy": [
+      "https://github.com/madhephaestus/RoundMotorVitamin.git",
+      "roundMotor.groovy"
     ],
     "https://github.com/madhephaestus/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
