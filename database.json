@@ -20,13 +20,13 @@
       "GIST: Extrude objects along a path defined by a bezier interpolation.",
       "1580871071675"
     ],
-    "https://github.com/OperationSmallKat/HIDSmallKat.git": [
-      "OperationSmallKat/HIDSmallKat",
-      "1580823524686"
-    ],
     "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git": [
       "GIST: SVG loading example",
       "1580871071065"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "madhephaestus/heatedThreadedInsertCadGenerator",
+      "1581610760676"
     ],
     "https://github.com/madhephaestus/HephaestusArm2.git": [
       "madhephaestus/HephaestusArm2",
@@ -70,6 +70,10 @@
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
       "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
       "bearing.groovy"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "heatedThreadedInsert.groovy"
     ],
     "https://github.com/madhephaestus/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
