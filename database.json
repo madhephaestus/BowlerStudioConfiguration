@@ -12,6 +12,10 @@
       "GIST: Cap screw generator",
       "1581108287881"
     ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
+      "GIST: Sealed Bearing generator",
+      "1581605194574"
+    ],
     "https://gist.github.com/1606010b686494cea33527b71c98570a.git": [
       "GIST: Extrude objects along a path defined by a bezier interpolation.",
       "1580871071675"
@@ -40,10 +44,6 @@
       "GIST: gsonExample.groovy",
       "1581009286144"
     ],
-    "https://github.com/madhephaestus/HIDSmallKat.git": [
-      "madhephaestus/HIDSmallKat",
-      "1580823183837"
-    ],
     "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git": [
       "madhephaestus/brushlessBoltOnShaftCadGenerator",
       "1581531469839"
@@ -67,25 +67,13 @@
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "hephaestus.xml"
     ],
-    "https://github.com/madhephaestus/Hardware-Dimensions.git:json/capScrew.json": [
-      "https://github.com/madhephaestus/Hardware-Dimensions.git",
-      "json/capScrew.json"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
-      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
-      "capScrew.groovy"
-    ],
-    "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git:brushlessBoltOnShaft.groovy": [
-      "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git",
-      "brushlessBoltOnShaft.groovy"
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
+      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+      "bearing.groovy"
     ],
     "https://github.com/madhephaestus/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "cadGenHephaestusArm.groovy"
-    ],
-    "https://github.com/madhephaestus/brushlessMotorCadGenerator.git:brushlessMotor.groovy": [
-      "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
-      "brushlessMotor.groovy"
     ]
   },
   "BowlerStudioConfigs": {
