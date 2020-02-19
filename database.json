@@ -32,10 +32,6 @@
       "OperationSmallKat/SmallKatLinkLoader",
       "1581108621359"
     ],
-    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
-      "GIST: gsonExample.groovy",
-      "1581009286144"
-    ],
     "https://github.com/OperationSmallKat/Luna.git": [
       "OperationSmallKat/Luna",
       "1582135481914"
@@ -52,6 +48,10 @@
       "CommonWealthRobotics/DeviceProviders",
       "1581108768073"
     ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "GIST: servo.groovy",
+      "1582136405848"
+    ],
     "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
       "madhephaestus/brushlessMotorShaftCadGenerator",
       "1581110341159"
@@ -67,9 +67,17 @@
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/Motor.groovy"
     ],
+    "https://github.com/madhephaestus/RoundMotorVitamin.git:roundMotor.groovy": [
+      "https://github.com/madhephaestus/RoundMotorVitamin.git",
+      "roundMotor.groovy"
+    ],
     "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git:nemaStepper.groovy": [
       "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git",
       "nemaStepper.groovy"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
     ],
     "https://github.com/OperationSmallKat/Luna.git:MediumKat.xml": [
       "https://github.com/OperationSmallKat/Luna.git",
