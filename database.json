@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "https://gist.github.com/01a13fb9dd23559e545250404bd641da.git": [
-      "GIST: grabtest.groovy",
-      "1581009256895"
-    ],
     "https://github.com/madhephaestus/Hardware-Dimensions.git": [
       "madhephaestus/Hardware-Dimensions",
       "1581108450537"
@@ -15,6 +11,10 @@
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
       "1581605194574"
+    ],
+    "https://gist.github.com/be239e0b21fc2fe7f6f744321822a9ca.git": [
+      "GIST: CamferedCylinder",
+      "1582236023537"
     ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
@@ -66,6 +66,10 @@
     "https://gist.github.com/d56e9ddbac6bbfb7702cf3d4d53b0527.git:RoundedCylinderTest.groovy": [
       "https://gist.github.com/d56e9ddbac6bbfb7702cf3d4d53b0527.git",
       "RoundedCylinderTest.groovy"
+    ],
+    "https://gist.github.com/be239e0b21fc2fe7f6f744321822a9ca.git:CamferedCylinder.groovy": [
+      "https://gist.github.com/be239e0b21fc2fe7f6f744321822a9ca.git",
+      "CamferedCylinder.groovy"
     ]
   },
   "BowlerStudioConfigs": {
