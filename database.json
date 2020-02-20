@@ -20,6 +20,10 @@
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1581610760676"
     ],
+    "https://gist.github.com/d451b8d5d805aec22c6dd21f37f6aaf1.git": [
+      "GIST: triangles",
+      "1582236060211"
+    ],
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
       "madhephaestus/brushlessMotorCadGenerator",
       "1581108287143"
@@ -27,10 +31,6 @@
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
       "1581108621359"
-    ],
-    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
-      "GIST: gsonExample.groovy",
-      "1581009286144"
     ],
     "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git": [
       "madhephaestus/brushlessBoltOnShaftCadGenerator",
@@ -63,6 +63,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/d451b8d5d805aec22c6dd21f37f6aaf1.git:triangles.groovy": [
+      "https://gist.github.com/d451b8d5d805aec22c6dd21f37f6aaf1.git",
+      "triangles.groovy"
+    ],
     "https://gist.github.com/d56e9ddbac6bbfb7702cf3d4d53b0527.git:RoundedCylinderTest.groovy": [
       "https://gist.github.com/d56e9ddbac6bbfb7702cf3d4d53b0527.git",
       "RoundedCylinderTest.groovy"
