@@ -20,10 +20,6 @@
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1581610760676"
     ],
-    "https://github.com/madhephaestus/HephaestusArm2.git": [
-      "madhephaestus/HephaestusArm2",
-      "1581005910445"
-    ],
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
       "madhephaestus/brushlessMotorCadGenerator",
       "1581108287143"
@@ -59,10 +55,19 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1581108284370"
+    ],
+    "https://gist.github.com/d56e9ddbac6bbfb7702cf3d4d53b0527.git": [
+      "GIST: RoundedCylinder",
+      "1582235944933"
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/d56e9ddbac6bbfb7702cf3d4d53b0527.git:RoundedCylinderTest.groovy": [
+      "https://gist.github.com/d56e9ddbac6bbfb7702cf3d4d53b0527.git",
+      "RoundedCylinderTest.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.0.6",
