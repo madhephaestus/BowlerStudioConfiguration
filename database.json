@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/01a13fb9dd23559e545250404bd641da.git": [
+      "GIST: grabtest.groovy",
+      "1581009256895"
+    ],
     "https://github.com/madhephaestus/Hardware-Dimensions.git": [
       "madhephaestus/Hardware-Dimensions",
       "1581108450537"
@@ -8,21 +12,17 @@
       "GIST: Cap screw generator",
       "1581108287881"
     ],
-    "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git": [
-      "GIST: Nema stepper generator",
-      "1582136284765"
-    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
       "1581605194574"
     ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git": [
-      "madhephaestus/VexVitaminScripts",
-      "1582136218774"
-    ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1581610760676"
+    ],
+    "https://github.com/madhephaestus/HephaestusArm2.git": [
+      "madhephaestus/HephaestusArm2",
+      "1581005910445"
     ],
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
       "madhephaestus/brushlessMotorCadGenerator",
@@ -32,9 +32,9 @@
       "OperationSmallKat/SmallKatLinkLoader",
       "1581108621359"
     ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1582135481914"
+    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
+      "GIST: gsonExample.groovy",
+      "1581009286144"
     ],
     "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git": [
       "madhephaestus/brushlessBoltOnShaftCadGenerator",
@@ -48,13 +48,13 @@
       "CommonWealthRobotics/DeviceProviders",
       "1581108768073"
     ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
-      "GIST: servo.groovy",
-      "1582136405848"
-    ],
     "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
       "madhephaestus/brushlessMotorShaftCadGenerator",
       "1581110341159"
+    ],
+    "https://github.com/madhephaestus/Kronenberg.git": [
+      "madhephaestus/Kronenberg",
+      "1582235653715"
     ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
@@ -62,37 +62,16 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Motor.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/Motor.groovy"
-    ],
-    "https://github.com/madhephaestus/RoundMotorVitamin.git:roundMotor.groovy": [
-      "https://github.com/madhephaestus/RoundMotorVitamin.git",
-      "roundMotor.groovy"
-    ],
-    "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git:nemaStepper.groovy": [
-      "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git",
-      "nemaStepper.groovy"
-    ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
-      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
-      "servo.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git:MediumKat.xml": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "MediumKat.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.0.6",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.4.4",
+    "skinBranch": "1.4.5",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.4.4",
+    "currentVersion": "1.4.5",
     "notifiedArduinoDep": true
   }
 }
