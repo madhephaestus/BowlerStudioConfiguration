@@ -1,12 +1,12 @@
 {
   "workspace": {
-    "https://github.com/madhephaestus/Hardware-Dimensions.git": [
-      "madhephaestus/Hardware-Dimensions",
-      "1581108450537"
-    ],
     "https://github.com/OperationSmallKat/greycat.git": [
       "OperationSmallKat/greycat",
       "1582236389814"
+    ],
+    "https://gist.github.com/4814b39ee72e9f590757.git": [
+      "GIST: JavaCadExample",
+      "1582301398586"
     ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
@@ -63,6 +63,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "javaCad.groovy"
+    ],
     "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git:testKotlin.kt": [
       "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git",
       "testKotlin.kt"
