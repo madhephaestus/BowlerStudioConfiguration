@@ -62,16 +62,7 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
-    ],
-    "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git:testKotlin.kt": [
-      "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git",
-      "testKotlin.kt"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.0.6",
