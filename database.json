@@ -8,10 +8,6 @@
       "OperationSmallKat/greycat",
       "1582236389814"
     ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "GIST: Cap screw generator",
-      "1581108287881"
-    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
       "1581605194574"
@@ -44,6 +40,10 @@
       "CommonWealthRobotics/DeviceProviders",
       "1581108768073"
     ],
+    "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git": [
+      "GIST: adding a kotlin file\n",
+      "1582300644883"
+    ],
     "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
       "madhephaestus/brushlessMotorShaftCadGenerator",
       "1581110341159"
@@ -62,7 +62,12 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git:testKotlin.kt": [
+      "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git",
+      "testKotlin.kt"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.0.6",
