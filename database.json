@@ -12,6 +12,10 @@
       "GIST: Sealed Bearing generator",
       "1581605194574"
     ],
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
+      "WPIRoboticsEngineering/RBELabCustomParts",
+      "1582722635198"
+    ],
     "https://github.com/Octogonapus/CAD_ISP.git": [
       "Octogonapus/CAD_ISP",
       "1582575565595"
@@ -36,10 +40,6 @@
       "madhephaestus/RoundMotorVitamin",
       "1581619173491"
     ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
-      "CommonWealthRobotics/DeviceProviders",
-      "1581108768073"
-    ],
     "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git": [
       "GIST: adding a kotlin file\n",
       "1582300644883"
@@ -62,12 +62,7 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://github.com/Octogonapus/CAD_ISP.git:HephaestusWorkCell_copy.xml": [
-      "https://github.com/Octogonapus/CAD_ISP.git",
-      "HephaestusWorkCell_copy.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.0.6",
