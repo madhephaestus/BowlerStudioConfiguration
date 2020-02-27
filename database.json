@@ -32,6 +32,10 @@
       "GIST: triangles",
       "1582236060211"
     ],
+    "https://github.com/madhephaestus/HephaestusArm2.git": [
+      "madhephaestus/HephaestusArm2",
+      "1582836607247"
+    ],
     "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git": [
       "madhephaestus/brushlessBoltOnShaftCadGenerator",
       "1581531469839"
@@ -43,10 +47,6 @@
     "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git": [
       "GIST: adding a kotlin file\n",
       "1582300644883"
-    ],
-    "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
-      "madhephaestus/brushlessMotorShaftCadGenerator",
-      "1581110341159"
     ],
     "https://github.com/madhephaestus/Kronenberg.git": [
       "madhephaestus/Kronenberg",
