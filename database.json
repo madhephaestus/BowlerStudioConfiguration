@@ -36,9 +36,9 @@
       "madhephaestus/HephaestusArm2",
       "1582836607247"
     ],
-    "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git": [
-      "madhephaestus/brushlessBoltOnShaftCadGenerator",
-      "1581531469839"
+    "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
+      "madhephaestus/brushlessMotorCadGenerator",
+      "1582837286302"
     ],
     "https://github.com/madhephaestus/RoundMotorVitamin.git": [
       "madhephaestus/RoundMotorVitamin",
@@ -63,9 +63,21 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/madhephaestus/HephaestusArm2.git:hephaestus.xml": [
+      "https://github.com/madhephaestus/HephaestusArm2.git",
+      "hephaestus.xml"
+    ],
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git:2002/tippingRamp.groovy": [
       "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
       "2002/tippingRamp.groovy"
+    ],
+    "https://github.com/madhephaestus/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/madhephaestus/HephaestusArm2.git",
+      "cadGenHephaestusArm.groovy"
+    ],
+    "https://github.com/madhephaestus/brushlessMotorCadGenerator.git:brushlessMotor.groovy": [
+      "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
+      "brushlessMotor.groovy"
     ]
   },
   "BowlerStudioConfigs": {
