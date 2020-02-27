@@ -24,10 +24,6 @@
       "GIST: CamferedCylinder",
       "1582236023537"
     ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
-      "madhephaestus/heatedThreadedInsertCadGenerator",
-      "1581610760676"
-    ],
     "https://gist.github.com/d451b8d5d805aec22c6dd21f37f6aaf1.git": [
       "GIST: triangles",
       "1582236060211"
@@ -52,6 +48,10 @@
       "madhephaestus/Kronenberg",
       "1582235653715"
     ],
+    "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
+      "madhephaestus/brushlessMotorShaftCadGenerator",
+      "1582837302346"
+    ],
     "https://gist.github.com/d56e9ddbac6bbfb7702cf3d4d53b0527.git": [
       "GIST: RoundedCylinder",
       "1582235944933"
@@ -70,6 +70,10 @@
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git:2002/tippingRamp.groovy": [
       "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
       "2002/tippingRamp.groovy"
+    ],
+    "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git:brushlessMotorShaft.groovy": [
+      "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git",
+      "brushlessMotorShaft.groovy"
     ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
