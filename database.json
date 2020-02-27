@@ -16,6 +16,10 @@
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1582821734993"
     ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
+      "GIST: Sealed Bearing generator",
+      "1582837628818"
+    ],
     "https://github.com/Octogonapus/CAD_ISP.git": [
       "Octogonapus/CAD_ISP",
       "1582575565595"
@@ -35,10 +39,6 @@
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
       "madhephaestus/brushlessMotorCadGenerator",
       "1582837286302"
-    ],
-    "https://github.com/madhephaestus/RoundMotorVitamin.git": [
-      "madhephaestus/RoundMotorVitamin",
-      "1581619173491"
     ],
     "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git": [
       "GIST: adding a kotlin file\n",
@@ -71,9 +71,9 @@
       "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
       "2002/tippingRamp.groovy"
     ],
-    "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git:brushlessMotorShaft.groovy": [
-      "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git",
-      "brushlessMotorShaft.groovy"
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
+      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+      "bearing.groovy"
     ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
