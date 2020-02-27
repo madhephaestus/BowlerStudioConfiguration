@@ -28,6 +28,10 @@
       "GIST: CamferedCylinder",
       "1582236023537"
     ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "madhephaestus/heatedThreadedInsertCadGenerator",
+      "1582837678157"
+    ],
     "https://gist.github.com/d451b8d5d805aec22c6dd21f37f6aaf1.git": [
       "GIST: triangles",
       "1582236060211"
@@ -43,10 +47,6 @@
     "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git": [
       "GIST: adding a kotlin file\n",
       "1582300644883"
-    ],
-    "https://github.com/madhephaestus/Kronenberg.git": [
-      "madhephaestus/Kronenberg",
-      "1582235653715"
     ],
     "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
       "madhephaestus/brushlessMotorShaftCadGenerator",
@@ -71,21 +71,13 @@
       "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
       "2002/tippingRamp.groovy"
     ],
-    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
-      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
-      "bearing.groovy"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
-      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
-      "capScrew.groovy"
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "heatedThreadedInsert.groovy"
     ],
     "https://github.com/madhephaestus/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "cadGenHephaestusArm.groovy"
-    ],
-    "https://github.com/madhephaestus/brushlessMotorCadGenerator.git:brushlessMotor.groovy": [
-      "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
-      "brushlessMotor.groovy"
     ]
   },
   "BowlerStudioConfigs": {
