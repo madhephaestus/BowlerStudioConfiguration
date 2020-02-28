@@ -32,10 +32,6 @@
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1582837678157"
     ],
-    "https://gist.github.com/d451b8d5d805aec22c6dd21f37f6aaf1.git": [
-      "GIST: triangles",
-      "1582236060211"
-    ],
     "https://github.com/madhephaestus/HephaestusArm2.git": [
       "madhephaestus/HephaestusArm2",
       "1582836607247"
@@ -43,6 +39,10 @@
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
       "madhephaestus/brushlessMotorCadGenerator",
       "1582837286302"
+    ],
+    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
+      "GIST: gsonExample.groovy",
+      "1582911294950"
     ],
     "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git": [
       "GIST: adding a kotlin file\n",
@@ -67,9 +67,9 @@
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "hephaestus.xml"
     ],
-    "https://gist.github.com/01de984b2912f73643f7.git:TheCalledScript.groovy": [
-      "https://gist.github.com/01de984b2912f73643f7.git",
-      "TheCalledScript.groovy"
+    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git:gsonExample.groovy": [
+      "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git",
+      "gsonExample.groovy"
     ],
     "https://github.com/madhephaestus/GearGenerator.git:bevelGear.groovy": [
       "https://github.com/madhephaestus/GearGenerator.git",
