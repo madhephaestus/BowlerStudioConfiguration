@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "https://github.com/OperationSmallKat/greycat.git": [
-      "OperationSmallKat/greycat",
-      "1582236389814"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1582301398586"
@@ -19,6 +15,10 @@
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
       "1582837628818"
+    ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
+      "GIST: Servo Horn generator",
+      "1582915855985"
     ],
     "https://github.com/Octogonapus/CAD_ISP.git": [
       "Octogonapus/CAD_ISP",
@@ -74,6 +74,10 @@
     "https://github.com/madhephaestus/GearGenerator.git:bevelGear.groovy": [
       "https://github.com/madhephaestus/GearGenerator.git",
       "bevelGear.groovy"
+    ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
+      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
+      "servoHorn.groovy"
     ]
   },
   "BowlerStudioConfigs": {
