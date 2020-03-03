@@ -63,9 +63,13 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/madhephaestus/HephaestusArm2.git:hephaestus.xml": [
-      "https://github.com/madhephaestus/HephaestusArm2.git",
-      "hephaestus.xml"
+    "https://github.com/Octogonapus/CAD_ISP.git:HephaestusWorkCell_copy.xml": [
+      "https://github.com/Octogonapus/CAD_ISP.git",
+      "HephaestusWorkCell_copy.xml"
+    ],
+    "https://github.com/Octogonapus/CAD_ISP.git:seaLinkGen.groovy": [
+      "https://github.com/Octogonapus/CAD_ISP.git",
+      "seaLinkGen.groovy"
     ]
   },
   "BowlerStudioConfigs": {
