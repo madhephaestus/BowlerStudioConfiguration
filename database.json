@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "https://github.com/madhephaestus/Hardware-Dimensions.git": [
-      "madhephaestus/Hardware-Dimensions",
-      "1583330210049"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1582301398586"
@@ -32,10 +28,6 @@
       "GIST: TheCalledScript.groovy",
       "1582840916200"
     ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git": [
-      "madhephaestus/VexVitaminScripts",
-      "1583250633511"
-    ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1582837678157"
@@ -52,6 +44,10 @@
       "GIST: gsonExample.groovy",
       "1582911294950"
     ],
+    "https://gist.github.com/23fa2a0ffb4b61bf8c70ff8335972e3e.git": [
+      "GIST: adding a kotlin file\n",
+      "1582300644883"
+    ],
     "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
       "madhephaestus/brushlessMotorShaftCadGenerator",
       "1582837302346"
@@ -59,13 +55,25 @@
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
       "1582840777252"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1582237674228"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git:brushlessMotorShaft.groovy": [
-      "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git",
-      "brushlessMotorShaft.groovy"
+    "https://github.com/madhephaestus/HephaestusArm2.git:hephaestus.xml": [
+      "https://github.com/madhephaestus/HephaestusArm2.git",
+      "hephaestus.xml"
+    ],
+    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git:gsonExample.groovy": [
+      "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git",
+      "gsonExample.groovy"
+    ],
+    "https://github.com/madhephaestus/GearGenerator.git:bevelGear.groovy": [
+      "https://github.com/madhephaestus/GearGenerator.git",
+      "bevelGear.groovy"
     ]
   },
   "BowlerStudioConfigs": {
