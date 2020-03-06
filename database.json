@@ -70,10 +70,6 @@
     "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git:gsonExample.groovy": [
       "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git",
       "gsonExample.groovy"
-    ],
-    "https://github.com/madhephaestus/GearGenerator.git:bevelGear.groovy": [
-      "https://github.com/madhephaestus/GearGenerator.git",
-      "bevelGear.groovy"
     ]
   },
   "BowlerStudioConfigs": {
