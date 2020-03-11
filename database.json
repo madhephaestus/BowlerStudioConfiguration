@@ -66,6 +66,10 @@
     "https://github.com/madhephaestus/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "hephaestus.xml"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:loadRobot.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "loadRobot.groovy"
     ]
   },
   "BowlerStudioConfigs": {
