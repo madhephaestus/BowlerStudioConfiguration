@@ -32,6 +32,10 @@
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1582837678157"
     ],
+    "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git": [
+      "CommonWealthRobotics/BowlerStudioExampleRobots",
+      "1585706921789"
+    ],
     "https://github.com/madhephaestus/HephaestusArm2.git": [
       "madhephaestus/HephaestusArm2",
       "1582836607247"
@@ -55,10 +59,6 @@
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
       "1582840777252"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "OperationSmallKat/SmallKat_V2",
-      "1582237674228"
     ]
   },
   "studio-open-web": {},
@@ -66,6 +66,10 @@
     "https://github.com/madhephaestus/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "hephaestus.xml"
+    ],
+    "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git:exampleRobots.json": [
+      "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git",
+      "exampleRobots.json"
     ]
   },
   "BowlerStudioConfigs": {
