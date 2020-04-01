@@ -4,10 +4,6 @@
       "OperationSmallKat/greycat",
       "1585706941890"
     ],
-    "https://gist.github.com/4814b39ee72e9f590757.git": [
-      "GIST: JavaCadExample",
-      "1582301398586"
-    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1582837287422"
@@ -59,6 +55,10 @@
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
       "1582840777252"
+    ],
+    "https://github.com/madhephaestus/MediumKat_copy.git": [
+      "madhephaestus/MediumKat_copy",
+      "1585770014100"
     ]
   },
   "studio-open-web": {},
