@@ -20,6 +20,10 @@
       "GIST: Servo Horn generator",
       "1582915855985"
     ],
+    "https://github.com/agupta231/Modified-Montana.git": [
+      "agupta231/Modified-Montana",
+      "1586293882271"
+    ],
     "https://gist.github.com/01de984b2912f73643f7.git": [
       "GIST: TheCalledScript.groovy",
       "1582840916200"
@@ -31,10 +35,6 @@
     "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git": [
       "CommonWealthRobotics/BowlerStudioExampleRobots",
       "1585706921789"
-    ],
-    "https://github.com/madhephaestus/HephaestusArm2.git": [
-      "madhephaestus/HephaestusArm2",
-      "1582836607247"
     ],
     "https://github.com/madhephaestus/brushlessMotorCadGenerator.git": [
       "madhephaestus/brushlessMotorCadGenerator",
