@@ -67,6 +67,10 @@
       "https://github.com/madhephaestus/HephaestusArm2.git",
       "hephaestus.xml"
     ],
+    "https://gist.github.com/489b5cdd5efd380316927904974097ae.git:serialTest.groovy": [
+      "https://gist.github.com/489b5cdd5efd380316927904974097ae.git",
+      "serialTest.groovy"
+    ],
     "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git:slice.groovy": [
       "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git",
       "slice.groovy"
