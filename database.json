@@ -8,10 +8,6 @@
       "GIST: Cap screw generator",
       "1582837287422"
     ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
-      "WPIRoboticsEngineering/RBELabCustomParts",
-      "1582821734993"
-    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
       "1582837628818"
@@ -47,6 +43,10 @@
     "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
       "GIST: gsonExample.groovy",
       "1582911294950"
+    ],
+    "https://gist.github.com/489b5cdd5efd380316927904974097ae.git": [
+      "GIST: serialTest.groovy",
+      "1586289465498"
     ],
     "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
       "madhephaestus/brushlessMotorShaftCadGenerator",
