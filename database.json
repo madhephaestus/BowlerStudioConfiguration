@@ -74,6 +74,10 @@
     "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git:slice.groovy": [
       "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git",
       "slice.groovy"
+    ],
+    "https://github.com/agupta231/Modified-Montana.git:new.groovy": [
+      "https://github.com/agupta231/Modified-Montana.git",
+      "new.groovy"
     ]
   },
   "BowlerStudioConfigs": {
