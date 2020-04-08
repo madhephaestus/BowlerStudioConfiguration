@@ -74,6 +74,10 @@
     "https://github.com/agupta231/Modified-Montana.git:new.groovy": [
       "https://github.com/agupta231/Modified-Montana.git",
       "new.groovy"
+    ],
+    "https://gist.github.com/bca12f6f75981559f8473feee7217f41.git:ExtrudeSlicePolygon.groovy": [
+      "https://gist.github.com/bca12f6f75981559f8473feee7217f41.git",
+      "ExtrudeSlicePolygon.groovy"
     ]
   },
   "BowlerStudioConfigs": {
