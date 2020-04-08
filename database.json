@@ -4,10 +4,6 @@
       "OperationSmallKat/greycat",
       "1585706941890"
     ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "GIST: Cap screw generator",
-      "1582837287422"
-    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
       "1582837628818"
@@ -39,6 +35,10 @@
     "https://github.com/madhephaestus/HephaestusArm2.git": [
       "madhephaestus/HephaestusArm2",
       "1586295153573"
+    ],
+    "https://gist.github.com/bca12f6f75981559f8473feee7217f41.git": [
+      "GIST: Extruding slices and polygons",
+      "1586357861858"
     ],
     "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
       "GIST: gsonExample.groovy",
