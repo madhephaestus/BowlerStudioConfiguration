@@ -66,14 +66,6 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
-    ],
-    "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git:slice.groovy": [
-      "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git",
-      "slice.groovy"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/MediumCad.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/MediumCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
