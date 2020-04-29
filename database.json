@@ -48,10 +48,6 @@
       "Octogonapus/greycat",
       "1587678251052"
     ],
-    "https://github.com/madhephaestus/GearGenerator.git": [
-      "madhephaestus/GearGenerator",
-      "1582840777252"
-    ],
     "https://github.com/madhephaestus/MediumKat_copy.git": [
       "madhephaestus/MediumKat_copy",
       "1585770014100"
@@ -59,6 +55,10 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1588187789141"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1588189080561"
     ]
   },
   "studio-open-web": {},
@@ -67,13 +67,13 @@
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
     ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
-      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
-      "servo.groovy"
-    ],
     "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git:slice.groovy": [
       "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git",
       "slice.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/MediumCad.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/MediumCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
