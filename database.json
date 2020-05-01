@@ -28,9 +28,9 @@
       "GIST: Extruding slices and polygons",
       "1586357861858"
     ],
-    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
-      "GIST: gsonExample.groovy",
-      "1582911294950"
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
+      "OperationSmallKat/SmallKatLinkLoader",
+      "1588343808785"
     ],
     "https://gist.github.com/489b5cdd5efd380316927904974097ae.git": [
       "GIST: serialTest.groovy",
@@ -67,9 +67,17 @@
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
     ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git:loadAll.class": [
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:load.groovy": [
+      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
+      "load.groovy"
+    ],
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git:devices.json": [
       "https://github.com/CommonWealthRobotics/DeviceProviders.git",
-      "loadAll.class"
+      "devices.json"
+    ],
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git:loadAll.groovy": [
+      "https://github.com/CommonWealthRobotics/DeviceProviders.git",
+      "loadAll.groovy"
     ]
   },
   "BowlerStudioConfigs": {
