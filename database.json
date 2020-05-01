@@ -16,10 +16,6 @@
       "agupta231/Modified-Montana",
       "1586293882271"
     ],
-    "https://gist.github.com/01de984b2912f73643f7.git": [
-      "GIST: TheCalledScript.groovy",
-      "1582840916200"
-    ],
     "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git": [
       "CommonWealthRobotics/BowlerStudioExampleRobots",
       "1585706921789"
@@ -44,6 +40,10 @@
       "GIST: servo.groovy",
       "1588187789941"
     ],
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
+      "CommonWealthRobotics/DeviceProviders",
+      "1588343750987"
+    ],
     "https://github.com/Octogonapus/greycat.git": [
       "Octogonapus/greycat",
       "1587678251052"
@@ -66,6 +66,10 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
+    ],
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git:loadAll.class": [
+      "https://github.com/CommonWealthRobotics/DeviceProviders.git",
+      "loadAll.class"
     ]
   },
   "BowlerStudioConfigs": {
