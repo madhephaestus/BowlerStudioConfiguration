@@ -4,10 +4,6 @@
       "GIST: JavaCadExample",
       "1588358629670"
     ],
-    "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git": [
-      "GIST: slice",
-      "1586206629975"
-    ],
     "https://github.com/OperationSmallKat/HIDSmallKat.git": [
       "OperationSmallKat/HIDSmallKat",
       "1588353130235"
@@ -59,21 +55,21 @@
     "https://gist.github.com/21f739b0d9fb10e81af9.git": [
       "GIST: cartWalker copy of humanoid",
       "1588535358147"
+    ],
+    "https://gist.github.com/94f0320d5b933a8c4f1d.git": [
+      "GIST: clojureDemo.clj",
+      "1588539050379"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
-      "https://gist.github.com/d4312a0787456ec27a2a.git",
-      "helloWorld.groovy"
-    ],
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
-    ],
     "https://gist.github.com/21f739b0d9fb10e81af9.git:cartWalker.xml": [
       "https://gist.github.com/21f739b0d9fb10e81af9.git",
       "cartWalker.xml"
+    ],
+    "https://gist.github.com/94f0320d5b933a8c4f1d.git:clojureDemo.clj": [
+      "https://gist.github.com/94f0320d5b933a8c4f1d.git",
+      "clojureDemo.clj"
     ]
   },
   "BowlerStudioConfigs": {
