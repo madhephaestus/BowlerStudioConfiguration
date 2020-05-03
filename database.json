@@ -48,10 +48,6 @@
       "Octogonapus/greycat",
       "1587678251052"
     ],
-    "https://github.com/madhephaestus/MediumKat_copy.git": [
-      "madhephaestus/MediumKat_copy",
-      "1585770014100"
-    ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1588187789141"
@@ -59,6 +55,10 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1588189080561"
+    ],
+    "https://gist.github.com/21f739b0d9fb10e81af9.git": [
+      "GIST: cartWalker copy of humanoid",
+      "1588535358147"
     ]
   },
   "studio-open-web": {},
@@ -70,6 +70,10 @@
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
+    ],
+    "https://gist.github.com/21f739b0d9fb10e81af9.git:cartWalker.xml": [
+      "https://gist.github.com/21f739b0d9fb10e81af9.git",
+      "cartWalker.xml"
     ]
   },
   "BowlerStudioConfigs": {
