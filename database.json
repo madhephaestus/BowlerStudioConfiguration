@@ -8,10 +8,6 @@
       "OperationSmallKat/HIDSmallKat",
       "1588353130235"
     ],
-    "https://github.com/agupta231/Modified-Montana.git": [
-      "agupta231/Modified-Montana",
-      "1586293882271"
-    ],
     "https://github.com/madhephaestus/HephaestusArm2.git": [
       "madhephaestus/HephaestusArm2",
       "1586295153573"
@@ -59,10 +55,18 @@
     "https://github.com/NeuronRobotics/NASACurisoity.git": [
       "NeuronRobotics/NASACurisoity",
       "1588541870838"
+    ],
+    "https://gist.github.com/923d8296cab78c790206.git": [
+      "GIST: A Cad generator for wheels attached to D-H chains. ",
+      "1588781465263"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/923d8296cab78c790206.git:WheelCad.groovy": [
+      "https://gist.github.com/923d8296cab78c790206.git",
+      "WheelCad.groovy"
+    ],
     "https://github.com/NeuronRobotics/NASACurisoity.git:NASA_Curiosity.xml": [
       "https://github.com/NeuronRobotics/NASACurisoity.git",
       "NASA_Curiosity.xml"
