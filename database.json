@@ -63,6 +63,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/923d8296cab78c790206.git:WheelCad.groovy": [
+      "https://gist.github.com/923d8296cab78c790206.git",
+      "WheelCad.groovy"
+    ],
     "https://github.com/NeuronRobotics/NASACurisoity.git:NASA_Curiosity.xml": [
       "https://github.com/NeuronRobotics/NASACurisoity.git",
       "NASA_Curiosity.xml"
