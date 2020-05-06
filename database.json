@@ -8,9 +8,9 @@
       "OperationSmallKat/HIDSmallKat",
       "1588353130235"
     ],
-    "https://github.com/madhephaestus/HephaestusArm2.git": [
-      "madhephaestus/HephaestusArm2",
-      "1586295153573"
+    "https://gist.github.com/cd18bfacdbbf246cc145.git": [
+      "GIST: HumanoidWalk.groovy",
+      "1588795205588"
     ],
     "https://gist.github.com/bca12f6f75981559f8473feee7217f41.git": [
       "GIST: Extruding slices and polygons",
@@ -70,6 +70,10 @@
     "https://gist.github.com/21f739b0d9fb10e81af9.git:cartWalker.xml": [
       "https://gist.github.com/21f739b0d9fb10e81af9.git",
       "cartWalker.xml"
+    ],
+    "https://gist.github.com/cd18bfacdbbf246cc145.git:HumanoidWalk.groovy": [
+      "https://gist.github.com/cd18bfacdbbf246cc145.git",
+      "HumanoidWalk.groovy"
     ]
   },
   "BowlerStudioConfigs": {
