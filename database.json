@@ -24,6 +24,10 @@
       "OperationSmallKat/SmallKatLinkLoader",
       "1588343808785"
     ],
+    "https://gist.github.com/76a595d821689e938078ca6c1af9a5f4.git": [
+      "GIST: XLKat_copy copy of XLKat",
+      "1589290275199"
+    ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1588358561284"
@@ -35,10 +39,6 @@
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1588343750987"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1588187789141"
     ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
@@ -63,10 +63,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/madhephaestus/carl-the-hexapod.git:DefaultDhSolver.groovy": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "DefaultDhSolver.groovy"
-    ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git:loadAll.groovy": [
       "https://github.com/CommonWealthRobotics/DeviceProviders.git",
       "loadAll.groovy"
