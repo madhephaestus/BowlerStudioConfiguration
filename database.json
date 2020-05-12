@@ -16,6 +16,10 @@
       "OperationSmallKat/HIDSmallKat",
       "1588353130235"
     ],
+    "https://gist.github.com/47cb1b1054873e1348f6dc1379cad9d8.git": [
+      "GIST: PoseMobileBase.groovy",
+      "1589325780603"
+    ],
     "https://gist.github.com/cd18bfacdbbf246cc145.git": [
       "GIST: HumanoidWalk.groovy",
       "1588795205588"
@@ -31,10 +35,6 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1588358561284"
-    ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
-      "GIST: servo.groovy",
-      "1588187789941"
     ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
@@ -74,6 +74,10 @@
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
+    ],
+    "https://gist.github.com/47cb1b1054873e1348f6dc1379cad9d8.git:PoseMobileBase.groovy": [
+      "https://gist.github.com/47cb1b1054873e1348f6dc1379cad9d8.git",
+      "PoseMobileBase.groovy"
     ]
   },
   "BowlerStudioConfigs": {
