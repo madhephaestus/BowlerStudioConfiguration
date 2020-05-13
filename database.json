@@ -28,6 +28,10 @@
       "OperationSmallKat/SmallKatLinkLoader",
       "1588343808785"
     ],
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
+      "madhephaestus/LewanSoulMotorCadGenerator",
+      "1589391683791"
+    ],
     "https://gist.github.com/76a595d821689e938078ca6c1af9a5f4.git": [
       "GIST: XLKat_copy copy of XLKat",
       "1589290275199"
@@ -39,10 +43,6 @@
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1588343750987"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "OperationSmallKat/SmallKat_V2",
-      "1588189080561"
     ],
     "https://gist.github.com/21f739b0d9fb10e81af9.git": [
       "GIST: cartWalker copy of humanoid",
