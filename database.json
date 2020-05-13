@@ -36,13 +36,13 @@
       "GIST: XLKat_copy copy of XLKat",
       "1589290275199"
     ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
+      "madhephaestus/LewanSoulHornCadGenerator",
+      "1589409454003"
+    ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1588358561284"
-    ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
-      "CommonWealthRobotics/DeviceProviders",
-      "1588343750987"
     ],
     "https://gist.github.com/21f739b0d9fb10e81af9.git": [
       "GIST: cartWalker copy of humanoid",
@@ -70,6 +70,14 @@
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "LewanSoulHorn.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHephaestusArm.groovy"
     ]
   },
   "BowlerStudioConfigs": {
