@@ -67,17 +67,9 @@
       "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
       "LewanSoulMotor.groovy"
     ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git:loadAll.groovy": [
-      "https://github.com/CommonWealthRobotics/DeviceProviders.git",
-      "loadAll.groovy"
-    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
-    ],
-    "https://gist.github.com/47cb1b1054873e1348f6dc1379cad9d8.git:PoseMobileBase.groovy": [
-      "https://gist.github.com/47cb1b1054873e1348f6dc1379cad9d8.git",
-      "PoseMobileBase.groovy"
     ]
   },
   "BowlerStudioConfigs": {
