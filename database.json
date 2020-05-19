@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git": [
-      "madhephaestusdemo/FinalProjectSmallKat",
-      "1589921660514"
-    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1589289840478"
@@ -63,10 +59,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
-      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
-      "launch.groovy"
-    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
