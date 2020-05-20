@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/Hardware-Dimensions.git": [
+      "madhephaestus/Hardware-Dimensions",
+      "1590008764142"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1589289840478"
@@ -59,13 +63,21 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
+      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+      "LewanSoulMotor.groovy"
+    ],
+    "https://github.com/madhephaestus/Hardware-Dimensions.git:json/LewanSoulMotor.json": [
+      "https://github.com/madhephaestus/Hardware-Dimensions.git",
+      "json/LewanSoulMotor.json"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
     ],
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:MediumKat.xml": [
-      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
-      "MediumKat.xml"
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHephaestusArm.groovy"
     ]
   },
   "BowlerStudioConfigs": {
