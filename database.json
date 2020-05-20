@@ -16,10 +16,6 @@
       "GIST: JavaCadExample",
       "1588358629670"
     ],
-    "https://github.com/OperationSmallKat/HIDSmallKat.git": [
-      "OperationSmallKat/HIDSmallKat",
-      "1588353130235"
-    ],
     "https://gist.github.com/47cb1b1054873e1348f6dc1379cad9d8.git": [
       "GIST: PoseMobileBase.groovy",
       "1589325780603"
@@ -44,6 +40,10 @@
       "GIST: BowlerStudio Hello World",
       "1588358561284"
     ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "GIST: servo.groovy",
+      "1590009018093"
+    ],
     "https://gist.github.com/21f739b0d9fb10e81af9.git": [
       "GIST: cartWalker copy of humanoid",
       "1588535358147"
@@ -67,9 +67,17 @@
       "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
       "LewanSoulMotor.groovy"
     ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
+    ],
     "https://github.com/madhephaestus/Hardware-Dimensions.git:json/LewanSoulMotor.json": [
       "https://github.com/madhephaestus/Hardware-Dimensions.git",
       "json/LewanSoulMotor.json"
+    ],
+    "https://github.com/madhephaestus/Hardware-Dimensions.git:json/hobbyServo.json": [
+      "https://github.com/madhephaestus/Hardware-Dimensions.git",
+      "json/hobbyServo.json"
     ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
