@@ -24,6 +24,10 @@
       "GIST: HumanoidWalk.groovy",
       "1588795205588"
     ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "madhephaestus/heatedThreadedInsertCadGenerator",
+      "1590017964292"
+    ],
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
       "madhephaestus/LewanSoulMotorCadGenerator",
       "1589391683791"
@@ -35,10 +39,6 @@
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "madhephaestus/LewanSoulHornCadGenerator",
       "1589409454003"
-    ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1588358561284"
     ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: servo.groovy",
@@ -63,9 +63,21 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
+      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+      "LewanSoulMotor.groovy"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "heatedThreadedInsert.groovy"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "LewanSoulHorn.groovy"
     ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
