@@ -67,9 +67,9 @@
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
     ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2-firmware.git:HephaestusArm2_firmware.ino": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2-firmware.git",
-      "HephaestusArm2_firmware.ino"
+    "https://gist.github.com/6c25be397b10c1201660e8282acd0222.git:testGripper.groovy": [
+      "https://gist.github.com/6c25be397b10c1201660e8282acd0222.git",
+      "testGripper.groovy"
     ]
   },
   "BowlerStudioConfigs": {
