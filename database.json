@@ -12,6 +12,10 @@
       "Hephaestus-Arm/HephaestusArm2",
       "1589230644181"
     ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2-firmware.git": [
+      "Hephaestus-Arm/HephaestusArm2-firmware",
+      "1590343350454"
+    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1590017965104"
@@ -44,10 +48,6 @@
       "GIST: servo.groovy",
       "1590009018093"
     ],
-    "https://gist.github.com/21f739b0d9fb10e81af9.git": [
-      "GIST: cartWalker copy of humanoid",
-      "1588535358147"
-    ],
     "https://gist.github.com/94f0320d5b933a8c4f1d.git": [
       "GIST: clojureDemo.clj",
       "1588539050379"
@@ -66,6 +66,10 @@
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2-firmware.git:HephaestusArm2_firmware.ino": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2-firmware.git",
+      "HephaestusArm2_firmware.ino"
     ]
   },
   "BowlerStudioConfigs": {
