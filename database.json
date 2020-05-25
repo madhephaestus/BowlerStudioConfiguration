@@ -48,9 +48,9 @@
       "GIST: servo.groovy",
       "1590009018093"
     ],
-    "https://github.com/NeuronRobotics/NASACurisoity.git": [
-      "NeuronRobotics/NASACurisoity",
-      "1588541870838"
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1590431034698"
     ],
     "https://gist.github.com/923d8296cab78c790206.git": [
       "GIST: A Cad generator for wheels attached to D-H chains. ",
@@ -63,6 +63,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
