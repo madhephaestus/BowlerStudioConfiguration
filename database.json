@@ -74,6 +74,10 @@
     "https://gist.github.com/6c25be397b10c1201660e8282acd0222.git:testGripper.groovy": [
       "https://gist.github.com/6c25be397b10c1201660e8282acd0222.git",
       "testGripper.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHephaestusArm.groovy"
     ]
   },
   "BowlerStudioConfigs": {
