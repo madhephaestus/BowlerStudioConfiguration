@@ -36,6 +36,10 @@
       "madhephaestus/LewanSoulMotorCadGenerator",
       "1589391683791"
     ],
+    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
+      "GIST: Move a limb attached to a MobileBase",
+      "1590609336043"
+    ],
     "https://gist.github.com/76a595d821689e938078ca6c1af9a5f4.git": [
       "GIST: XLKat_copy copy of XLKat",
       "1589290275199"
@@ -52,10 +56,6 @@
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1590431034698"
     ],
-    "https://gist.github.com/923d8296cab78c790206.git": [
-      "GIST: A Cad generator for wheels attached to D-H chains. ",
-      "1588781465263"
-    ],
     "https://gist.github.com/6c25be397b10c1201660e8282acd0222.git": [
       "GIST: testGripper.groovy",
       "1590345773789"
@@ -67,6 +67,10 @@
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
     ],
+    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git:MoveLimb.groovy": [
+      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
+      "MoveLimb.groovy"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
@@ -74,10 +78,6 @@
     "https://gist.github.com/6c25be397b10c1201660e8282acd0222.git:testGripper.groovy": [
       "https://gist.github.com/6c25be397b10c1201660e8282acd0222.git",
       "testGripper.groovy"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "cadGenHephaestusArm.groovy"
     ]
   },
   "BowlerStudioConfigs": {
