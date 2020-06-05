@@ -71,6 +71,10 @@
       "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
       "MoveLimb.groovy"
     ],
+    "https://github.com/madhephaestus/teeNutWithProngsCadGenerator.git:teeNutWithProngs.groovy": [
+      "https://github.com/madhephaestus/teeNutWithProngsCadGenerator.git",
+      "teeNutWithProngs.groovy"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
