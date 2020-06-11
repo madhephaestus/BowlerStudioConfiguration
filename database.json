@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://gist.github.com/2f03c9588113d58e22d23a30e1eaaecc.git": [
+      "GIST: HIDTest.groovy",
+      "1591910244694"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {},
   "BowlerStudioConfigs": {
