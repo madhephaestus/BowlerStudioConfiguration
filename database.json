@@ -3,10 +3,23 @@
     "https://gist.github.com/2f03c9588113d58e22d23a30e1eaaecc.git": [
       "GIST: HIDTest.groovy",
       "1591910244694"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "Hephaestus-Arm/HephaestusArm2",
+      "1591981523519"
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/2f03c9588113d58e22d23a30e1eaaecc.git:HIDTest.groovy": [
+      "https://gist.github.com/2f03c9588113d58e22d23a30e1eaaecc.git",
+      "HIDTest.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHephaestusArm.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.9.4",
