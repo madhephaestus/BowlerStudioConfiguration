@@ -23,6 +23,10 @@
     "https://github.com/wsmarshall/javaCAD.git": [
       "wsmarshall/javaCAD",
       "1593611952723"
+    ],
+    "https://gist.github.com/51a9e0bc4ee095b03979.git": [
+      "GIST: Standard CNC machine",
+      "1595089693948"
     ]
   },
   "studio-open-web": {},
@@ -38,6 +42,10 @@
     "https://github.com/wsmarshall/javaCAD.git:whitePawn.groovy": [
       "https://github.com/wsmarshall/javaCAD.git",
       "whitePawn.groovy"
+    ],
+    "https://gist.github.com/51a9e0bc4ee095b03979.git:CNCMill.groovy": [
+      "https://gist.github.com/51a9e0bc4ee095b03979.git",
+      "CNCMill.groovy"
     ],
     "https://github.com/wsmarshall/javaCAD.git:testChessPiece.groovy": [
       "https://github.com/wsmarshall/javaCAD.git",
