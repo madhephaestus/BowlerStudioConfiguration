@@ -31,6 +31,10 @@
     "https://gist.github.com/51a9e0bc4ee095b03979.git": [
       "GIST: Standard CNC machine",
       "1595089693948"
+    ],
+    "https://gist.github.com/9655185a6b0f3a230158.git": [
+      "GIST: playWavFile.groovy",
+      "1595436152711"
     ]
   },
   "studio-open-web": {},
@@ -38,6 +42,10 @@
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
       "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
       "LewanSoulMotor.groovy"
+    ],
+    "https://gist.github.com/9655185a6b0f3a230158.git:playWavFile.groovy": [
+      "https://gist.github.com/9655185a6b0f3a230158.git",
+      "playWavFile.groovy"
     ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
