@@ -1,65 +1,14 @@
 {
-  "workspace": {
-    "https://github.com/madhephaestus/carl-the-hexapod.git": [
-      "madhephaestus/carl-the-hexapod",
-      "1592514109084"
-    ],
-    "https://gist.github.com/2f03c9588113d58e22d23a30e1eaaecc.git": [
-      "GIST: HIDTest.groovy",
-      "1591910244694"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1591981523519"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1594181580779"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "GIST: Cap screw generator",
-      "1592514047467"
-    ],
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
-      "madhephaestus/LewanSoulMotorCadGenerator",
-      "1595265979859"
-    ],
-    "https://github.com/wsmarshall/javaCAD.git": [
-      "wsmarshall/javaCAD",
-      "1593611952723"
-    ],
-    "https://gist.github.com/51a9e0bc4ee095b03979.git": [
-      "GIST: Standard CNC machine",
-      "1595089693948"
-    ],
-    "https://gist.github.com/9655185a6b0f3a230158.git": [
-      "GIST: playWavFile.groovy",
-      "1595436152711"
-    ],
-    "https://github.com/madhephaestus/BowlerParalellRobot.git": [
-      "madhephaestus/BowlerParalellRobot",
-      "1596034282983"
-    ]
-  },
+  "workspace": {},
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://gist.github.com/9655185a6b0f3a230158.git:playWavFile.groovy": [
-      "https://gist.github.com/9655185a6b0f3a230158.git",
-      "playWavFile.groovy"
-    ],
-    "https://github.com/madhephaestus/BowlerParalellRobot.git:BowlerParalellRobot.xml": [
-      "https://github.com/madhephaestus/BowlerParalellRobot.git",
-      "BowlerParalellRobot.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
-    "firstVersion": "1.9.4",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 12,
     "skinBranch": "1.9.6",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.9.6"
+    "notifiedArduinoDep": true
   }
 }
