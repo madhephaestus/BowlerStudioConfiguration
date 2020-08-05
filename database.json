@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/ParallelArm_copy.git": [
+      "madhephaestus/ParallelArm_copy",
+      "1596656342473"
+    ],
     "https://github.com/madhephaestus/BowlerParalellRobot.git": [
       "madhephaestus/BowlerParalellRobot",
       "1596564047546"
