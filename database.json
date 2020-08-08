@@ -27,10 +27,6 @@
       "https://github.com/madhephaestus/carl-the-hexapod.git",
       "DefaultDhSolver.groovy"
     ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHand.groovy": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "cadGenHand.groovy"
-    ],
     "https://github.com/madhephaestus/BowlerParalellRobot.git:BowlerParalellRobot.xml": [
       "https://github.com/madhephaestus/BowlerParalellRobot.git",
       "BowlerParalellRobot.xml"
