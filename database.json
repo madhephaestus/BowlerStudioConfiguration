@@ -31,9 +31,13 @@
       "https://github.com/madhephaestus/carl-the-hexapod.git",
       "DefaultDhSolver.groovy"
     ],
-    "https://github.com/madhephaestus/BowlerParalellRobot.git:BowlerParalellRobot.xml": [
-      "https://github.com/madhephaestus/BowlerParalellRobot.git",
-      "BowlerParalellRobot.xml"
+    "https://gist.github.com/9013b9f153a4fb79aee84f0e224cab8a.git:armtest.groovy": [
+      "https://gist.github.com/9013b9f153a4fb79aee84f0e224cab8a.git",
+      "armtest.groovy"
+    ],
+    "https://github.com/madhephaestus/6dofServoArm.git:6dofServoArm.xml": [
+      "https://github.com/madhephaestus/6dofServoArm.git",
+      "6dofServoArm.xml"
     ]
   },
   "BowlerStudioConfigs": {
