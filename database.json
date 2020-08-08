@@ -4,6 +4,10 @@
       "madhephaestus/carl-the-hexapod",
       "1596921590541"
     ],
+    "https://github.com/madhephaestus/SeriesElasticActuator.git": [
+      "madhephaestus/SeriesElasticActuator",
+      "1596922244752"
+    ],
     "https://github.com/madhephaestus/ParallelArm_copy.git": [
       "madhephaestus/ParallelArm_copy",
       "1596656342473"
@@ -18,6 +22,10 @@
     "https://github.com/madhephaestus/carl-the-hexapod.git:DefaultDhSolver.groovy": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
       "DefaultDhSolver.groovy"
+    ],
+    "https://github.com/madhephaestus/SeriesElasticActuator.git:seaLinkGen.groovy": [
+      "https://github.com/madhephaestus/SeriesElasticActuator.git",
+      "seaLinkGen.groovy"
     ],
     "https://github.com/madhephaestus/BowlerParalellRobot.git:BowlerParalellRobot.xml": [
       "https://github.com/madhephaestus/BowlerParalellRobot.git",
