@@ -20,6 +20,10 @@
       "madhephaestus/ParallelArm_copy",
       "1596656342473"
     ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1597018968188"
+    ],
     "https://github.com/madhephaestus/6dofServoArm.git": [
       "madhephaestus/6dofServoArm",
       "1596922410906"
@@ -34,6 +38,10 @@
     "https://github.com/madhephaestus/carl-the-hexapod.git:DefaultDhSolver.groovy": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
       "DefaultDhSolver.groovy"
+    ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
     ],
     "https://gist.github.com/9013b9f153a4fb79aee84f0e224cab8a.git:armtest.groovy": [
       "https://gist.github.com/9013b9f153a4fb79aee84f0e224cab8a.git",
