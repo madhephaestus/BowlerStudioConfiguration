@@ -47,6 +47,10 @@
       "https://gist.github.com/9013b9f153a4fb79aee84f0e224cab8a.git",
       "armtest.groovy"
     ],
+    "https://github.com/wsmarshall/javaCAD.git:testChessPiece.groovy": [
+      "https://github.com/wsmarshall/javaCAD.git",
+      "testChessPiece.groovy"
+    ],
     "https://github.com/madhephaestus/6dofServoArm.git:6dofServoArm.xml": [
       "https://github.com/madhephaestus/6dofServoArm.git",
       "6dofServoArm.xml"
