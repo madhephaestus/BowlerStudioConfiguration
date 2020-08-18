@@ -32,6 +32,10 @@
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1597018968188"
     ],
+    "https://gist.github.com/f413de2d60c9fc0c170c2eb316e98f8d.git": [
+      "GIST: modifying animatronics script",
+      "1597770332592"
+    ],
     "https://github.com/madhephaestus/6dofServoArm.git": [
       "madhephaestus/6dofServoArm",
       "1596922410906"
@@ -46,6 +50,10 @@
     "https://gist.github.com/9013b9f153a4fb79aee84f0e224cab8a.git:armtest.groovy": [
       "https://gist.github.com/9013b9f153a4fb79aee84f0e224cab8a.git",
       "armtest.groovy"
+    ],
+    "https://gist.github.com/f413de2d60c9fc0c170c2eb316e98f8d.git:ModifiedAnimatronics.groovy": [
+      "https://gist.github.com/f413de2d60c9fc0c170c2eb316e98f8d.git",
+      "ModifiedAnimatronics.groovy"
     ],
     "https://github.com/wsmarshall/javaCAD.git:testChessPiece.groovy": [
       "https://github.com/wsmarshall/javaCAD.git",
