@@ -55,6 +55,10 @@
       "https://gist.github.com/f413de2d60c9fc0c170c2eb316e98f8d.git",
       "ModifiedAnimatronics.groovy"
     ],
+    "https://github.com/wsmarshall/javaCAD.git:generalTestCode.groovy": [
+      "https://github.com/wsmarshall/javaCAD.git",
+      "generalTestCode.groovy"
+    ],
     "https://github.com/wsmarshall/javaCAD.git:testChessPiece.groovy": [
       "https://github.com/wsmarshall/javaCAD.git",
       "testChessPiece.groovy"
