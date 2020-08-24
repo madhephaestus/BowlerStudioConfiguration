@@ -1,106 +1,13 @@
 {
-  "workspace": {
-    "https://github.com/madhephaestus/carl-the-hexapod.git": [
-      "madhephaestus/carl-the-hexapod",
-      "1596921590541"
-    ],
-    "https://github.com/madhephaestus/Standard6dof_copy.git": [
-      "madhephaestus/Standard6dof_copy",
-      "1597032542527"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1596922262427"
-    ],
-    "https://gist.github.com/9013b9f153a4fb79aee84f0e224cab8a.git": [
-      "GIST: armtest.groovy",
-      "1596924838247"
-    ],
-    "https://github.com/madhephaestus/ParallelArm_copy.git": [
-      "madhephaestus/ParallelArm_copy",
-      "1596656342473"
-    ],
-    "https://github.com/madhephaestus/Luna_Kevin.git": [
-      "madhephaestus/Luna_Kevin",
-      "1598034306375"
-    ],
-    "https://github.com/wsmarshall/Luna_copy.git": [
-      "wsmarshall/Luna_copy",
-      "1598025239854"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1598025508897"
-    ],
-    "https://github.com/madhephaestus/SeriesElasticActuator.git": [
-      "madhephaestus/SeriesElasticActuator",
-      "1596922244752"
-    ],
-    "https://github.com/wsmarshall/javaCAD.git": [
-      "wsmarshall/javaCAD",
-      "1597689444450"
-    ],
-    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
-      "WPIRoboticsEngineering/LabCodeRepoSetup",
-      "1598306804216"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1597018968188"
-    ],
-    "https://gist.github.com/f413de2d60c9fc0c170c2eb316e98f8d.git": [
-      "GIST: modifying animatronics script",
-      "1597770332592"
-    ],
-    "https://github.com/madhephaestus/6dofServoArm.git": [
-      "madhephaestus/6dofServoArm",
-      "1596922410906"
-    ],
-    "https://github.com/madhephaestus/BowlerParalellRobot.git": [
-      "madhephaestus/BowlerParalellRobot",
-      "1596564047546"
-    ]
-  },
+  "workspace": {},
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://github.com/madhephaestus/6dofServoArm.git:DefaultDhSolver.groovy": [
-      "https://github.com/madhephaestus/6dofServoArm.git",
-      "DefaultDhSolver.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git:FrontRightCad.groovy": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "FrontRightCad.groovy"
-    ],
-    "https://github.com/madhephaestus/Luna_Kevin.git:Luna_Kevin.xml": [
-      "https://github.com/madhephaestus/Luna_Kevin.git",
-      "Luna_Kevin.xml"
-    ],
-    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetup/src/main/java/edu/wpi/rbe/LabCodeRepoSetupMain.java": [
-      "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
-      "LabCodeRepoSetup/src/main/java/edu/wpi/rbe/LabCodeRepoSetupMain.java"
-    ],
-    "https://github.com/madhephaestus/Luna_Kevin.git:FrontLeftCad.groovy": [
-      "https://github.com/madhephaestus/Luna_Kevin.git",
-      "FrontLeftCad.groovy"
-    ],
-    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
-      "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
-      "LabCodeRepoSetupMain.groovy"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "cadGenHephaestusArm.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
-    "firstVersion": "1.9.6",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 12,
     "skinBranch": "1.11.0",
-    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true,
-    "currentVersion": "1.11.0"
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git"
   }
 }
