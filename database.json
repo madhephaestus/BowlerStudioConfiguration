@@ -75,9 +75,17 @@
       "https://github.com/madhephaestus/Luna_Kevin.git",
       "Luna_Kevin.xml"
     ],
+    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetup/src/main/java/edu/wpi/rbe/LabCodeRepoSetupMain.java": [
+      "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
+      "LabCodeRepoSetup/src/main/java/edu/wpi/rbe/LabCodeRepoSetupMain.java"
+    ],
     "https://github.com/madhephaestus/Luna_Kevin.git:FrontLeftCad.groovy": [
       "https://github.com/madhephaestus/Luna_Kevin.git",
       "FrontLeftCad.groovy"
+    ],
+    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
+      "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
+      "LabCodeRepoSetupMain.groovy"
     ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
