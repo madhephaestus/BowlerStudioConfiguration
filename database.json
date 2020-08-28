@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "Hephaestus-Arm/HephaestusArm2",
+      "1598573199886"
+    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1598307935988"
@@ -7,9 +11,17 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git:printDHTable.groovy": [
+      "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git",
+      "printDHTable.groovy"
+    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
       "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
       "LabCodeRepoSetupMain.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "hephaestus.xml"
     ]
   },
   "BowlerStudioConfigs": {
