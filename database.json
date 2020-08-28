@@ -12,6 +12,10 @@
       "GIST: Cap screw generator",
       "1598582378111"
     ],
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
+      "madhephaestus/LewanSoulMotorCadGenerator",
+      "1598582379567"
+    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1598307935988"
@@ -30,6 +34,10 @@
     "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git:printDHTable.groovy": [
       "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git",
       "printDHTable.groovy"
+    ],
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
+      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+      "LewanSoulMotor.groovy"
     ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
       "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
