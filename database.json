@@ -35,10 +35,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git:printDHTable.groovy": [
-      "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git",
-      "printDHTable.groovy"
-    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
       "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
       "LabCodeRepoSetupMain.groovy"
