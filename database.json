@@ -43,6 +43,10 @@
       "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
       "LabCodeRepoSetupMain.groovy"
     ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
