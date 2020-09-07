@@ -35,6 +35,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git:jabber.groovy": [
+      "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git",
+      "jabber.groovy"
+    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
       "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
       "LabCodeRepoSetupMain.groovy"
