@@ -28,6 +28,10 @@
       "madhephaestus/LewanSoulHornCadGenerator",
       "1598582376071"
     ],
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
+      "WPIRoboticsEngineering/RBELabCustomParts",
+      "1599657517229"
+    ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: servo.groovy",
       "1598582378797"
