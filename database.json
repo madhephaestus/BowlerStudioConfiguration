@@ -51,9 +51,17 @@
       "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git",
       "jabber.groovy"
     ],
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git:2001A20Field.groovy": [
+      "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
+      "2001A20Field.groovy"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHephaestusArm.groovy"
     ]
   },
   "BowlerStudioConfigs": {
