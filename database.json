@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/teeNutWithProngsCadGenerator.git": [
+      "madhephaestus/teeNutWithProngsCadGenerator",
+      "1602002164362"
+    ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1598582377323"
@@ -51,13 +55,33 @@
       "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git",
       "jabber.groovy"
     ],
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
+      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+      "LewanSoulMotor.groovy"
+    ],
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git:2001A20Field.groovy": [
       "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
       "2001A20Field.groovy"
     ],
+    "https://github.com/madhephaestus/teeNutWithProngsCadGenerator.git:teeNutWithProngs.groovy": [
+      "https://github.com/madhephaestus/teeNutWithProngsCadGenerator.git",
+      "teeNutWithProngs.groovy"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "heatedThreadedInsert.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "LewanSoulHorn.groovy"
     ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
