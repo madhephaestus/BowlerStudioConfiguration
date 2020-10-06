@@ -1,13 +1,5 @@
 {
   "workspace": {
-    "https://github.com/madhephaestus/teeNutWithProngsCadGenerator.git": [
-      "madhephaestus/teeNutWithProngsCadGenerator",
-      "1602002164362"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
-      "madhephaestus/heatedThreadedInsertCadGenerator",
-      "1598582377323"
-    ],
     "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git": [
       "GIST: printDHTable.groovy",
       "1598896235218"
@@ -19,6 +11,30 @@
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1598582378111"
+    ],
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
+      "WPIRoboticsEngineering/RBELabCustomParts",
+      "1599657517229"
+    ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
+      "GIST: Sealed Bearing generator",
+      "1602002164911"
+    ],
+    "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git": [
+      "GIST: jabber.groovy",
+      "1599494660509"
+    ],
+    "https://github.com/WPIRoboticsEngineering/Nametags-BowlerStudio.git": [
+      "WPIRoboticsEngineering/Nametags-BowlerStudio",
+      "1599494699106"
+    ],
+    "https://github.com/madhephaestus/teeNutWithProngsCadGenerator.git": [
+      "madhephaestus/teeNutWithProngsCadGenerator",
+      "1602002164362"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "madhephaestus/heatedThreadedInsertCadGenerator",
+      "1598582377323"
     ],
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
       "madhephaestus/LewanSoulMotorCadGenerator",
@@ -32,21 +48,9 @@
       "madhephaestus/LewanSoulHornCadGenerator",
       "1598582376071"
     ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
-      "WPIRoboticsEngineering/RBELabCustomParts",
-      "1599657517229"
-    ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: servo.groovy",
       "1598582378797"
-    ],
-    "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git": [
-      "GIST: jabber.groovy",
-      "1599494660509"
-    ],
-    "https://github.com/WPIRoboticsEngineering/Nametags-BowlerStudio.git": [
-      "WPIRoboticsEngineering/Nametags-BowlerStudio",
-      "1599494699106"
     ]
   },
   "studio-open-web": {},
@@ -62,6 +66,10 @@
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git:2001A20Field.groovy": [
       "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
       "2001A20Field.groovy"
+    ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
+      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+      "bearing.groovy"
     ],
     "https://github.com/madhephaestus/teeNutWithProngsCadGenerator.git:teeNutWithProngs.groovy": [
       "https://github.com/madhephaestus/teeNutWithProngsCadGenerator.git",
