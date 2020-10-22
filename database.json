@@ -51,6 +51,10 @@
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: servo.groovy",
       "1598582378797"
+    ],
+    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
+      "WPIRoboticsEngineering/HortonsLinkages",
+      "1603379571132"
     ]
   },
   "studio-open-web": {},
