@@ -20,6 +20,10 @@
       "GIST: Sealed Bearing generator",
       "1602002164911"
     ],
+    "https://gist.github.com/2b0cff20ccee085c9c36.git": [
+      "GIST: Trobot Arm",
+      "1603472026401"
+    ],
     "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git": [
       "GIST: jabber.groovy",
       "1599494660509"
@@ -62,6 +66,10 @@
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git:hortonsLinkages.groovy": [
       "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git",
       "hortonsLinkages.groovy"
+    ],
+    "https://gist.github.com/2b0cff20ccee085c9c36.git:TrobotLinks.xml": [
+      "https://gist.github.com/2b0cff20ccee085c9c36.git",
+      "TrobotLinks.xml"
     ]
   },
   "BowlerStudioConfigs": {
