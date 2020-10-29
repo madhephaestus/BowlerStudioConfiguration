@@ -66,6 +66,10 @@
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git:hortonsLinkages.groovy": [
       "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git",
       "hortonsLinkages.groovy"
+    ],
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git:WheelModule.groovy": [
+      "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
+      "WheelModule.groovy"
     ]
   },
   "BowlerStudioConfigs": {
