@@ -48,13 +48,13 @@
       "madhephaestus/LewanSoulMotorCadGenerator",
       "1598582379567"
     ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "madhephaestus/LewanSoulHornCadGenerator",
-      "1598582376071"
-    ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: servo.groovy",
       "1598582378797"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1605219279035"
     ],
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
       "WPIRoboticsEngineering/HortonsLinkages",
@@ -67,9 +67,17 @@
       "https://github.com/OperationSmallKat/greycat.git",
       "MediumKat.xml"
     ],
+    "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/greycat.git",
+      "launch.groovy"
+    ],
     "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
       "https://gist.github.com/26a571e332833f23754d.git",
       "gameController.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:loadRobot.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "loadRobot.groovy"
     ]
   },
   "BowlerStudioConfigs": {
