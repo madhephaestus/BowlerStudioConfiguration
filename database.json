@@ -8,6 +8,10 @@
       "Hephaestus-Arm/HephaestusArm2",
       "1598573199886"
     ],
+    "https://gist.github.com/26a571e332833f23754d.git": [
+      "GIST: Bowler Studio Game Controllers",
+      "1605218191467"
+    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1598582378111"
@@ -44,10 +48,6 @@
       "madhephaestus/LewanSoulMotorCadGenerator",
       "1598582379567"
     ],
-    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
-      "WPIRoboticsEngineering/LabCodeRepoSetup",
-      "1598307935988"
-    ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "madhephaestus/LewanSoulHornCadGenerator",
       "1598582376071"
@@ -62,7 +62,12 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
+      "https://gist.github.com/26a571e332833f23754d.git",
+      "gameController.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.11.0",
