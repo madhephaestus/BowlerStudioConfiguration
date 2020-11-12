@@ -4,9 +4,9 @@
       "GIST: printDHTable.groovy",
       "1598896235218"
     ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1598573199886"
+    "https://github.com/OperationSmallKat/greycat.git": [
+      "OperationSmallKat/greycat",
+      "1605218623609"
     ],
     "https://gist.github.com/26a571e332833f23754d.git": [
       "GIST: Bowler Studio Game Controllers",
@@ -63,6 +63,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/greycat.git:MediumKat.xml": [
+      "https://github.com/OperationSmallKat/greycat.git",
+      "MediumKat.xml"
+    ],
     "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
       "https://gist.github.com/26a571e332833f23754d.git",
       "gameController.groovy"
