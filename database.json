@@ -40,13 +40,13 @@
       "madhephaestus/teeNutWithProngsCadGenerator",
       "1602002164362"
     ],
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
+      "OperationSmallKat/SmallKatLinkLoader",
+      "1607194387701"
+    ],
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
       "madhephaestus/LewanSoulMotorCadGenerator",
       "1598582379567"
-    ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
-      "GIST: servo.groovy",
-      "1598582378797"
     ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
@@ -63,13 +63,13 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:hidLinkLoader.groovy": [
+      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
+      "hidLinkLoader.groovy"
+    ],
     "https://github.com/OperationSmallKat/Katapult.git:launch.groovy": [
       "https://github.com/OperationSmallKat/Katapult.git",
       "launch.groovy"
-    ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git:loadAll.groovy": [
-      "https://github.com/CommonWealthRobotics/DeviceProviders.git",
-      "loadAll.groovy"
     ],
     "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
       "https://gist.github.com/26a571e332833f23754d.git",
