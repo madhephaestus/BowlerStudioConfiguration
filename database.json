@@ -12,6 +12,10 @@
       "GIST: Bowler Studio Game Controllers",
       "1605218191467"
     ],
+    "https://github.com/OperationSmallKat/Katapult.git": [
+      "OperationSmallKat/Katapult",
+      "1607194010626"
+    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1598582378111"
@@ -40,10 +44,6 @@
       "madhephaestus/teeNutWithProngsCadGenerator",
       "1602002164362"
     ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
-      "madhephaestus/heatedThreadedInsertCadGenerator",
-      "1598582377323"
-    ],
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
       "madhephaestus/LewanSoulMotorCadGenerator",
       "1598582379567"
@@ -65,6 +65,10 @@
   "studio-open-git": {
     "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "launch.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Katapult.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/Katapult.git",
       "launch.groovy"
     ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/MediumCad.groovy": [
