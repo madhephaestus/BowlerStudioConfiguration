@@ -16,6 +16,10 @@
       "OperationSmallKat/Katapult",
       "1607194010626"
     ],
+    "https://gist.github.com/c3944b2a203585d969bf.git": [
+      "GIST: Lets bring together some of the parts.",
+      "1607195207427"
+    ],
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1599657517229"
@@ -44,10 +48,6 @@
       "OperationSmallKat/SmallKatLinkLoader",
       "1607194387701"
     ],
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
-      "madhephaestus/LewanSoulMotorCadGenerator",
-      "1598582379567"
-    ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1607194229265"
@@ -63,10 +63,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:hidLinkLoader.groovy": [
-      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
-      "hidLinkLoader.groovy"
-    ],
     "https://github.com/OperationSmallKat/Katapult.git:launch.groovy": [
       "https://github.com/OperationSmallKat/Katapult.git",
       "launch.groovy"
@@ -75,9 +71,9 @@
       "https://gist.github.com/26a571e332833f23754d.git",
       "gameController.groovy"
     ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:loadRobot.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "loadRobot.groovy"
+    "https://gist.github.com/c3944b2a203585d969bf.git:kinematicsCad.groovy": [
+      "https://gist.github.com/c3944b2a203585d969bf.git",
+      "kinematicsCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
