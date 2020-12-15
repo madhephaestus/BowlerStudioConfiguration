@@ -70,10 +70,6 @@
     "https://github.com/OperationSmallKat/Katapult.git:hid4javaGame.groovy": [
       "https://github.com/OperationSmallKat/Katapult.git",
       "hid4javaGame.groovy"
-    ],
-    "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
-      "https://gist.github.com/26a571e332833f23754d.git",
-      "gameController.groovy"
     ]
   },
   "BowlerStudioConfigs": {
