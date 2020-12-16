@@ -12,6 +12,10 @@
       "OperationSmallKat/Katapult",
       "1607194010626"
     ],
+    "https://gist.github.com/4814b39ee72e9f590757.git": [
+      "GIST: JavaCadExample",
+      "1608139510132"
+    ],
     "https://gist.github.com/c3944b2a203585d969bf.git": [
       "GIST: Lets bring together some of the parts.",
       "1607195207427"
@@ -27,10 +31,6 @@
     "https://gist.github.com/2b0cff20ccee085c9c36.git": [
       "GIST: Trobot Arm",
       "1603472026401"
-    ],
-    "https://github.com/WPIRoboticsEngineering/Nametags-BowlerStudio.git": [
-      "WPIRoboticsEngineering/Nametags-BowlerStudio",
-      "1599494699106"
     ],
     "https://github.com/madhephaestus/teeNutWithProngsCadGenerator.git": [
       "madhephaestus/teeNutWithProngsCadGenerator",
@@ -63,9 +63,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/94f0320d5b933a8c4f1d.git:clojureDemo.clj": [
-      "https://gist.github.com/94f0320d5b933a8c4f1d.git",
-      "clojureDemo.clj"
+    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "javaCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
