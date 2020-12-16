@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "madhephaestus/carl-the-hexapod",
+      "1608140012033"
+    ],
     "https://github.com/OperationSmallKat/greycat.git": [
       "OperationSmallKat/greycat",
       "1605218623609"
@@ -32,10 +36,6 @@
       "GIST: Trobot Arm",
       "1603472026401"
     ],
-    "https://github.com/madhephaestus/teeNutWithProngsCadGenerator.git": [
-      "madhephaestus/teeNutWithProngsCadGenerator",
-      "1602002164362"
-    ],
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
       "1607194387701"
@@ -67,9 +67,9 @@
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
     ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
-      "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
-      "SimulatePhysics.groovy"
+    "https://github.com/madhephaestus/carl-the-hexapod.git:WalkingDriveEngine.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "WalkingDriveEngine.groovy"
     ]
   },
   "BowlerStudioConfigs": {
