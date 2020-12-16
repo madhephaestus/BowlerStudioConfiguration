@@ -20,13 +20,13 @@
       "GIST: Lets bring together some of the parts.",
       "1607195207427"
     ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
-      "WPIRoboticsEngineering/RBELabCustomParts",
-      "1599657517229"
-    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
       "1602002164911"
+    ],
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
+      "GIST: Robot smashes through pile of bricks",
+      "1608139976103"
     ],
     "https://gist.github.com/2b0cff20ccee085c9c36.git": [
       "GIST: Trobot Arm",
@@ -66,6 +66,10 @@
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
+    ],
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
+      "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
+      "SimulatePhysics.groovy"
     ]
   },
   "BowlerStudioConfigs": {
