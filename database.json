@@ -40,6 +40,10 @@
       "OperationSmallKat/SmallKatLinkLoader",
       "1607194387701"
     ],
+    "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
+      "madhephaestus/SVGBowlerExtrude",
+      "1609341057249"
+    ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1607194229265"
@@ -55,10 +59,6 @@
     "https://gist.github.com/94f0320d5b933a8c4f1d.git": [
       "GIST: clojureDemo.clj",
       "1608139433979"
-    ],
-    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
-      "WPIRoboticsEngineering/HortonsLinkages",
-      "1603379571132"
     ]
   },
   "studio-open-web": {},
