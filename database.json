@@ -67,6 +67,10 @@
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
     ],
+    "https://github.com/madhephaestus/SVGBowlerExtrude.git:drawing.svg": [
+      "https://github.com/madhephaestus/SVGBowlerExtrude.git",
+      "drawing.svg"
+    ],
     "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git:SVGExtrude.groovy": [
       "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git",
       "SVGExtrude.groovy"
