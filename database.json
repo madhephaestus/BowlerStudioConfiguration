@@ -4,10 +4,6 @@
       "madhephaestus/carl-the-hexapod",
       "1608140012033"
     ],
-    "https://github.com/OperationSmallKat/greycat.git": [
-      "OperationSmallKat/greycat",
-      "1605218623609"
-    ],
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1607194010626"
@@ -36,6 +32,10 @@
       "madhephaestus/SVGBowlerExtrude",
       "1609341057249"
     ],
+    "https://gist.github.com/d4312a0787456ec27a2a.git": [
+      "GIST: BowlerStudio Hello World",
+      "1609455170253"
+    ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1607194229265"
@@ -63,6 +63,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
+      "https://gist.github.com/d4312a0787456ec27a2a.git",
+      "helloWorld.groovy"
+    ],
     "https://github.com/madhephaestus/SVGBowlerExtrude.git:g54y.SVG": [
       "https://github.com/madhephaestus/SVGBowlerExtrude.git",
       "g54y.SVG"
