@@ -67,6 +67,10 @@
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
     ],
+    "https://gist.github.com/504e40602191ed1e6786e307cd56741d.git:TestGist.groovy": [
+      "https://gist.github.com/504e40602191ed1e6786e307cd56741d.git",
+      "TestGist.groovy"
+    ],
     "https://github.com/madhephaestus/SVGBowlerExtrude.git:g54y.SVG": [
       "https://github.com/madhephaestus/SVGBowlerExtrude.git",
       "g54y.SVG"
