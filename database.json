@@ -4,6 +4,10 @@
       "madhephaestus/carl-the-hexapod",
       "1608140012033"
     ],
+    "https://github.com/madhephaestus/LaputaRobotHead.git": [
+      "madhephaestus/LaputaRobotHead",
+      "1609519901624"
+    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1608139510132"
@@ -39,10 +43,6 @@
     "https://gist.github.com/504e40602191ed1e6786e307cd56741d.git": [
       "GIST: Tasting the eclipse loading",
       "1609457593070"
-    ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
-      "CommonWealthRobotics/DeviceProviders",
-      "1607194229265"
     ],
     "https://gist.github.com/5931b62a4f02216136583ec67dd993ff.git": [
       "GIST: BNO055 Visualizer",
