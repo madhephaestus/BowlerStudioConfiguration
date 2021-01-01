@@ -75,6 +75,10 @@
       "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git",
       "jabber.groovy"
     ],
+    "https://gist.github.com/504e40602191ed1e6786e307cd56741d.git:testsvg.SVG": [
+      "https://gist.github.com/504e40602191ed1e6786e307cd56741d.git",
+      "testsvg.SVG"
+    ],
     "https://github.com/madhephaestus/SVGBowlerExtrude.git:g54y.SVG": [
       "https://github.com/madhephaestus/SVGBowlerExtrude.git",
       "g54y.SVG"
