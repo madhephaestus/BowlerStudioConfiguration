@@ -4,10 +4,6 @@
       "madhephaestus/carl-the-hexapod",
       "1608140012033"
     ],
-    "https://github.com/OperationSmallKat/Katapult.git": [
-      "OperationSmallKat/Katapult",
-      "1607194010626"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1608139510132"
@@ -19,6 +15,10 @@
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "GIST: Robot smashes through pile of bricks",
       "1608139976103"
+    ],
+    "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git": [
+      "GIST: jabber.groovy",
+      "1609470109739"
     ],
     "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git": [
       "GIST: SVG loading example",
@@ -70,6 +70,10 @@
     "https://gist.github.com/504e40602191ed1e6786e307cd56741d.git:TestGist.groovy": [
       "https://gist.github.com/504e40602191ed1e6786e307cd56741d.git",
       "TestGist.groovy"
+    ],
+    "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git:jabber.groovy": [
+      "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git",
+      "jabber.groovy"
     ],
     "https://github.com/madhephaestus/SVGBowlerExtrude.git:g54y.SVG": [
       "https://github.com/madhephaestus/SVGBowlerExtrude.git",
