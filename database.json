@@ -12,10 +12,6 @@
       "GIST: JavaCadExample",
       "1608139510132"
     ],
-    "https://gist.github.com/c3944b2a203585d969bf.git": [
-      "GIST: Lets bring together some of the parts.",
-      "1607195207427"
-    ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "GIST: Robot smashes through pile of bricks",
       "1608139976103"
@@ -48,6 +44,10 @@
       "GIST: BNO055 Visualizer",
       "1608056014174"
     ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "GIST: servo.groovy",
+      "1609635460469"
+    ],
     "https://github.com/Technocopia/Graphics.git": [
       "Technocopia/Graphics",
       "1609440469968"
@@ -66,6 +66,10 @@
     "https://gist.github.com/488e0ee249a5c16ae4d8.git:moutScrewKeepaway.groovy": [
       "https://gist.github.com/488e0ee249a5c16ae4d8.git",
       "moutScrewKeepaway.groovy"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
     ],
     "https://github.com/madhephaestus/carl-the-hexapod.git:ThreeDPrintCad.groovy": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
