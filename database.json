@@ -24,6 +24,10 @@
       "GIST: jabber.groovy",
       "1609470109739"
     ],
+    "https://github.com/acamilo/SVGExtrude_acamilo.git": [
+      "acamilo/SVGExtrude_acamilo",
+      "1609636776066"
+    ],
     "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git": [
       "GIST: SVG loading example",
       "1609340639698"
@@ -55,10 +59,6 @@
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
       "1609449247437"
-    ],
-    "https://gist.github.com/94f0320d5b933a8c4f1d.git": [
-      "GIST: clojureDemo.clj",
-      "1608139433979"
     ]
   },
   "studio-open-web": {},
