@@ -63,33 +63,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/488e0ee249a5c16ae4d8.git:moutScrewKeepaway.groovy": [
-      "https://gist.github.com/488e0ee249a5c16ae4d8.git",
-      "moutScrewKeepaway.groovy"
-    ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
-      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
-      "servo.groovy"
-    ],
-    "https://github.com/madhephaestus/carl-the-hexapod.git:ThreeDPrintCad.groovy": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "ThreeDPrintCad.groovy"
-    ],
-    "https://github.com/madhephaestus/carl-the-hexapod.git:servoAttachment.groovy": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "servoAttachment.groovy"
-    ],
-    "https://github.com/madhephaestus/carl-the-hexapod.git:WalkingDriveEngine.groovy": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "WalkingDriveEngine.groovy"
-    ],
-    "https://github.com/madhephaestus/carl-the-hexapod.git:LinkedCadEngine.groovy": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "LinkedCadEngine.groovy"
-    ],
-    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
-      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
-      "servoHorn.groovy"
+    "https://github.com/acamilo/SVGExtrude_acamilo.git:SVGExtrude.groovy": [
+      "https://github.com/acamilo/SVGExtrude_acamilo.git",
+      "SVGExtrude.groovy"
     ]
   },
   "BowlerStudioConfigs": {
