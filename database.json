@@ -16,6 +16,10 @@
       "GIST: Robot smashes through pile of bricks",
       "1608139976103"
     ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
+      "GIST: Servo Horn generator",
+      "1609635461008"
+    ],
     "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git": [
       "GIST: jabber.groovy",
       "1609470109739"
@@ -39,10 +43,6 @@
     "https://gist.github.com/504e40602191ed1e6786e307cd56741d.git": [
       "GIST: Tasting the eclipse loading",
       "1609457593070"
-    ],
-    "https://gist.github.com/5931b62a4f02216136583ec67dd993ff.git": [
-      "GIST: BNO055 Visualizer",
-      "1608056014174"
     ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: servo.groovy",
@@ -86,6 +86,10 @@
     "https://github.com/madhephaestus/carl-the-hexapod.git:LinkedCadEngine.groovy": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
       "LinkedCadEngine.groovy"
+    ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
+      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
+      "servoHorn.groovy"
     ]
   },
   "BowlerStudioConfigs": {
