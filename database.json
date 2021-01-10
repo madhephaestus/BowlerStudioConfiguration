@@ -8,10 +8,6 @@
       "madhephaestus/LaputaRobotHead",
       "1609519901624"
     ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
-      "GIST: Robot smashes through pile of bricks",
-      "1608139976103"
-    ],
     "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
       "GIST: Servo Horn generator",
       "1609635461008"
@@ -24,6 +20,10 @@
       "GIST: jabber.groovy",
       "1609470109739"
     ],
+    "https://github.com/esuts/Inkscape-Plugin-Demo.git": [
+      "esuts/Inkscape-Plugin-Demo",
+      "1610308095835"
+    ],
     "https://github.com/acamilo/SVGExtrude_acamilo.git": [
       "acamilo/SVGExtrude_acamilo",
       "1609636776066"
@@ -35,6 +35,10 @@
     "https://gist.github.com/488e0ee249a5c16ae4d8.git": [
       "GIST: a mount screw keepaway zone",
       "1609635459795"
+    ],
+    "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
+      "madhephaestus/SVGBowlerExtrude",
+      "1609341057249"
     ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
