@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "https://github.com/madhephaestus/carl-the-hexapod.git": [
-      "madhephaestus/carl-the-hexapod",
-      "1608140012033"
-    ],
     "https://github.com/madhephaestus/LaputaRobotHead.git": [
       "madhephaestus/LaputaRobotHead",
       "1609519901624"
@@ -59,6 +55,10 @@
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
       "1609449247437"
+    ],
+    "https://github.com/madhephaestus/SmallKatFootTest.git": [
+      "madhephaestus/SmallKatFootTest",
+      "1610410880528"
     ]
   },
   "studio-open-web": {},
