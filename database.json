@@ -75,6 +75,10 @@
       "https://github.com/madhephaestus/SVGBowlerExtrude.git",
       "drawing.svg"
     ],
+    "https://github.com/esuts/Inkscape-Plugin-Demo.git:Inkscape-Plugin-Demo.SVG": [
+      "https://github.com/esuts/Inkscape-Plugin-Demo.git",
+      "Inkscape-Plugin-Demo.SVG"
+    ],
     "https://github.com/madhephaestus/LaputaRobotHead.git:loadHead.groovy": [
       "https://github.com/madhephaestus/LaputaRobotHead.git",
       "loadHead.groovy"
