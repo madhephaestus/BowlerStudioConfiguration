@@ -71,6 +71,14 @@
       "https://github.com/madhephaestus/LaputaRobotHead.git",
       "face.svg"
     ],
+    "https://github.com/xaveagle/blackcat.git:walking.groovy": [
+      "https://github.com/xaveagle/blackcat.git",
+      "walking.groovy"
+    ],
+    "https://github.com/madhephaestus/SmallKatFootTest.git:smallkatfeet.groovy": [
+      "https://github.com/madhephaestus/SmallKatFootTest.git",
+      "smallkatfeet.groovy"
+    ],
     "https://github.com/madhephaestus/SVGBowlerExtrude.git:drawing.svg": [
       "https://github.com/madhephaestus/SVGBowlerExtrude.git",
       "drawing.svg"
