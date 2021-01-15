@@ -24,6 +24,10 @@
       "acamilo/SVGExtrude_acamilo",
       "1609636776066"
     ],
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
+      "OperationSmallKat/SmallKatLinkLoader",
+      "1610729899967"
+    ],
     "https://gist.github.com/488e0ee249a5c16ae4d8.git": [
       "GIST: a mount screw keepaway zone",
       "1609635459795"
@@ -31,10 +35,6 @@
     "https://github.com/OperationSmallKat/Luna.git": [
       "OperationSmallKat/Luna",
       "1610671043987"
-    ],
-    "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
-      "madhephaestus/SVGBowlerExtrude",
-      "1609341057249"
     ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
@@ -63,6 +63,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:hidLinkLoader.groovy": [
+      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
+      "hidLinkLoader.groovy"
+    ],
     "https://github.com/OperationSmallKat/LunaMotherboardFirmware.git:LunaMotherboardFirmware.ino": [
       "https://github.com/OperationSmallKat/LunaMotherboardFirmware.git",
       "LunaMotherboardFirmware.ino"
@@ -91,9 +95,9 @@
       "https://github.com/OperationSmallKat/Luna.git",
       "MediumKat.xml"
     ],
-    "https://github.com/madhephaestus/LaputaRobotHead.git:loadHead.groovy": [
-      "https://github.com/madhephaestus/LaputaRobotHead.git",
-      "loadHead.groovy"
+    "https://github.com/OperationSmallKat/Luna.git:lunacad.groovy": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "lunacad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
