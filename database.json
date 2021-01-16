@@ -40,6 +40,10 @@
       "madhephaestus/SVGBowlerExtrude",
       "1610732438732"
     ],
+    "https://gist.github.com/a7e0b72c571593d1f332d5d958414b98.git": [
+      "GIST: walkingGroupCycleSeperation.groovy",
+      "1610776106178"
+    ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1609455170253"
@@ -52,10 +56,6 @@
       "GIST: servo.groovy",
       "1609635460469"
     ],
-    "https://github.com/madhephaestus/GearGenerator.git": [
-      "madhephaestus/GearGenerator",
-      "1609449247437"
-    ],
     "https://github.com/madhephaestus/SmallKatFootTest.git": [
       "madhephaestus/SmallKatFootTest",
       "1610410880528"
@@ -63,6 +63,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/a7e0b72c571593d1f332d5d958414b98.git:walkingGroupCycleSeperation.groovy": [
+      "https://gist.github.com/a7e0b72c571593d1f332d5d958414b98.git",
+      "walkingGroupCycleSeperation.groovy"
+    ],
     "https://github.com/xaveagle/blackcat.git:walking.groovy": [
       "https://github.com/xaveagle/blackcat.git",
       "walking.groovy"
