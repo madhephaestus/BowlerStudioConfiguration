@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/26a571e332833f23754d.git": [
+      "GIST: Bowler Studio Game Controllers",
+      "1610853430870"
+    ],
     "https://github.com/madhephaestus/LaputaRobotHead.git": [
       "madhephaestus/LaputaRobotHead",
       "1609519901624"
@@ -44,10 +48,6 @@
       "GIST: walkingGroupCycleSeperation.groovy",
       "1610776106178"
     ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1609455170253"
-    ],
     "https://gist.github.com/504e40602191ed1e6786e307cd56741d.git": [
       "GIST: Tasting the eclipse loading",
       "1609457593070"
@@ -63,10 +63,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/a7e0b72c571593d1f332d5d958414b98.git:walkingGroupCycleSeperation.groovy": [
-      "https://gist.github.com/a7e0b72c571593d1f332d5d958414b98.git",
-      "walkingGroupCycleSeperation.groovy"
-    ],
     "https://github.com/xaveagle/blackcat.git:walking.groovy": [
       "https://github.com/xaveagle/blackcat.git",
       "walking.groovy"
@@ -75,9 +71,9 @@
       "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
       "load.groovy"
     ],
-    "https://github.com/OperationSmallKat/Luna.git:MediumKat.xml": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "MediumKat.xml"
+    "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
+      "https://gist.github.com/26a571e332833f23754d.git",
+      "gameController.groovy"
     ]
   },
   "BowlerStudioConfigs": {
