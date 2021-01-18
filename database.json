@@ -71,6 +71,10 @@
       "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
       "load.groovy"
     ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHand.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHand.groovy"
+    ],
     "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
       "https://gist.github.com/26a571e332833f23754d.git",
       "gameController.groovy"
