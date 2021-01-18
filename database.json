@@ -4,6 +4,10 @@
       "GIST: Bowler Studio Game Controllers",
       "1610853430870"
     ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "Hephaestus-Arm/HephaestusArm2",
+      "1610995581399"
+    ],
     "https://github.com/madhephaestus/LaputaRobotHead.git": [
       "madhephaestus/LaputaRobotHead",
       "1609519901624"
@@ -48,10 +52,6 @@
       "GIST: walkingGroupCycleSeperation.groovy",
       "1610776106178"
     ],
-    "https://gist.github.com/504e40602191ed1e6786e307cd56741d.git": [
-      "GIST: Tasting the eclipse loading",
-      "1609457593070"
-    ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: servo.groovy",
       "1609635460469"
@@ -82,9 +82,9 @@
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.19.0",
+    "skinBranch": "1.20.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.19.0",
+    "currentVersion": "1.20.0",
     "notifiedArduinoDep": true
   }
 }
