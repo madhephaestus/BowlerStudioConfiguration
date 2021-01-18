@@ -1,4 +1,19 @@
 {
+  "Gamesir-T4pro_21FD": {
+    "A": "b-mode",
+    "slider": "analog-trig",
+    "B": "a-mode",
+    "Start": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "z": "r-joy-left-right",
+    "Left Thumb": "l-trig-button"
+  },
   "workspace": {
     "https://gist.github.com/26a571e332833f23754d.git": [
       "GIST: Bowler Studio Game Controllers",
