@@ -61,6 +61,21 @@
       "1610410880528"
     ]
   },
+  "DragonRise Inc.   Generic   USB  Joystick  ": {
+    "Base 3": "analog-trig",
+    "Base 4": "start",
+    "Pinkie": "a-mode",
+    "Base": "l-trig-button",
+    "Base 2": "r-trig-button",
+    "Thumb 2": "y-mode",
+    "Trigger": "select",
+    "Top": "x-mode",
+    "Top 2": "b-mode",
+    "x": "r-joy-left-right",
+    "pov-up-down": "l-joy-up-down",
+    "pov-left-right": "l-joy-left-right",
+    "y": "r-joy-up-down"
+  },
   "studio-open-web": {},
   "studio-open-git": {
     "https://github.com/xaveagle/blackcat.git:walking.groovy": [
