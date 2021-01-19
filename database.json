@@ -112,6 +112,10 @@
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
     ],
+    "https://gist.github.com/a7e0b72c571593d1f332d5d958414b98.git:walkingGroupCycleSeperation.groovy": [
+      "https://gist.github.com/a7e0b72c571593d1f332d5d958414b98.git",
+      "walkingGroupCycleSeperation.groovy"
+    ],
     "https://github.com/xaveagle/blackcat.git:walking.groovy": [
       "https://github.com/xaveagle/blackcat.git",
       "walking.groovy"
