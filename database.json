@@ -38,6 +38,10 @@
       "Hephaestus-Arm/HephaestusArm2",
       "1610995581399"
     ],
+    "https://gist.github.com/d78bedd808c1d7d9ab9d09545c77fe02.git": [
+      "GIST: poseAroundAPoint.groovy",
+      "1611086329763"
+    ],
     "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
       "GIST: Servo Horn generator",
       "1609635461008"
@@ -57,10 +61,6 @@
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
       "1610729899967"
-    ],
-    "https://gist.github.com/488e0ee249a5c16ae4d8.git": [
-      "GIST: a mount screw keepaway zone",
-      "1609635459795"
     ],
     "https://github.com/OperationSmallKat/Luna.git": [
       "OperationSmallKat/Luna",
@@ -135,6 +135,10 @@
     "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
       "https://gist.github.com/26a571e332833f23754d.git",
       "gameController.groovy"
+    ],
+    "https://gist.github.com/d78bedd808c1d7d9ab9d09545c77fe02.git:poseAroundAPoint.groovy": [
+      "https://gist.github.com/d78bedd808c1d7d9ab9d09545c77fe02.git",
+      "poseAroundAPoint.groovy"
     ]
   },
   "BowlerStudioConfigs": {
