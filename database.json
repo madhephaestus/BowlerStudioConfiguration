@@ -101,10 +101,10 @@
     "Trigger": "select",
     "Top": "x-mode",
     "Top 2": "b-mode",
-    "x": "r-joy-left-right",
     "pov-up-down": "l-joy-up-down",
     "pov-left-right": "l-joy-left-right",
-    "y": "r-joy-up-down"
+    "y": "r-joy-up-down",
+    "z": "r-joy-left-right"
   },
   "studio-open-web": {},
   "studio-open-git": {
