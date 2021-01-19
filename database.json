@@ -50,10 +50,6 @@
       "OperationSmallKat/LunaMotherboardFirmware",
       "1610671019651"
     ],
-    "https://gist.github.com/e4b0d8e95d6b3dc83c334a9950753a53.git": [
-      "GIST: jabber.groovy",
-      "1609470109739"
-    ],
     "https://github.com/esuts/Inkscape-Plugin-Demo.git": [
       "esuts/Inkscape-Plugin-Demo",
       "1610308095835"
@@ -89,6 +85,10 @@
     "https://github.com/madhephaestus/SmallKatFootTest.git": [
       "madhephaestus/SmallKatFootTest",
       "1610410880528"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1611080838146"
     ]
   },
   "DragonRise Inc.   Generic   USB  Joystick  ": {
@@ -119,6 +119,10 @@
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHand.groovy": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "cadGenHand.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/MediumCad.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/MediumCad.groovy"
     ],
     "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
       "https://gist.github.com/26a571e332833f23754d.git",
