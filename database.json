@@ -107,6 +107,21 @@
     "z": "r-joy-left-right"
   },
   "studio-open-web": {},
+  "GPD Win 2 X-Box Controller": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "rz": "analog-trig",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "pov-up-down": "start",
+    "pov-left-right": "select",
+    "Left Thumb": "l-trig-button"
+  },
   "studio-open-git": {
     "https://github.com/xaveagle/blackcat.git:walking.groovy": [
       "https://github.com/xaveagle/blackcat.git",
