@@ -124,11 +124,11 @@
   },
   "katapult": {
     "gameControllerNames": [
-      "Dragon",
-      "X-Box",
-      "Game",
       "Play",
-      "Microsoft X-Box 360 pad"
+      "Microsoft X-Box 360 pad",
+      "Game",
+      "X-Box",
+      "Dragon"
     ],
     "linkDeviceName": "midnight",
     "robotName": "Luna",
