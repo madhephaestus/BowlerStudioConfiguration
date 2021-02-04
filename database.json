@@ -132,10 +132,15 @@
     ],
     "linkDeviceName": "kevkat",
     "robotName": "SmallKatGenerated",
-    "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
+    "robotGitFile": "SmallKatGenerated.xml",
+    "robotGit": "https://github.com/madhephaestus/SmallKatGenerated.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestus/SmallKatGenerated.git:SmallKatGenerated.xml": [
+      "https://github.com/madhephaestus/SmallKatGenerated.git",
+      "SmallKatGenerated.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.11.0",
