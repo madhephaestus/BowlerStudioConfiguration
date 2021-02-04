@@ -130,21 +130,12 @@
       "X-Box",
       "Dragon"
     ],
-    "linkDeviceName": "midnight",
-    "robotName": "Luna",
+    "linkDeviceName": "kevkat",
+    "robotName": "SmallKatGenerated",
     "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
+    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
-  "studio-open-git": {
-    "https://github.com/OperationSmallKat/Katapult.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/Katapult.git",
-      "launch.groovy"
-    ],
-    "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
-      "https://gist.github.com/26a571e332833f23754d.git",
-      "gameController.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.11.0",
