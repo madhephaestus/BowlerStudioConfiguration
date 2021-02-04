@@ -50,6 +50,10 @@
       "GIST: Robot smashes through pile of bricks",
       "1611953370274"
     ],
+    "https://github.com/madhephaestus/SmallKatGenerated.git": [
+      "madhephaestus/SmallKatGenerated",
+      "1612471213804"
+    ],
     "https://github.com/OperationSmallKat/LunaMotherboardFirmware.git": [
       "OperationSmallKat/LunaMotherboardFirmware",
       "1610671019651"
@@ -57,10 +61,6 @@
     "https://github.com/esuts/Inkscape-Plugin-Demo.git": [
       "esuts/Inkscape-Plugin-Demo",
       "1610308095835"
-    ],
-    "https://github.com/acamilo/SVGExtrude_acamilo.git": [
-      "acamilo/SVGExtrude_acamilo",
-      "1609636776066"
     ],
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
