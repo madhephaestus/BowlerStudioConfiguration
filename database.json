@@ -140,10 +140,6 @@
     "https://github.com/madhephaestus/SmallKatGenerated.git:SmallKatGenerated.xml": [
       "https://github.com/madhephaestus/SmallKatGenerated.git",
       "SmallKatGenerated.xml"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/DynamicWalkingV2.groovy"
     ]
   },
   "BowlerStudioConfigs": {
