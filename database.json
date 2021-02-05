@@ -127,9 +127,9 @@
       "Play",
       "Microsoft X-Box 360 pad",
       "Game",
+      "gamepad",
       "X-Box",
-      "Dragon",
-      "gamepad"
+      "Dragon"
     ],
     "linkDeviceName": "kevkat",
     "robotName": "SmallKatGenerated",
