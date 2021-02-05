@@ -128,7 +128,8 @@
       "Microsoft X-Box 360 pad",
       "Game",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "gamepad"
     ],
     "linkDeviceName": "kevkat",
     "robotName": "SmallKatGenerated",
@@ -143,6 +144,10 @@
     "https://github.com/madhephaestus/SmallKatGenerated.git:SmallKatGenerated.xml": [
       "https://github.com/madhephaestus/SmallKatGenerated.git",
       "SmallKatGenerated.xml"
+    ],
+    "https://github.com/OperationSmallKat/Katapult.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/Katapult.git",
+      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
