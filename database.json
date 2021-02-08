@@ -137,17 +137,9 @@
     "robotGit": "https://github.com/madhephaestus/SmallKatGenerated.git"
   },
   "studio-open-git": {
-    "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git:printDHTable.groovy": [
-      "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git",
-      "printDHTable.groovy"
-    ],
     "https://github.com/madhephaestus/SmallKatGenerated.git:SmallKatGenerated.xml": [
       "https://github.com/madhephaestus/SmallKatGenerated.git",
       "SmallKatGenerated.xml"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/DynamicWalkingV2.groovy"
     ]
   },
   "BowlerStudioConfigs": {
