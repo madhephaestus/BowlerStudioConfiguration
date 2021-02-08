@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git": [
+      "GIST: printDHTable.groovy",
+      "1612800073611"
+    ],
     "https://gist.github.com/26a571e332833f23754d.git": [
       "GIST: Bowler Studio Game Controllers",
       "1610853430870"
@@ -57,10 +61,6 @@
     "https://github.com/OperationSmallKat/LunaMotherboardFirmware.git": [
       "OperationSmallKat/LunaMotherboardFirmware",
       "1610671019651"
-    ],
-    "https://github.com/esuts/Inkscape-Plugin-Demo.git": [
-      "esuts/Inkscape-Plugin-Demo",
-      "1610308095835"
     ],
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
@@ -137,6 +137,10 @@
     "robotGit": "https://github.com/madhephaestus/SmallKatGenerated.git"
   },
   "studio-open-git": {
+    "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git:printDHTable.groovy": [
+      "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git",
+      "printDHTable.groovy"
+    ],
     "https://github.com/madhephaestus/SmallKatGenerated.git:SmallKatGenerated.xml": [
       "https://github.com/madhephaestus/SmallKatGenerated.git",
       "SmallKatGenerated.xml"
