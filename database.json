@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git": [
+      "madhephaestusdemo/FinalProjectSmallKat",
+      "1612882217031"
+    ],
     "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git": [
       "GIST: printDHTable.groovy",
       "1612800073611"
@@ -77,10 +81,6 @@
     "https://gist.github.com/a7e0b72c571593d1f332d5d958414b98.git": [
       "GIST: walkingGroupCycleSeperation.groovy",
       "1610776106178"
-    ],
-    "https://github.com/madhephaestus/SmallKatFootTest.git": [
-      "madhephaestus/SmallKatFootTest",
-      "1610410880528"
     ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
