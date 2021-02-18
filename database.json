@@ -132,9 +132,9 @@
       "Dragon"
     ],
     "linkDeviceName": "kevkat",
-    "robotName": "SmallKatGenerated",
-    "robotGitFile": "SmallKatGenerated.xml",
-    "robotGit": "https://github.com/madhephaestus/SmallKatGenerated.git"
+    "robotName": "MediumKat",
+    "robotGitFile": "MediumKat.xml",
+    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
   "studio-open-git": {
     "https://github.com/madhephaestus/SmallKatGenerated.git:SmallKatGenerated.xml": [
