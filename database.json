@@ -140,14 +140,6 @@
     "https://github.com/madhephaestus/SmallKatGenerated.git:SmallKatGenerated.xml": [
       "https://github.com/madhephaestus/SmallKatGenerated.git",
       "SmallKatGenerated.xml"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git:MediumKat.xml": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "MediumKat.xml"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/DynamicWalkingV2.groovy"
     ]
   },
   "BowlerStudioConfigs": {
@@ -156,9 +148,9 @@
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.24.0",
+    "skinBranch": "1.23.3",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.24.0",
+    "currentVersion": "1.23.3",
     "notifiedArduinoDep": true
   }
 }
