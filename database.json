@@ -137,6 +137,10 @@
     "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
   "studio-open-git": {
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git:2002/tippingRamp.groovy": [
+      "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
+      "2002/tippingRamp.groovy"
+    ],
     "https://github.com/madhephaestus/SmallKatGenerated.git:SmallKatGenerated.xml": [
       "https://github.com/madhephaestus/SmallKatGenerated.git",
       "SmallKatGenerated.xml"
