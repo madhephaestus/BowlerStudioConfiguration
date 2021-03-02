@@ -153,10 +153,6 @@
       "https://github.com/madhephaestus/BevelGearWristModule.git",
       "Wrist.groovy"
     ],
-    "none:/home/hephaestus/bin/katapult.sh": [
-      "none",
-      "/home/hephaestus/bin/katapult.sh"
-    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "Bowler/DynamicWalkingV2.groovy"
@@ -168,9 +164,9 @@
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.25.2",
+    "skinBranch": "1.25.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.25.2",
+    "currentVersion": "1.25.1",
     "notifiedArduinoDep": true
   }
 }
