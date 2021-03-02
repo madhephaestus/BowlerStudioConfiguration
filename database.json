@@ -38,6 +38,10 @@
       "GIST: printDHTable.groovy",
       "1612800073611"
     ],
+    "https://github.com/madhephaestus/BevelGearWristModule.git": [
+      "madhephaestus/BevelGearWristModule",
+      "1614646986685"
+    ],
     "https://gist.github.com/26a571e332833f23754d.git": [
       "GIST: Bowler Studio Game Controllers",
       "1610853430870"
@@ -69,10 +73,6 @@
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
       "1610729899967"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1610671043987"
     ],
     "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
       "madhephaestus/SVGBowlerExtrude",
@@ -148,6 +148,10 @@
     "https://github.com/madhephaestus/SmallKatGenerated.git:SmallKatGenerated.xml": [
       "https://github.com/madhephaestus/SmallKatGenerated.git",
       "SmallKatGenerated.xml"
+    ],
+    "https://github.com/madhephaestus/BevelGearWristModule.git:Wrist.groovy": [
+      "https://github.com/madhephaestus/BevelGearWristModule.git",
+      "Wrist.groovy"
     ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
