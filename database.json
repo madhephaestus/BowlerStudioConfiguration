@@ -153,6 +153,10 @@
       "https://github.com/madhephaestus/BevelGearWristModule.git",
       "Wrist.groovy"
     ],
+    "none:/home/hephaestus/bin/katapult.sh": [
+      "none",
+      "/home/hephaestus/bin/katapult.sh"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "Bowler/DynamicWalkingV2.groovy"
