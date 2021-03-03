@@ -70,9 +70,9 @@
       "madhephaestus/SmallKatGenerated",
       "1612471213804"
     ],
-    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
-      "OperationSmallKat/SmallKatLinkLoader",
-      "1610729899967"
+    "https://gist.github.com/9655185a6b0f3a230158.git": [
+      "GIST: output.wav",
+      "1614786148269"
     ],
     "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
       "madhephaestus/SVGBowlerExtrude",
@@ -149,9 +149,17 @@
       "https://github.com/madhephaestus/SmallKatGenerated.git",
       "SmallKatGenerated.xml"
     ],
+    "https://github.com/madhephaestus/loadallstlstoloft.git:load.groovy": [
+      "https://github.com/madhephaestus/loadallstlstoloft.git",
+      "load.groovy"
+    ],
     "https://github.com/madhephaestus/BevelGearWristModule.git:Wrist.groovy": [
       "https://github.com/madhephaestus/BevelGearWristModule.git",
       "Wrist.groovy"
+    ],
+    "https://gist.github.com/9655185a6b0f3a230158.git:playWavFile.groovy": [
+      "https://gist.github.com/9655185a6b0f3a230158.git",
+      "playWavFile.groovy"
     ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
