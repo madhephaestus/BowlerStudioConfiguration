@@ -42,6 +42,10 @@
       "madhephaestus/BevelGearWristModule",
       "1614646986685"
     ],
+    "https://github.com/OperationSmallKat/greycat.git": [
+      "OperationSmallKat/greycat",
+      "1614877163691"
+    ],
     "https://gist.github.com/26a571e332833f23754d.git": [
       "GIST: Bowler Studio Game Controllers",
       "1610853430870"
@@ -73,10 +77,6 @@
     "https://gist.github.com/9655185a6b0f3a230158.git": [
       "GIST: output.wav",
       "1614786148269"
-    ],
-    "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
-      "madhephaestus/SVGBowlerExtrude",
-      "1610732438732"
     ],
     "https://gist.github.com/a7e0b72c571593d1f332d5d958414b98.git": [
       "GIST: walkingGroupCycleSeperation.groovy",
@@ -137,6 +137,10 @@
     "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/greycat.git:MediumKat.xml": [
+      "https://github.com/OperationSmallKat/greycat.git",
+      "MediumKat.xml"
+    ],
     "https://github.com/madhephaestus/loadallstlstoloft.git:load.groovy": [
       "https://github.com/madhephaestus/loadallstlstoloft.git",
       "load.groovy"
