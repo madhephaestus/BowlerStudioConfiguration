@@ -145,10 +145,6 @@
       "https://github.com/madhephaestus/loadallstlstoloft.git",
       "load.groovy"
     ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/DynamicWalkingV2.groovy"
-    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/MediumCad.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "Bowler/MediumCad.groovy"
