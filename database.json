@@ -136,7 +136,12 @@
     "robotGitFile": "MediumKat.xml",
     "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestus/loadallstlstoloft.git:load.groovy": [
+      "https://github.com/madhephaestus/loadallstlstoloft.git",
+      "load.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.11.0",
