@@ -141,9 +141,13 @@
       "https://github.com/madhephaestus/loadallstlstoloft.git",
       "load.groovy"
     ],
-    "https://github.com/Halloween2020TheChild/Baby-Yoda.git:Hand.groovy": [
+    "https://github.com/Halloween2020TheChild/Baby-Yoda.git:handPlug.groovy": [
       "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
-      "Hand.groovy"
+      "handPlug.groovy"
+    ],
+    "https://gist.github.com/9655185a6b0f3a230158.git:playWavFile.groovy": [
+      "https://gist.github.com/9655185a6b0f3a230158.git",
+      "playWavFile.groovy"
     ]
   },
   "BowlerStudioConfigs": {
