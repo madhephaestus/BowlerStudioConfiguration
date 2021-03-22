@@ -137,13 +137,9 @@
     "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
   "studio-open-git": {
-    "https://github.com/Halloween2020TheChild/Baby-Yoda.git:handPlug.groovy": [
+    "https://github.com/Halloween2020TheChild/Baby-Yoda.git:LeftEar.groovy": [
       "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
-      "handPlug.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/Baby-Yoda.git:Hand.groovy": [
-      "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
-      "Hand.groovy"
+      "LeftEar.groovy"
     ]
   },
   "BowlerStudioConfigs": {
