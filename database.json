@@ -62,6 +62,10 @@
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1614293415211"
     ],
+    "https://github.com/Halloween2020TheChild/MoldMaking.git": [
+      "Halloween2020TheChild/MoldMaking",
+      "1616436983554"
+    ],
     "https://github.com/vermontolympian/Baby-Yoda.git": [
       "vermontolympian/Baby-Yoda",
       "1616010939450"
@@ -85,10 +89,6 @@
     "https://github.com/madhephaestus/loadallstlstoloft.git": [
       "madhephaestus/loadallstlstoloft",
       "1614906140355"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1611080950384"
     ]
   },
   "DragonRise Inc.   Generic   USB  Joystick  ": {
