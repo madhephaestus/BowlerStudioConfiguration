@@ -136,16 +136,7 @@
     "robotGitFile": "MediumKat.xml",
     "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
-  "studio-open-git": {
-    "https://github.com/Halloween2020TheChild/Baby-Yoda.git:LeftEar.groovy": [
-      "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
-      "LeftEar.groovy"
-    ],
-    "https://github.com/madhephaestus/testingthemaking.git:draftline.SVG": [
-      "https://github.com/madhephaestus/testingthemaking.git",
-      "draftline.SVG"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.11.0",
