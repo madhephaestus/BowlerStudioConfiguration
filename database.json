@@ -140,6 +140,10 @@
     "https://github.com/Halloween2020TheChild/Baby-Yoda.git:LeftEar.groovy": [
       "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
       "LeftEar.groovy"
+    ],
+    "https://github.com/madhephaestus/testingthemaking.git:draftline.SVG": [
+      "https://github.com/madhephaestus/testingthemaking.git",
+      "draftline.SVG"
     ]
   },
   "BowlerStudioConfigs": {
