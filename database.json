@@ -137,6 +137,10 @@
     "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
   "studio-open-git": {
+    "https://github.com/Halloween2020TheChild/Baby-Yoda.git:earCoreSlice.svg": [
+      "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
+      "earCoreSlice.svg"
+    ],
     "https://github.com/Halloween2020TheChild/Baby-Yoda.git:LeftEar.groovy": [
       "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
       "LeftEar.groovy"
