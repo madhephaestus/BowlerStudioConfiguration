@@ -50,10 +50,6 @@
       "OperationSmallKat/greycat",
       "1614877163691"
     ],
-    "https://gist.github.com/d78bedd808c1d7d9ab9d09545c77fe02.git": [
-      "GIST: poseAroundAPoint.groovy",
-      "1611086329763"
-    ],
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1611117765359"
@@ -65,6 +61,10 @@
     "https://github.com/Halloween2020TheChild/MoldMaking.git": [
       "Halloween2020TheChild/MoldMaking",
       "1616436983554"
+    ],
+    "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git": [
+      "GIST: slice",
+      "1616508712888"
     ],
     "https://github.com/vermontolympian/Baby-Yoda.git": [
       "vermontolympian/Baby-Yoda",
@@ -136,7 +136,16 @@
     "robotGitFile": "MediumKat.xml",
     "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Halloween2020TheChild/Baby-Yoda.git:LeftEar.groovy": [
+      "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
+      "LeftEar.groovy"
+    ],
+    "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git:slice.groovy": [
+      "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git",
+      "slice.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.11.0",
