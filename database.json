@@ -50,10 +50,6 @@
       "OperationSmallKat/greycat",
       "1614877163691"
     ],
-    "https://github.com/OperationSmallKat/Katapult.git": [
-      "OperationSmallKat/Katapult",
-      "1611117765359"
-    ],
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1614293415211"
@@ -89,6 +85,10 @@
     "https://github.com/madhephaestus/loadallstlstoloft.git": [
       "madhephaestus/loadallstlstoloft",
       "1614906140355"
+    ],
+    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
+      "WPIRoboticsEngineering/LabCodeRepoSetup",
+      "1616778130992"
     ]
   },
   "DragonRise Inc.   Generic   USB  Joystick  ": {
