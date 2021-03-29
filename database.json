@@ -66,10 +66,6 @@
       "vermontolympian/Baby-Yoda",
       "1616010939450"
     ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
-      "GIST: Robot smashes through pile of bricks",
-      "1611953370274"
-    ],
     "https://github.com/madhephaestus/SmallKatGenerated.git": [
       "madhephaestus/SmallKatGenerated",
       "1612471213804"
@@ -77,6 +73,10 @@
     "https://gist.github.com/9655185a6b0f3a230158.git": [
       "GIST: output.wav",
       "1614786148269"
+    ],
+    "https://gist.github.com/27746e6772959e9544689058d321273e.git": [
+      "GIST: Minkowski opperation examples",
+      "1617032629093"
     ],
     "https://github.com/Halloween2020TheChild/FirmwareTheChild.git": [
       "Halloween2020TheChild/FirmwareTheChild",
@@ -137,13 +137,13 @@
     "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
   "studio-open-git": {
-    "https://github.com/Halloween2020TheChild/Baby-Yoda.git:earCoreSlice.svg": [
-      "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
-      "earCoreSlice.svg"
-    ],
     "https://github.com/Halloween2020TheChild/Baby-Yoda.git:LeftEar.groovy": [
       "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
       "LeftEar.groovy"
+    ],
+    "https://gist.github.com/27746e6772959e9544689058d321273e.git:minkowskiAPI.groovy": [
+      "https://gist.github.com/27746e6772959e9544689058d321273e.git",
+      "minkowskiAPI.groovy"
     ],
     "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git:slice.groovy": [
       "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git",
