@@ -141,6 +141,14 @@
       "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
       "LeftEar.groovy"
     ],
+    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
+      "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
+      "LabCodeRepoSetupMain.groovy"
+    ],
+    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetup/teamAssignments2002.json": [
+      "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
+      "LabCodeRepoSetup/teamAssignments2002.json"
+    ],
     "https://gist.github.com/27746e6772959e9544689058d321273e.git:minkowskiAPI.groovy": [
       "https://gist.github.com/27746e6772959e9544689058d321273e.git",
       "minkowskiAPI.groovy"
