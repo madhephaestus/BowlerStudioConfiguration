@@ -38,10 +38,6 @@
       "Halloween2020TheChild/Baby-Yoda",
       "1616082181078"
     ],
-    "https://gist.github.com/1d7ee1bd7b736f753c48939eeac1ea2a.git": [
-      "GIST: printDHTable.groovy",
-      "1612800073611"
-    ],
     "https://github.com/madhephaestus/BevelGearWristModule.git": [
       "madhephaestus/BevelGearWristModule",
       "1614646986685"
@@ -89,6 +85,10 @@
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1616778130992"
+    ],
+    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
+      "WPIRoboticsEngineering/HortonsLinkages",
+      "1617154809044"
     ]
   },
   "DragonRise Inc.   Generic   USB  Joystick  ": {
@@ -137,10 +137,6 @@
     "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
   "studio-open-git": {
-    "https://gist.github.com/1e9e518d62c2e17cdf02489351909bf8.git:JavaFXUIAdversary.groovy": [
-      "https://gist.github.com/1e9e518d62c2e17cdf02489351909bf8.git",
-      "JavaFXUIAdversary.groovy"
-    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
       "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
       "LabCodeRepoSetupMain.groovy"
