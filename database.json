@@ -137,6 +137,10 @@
     "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
   "studio-open-git": {
+    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git:hortonsLinkages.groovy": [
+      "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git",
+      "hortonsLinkages.groovy"
+    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
       "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
       "LabCodeRepoSetupMain.groovy"
