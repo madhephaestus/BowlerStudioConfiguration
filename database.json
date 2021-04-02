@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/readcardstokb.git": [
+      "madhephaestus/readcardstokb",
+      "1617402941614"
+    ],
     "https://github.com/Technocopia/DoorLockCode.git": [
       "Technocopia/DoorLockCode",
       "1617401963612"
@@ -7,6 +11,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/madhephaestus/readcardstokb.git:readcardstokb.ino": [
+      "https://github.com/madhephaestus/readcardstokb.git",
+      "readcardstokb.ino"
+    ],
     "https://github.com/Technocopia/DoorLockCode.git:DoorLockCode.ino": [
       "https://github.com/Technocopia/DoorLockCode.git",
       "DoorLockCode.ino"
