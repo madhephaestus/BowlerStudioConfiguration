@@ -27,6 +27,10 @@
       "https://github.com/madhephaestus/readcardstokb.git",
       "readcardstokb.ino"
     ],
+    "https://github.com/madhephaestus/sutmanaphone.git:sweepit.groovy": [
+      "https://github.com/madhephaestus/sutmanaphone.git",
+      "sweepit.groovy"
+    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:PushOutUpdate.groovy": [
       "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
       "PushOutUpdate.groovy"
