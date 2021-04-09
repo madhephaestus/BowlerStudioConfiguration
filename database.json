@@ -26,6 +26,10 @@
     "https://github.com/madhephaestus/sutmanaphone.git:sweepit.groovy": [
       "https://github.com/madhephaestus/sutmanaphone.git",
       "sweepit.groovy"
+    ],
+    "https://github.com/madhephaestus/sutmanaphone.git:shape.svg.SVG": [
+      "https://github.com/madhephaestus/sutmanaphone.git",
+      "shape.svg.SVG"
     ]
   },
   "BowlerStudioConfigs": {
