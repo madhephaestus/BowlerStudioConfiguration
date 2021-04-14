@@ -30,18 +30,6 @@
     "https://github.com/madhephaestus/6dofServoArm.git:DefaultDhSolver.groovy": [
       "https://github.com/madhephaestus/6dofServoArm.git",
       "DefaultDhSolver.groovy"
-    ],
-    "https://github.com/KinematicsArduino/KinematicChainsArduino.git:examples/Kinematicstest/KinematicsTest.ino": [
-      "https://github.com/KinematicsArduino/KinematicChainsArduino.git",
-      "examples/Kinematicstest/KinematicsTest.ino"
-    ],
-    "https://github.com/madhephaestus/sutmanaphone.git:sweepit.groovy": [
-      "https://github.com/madhephaestus/sutmanaphone.git",
-      "sweepit.groovy"
-    ],
-    "https://github.com/madhephaestus/sutmanaphone.git:shape.svg.SVG": [
-      "https://github.com/madhephaestus/sutmanaphone.git",
-      "shape.svg.SVG"
     ]
   },
   "BowlerStudioConfigs": {
