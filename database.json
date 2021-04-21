@@ -12,6 +12,10 @@
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1617816426606"
     ],
+    "https://gist.github.com/d4312a0787456ec27a2a.git": [
+      "GIST: BowlerStudio Hello World",
+      "1619032160209"
+    ],
     "https://github.com/Technocopia/DoorLockCode.git": [
       "Technocopia/DoorLockCode",
       "1617401963612"
@@ -27,6 +31,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
+      "https://gist.github.com/d4312a0787456ec27a2a.git",
+      "helloWorld.groovy"
+    ],
     "https://github.com/madhephaestus/6dofServoArm.git:DefaultDhSolver.groovy": [
       "https://github.com/madhephaestus/6dofServoArm.git",
       "DefaultDhSolver.groovy"
