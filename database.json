@@ -16,6 +16,10 @@
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1617816426606"
     ],
+    "https://github.com/madhephaestus/basicincomeviatransactiontax.git": [
+      "madhephaestus/basicincomeviatransactiontax",
+      "1619883778341"
+    ],
     "https://github.com/Technocopia/DoorLockCode.git": [
       "Technocopia/DoorLockCode",
       "1617401963612"
@@ -34,6 +38,10 @@
     "https://github.com/Halloween2020TheChild/Baby-Yoda.git:LeftEar.groovy": [
       "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
       "LeftEar.groovy"
+    ],
+    "https://github.com/madhephaestus/basicincomeviatransactiontax.git:process.groovy": [
+      "https://github.com/madhephaestus/basicincomeviatransactiontax.git",
+      "process.groovy"
     ],
     "https://github.com/Halloween2020TheChild/Baby-Yoda.git:Hand.groovy": [
       "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
