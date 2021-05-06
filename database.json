@@ -3,10 +3,19 @@
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1620330258654"
+    ],
+    "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git": [
+      "GIST: slice",
+      "1620330973599"
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git:slice.groovy": [
+      "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git",
+      "slice.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.28.1",
