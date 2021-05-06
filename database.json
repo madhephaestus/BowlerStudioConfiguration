@@ -16,6 +16,10 @@
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1617816426606"
     ],
+    "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git": [
+      "GIST: slice",
+      "1620324481187"
+    ],
     "https://github.com/madhephaestus/basicincomeviatransactiontax.git": [
       "madhephaestus/basicincomeviatransactiontax",
       "1619883778341"
@@ -42,6 +46,10 @@
     "https://github.com/madhephaestus/basicincomeviatransactiontax.git:process.groovy": [
       "https://github.com/madhephaestus/basicincomeviatransactiontax.git",
       "process.groovy"
+    ],
+    "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git:slice.groovy": [
+      "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git",
+      "slice.groovy"
     ],
     "https://github.com/Halloween2020TheChild/Baby-Yoda.git:Hand.groovy": [
       "https://github.com/Halloween2020TheChild/Baby-Yoda.git",
