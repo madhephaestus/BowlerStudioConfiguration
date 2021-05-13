@@ -11,13 +11,17 @@
     "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git": [
       "GIST: slice",
       "1620330973599"
+    ],
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
+      "WPIRoboticsEngineering/RBELabCustomParts",
+      "1620940402956"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/madhephaestus/carl-the-hexapod.git:WalkingDriveEngine.groovy": [
+    "https://github.com/madhephaestus/carl-the-hexapod.git:DefaultDhSolver.groovy": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "WalkingDriveEngine.groovy"
+      "DefaultDhSolver.groovy"
     ]
   },
   "BowlerStudioConfigs": {
