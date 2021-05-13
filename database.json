@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "madhephaestus/carl-the-hexapod",
+      "1620934126827"
+    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1620330258654"
@@ -11,9 +15,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git:slice.groovy": [
-      "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git",
-      "slice.groovy"
+    "https://github.com/madhephaestus/carl-the-hexapod.git:WalkingDriveEngine.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "WalkingDriveEngine.groovy"
     ]
   },
   "BowlerStudioConfigs": {
