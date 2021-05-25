@@ -19,6 +19,10 @@
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1620940402956"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1621986480061"
     ]
   },
   "studio-open-web": {},
@@ -26,6 +30,10 @@
     "https://github.com/madhephaestus/carl-the-hexapod.git:DefaultDhSolver.groovy": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
       "DefaultDhSolver.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/DynamicWalkingV2.groovy"
     ]
   },
   "BowlerStudioConfigs": {
