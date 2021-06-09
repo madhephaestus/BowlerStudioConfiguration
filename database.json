@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "Hephaestus-Arm/HephaestusArm2",
+      "1623257417316"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {},
   "BowlerStudioConfigs": {
@@ -7,7 +12,7 @@
     "firstVersion": "1.28.1",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12,
+    "fontsize": 12.0,
     "skinBranch": "1.28.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "1.28.1",
