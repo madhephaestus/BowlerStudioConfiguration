@@ -1,57 +1,16 @@
 {
-  "workspace": {
-    "https://github.com/madhephaestus/carl-the-hexapod.git": [
-      "madhephaestus/carl-the-hexapod",
-      "1620934126827"
-    ],
-    "https://github.com/Halloween2020TheChild/Baby-Yoda.git": [
-      "Halloween2020TheChild/Baby-Yoda",
-      "1621007783868"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1623255306726"
-    ],
-    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
-      "WPIRoboticsEngineering/LabCodeRepoSetup",
-      "1620330258654"
-    ],
-    "https://gist.github.com/91c6cabb475e250474d0c8beaf2284e7.git": [
-      "GIST: slice",
-      "1620330973599"
-    ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
-      "WPIRoboticsEngineering/RBELabCustomParts",
-      "1620940402956"
-    ],
-    "https://github.com/Halloween2020TheChild/HephaestusArm2.git": [
-      "Halloween2020TheChild/HephaestusArm2",
-      "1622400105137"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "OperationSmallKat/SmallKat_V2",
-      "1621986480061"
-    ]
-  },
+  "workspace": {},
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:bin/hephaestus.xml": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "bin/hephaestus.xml"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "cadGenHephaestusArm.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.28.1",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 12,
     "skinBranch": "1.28.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.28.1"
+    "currentVersion": "1.28.1",
+    "notifiedArduinoDep": true
   }
 }
