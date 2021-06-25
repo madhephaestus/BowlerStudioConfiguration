@@ -1,4 +1,19 @@
 {
+  "Gamesir-T4pro_21FD": {
+    "A": "a-mode",
+    "slider": "analog-trig",
+    "B": "b-mode",
+    "Start": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-up-down",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-left-right",
+    "Y": "y-mode",
+    "z": "r-joy-left-right",
+    "Left Thumb": "l-trig-button"
+  },
   "workspace": {
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "Hephaestus-Arm/HephaestusArm2",
@@ -6,6 +21,18 @@
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "kevkat",
+    "robotName": "MediumKat",
+    "robotGitFile": "MediumKat.xml",
+    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
+  },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
