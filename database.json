@@ -26,7 +26,8 @@
       "Play",
       "Game",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "gamepad"
     ],
     "linkDeviceName": "kevkat",
     "robotName": "MediumKat",
