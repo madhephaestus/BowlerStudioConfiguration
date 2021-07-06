@@ -6,6 +6,33 @@
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "dyio",
+    "robotName": "CarlTheWalkingRobot",
+    "robotGitFile": "CarlTheRobot.xml",
+    "robotGit": "https://github.com/madhephaestus/carl-the-hexapod.git"
+  },
+  "Saitek PLC Saitek P2600 Rumble Force Pad": {
+    "slider": "r-joy-up-down",
+    "Thumb": "b-mode",
+    "rz": "r-joy-left-right",
+    "Base 5": "start",
+    "Base 6": "select",
+    "Pinkie": "r-trig-button",
+    "Thumb 2": "a-mode",
+    "Base 2": "analog-trig",
+    "Trigger": "x-mode",
+    "Top 2": "l-trig-button",
+    "Top": "y-mode",
+    "x": "l-joy-up-down",
+    "y": "l-joy-left-right"
+  },
   "studio-open-git": {
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
