@@ -1,13 +1,23 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://gist.github.com/4814b39ee72e9f590757.git": [
+      "GIST: JavaCadExample",
+      "1625601783727"
+    ]
+  },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "javaCad.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.29.0",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12,
+    "fontsize": 12.0,
     "skinBranch": "1.29.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "1.29.0"
