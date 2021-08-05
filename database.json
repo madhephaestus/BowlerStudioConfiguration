@@ -8,6 +8,10 @@
       "Hephaestus-Arm/HephaestusArm2",
       "1628108531223"
     ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
+      "GIST: Cap screw generator",
+      "1628126217396"
+    ],
     "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
       "Hephaestus-Arm/HIDLinkLoader",
       "1628108050836"
@@ -18,6 +22,10 @@
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "heatedThreadedInsert.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
     ],
     "https://github.com/Hephaestus-Arm/HIDLinkLoader.git:load.groovy": [
       "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
