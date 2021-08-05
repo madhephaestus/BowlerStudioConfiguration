@@ -15,10 +15,18 @@
     "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
       "Hephaestus-Arm/HIDLinkLoader",
       "1628108050836"
+    ],
+    "https://github.com/madhephaestus/RoundMotorVitamin.git": [
+      "madhephaestus/RoundMotorVitamin",
+      "1628126217954"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/madhephaestus/RoundMotorVitamin.git:roundMotor.groovy": [
+      "https://github.com/madhephaestus/RoundMotorVitamin.git",
+      "roundMotor.groovy"
+    ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "heatedThreadedInsert.groovy"
