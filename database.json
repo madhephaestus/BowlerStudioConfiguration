@@ -8,6 +8,10 @@
       "Hephaestus-Arm/HephaestusArm2",
       "1628108531223"
     ],
+    "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git": [
+      "GIST: Demonstrate advance motions using transforms.",
+      "1628466013800"
+    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1628126217396"
@@ -70,6 +74,10 @@
     "https://gist.github.com/09a7c973ba854d9b8d35.git:whatever.SVG": [
       "https://gist.github.com/09a7c973ba854d9b8d35.git",
       "whatever.SVG"
+    ],
+    "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git:TransformExample.groovy": [
+      "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git",
+      "TransformExample.groovy"
     ],
     "https://gist.github.com/09a7c973ba854d9b8d35.git:sphere.groovy": [
       "https://gist.github.com/09a7c973ba854d9b8d35.git",
