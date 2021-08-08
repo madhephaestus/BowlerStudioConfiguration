@@ -4,6 +4,10 @@
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1628126216840"
     ],
+    "https://gist.github.com/9786cbb6076d99e64445907a21698be4.git": [
+      "GIST: Create a toManufaacturing closure on a CSG",
+      "1628462843175"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "Hephaestus-Arm/HephaestusArm2",
       "1628108531223"
@@ -50,6 +54,10 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
+    ],
+    "https://gist.github.com/9786cbb6076d99e64445907a21698be4.git:ToManufacturing.groovy": [
+      "https://gist.github.com/9786cbb6076d99e64445907a21698be4.git",
+      "ToManufacturing.groovy"
     ],
     "https://gist.github.com/bae417566c2b46e3ab94.git:union.groovy": [
       "https://gist.github.com/bae417566c2b46e3ab94.git",
