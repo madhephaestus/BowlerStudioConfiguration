@@ -31,10 +31,19 @@
     "https://github.com/madhephaestus/RoundMotorVitamin.git": [
       "madhephaestus/RoundMotorVitamin",
       "1628126217954"
+    ],
+    "https://gist.github.com/d4312a0787456ec27a2a.git": [
+      "GIST: BowlerStudio Hello World",
+      "1628454862305"
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
+      "https://gist.github.com/d4312a0787456ec27a2a.git",
+      "helloWorld.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.29.0",
