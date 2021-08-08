@@ -81,7 +81,7 @@
     "firstVersion": "1.29.0",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 18,
+    "fontsize": 18.0,
     "skinBranch": "1.30.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "1.30.0"
