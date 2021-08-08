@@ -35,6 +35,10 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1628454862305"
+    ],
+    "https://gist.github.com/09a7c973ba854d9b8d35.git": [
+      "GIST: sphere.groovy",
+      "1628456340833"
     ]
   },
   "studio-open-web": {},
@@ -42,6 +46,10 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
+    ],
+    "https://gist.github.com/09a7c973ba854d9b8d35.git:sphere.groovy": [
+      "https://gist.github.com/09a7c973ba854d9b8d35.git",
+      "sphere.groovy"
     ]
   },
   "BowlerStudioConfigs": {
