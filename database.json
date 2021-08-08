@@ -36,6 +36,10 @@
       "GIST: BowlerStudio Hello World",
       "1628454862305"
     ],
+    "https://gist.github.com/bae417566c2b46e3ab94.git": [
+      "GIST: union.groovy",
+      "1628460415713"
+    ],
     "https://gist.github.com/09a7c973ba854d9b8d35.git": [
       "GIST: sphere.groovy",
       "1628456340833"
@@ -47,6 +51,14 @@
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
     ],
+    "https://gist.github.com/bae417566c2b46e3ab94.git:union.groovy": [
+      "https://gist.github.com/bae417566c2b46e3ab94.git",
+      "union.groovy"
+    ],
+    "https://gist.github.com/09a7c973ba854d9b8d35.git:whatever.SVG": [
+      "https://gist.github.com/09a7c973ba854d9b8d35.git",
+      "whatever.SVG"
+    ],
     "https://gist.github.com/09a7c973ba854d9b8d35.git:sphere.groovy": [
       "https://gist.github.com/09a7c973ba854d9b8d35.git",
       "sphere.groovy"
@@ -57,7 +69,7 @@
     "firstVersion": "1.29.0",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 18,
     "skinBranch": "1.30.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "1.30.0"
