@@ -16,10 +16,6 @@
       "GIST: Cap screw generator",
       "1628126217396"
     ],
-    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
-      "Hephaestus-Arm/HIDLinkLoader",
-      "1628108050836"
-    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
       "1628126218804"
@@ -27,6 +23,10 @@
     "https://gist.github.com/09a7c973ba854d9b8d35.git": [
       "GIST: sphere.groovy",
       "1628456340833"
+    ],
+    "https://gist.github.com/a77d2ab3b93b270415a51fe679c8f3a2.git": [
+      "GIST: Show the internal data in a CSG",
+      "1628466827612"
     ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
@@ -66,6 +66,10 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
+    ],
+    "https://gist.github.com/a77d2ab3b93b270415a51fe679c8f3a2.git:CSGData.groovy": [
+      "https://gist.github.com/a77d2ab3b93b270415a51fe679c8f3a2.git",
+      "CSGData.groovy"
     ],
     "https://gist.github.com/9786cbb6076d99e64445907a21698be4.git:ToManufacturing.groovy": [
       "https://gist.github.com/9786cbb6076d99e64445907a21698be4.git",
