@@ -44,10 +44,6 @@
       "madhephaestus/LewanSoulHornCadGenerator",
       "1628173084527"
     ],
-    "https://github.com/madhephaestus/RoundMotorVitamin.git": [
-      "madhephaestus/RoundMotorVitamin",
-      "1628126217954"
-    ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1628454862305"
@@ -55,6 +51,10 @@
     "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git": [
       "GIST: measurement.groovy",
       "1628467240288"
+    ],
+    "https://github.com/JansenSmith/HephaestusArmV2_Janz.git": [
+      "JansenSmith/HephaestusArmV2_Janz",
+      "1628473946550"
     ],
     "https://gist.github.com/bae417566c2b46e3ab94.git": [
       "GIST: union.groovy",
