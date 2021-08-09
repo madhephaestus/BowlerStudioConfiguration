@@ -4,10 +4,6 @@
       "GIST: javaCadHull.groovy",
       "1628464107620"
     ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1628108531223"
-    ],
     "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git": [
       "GIST: Demonstrate advance motions using transforms.",
       "1628466013800"
@@ -56,6 +52,10 @@
       "GIST: BowlerStudio Hello World",
       "1628454862305"
     ],
+    "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git": [
+      "GIST: measurement.groovy",
+      "1628467240288"
+    ],
     "https://gist.github.com/bae417566c2b46e3ab94.git": [
       "GIST: union.groovy",
       "1628460415713"
@@ -63,37 +63,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
-      "https://gist.github.com/d4312a0787456ec27a2a.git",
-      "helloWorld.groovy"
-    ],
-    "https://gist.github.com/a77d2ab3b93b270415a51fe679c8f3a2.git:CSGData.groovy": [
-      "https://gist.github.com/a77d2ab3b93b270415a51fe679c8f3a2.git",
-      "CSGData.groovy"
-    ],
-    "https://gist.github.com/9786cbb6076d99e64445907a21698be4.git:ToManufacturing.groovy": [
-      "https://gist.github.com/9786cbb6076d99e64445907a21698be4.git",
-      "ToManufacturing.groovy"
-    ],
-    "https://gist.github.com/ca2cfbba52c848da45e7.git:cube.groovy": [
-      "https://gist.github.com/ca2cfbba52c848da45e7.git",
-      "cube.groovy"
-    ],
-    "https://gist.github.com/bae417566c2b46e3ab94.git:union.groovy": [
-      "https://gist.github.com/bae417566c2b46e3ab94.git",
-      "union.groovy"
-    ],
-    "https://gist.github.com/09a7c973ba854d9b8d35.git:whatever.SVG": [
-      "https://gist.github.com/09a7c973ba854d9b8d35.git",
-      "whatever.SVG"
-    ],
-    "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git:TransformExample.groovy": [
-      "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git",
-      "TransformExample.groovy"
-    ],
-    "https://gist.github.com/09a7c973ba854d9b8d35.git:sphere.groovy": [
-      "https://gist.github.com/09a7c973ba854d9b8d35.git",
-      "sphere.groovy"
+    "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git:measurement.groovy": [
+      "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git",
+      "measurement.groovy"
     ]
   },
   "BowlerStudioConfigs": {
