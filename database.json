@@ -74,6 +74,10 @@
     "https://github.com/madhephaestus/carl-the-hexapod.git:WalkingDriveEngine.groovy": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
       "WalkingDriveEngine.groovy"
+    ],
+    "https://github.com/JansenSmith/HephaestusArmV2_Janz.git:HephaestusArmV2_Janz.xml": [
+      "https://github.com/JansenSmith/HephaestusArmV2_Janz.git",
+      "HephaestusArmV2_Janz.xml"
     ]
   },
   "BowlerStudioConfigs": {
