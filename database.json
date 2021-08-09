@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "madhephaestus/carl-the-hexapod",
+      "1628471812921"
+    ],
     "https://gist.github.com/721302a0ff6d2809b997.git": [
       "GIST: javaCadHull.groovy",
       "1628464107620"
@@ -7,10 +11,6 @@
     "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git": [
       "GIST: Demonstrate advance motions using transforms.",
       "1628466013800"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "GIST: Cap screw generator",
-      "1628126217396"
     ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
@@ -70,6 +70,10 @@
     "https://gist.github.com/f01548f0e4f85bd3f08fdfdd503510b4.git:ExtrudeBezierAPI.groovy": [
       "https://gist.github.com/f01548f0e4f85bd3f08fdfdd503510b4.git",
       "ExtrudeBezierAPI.groovy"
+    ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git:WalkingDriveEngine.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "WalkingDriveEngine.groovy"
     ]
   },
   "BowlerStudioConfigs": {
