@@ -36,10 +36,6 @@
       "GIST: Demonstrate the new bezier extrude API",
       "1628468260076"
     ],
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
-      "madhephaestus/LewanSoulMotorCadGenerator",
-      "1628173083282"
-    ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "madhephaestus/LewanSoulHornCadGenerator",
       "1628173084527"
@@ -55,6 +51,10 @@
     "https://github.com/JansenSmith/HephaestusArmV2_Janz.git": [
       "JansenSmith/HephaestusArmV2_Janz",
       "1628473946550"
+    ],
+    "https://github.com/JansenSmith/41-dover.git": [
+      "JansenSmith/41-dover",
+      "1628803039213"
     ],
     "https://gist.github.com/bae417566c2b46e3ab94.git": [
       "GIST: union.groovy",
