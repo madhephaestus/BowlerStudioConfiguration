@@ -71,6 +71,10 @@
       "https://gist.github.com/f01548f0e4f85bd3f08fdfdd503510b4.git",
       "ExtrudeBezierAPI.groovy"
     ],
+    "https://github.com/JansenSmith/41-dover.git:SecondFloor-3D.groovy": [
+      "https://github.com/JansenSmith/41-dover.git",
+      "SecondFloor-3D.groovy"
+    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "capScrew.groovy"
