@@ -24,6 +24,10 @@
       "GIST: Show the internal data in a CSG",
       "1628466827612"
     ],
+    "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git": [
+      "GIST: SVG loading example",
+      "1628863762290"
+    ],
     "https://gist.github.com/9786cbb6076d99e64445907a21698be4.git": [
       "GIST: Create a toManufaacturing closure on a CSG",
       "1628462843175"
@@ -35,10 +39,6 @@
     "https://gist.github.com/f01548f0e4f85bd3f08fdfdd503510b4.git": [
       "GIST: Demonstrate the new bezier extrude API",
       "1628468260076"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "madhephaestus/LewanSoulHornCadGenerator",
-      "1628173084527"
     ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
@@ -82,6 +82,10 @@
     "https://github.com/JansenSmith/HephaestusArmV2_Janz.git:WalkingDriveEngine.groovy": [
       "https://github.com/JansenSmith/HephaestusArmV2_Janz.git",
       "WalkingDriveEngine.groovy"
+    ],
+    "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git:SVGExtrude.groovy": [
+      "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git",
+      "SVGExtrude.groovy"
     ],
     "https://github.com/madhephaestus/carl-the-hexapod.git:WalkingDriveEngine.groovy": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
