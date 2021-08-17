@@ -20,9 +20,9 @@
       "GIST: JavaCadExample",
       "1629232268536"
     ],
-    "https://gist.github.com/09a7c973ba854d9b8d35.git": [
-      "GIST: sphere.groovy",
-      "1628456340833"
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
+      "GIST: Robot smashes through pile of bricks",
+      "1629232776568"
     ],
     "https://gist.github.com/a77d2ab3b93b270415a51fe679c8f3a2.git": [
       "GIST: Show the internal data in a CSG",
@@ -66,6 +66,10 @@
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
+    ],
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
+      "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
+      "SimulatePhysics.groovy"
     ]
   },
   "BowlerStudioConfigs": {
