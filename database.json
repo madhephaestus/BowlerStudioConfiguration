@@ -8,6 +8,10 @@
       "GIST: javaCadHull.groovy",
       "1628464107620"
     ],
+    "https://github.com/madhephaestus/shelf_attachment_lugs.git": [
+      "madhephaestus/shelf_attachment_lugs",
+      "1629478783838"
+    ],
     "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git": [
       "GIST: Demonstrate advance motions using transforms.",
       "1628466013800"
@@ -55,10 +59,6 @@
     "https://github.com/JansenSmith/41-dover.git": [
       "JansenSmith/41-dover",
       "1628803039213"
-    ],
-    "https://gist.github.com/bae417566c2b46e3ab94.git": [
-      "GIST: union.groovy",
-      "1628460415713"
     ]
   },
   "studio-open-web": {},
