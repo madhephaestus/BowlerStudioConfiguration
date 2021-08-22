@@ -4,9 +4,13 @@
       "madhephaestus/carl-the-hexapod",
       "1628471812921"
     ],
-    "https://github.com/madhephaestus/shelf_attachment_lugs.git": [
-      "madhephaestus/shelf_attachment_lugs",
-      "1629478783838"
+    "https://gist.github.com/721302a0ff6d2809b997.git": [
+      "GIST: javaCadHull.groovy",
+      "1628464107620"
+    ],
+    "https://gist.github.com/6c7ae38c2919438b9900630b24341683.git": [
+      "GIST: Demonstrate advance motions using transforms.",
+      "1628466013800"
     ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
@@ -15,10 +19,6 @@
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1629232268536"
-    ],
-    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
-      "GIST: parabola",
-      "1629496158868"
     ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "GIST: Robot smashes through pile of bricks",
@@ -32,13 +32,9 @@
       "GIST: SVG loading example",
       "1628863762290"
     ],
-    "https://github.com/RBE200x-lab/2002_LabTeam_02.git": [
-      "RBE200x-lab/2002_LabTeam_02",
-      "1629497219354"
-    ],
-    "https://gist.github.com/d451b8d5d805aec22c6dd21f37f6aaf1.git": [
-      "GIST: triangles",
-      "1629496009314"
+    "https://gist.github.com/9786cbb6076d99e64445907a21698be4.git": [
+      "GIST: Create a toManufaacturing closure on a CSG",
+      "1628462843175"
     ],
     "https://gist.github.com/ca2cfbba52c848da45e7.git": [
       "GIST: csgDatabase.json",
@@ -59,6 +55,10 @@
     "https://github.com/JansenSmith/41-dover.git": [
       "JansenSmith/41-dover",
       "1628803039213"
+    ],
+    "https://gist.github.com/bae417566c2b46e3ab94.git": [
+      "GIST: union.groovy",
+      "1628460415713"
     ]
   },
   "studio-open-web": {},
@@ -66,10 +66,6 @@
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
-    ],
-    "https://github.com/madhephaestus/shelf_attachment_lugs.git:lugs.groovy": [
-      "https://github.com/madhephaestus/shelf_attachment_lugs.git",
-      "lugs.groovy"
     ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
       "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
@@ -82,8 +78,8 @@
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.31.8",
+    "skinBranch": "1.31.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.31.8"
+    "currentVersion": "1.31.2"
   }
 }
