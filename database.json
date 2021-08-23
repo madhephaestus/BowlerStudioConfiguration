@@ -28,10 +28,6 @@
       "GIST: Robot smashes through pile of bricks",
       "1629232776568"
     ],
-    "https://gist.github.com/a77d2ab3b93b270415a51fe679c8f3a2.git": [
-      "GIST: Show the internal data in a CSG",
-      "1628466827612"
-    ],
     "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git": [
       "GIST: SVG loading example",
       "1628863762290"
@@ -59,6 +55,10 @@
     "https://github.com/JansenSmith/41-dover.git": [
       "JansenSmith/41-dover",
       "1628803039213"
+    ],
+    "https://github.com/madhephaestus/test.git": [
+      "madhephaestus/test",
+      "1629731345046"
     ]
   },
   "studio-open-web": {},
@@ -66,6 +66,10 @@
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
+    ],
+    "https://github.com/madhephaestus/test.git:file.groovy": [
+      "https://github.com/madhephaestus/test.git",
+      "file.groovy"
     ],
     "https://github.com/madhephaestus/shelf_attachment_lugs.git:lugs.groovy": [
       "https://github.com/madhephaestus/shelf_attachment_lugs.git",
