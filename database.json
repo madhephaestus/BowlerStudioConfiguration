@@ -63,6 +63,10 @@
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
     ],
+    "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
+      "https://github.com/madhephaestus/manipulator-test.git",
+      "manipulator.groovy"
+    ],
     "https://github.com/madhephaestus/shelf_attachment_lugs.git:lugs.groovy": [
       "https://github.com/madhephaestus/shelf_attachment_lugs.git",
       "lugs.groovy"
