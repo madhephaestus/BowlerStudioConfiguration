@@ -44,9 +44,9 @@
       "GIST: Demonstrate the new bezier extrude API",
       "1628468260076"
     ],
-    "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git": [
-      "GIST: measurement.groovy",
-      "1628467240288"
+    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
+      "GIST: gsonExample.groovy",
+      "1629835123668"
     ],
     "https://github.com/JansenSmith/HephaestusArmV2_Janz.git": [
       "JansenSmith/HephaestusArmV2_Janz",
@@ -63,9 +63,17 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git:gsonExample.groovy": [
+      "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git",
+      "gsonExample.groovy"
+    ],
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
+    ],
+    "https://github.com/madhephaestus/manipulator-test.git:bez.json": [
+      "https://github.com/madhephaestus/manipulator-test.git",
+      "bez.json"
     ],
     "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
       "https://github.com/madhephaestus/manipulator-test.git",
