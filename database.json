@@ -63,14 +63,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git:gsonExample.groovy": [
-      "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git",
-      "gsonExample.groovy"
-    ],
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
-    ],
     "https://github.com/madhephaestus/manipulator-test.git:bez.json": [
       "https://github.com/madhephaestus/manipulator-test.git",
       "bez.json"
@@ -78,14 +70,6 @@
     "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
       "https://github.com/madhephaestus/manipulator-test.git",
       "manipulator.groovy"
-    ],
-    "https://github.com/madhephaestus/shelf_attachment_lugs.git:lugs.groovy": [
-      "https://github.com/madhephaestus/shelf_attachment_lugs.git",
-      "lugs.groovy"
-    ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
-      "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
-      "SimulatePhysics.groovy"
     ]
   },
   "BowlerStudioConfigs": {
