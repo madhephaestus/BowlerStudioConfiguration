@@ -63,13 +63,13 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "none:/home/hephaestus/bowler-workspace/appdata/bez.json": [
-      "none",
-      "/home/hephaestus/bowler-workspace/appdata/bez.json"
-    ],
     "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
       "https://github.com/madhephaestus/manipulator-test.git",
       "manipulator.groovy"
+    ],
+    "https://github.com/madhephaestus/shelf_attachment_lugs.git:lugs.groovy": [
+      "https://github.com/madhephaestus/shelf_attachment_lugs.git",
+      "lugs.groovy"
     ]
   },
   "BowlerStudioConfigs": {
