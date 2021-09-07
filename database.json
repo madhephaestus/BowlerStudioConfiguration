@@ -36,10 +36,6 @@
       "madhephaestus/ESP32Encoder",
       "1631036058119"
     ],
-    "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git": [
-      "GIST: SVG loading example",
-      "1628863762290"
-    ],
     "https://github.com/RBE200x-lab/2002_LabTeam_02.git": [
       "RBE200x-lab/2002_LabTeam_02",
       "1629497219354"
@@ -51,6 +47,10 @@
     "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
       "GIST: gsonExample.groovy",
       "1629835123668"
+    ],
+    "https://github.com/madhephaestus/helloWorld_madhephaestus.git": [
+      "https://github.com/madhephaestus/helloWorld_madhephaestus.git",
+      "1631046629130"
     ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
       "WPIRoboticsEngineering/LabCodeRepoSetup",
@@ -74,6 +74,10 @@
     "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
       "https://github.com/madhephaestus/manipulator-test.git",
       "manipulator.groovy"
+    ],
+    "https://github.com/madhephaestus/helloWorld_madhephaestus.git:helloWorld.groovy": [
+      "https://github.com/madhephaestus/helloWorld_madhephaestus.git",
+      "helloWorld.groovy"
     ]
   },
   "BowlerStudioConfigs": {
