@@ -8,6 +8,10 @@
       "madhephaestus/shelf_attachment_lugs",
       "1629478783838"
     ],
+    "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git",
+      "1631044231030"
+    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1629232268536"
@@ -51,10 +55,6 @@
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1630494465595"
-    ],
-    "https://github.com/JansenSmith/41-dover.git": [
-      "JansenSmith/41-dover",
-      "1628803039213"
     ],
     "https://github.com/madhephaestus/manipulator-test.git": [
       "madhephaestus/manipulator-test",
