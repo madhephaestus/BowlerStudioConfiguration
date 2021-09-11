@@ -8,9 +8,9 @@
       "madhephaestus/shelf_attachment_lugs",
       "1629478783838"
     ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "GIST: Cap screw generator",
-      "1628789904676"
+    "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git",
+      "1631044231030"
     ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
@@ -32,9 +32,9 @@
       "Project none",
       "1629979438191"
     ],
-    "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git": [
-      "GIST: SVG loading example",
-      "1628863762290"
+    "https://github.com/madhephaestus/ESP32Encoder.git": [
+      "madhephaestus/ESP32Encoder",
+      "1631036058119"
     ],
     "https://github.com/RBE200x-lab/2002_LabTeam_02.git": [
       "RBE200x-lab/2002_LabTeam_02",
@@ -48,13 +48,13 @@
       "GIST: gsonExample.groovy",
       "1629835123668"
     ],
+    "https://github.com/madhephaestus/helloWorld_madhephaestus.git": [
+      "https://github.com/madhephaestus/helloWorld_madhephaestus.git",
+      "1631046629130"
+    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1630494465595"
-    ],
-    "https://github.com/JansenSmith/41-dover.git": [
-      "JansenSmith/41-dover",
-      "1628803039213"
     ],
     "https://github.com/madhephaestus/manipulator-test.git": [
       "madhephaestus/manipulator-test",
@@ -70,6 +70,10 @@
     "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
       "https://github.com/madhephaestus/manipulator-test.git",
       "manipulator.groovy"
+    ],
+    "https://github.com/madhephaestus/helloWorld_madhephaestus.git:helloWorld.groovy": [
+      "https://github.com/madhephaestus/helloWorld_madhephaestus.git",
+      "helloWorld.groovy"
     ]
   },
   "BowlerStudioConfigs": {
@@ -78,8 +82,8 @@
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.34.2",
+    "skinBranch": "1.36.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.34.2"
+    "currentVersion": "1.36.0"
   }
 }
