@@ -58,7 +58,7 @@
     ],
     "https://github.com/madhephaestus/manipulator-test.git": [
       "madhephaestus/manipulator-test",
-      "1629734691252"
+      "1631377538994"
     ]
   },
   "studio-open-web": {},
@@ -66,10 +66,6 @@
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
       "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
       "LabCodeRepoSetupMain.groovy"
-    ],
-    "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
-      "https://github.com/madhephaestus/manipulator-test.git",
-      "manipulator.groovy"
     ]
   },
   "BowlerStudioConfigs": {
