@@ -8,13 +8,13 @@
       "madhephaestus/shelf_attachment_lugs",
       "1629478783838"
     ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "GIST: Cap screw generator",
-      "1628789904676"
+    "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git",
+      "1631044231030"
     ],
-    "https://gist.github.com/4814b39ee72e9f590757.git": [
-      "GIST: JavaCadExample",
-      "1629232268536"
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "Hephaestus-Arm/HephaestusArm2",
+      "1631566913894"
     ],
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
       "WPIRoboticsEngineering/RBELabCustomParts",
@@ -32,9 +32,9 @@
       "Project none",
       "1629979438191"
     ],
-    "https://gist.github.com/b8e78fdb8f0ec1e9b746ce88e4900b9f.git": [
-      "GIST: SVG loading example",
-      "1628863762290"
+    "https://github.com/madhephaestus/ESP32Encoder.git": [
+      "madhephaestus/ESP32Encoder",
+      "1631036058119"
     ],
     "https://github.com/RBE200x-lab/2002_LabTeam_02.git": [
       "RBE200x-lab/2002_LabTeam_02",
@@ -48,24 +48,40 @@
       "GIST: gsonExample.groovy",
       "1629835123668"
     ],
+    "https://github.com/madhephaestus/helloWorld_madhephaestus.git": [
+      "https://github.com/madhephaestus/helloWorld_madhephaestus.git",
+      "1631046629130"
+    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1630494465595"
     ],
-    "https://github.com/JansenSmith/41-dover.git": [
-      "JansenSmith/41-dover",
-      "1628803039213"
-    ],
     "https://github.com/madhephaestus/manipulator-test.git": [
       "madhephaestus/manipulator-test",
-      "1631377538994"
+      "1629734691252"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git:helloWorld.groovy": [
+      "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git",
+      "helloWorld.groovy"
+    ],
+    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
+      "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
+      "LabCodeRepoSetupMain.groovy"
+    ],
     "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
       "https://github.com/madhephaestus/manipulator-test.git",
       "manipulator.groovy"
+    ],
+    "https://github.com/madhephaestus/helloWorld_madhephaestus.git:helloWorld.groovy": [
+      "https://github.com/madhephaestus/helloWorld_madhephaestus.git",
+      "helloWorld.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHephaestusArm.groovy"
     ]
   },
   "BowlerStudioConfigs": {
