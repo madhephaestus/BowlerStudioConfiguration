@@ -40,10 +40,6 @@
       "RBE200x-lab/2002_LabTeam_02",
       "1629497219354"
     ],
-    "https://gist.github.com/d451b8d5d805aec22c6dd21f37f6aaf1.git": [
-      "GIST: triangles",
-      "1629496009314"
-    ],
     "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
       "GIST: gsonExample.groovy",
       "1629835123668"
@@ -56,6 +52,10 @@
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1630494465595"
     ],
+    "https://github.com/CommonWealthRobotics/ArduinoExamples.git": [
+      "CommonWealthRobotics/ArduinoExamples",
+      "1632834002739"
+    ],
     "https://github.com/madhephaestus/manipulator-test.git": [
       "madhephaestus/manipulator-test",
       "1629734691252"
@@ -66,6 +66,10 @@
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
+    ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git:CarlTheRobot.xml": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "CarlTheRobot.xml"
     ],
     "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
       "https://github.com/madhephaestus/manipulator-test.git",
