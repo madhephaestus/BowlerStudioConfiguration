@@ -4,9 +4,9 @@
       "Project ",
       "1630464176316"
     ],
-    "https://github.com/madhephaestus/shelf_attachment_lugs.git": [
-      "madhephaestus/shelf_attachment_lugs",
-      "1629478783838"
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "madhephaestus/carl-the-hexapod",
+      "1632832935123"
     ],
     "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git": [
       "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git",
@@ -70,6 +70,10 @@
     "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
       "https://github.com/madhephaestus/manipulator-test.git",
       "manipulator.groovy"
+    ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git:WalkingDriveEngine.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "WalkingDriveEngine.groovy"
     ]
   },
   "BowlerStudioConfigs": {
