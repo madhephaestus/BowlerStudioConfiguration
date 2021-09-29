@@ -44,6 +44,10 @@
       "https://github.com/madhephaestus/helloWorld_madhephaestus.git",
       "1631046629130"
     ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1632940234281"
+    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1630494465595"
@@ -55,10 +59,6 @@
     "https://github.com/madhephaestus/manipulator-test.git": [
       "madhephaestus/manipulator-test",
       "1629734691252"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
-      "Halloween2020TheChild/GroguMechanicsCad",
-      "1632940234281"
     ]
   },
   "studio-open-web": {},
