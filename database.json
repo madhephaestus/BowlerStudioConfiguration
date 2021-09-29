@@ -24,10 +24,6 @@
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1629671941422"
     ],
-    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
-      "GIST: parabola",
-      "1629496158868"
-    ],
     "none": [
       "Project none",
       "1629979438191"
@@ -59,27 +55,14 @@
     "https://github.com/madhephaestus/manipulator-test.git": [
       "madhephaestus/manipulator-test",
       "1629734691252"
+    ],
+    "https://github.com/Halloween2020TheChild/HephaestusArm2.git": [
+      "Halloween2020TheChild/HephaestusArm2",
+      "1632940234281"
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
-    ],
-    "https://github.com/madhephaestus/carl-the-hexapod.git:CarlTheRobot.xml": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "CarlTheRobot.xml"
-    ],
-    "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
-      "https://github.com/madhephaestus/manipulator-test.git",
-      "manipulator.groovy"
-    ],
-    "https://github.com/madhephaestus/carl-the-hexapod.git:WalkingDriveEngine.groovy": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "WalkingDriveEngine.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.29.0",
