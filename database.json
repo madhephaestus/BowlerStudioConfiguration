@@ -20,6 +20,10 @@
       "GIST: JavaCadExample",
       "1632832157952"
     ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
+      "GIST: Sealed Bearing generator",
+      "1633894375978"
+    ],
     "none": [
       "Project none",
       "1629979438191"
@@ -27,10 +31,6 @@
     "https://github.com/madhephaestus/ESP32Encoder.git": [
       "madhephaestus/ESP32Encoder",
       "1631036058119"
-    ],
-    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
-      "GIST: gsonExample.groovy",
-      "1629835123668"
     ],
     "https://github.com/madhephaestus/helloWorld_madhephaestus.git": [
       "https://github.com/madhephaestus/helloWorld_madhephaestus.git",
@@ -66,6 +66,14 @@
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
       "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
       "LewanSoulMotor.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:wrist2.groovy": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "wrist2.groovy"
+    ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
+      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+      "bearing.groovy"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
