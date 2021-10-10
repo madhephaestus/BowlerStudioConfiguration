@@ -20,10 +20,6 @@
       "GIST: JavaCadExample",
       "1632832157952"
     ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
-      "WPIRoboticsEngineering/RBELabCustomParts",
-      "1629671941422"
-    ],
     "none": [
       "Project none",
       "1629979438191"
@@ -44,6 +40,10 @@
       "Halloween2020TheChild/GroguMechanicsCad",
       "1632940234281"
     ],
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
+      "madhephaestus/LewanSoulMotorCadGenerator",
+      "1633885833089"
+    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1630494465595"
@@ -63,9 +63,17 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/madhephaestus/6dofServoArm.git:6dofServoArm.xml": [
-      "https://github.com/madhephaestus/6dofServoArm.git",
-      "6dofServoArm.xml"
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
+      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+      "LewanSoulMotor.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "cadGenHephaestusArm.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "hephaestus.xml"
     ]
   },
   "BowlerStudioConfigs": {
