@@ -48,13 +48,13 @@
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1630494465595"
     ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
+      "madhephaestus/LewanSoulHornCadGenerator",
+      "1633888109076"
+    ],
     "https://github.com/CommonWealthRobotics/ArduinoExamples.git": [
       "CommonWealthRobotics/ArduinoExamples",
       "1632834002739"
-    ],
-    "https://github.com/madhephaestus/manipulator-test.git": [
-      "madhephaestus/manipulator-test",
-      "1629734691252"
     ],
     "https://github.com/madhephaestus/6dofServoArm.git": [
       "madhephaestus/6dofServoArm",
@@ -70,6 +70,14 @@
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "cadGenHephaestusArm.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:wrist1.groovy": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "wrist1.groovy"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "LewanSoulHorn.groovy"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
