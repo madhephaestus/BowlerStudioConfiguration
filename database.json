@@ -24,13 +24,13 @@
       "GIST: Sealed Bearing generator",
       "1633894375978"
     ],
-    "none": [
-      "Project none",
-      "1629979438191"
-    ],
     "https://github.com/madhephaestus/ESP32Encoder.git": [
       "madhephaestus/ESP32Encoder",
       "1631036058119"
+    ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
+      "Halloween2020TheChild/RazerHydraHIDJava",
+      "1634591577520"
     ],
     "https://github.com/madhephaestus/helloWorld_madhephaestus.git": [
       "https://github.com/madhephaestus/helloWorld_madhephaestus.git",
