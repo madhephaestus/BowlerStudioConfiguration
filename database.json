@@ -24,10 +24,6 @@
       "Hephaestus-Arm/HIDLinkLoader",
       "1634769195670"
     ],
-    "https://github.com/madhephaestus/ESP32Encoder.git": [
-      "madhephaestus/ESP32Encoder",
-      "1631036058119"
-    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1634591577520"
@@ -52,6 +48,10 @@
       "madhephaestus/LewanSoulHornCadGenerator",
       "1633888109076"
     ],
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
+      "CommonWealthRobotics/DeviceProviders",
+      "1634769350243"
+    ],
     "https://github.com/CommonWealthRobotics/ArduinoExamples.git": [
       "CommonWealthRobotics/ArduinoExamples",
       "1632834002739"
@@ -74,6 +74,10 @@
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
       "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
       "bearing.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:load.groovy": [
+      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
+      "load.groovy"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
