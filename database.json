@@ -32,6 +32,10 @@
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1634591577520"
     ],
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
+      "OperationSmallKat/SmallKatLinkLoader",
+      "1634769265517"
+    ],
     "https://github.com/madhephaestus/helloWorld_madhephaestus.git": [
       "https://github.com/madhephaestus/helloWorld_madhephaestus.git",
       "1631046629130"
@@ -43,10 +47,6 @@
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
       "madhephaestus/LewanSoulMotorCadGenerator",
       "1633885833089"
-    ],
-    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
-      "WPIRoboticsEngineering/LabCodeRepoSetup",
-      "1630494465595"
     ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "madhephaestus/LewanSoulHornCadGenerator",
@@ -90,6 +90,10 @@
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
+    ],
+    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git:load.groovy": [
+      "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
+      "load.groovy"
     ]
   },
   "BowlerStudioConfigs": {
