@@ -8,10 +8,6 @@
       "madhephaestus/carl-the-hexapod",
       "1632832935123"
     ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1631566913894"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1632832157952"
@@ -27,6 +23,10 @@
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1634591577520"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "madhephaestus/heatedThreadedInsertCadGenerator",
+      "1636067765006"
     ],
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
@@ -71,6 +71,10 @@
     "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
       "https://gist.github.com/3f9fef17b23acfadf3f7.git",
       "servo.groovy"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "heatedThreadedInsert.groovy"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
