@@ -1,12 +1,12 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1636040426325"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1632832935123"
-    ],
-    "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git": [
-      "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git",
-      "1631044231030"
     ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "Hephaestus-Arm/HephaestusArm2",
