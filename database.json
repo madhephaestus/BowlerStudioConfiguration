@@ -32,10 +32,6 @@
       "OperationSmallKat/SmallKatLinkLoader",
       "1634769265517"
     ],
-    "https://github.com/madhephaestus/helloWorld_madhephaestus.git": [
-      "https://github.com/madhephaestus/helloWorld_madhephaestus.git",
-      "1631046629130"
-    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
       "1632940234281"
@@ -51,6 +47,10 @@
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1634769350243"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "GIST: servo.groovy",
+      "1636067764155"
     ],
     "https://github.com/CommonWealthRobotics/ArduinoExamples.git": [
       "CommonWealthRobotics/ArduinoExamples",
@@ -68,6 +68,10 @@
       "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
       "loadUDP.groovy"
     ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
@@ -75,6 +79,10 @@
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:launch.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "launch.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHephaestusArm.groovy"
     ]
   },
   "BowlerStudioConfigs": {
