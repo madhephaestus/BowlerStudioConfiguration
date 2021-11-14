@@ -4,10 +4,6 @@
       "madhephaestus/carl-the-hexapod",
       "1632832935123"
     ],
-    "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git": [
-      "https://github.com/madhephaestusdemo/helloWorld-madhephaestusdemo.git",
-      "1631044231030"
-    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "Hephaestus-Arm/HephaestusArm2",
       "1631566913894"
@@ -47,6 +43,10 @@
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "madhephaestus/LewanSoulHornCadGenerator",
       "1633888109076"
+    ],
+    "https://github.com/digitalsoldier4/IndMotorCadGenerator.git": [
+      "https://github.com/digitalsoldier4/IndMotorCadGenerator.git",
+      "1636854929345"
     ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
