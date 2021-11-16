@@ -68,21 +68,9 @@
       "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
       "loadUDP.groovy"
     ],
-    "https://github.com/digitalsoldier4/IndMotorCadGenerator.git:IndMotor.groovy": [
-      "https://github.com/digitalsoldier4/IndMotorCadGenerator.git",
-      "IndMotor.groovy"
-    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:link3.groovy": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "link3.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:launch.groovy": [
-      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
-      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
