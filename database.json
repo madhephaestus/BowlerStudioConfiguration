@@ -1,4 +1,19 @@
 {
+  "Microsoft X-Box 360 pad": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "start",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "Mode": "select",
+    "rz": "analog-trig",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "Left Thumb": "l-trig-button"
+  },
   "workspace": {
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
@@ -62,6 +77,13 @@
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Dragon",
+      "X-Box",
+      "Game"
+    ]
+  },
   "RazerHydra": {},
   "studio-open-git": {
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
