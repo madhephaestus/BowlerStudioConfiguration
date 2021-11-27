@@ -4,9 +4,9 @@
       "madhephaestus/carl-the-hexapod",
       "1632832935123"
     ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1631566913894"
+    "https://gist.github.com/26a571e332833f23754d.git": [
+      "GIST: Bowler Studio Game Controllers",
+      "1638042344275"
     ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
@@ -64,13 +64,17 @@
   "studio-open-web": {},
   "RazerHydra": {},
   "studio-open-git": {
-    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git:loadUDP.groovy": [
-      "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
-      "loadUDP.groovy"
-    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
+    ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
+      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
+      "jinputGrogu.groovy"
+    ],
+    "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
+      "https://gist.github.com/26a571e332833f23754d.git",
+      "gameController.groovy"
     ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:launch.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
