@@ -14,6 +14,21 @@
     "Y": "y-mode",
     "Left Thumb": "l-trig-button"
   },
+  "Gamesir-T4pro_21FD": {
+    "A": "a-mode",
+    "slider": "analog-trig",
+    "B": "b-mode",
+    "Start": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "z": "r-joy-left-right",
+    "Left Thumb": "l-trig-button"
+  },
   "workspace": {
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
