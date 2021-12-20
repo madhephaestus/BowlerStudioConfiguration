@@ -34,10 +34,6 @@
       "Project ",
       "1638045029641"
     ],
-    "https://github.com/madhephaestus/carl-the-hexapod.git": [
-      "madhephaestus/carl-the-hexapod",
-      "1632832935123"
-    ],
     "https://gist.github.com/26a571e332833f23754d.git": [
       "GIST: Bowler Studio Game Controllers",
       "1638042344275"
@@ -61,6 +57,10 @@
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
       "1634769265517"
+    ],
+    "https://github.com/madhephaestus/parabolicpictureframe.git": [
+      "https://github.com/madhephaestus/parabolicpictureframe.git",
+      "1640022152007"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
@@ -101,6 +101,10 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
+    "https://github.com/madhephaestus/parabolicpictureframe.git:frame.groovy": [
+      "https://github.com/madhephaestus/parabolicpictureframe.git",
+      "frame.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
