@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/madhephaestus/parabolicpictureframe.git": [
+      "madhephaestus/parabolicpictureframe",
+      "1640214028349"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {},
   "BowlerStudioConfigs": {
