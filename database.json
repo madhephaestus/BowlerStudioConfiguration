@@ -6,7 +6,12 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestus/parabolicpictureframe.git:frame.groovy": [
+      "https://github.com/madhephaestus/parabolicpictureframe.git",
+      "frame.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.36.6",
