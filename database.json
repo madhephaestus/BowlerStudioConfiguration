@@ -104,30 +104,6 @@
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git:hortonsLinkages.groovy": [
       "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git",
       "hortonsLinkages.groovy"
-    ],
-    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git:controller.groovy": [
-      "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git",
-      "controller.groovy"
-    ],
-    "https://github.com/madhephaestus/parabolicpictureframe.git:frame.groovy": [
-      "https://github.com/madhephaestus/parabolicpictureframe.git",
-      "frame.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "hephaestus.xml"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
-      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
-      "jinputGrogu.groovy"
-    ],
-    "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
-      "https://gist.github.com/26a571e332833f23754d.git",
-      "gameController.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:launch.groovy": [
-      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
-      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
