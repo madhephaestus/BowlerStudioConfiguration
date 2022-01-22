@@ -82,13 +82,13 @@
       "CommonWealthRobotics/DeviceProviders",
       "1634769350243"
     ],
-    "https://github.com/CommonWealthRobotics/ArduinoExamples.git": [
-      "CommonWealthRobotics/ArduinoExamples",
-      "1632834002739"
-    ],
     "https://github.com/madhephaestus/6dofServoArm.git": [
       "madhephaestus/6dofServoArm",
       "1632944016673"
+    ],
+    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
+      "WPIRoboticsEngineering/HortonsLinkages",
+      "1642878392873"
     ]
   },
   "studio-open-web": {},
