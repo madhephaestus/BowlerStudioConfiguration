@@ -94,10 +94,14 @@
   "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
-      "Dragon",
+      "Game",
       "X-Box",
-      "Game"
-    ]
+      "Dragon"
+    ],
+    "linkDeviceName": "midnight",
+    "robotName": "Luna",
+    "robotGitFile": "MediumKat.xml",
+    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "RazerHydra": {},
   "studio-open-git": {
