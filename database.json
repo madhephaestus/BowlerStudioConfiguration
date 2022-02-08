@@ -74,6 +74,10 @@
       "https://github.com/digitalsoldier4/IndMotorCadGenerator.git",
       "1636854929345"
     ],
+    "https://github.com/madhephaestus/HortonsLinkages.git": [
+      "madhephaestus/HortonsLinkages",
+      "1644337007852"
+    ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1634769350243"
@@ -81,10 +85,6 @@
     "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git": [
       "GIST: A linked script generating a cad engine from the sample. ",
       "1644335913618"
-    ],
-    "https://github.com/madhephaestus/6dofServoArm.git": [
-      "madhephaestus/6dofServoArm",
-      "1632944016673"
     ],
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
       "WPIRoboticsEngineering/HortonsLinkages",
