@@ -62,10 +62,6 @@
       "https://github.com/madhephaestus/parabolicpictureframe.git",
       "1640022152007"
     ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
-      "Halloween2020TheChild/GroguMechanicsCad",
-      "1632940234281"
-    ],
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
       "madhephaestus/LewanSoulMotorCadGenerator",
       "1633885833089"
@@ -81,6 +77,10 @@
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1634769350243"
+    ],
+    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git": [
+      "GIST: A linked script generating a cad engine from the sample. ",
+      "1644335913618"
     ],
     "https://github.com/madhephaestus/6dofServoArm.git": [
       "madhephaestus/6dofServoArm",
@@ -104,6 +104,10 @@
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git:hortonsLinkages.groovy": [
       "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git",
       "hortonsLinkages.groovy"
+    ],
+    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
+      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
+      "LinkedCadEngine.groovy"
     ]
   },
   "BowlerStudioConfigs": {
