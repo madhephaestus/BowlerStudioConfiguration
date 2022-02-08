@@ -91,33 +91,13 @@
       "1642878392873"
     ]
   },
-  "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
-    "A": "y-mode",
-    "B": "b-mode",
-    "C": "a-mode",
-    "rz": "r-joy-up-down",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-up-down",
-    "X": "x-mode",
-    "y": "l-joy-left-right",
-    "Left Thumb 3": "start",
-    "Right Thumb 2": "select",
-    "z": "r-joy-left-right",
-    "Z": "analog-trig",
-    "Left Thumb": "l-trig-button"
-  },
   "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
-      "Game",
-      "X-Box",
       "Dragon",
-      "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch"
-    ],
-    "linkDeviceName": "midnight",
-    "robotName": "Luna",
-    "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
+      "X-Box",
+      "Game"
+    ]
   },
   "RazerHydra": {},
   "studio-open-git": {
