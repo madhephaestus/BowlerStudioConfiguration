@@ -100,16 +100,7 @@
     ]
   },
   "RazerHydra": {},
-  "studio-open-git": {
-    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git:hortonsLinkages.groovy": [
-      "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git",
-      "hortonsLinkages.groovy"
-    ],
-    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
-      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
-      "LinkedCadEngine.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.29.0",
