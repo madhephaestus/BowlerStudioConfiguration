@@ -50,6 +50,10 @@
       "Hephaestus-Arm/HIDLinkLoader",
       "1634769195670"
     ],
+    "https://github.com/Hephaestus-Arm/CamLightTester.git": [
+      "Hephaestus-Arm/CamLightTester",
+      "1644517354381"
+    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1634591577520"
@@ -81,10 +85,6 @@
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1634769350243"
-    ],
-    "https://github.com/madhephaestus/6dofServoArm.git": [
-      "madhephaestus/6dofServoArm",
-      "1632944016673"
     ],
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
       "WPIRoboticsEngineering/HortonsLinkages",
