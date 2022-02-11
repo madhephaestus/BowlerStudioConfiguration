@@ -30,10 +30,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "": [
-      "Project ",
-      "1638045029641"
-    ],
     "https://gist.github.com/26a571e332833f23754d.git": [
       "GIST: Bowler Studio Game Controllers",
       "1638042344275"
@@ -133,11 +129,11 @@
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.29.0",
-    "tutorialBranch": "master",
+    "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.38.3",
+    "skinBranch": "1.39.3",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.38.3"
+    "currentVersion": "1.39.3"
   }
 }
