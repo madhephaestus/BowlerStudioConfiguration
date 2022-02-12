@@ -120,6 +120,10 @@
     "https://github.com/Hephaestus-Arm/CamLightTester.git:colortester.groovy": [
       "https://github.com/Hephaestus-Arm/CamLightTester.git",
       "colortester.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHand.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHand.groovy"
     ]
   },
   "BowlerStudioConfigs": {
