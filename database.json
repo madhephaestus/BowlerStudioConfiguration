@@ -124,18 +124,6 @@
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git:main.fxml": [
       "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git",
       "main.fxml"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHand.groovy": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "cadGenHand.groovy"
-    ],
-    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git:controller.groovy": [
-      "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git",
-      "controller.groovy"
-    ],
-    "https://github.com/madhephaestus/parabolicpictureframe.git:frame.groovy": [
-      "https://github.com/madhephaestus/parabolicpictureframe.git",
-      "frame.groovy"
     ]
   },
   "BowlerStudioConfigs": {
