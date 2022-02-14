@@ -121,9 +121,9 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "hephaestus.xml"
+    "https://github.com/Hephaestus-Arm/CamLightTester.git:colortester.groovy": [
+      "https://github.com/Hephaestus-Arm/CamLightTester.git",
+      "colortester.groovy"
     ]
   },
   "BowlerStudioConfigs": {
