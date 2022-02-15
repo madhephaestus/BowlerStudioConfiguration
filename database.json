@@ -124,6 +124,22 @@
     "https://github.com/Hephaestus-Arm/CamLightTester.git:colortester.groovy": [
       "https://github.com/Hephaestus-Arm/CamLightTester.git",
       "colortester.groovy"
+    ],
+    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git:main.fxml": [
+      "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git",
+      "main.fxml"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHand.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHand.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "hephaestus.xml"
+    ],
+    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git:load.groovy": [
+      "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
+      "load.groovy"
     ]
   },
   "BowlerStudioConfigs": {
