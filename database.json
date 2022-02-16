@@ -120,16 +120,37 @@
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "RazerHydra": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Hephaestus-Arm/CamLightTester.git:colortester.groovy": [
+      "https://github.com/Hephaestus-Arm/CamLightTester.git",
+      "colortester.groovy"
+    ],
+    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git:main.fxml": [
+      "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git",
+      "main.fxml"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHand.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHand.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "hephaestus.xml"
+    ],
+    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git:load.groovy": [
+      "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
+      "load.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.29.0",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.41.2",
+    "skinBranch": "1.41.4",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.41.2",
+    "currentVersion": "1.41.4",
     "notifiedArduinoDep": true
   }
 }
