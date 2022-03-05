@@ -50,10 +50,6 @@
       "Hephaestus-Arm/CamLightTester",
       "1644517354381"
     ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
-      "Halloween2020TheChild/RazerHydraHIDJava",
-      "1634591577520"
-    ],
     "https://github.com/esuts/Inkscape-Plugin-Demo.git": [
       "esuts/Inkscape-Plugin-Demo",
       "1636855714409"
@@ -77,6 +73,10 @@
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1634769350243"
+    ],
+    "https://gist.github.com/cc98723a870e9666ff2c.git": [
+      "GIST: loadLibraryExample.groovy",
+      "1646509249100"
     ],
     "https://github.com/madhephaestus/BowlerStudioImageAssets.git": [
       "madhephaestus/BowlerStudioImageAssets",
@@ -128,6 +128,10 @@
     "https://gist.github.com/c15329c19b4a33248fe9.git:roundedcube.groovy": [
       "https://gist.github.com/c15329c19b4a33248fe9.git",
       "roundedcube.groovy"
+    ],
+    "https://gist.github.com/cc98723a870e9666ff2c.git:loadLibraryExample.groovy": [
+      "https://gist.github.com/cc98723a870e9666ff2c.git",
+      "loadLibraryExample.groovy"
     ]
   },
   "BowlerStudioConfigs": {
