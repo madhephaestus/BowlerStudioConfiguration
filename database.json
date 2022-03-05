@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
+      "GIST: cylinder.groovy",
+      "1646508831680"
+    ],
     "https://gist.github.com/26a571e332833f23754d.git": [
       "GIST: Bowler Studio Game Controllers",
       "1638042344275"
@@ -37,10 +41,6 @@
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "Hephaestus-Arm/HephaestusArm2",
       "1644769502551"
-    ],
-    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
-      "GIST: Sealed Bearing generator",
-      "1633894375978"
     ],
     "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
       "Hephaestus-Arm/HIDLinkLoader",
@@ -121,6 +121,10 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
+      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+      "cylinder.groovy"
+    ],
     "https://gist.github.com/c15329c19b4a33248fe9.git:roundedcube.groovy": [
       "https://gist.github.com/c15329c19b4a33248fe9.git",
       "roundedcube.groovy"
