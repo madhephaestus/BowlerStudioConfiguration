@@ -66,10 +66,6 @@
       "https://github.com/madhephaestus/parabolicpictureframe.git",
       "1640022152007"
     ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "madhephaestus/LewanSoulHornCadGenerator",
-      "1633888109076"
-    ],
     "https://github.com/digitalsoldier4/IndMotorCadGenerator.git": [
       "https://github.com/digitalsoldier4/IndMotorCadGenerator.git",
       "1636854929345"
@@ -85,6 +81,10 @@
     "https://github.com/madhephaestus/BowlerStudioImageAssets.git": [
       "madhephaestus/BowlerStudioImageAssets",
       "1644765345918"
+    ],
+    "https://gist.github.com/c15329c19b4a33248fe9.git": [
+      "GIST: roundedcube.groovy",
+      "1646508768646"
     ],
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
       "WPIRoboticsEngineering/HortonsLinkages",
@@ -120,7 +120,12 @@
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "RazerHydra": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/c15329c19b4a33248fe9.git:roundedcube.groovy": [
+      "https://gist.github.com/c15329c19b4a33248fe9.git",
+      "roundedcube.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.29.0",
