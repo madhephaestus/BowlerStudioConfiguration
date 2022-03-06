@@ -127,7 +127,8 @@
       "Game",
       "Switch",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "gamepad"
     ],
     "linkDeviceName": "midnight",
     "robotName": "Luna",
@@ -136,10 +137,6 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
-      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
-      "dhcad.groovy"
-    ],
     "https://github.com/OperationSmallKat/Luna.git:FrontRightCad.groovy": [
       "https://github.com/OperationSmallKat/Luna.git",
       "FrontRightCad.groovy"
