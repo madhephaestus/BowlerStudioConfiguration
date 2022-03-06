@@ -42,10 +42,6 @@
       "Hephaestus-Arm/HephaestusArm2",
       "1644769502551"
     ],
-    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
-      "Hephaestus-Arm/HIDLinkLoader",
-      "1634769195670"
-    ],
     "https://github.com/Hephaestus-Arm/CamLightTester.git": [
       "Hephaestus-Arm/CamLightTester",
       "1644517354381"
@@ -85,6 +81,10 @@
     "https://gist.github.com/c15329c19b4a33248fe9.git": [
       "GIST: roundedcube.groovy",
       "1646508768646"
+    ],
+    "https://github.com/madhephaestus/6dofServoArm.git": [
+      "madhephaestus/6dofServoArm",
+      "1646584554924"
     ],
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
       "WPIRoboticsEngineering/HortonsLinkages",
