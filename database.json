@@ -1,4 +1,19 @@
 {
+  "Performance Designed Products Faceoff Deluxe+ Audio Wired Controller for Nintendo Switch": {
+    "A": "y-mode",
+    "B": "b-mode",
+    "C": "a-mode",
+    "Mode": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-up-down",
+    "X": "x-mode",
+    "y": "l-joy-left-right",
+    "Left Thumb 3": "select",
+    "z": "r-joy-left-right",
+    "Z": "analog-trig",
+    "Left Thumb": "l-trig-button"
+  },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
     "B": "b-mode",
@@ -121,21 +136,13 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
-      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
-      "cylinder.groovy"
-    ],
-    "https://gist.github.com/c15329c19b4a33248fe9.git:roundedcube.groovy": [
-      "https://gist.github.com/c15329c19b4a33248fe9.git",
-      "roundedcube.groovy"
-    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
     ],
-    "https://gist.github.com/cc98723a870e9666ff2c.git:loadLibraryExample.groovy": [
-      "https://gist.github.com/cc98723a870e9666ff2c.git",
-      "loadLibraryExample.groovy"
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "hephaestus.xml"
     ]
   },
   "BowlerStudioConfigs": {
