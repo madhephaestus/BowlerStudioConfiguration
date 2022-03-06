@@ -50,9 +50,9 @@
       "esuts/Inkscape-Plugin-Demo",
       "1636855714409"
     ],
-    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
-      "OperationSmallKat/SmallKatLinkLoader",
-      "1634769265517"
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
+      "Halloween2020TheChild/RazerHydraHIDJava",
+      "1646584731569"
     ],
     "https://github.com/madhephaestus/parabolicpictureframe.git": [
       "https://github.com/madhephaestus/parabolicpictureframe.git",
@@ -128,6 +128,10 @@
     "https://gist.github.com/c15329c19b4a33248fe9.git:roundedcube.groovy": [
       "https://gist.github.com/c15329c19b4a33248fe9.git",
       "roundedcube.groovy"
+    ],
+    "https://github.com/madhephaestus/6dofServoArm.git:6dofServoArm.xml": [
+      "https://github.com/madhephaestus/6dofServoArm.git",
+      "6dofServoArm.xml"
     ],
     "https://gist.github.com/cc98723a870e9666ff2c.git:loadLibraryExample.groovy": [
       "https://gist.github.com/cc98723a870e9666ff2c.git",
