@@ -58,6 +58,10 @@
       "https://github.com/madhephaestus/parabolicpictureframe.git",
       "1640022152007"
     ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1646584785887"
+    ],
     "https://github.com/digitalsoldier4/IndMotorCadGenerator.git": [
       "https://github.com/digitalsoldier4/IndMotorCadGenerator.git",
       "1636854929345"
@@ -65,10 +69,6 @@
     "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git": [
       "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git",
       "1644767052032"
-    ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
-      "CommonWealthRobotics/DeviceProviders",
-      "1634769350243"
     ],
     "https://gist.github.com/cc98723a870e9666ff2c.git": [
       "GIST: loadLibraryExample.groovy",
@@ -129,9 +129,9 @@
       "https://gist.github.com/c15329c19b4a33248fe9.git",
       "roundedcube.groovy"
     ],
-    "https://github.com/madhephaestus/6dofServoArm.git:6dofServoArm.xml": [
-      "https://github.com/madhephaestus/6dofServoArm.git",
-      "6dofServoArm.xml"
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
+      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
+      "jinputGrogu.groovy"
     ],
     "https://gist.github.com/cc98723a870e9666ff2c.git:loadLibraryExample.groovy": [
       "https://gist.github.com/cc98723a870e9666ff2c.git",
