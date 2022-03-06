@@ -73,13 +73,13 @@
       "https://github.com/madhephaestus/parabolicpictureframe.git",
       "1640022152007"
     ],
+    "https://github.com/OperationSmallKat/Luna.git": [
+      "OperationSmallKat/Luna",
+      "1646596965878"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
       "1646584785887"
-    ],
-    "https://github.com/digitalsoldier4/IndMotorCadGenerator.git": [
-      "https://github.com/digitalsoldier4/IndMotorCadGenerator.git",
-      "1636854929345"
     ],
     "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git": [
       "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git",
@@ -124,10 +124,10 @@
   "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
-      "Dragon",
-      "X-Box",
       "Game",
-      "Switch"
+      "Switch",
+      "X-Box",
+      "Dragon"
     ],
     "linkDeviceName": "midnight",
     "robotName": "Luna",
@@ -140,9 +140,9 @@
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
     ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "hephaestus.xml"
+    "https://github.com/OperationSmallKat/Luna.git:MediumKat.xml": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "MediumKat.xml"
     ]
   },
   "BowlerStudioConfigs": {
