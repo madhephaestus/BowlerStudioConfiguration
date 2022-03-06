@@ -6,9 +6,9 @@
     "Mode": "start",
     "rz": "r-joy-up-down",
     "Right Thumb": "r-trig-button",
-    "x": "l-joy-up-down",
+    "x": "l-joy-left-right",
     "X": "x-mode",
-    "y": "l-joy-left-right",
+    "y": "l-joy-up-down",
     "Left Thumb 3": "select",
     "z": "r-joy-left-right",
     "Z": "analog-trig",
@@ -124,10 +124,10 @@
   "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
-      "Game",
-      "X-Box",
       "Dragon",
-      "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch"
+      "X-Box",
+      "Game",
+      "Switch"
     ],
     "linkDeviceName": "midnight",
     "robotName": "Luna",
