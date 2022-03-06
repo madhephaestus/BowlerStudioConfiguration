@@ -61,10 +61,6 @@
       "Hephaestus-Arm/CamLightTester",
       "1644517354381"
     ],
-    "https://github.com/esuts/Inkscape-Plugin-Demo.git": [
-      "esuts/Inkscape-Plugin-Demo",
-      "1636855714409"
-    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1646584731569"
@@ -96,6 +92,10 @@
     "https://gist.github.com/c15329c19b4a33248fe9.git": [
       "GIST: roundedcube.groovy",
       "1646508768646"
+    ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1646597732536"
     ],
     "https://github.com/madhephaestus/6dofServoArm.git": [
       "madhephaestus/6dofServoArm",
@@ -136,6 +136,22 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Luna.git:FrontRightCad.groovy": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "FrontRightCad.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Luna.git:RearRightCad.groovy": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "RearRightCad.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Luna.git:RearLeftCad.groovy": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "RearLeftCad.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
