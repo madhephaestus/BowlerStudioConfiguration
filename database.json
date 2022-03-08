@@ -3,6 +3,10 @@
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: cylinder.groovy",
       "1646767533759"
+    ],
+    "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
+      "madhephaestus/SVGBowlerExtrude",
+      "1646769505481"
     ]
   },
   "studio-open-web": {},
@@ -10,6 +14,10 @@
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "cylinder.groovy"
+    ],
+    "https://github.com/madhephaestus/SVGBowlerExtrude.git:drawing.svg": [
+      "https://github.com/madhephaestus/SVGBowlerExtrude.git",
+      "drawing.svg"
     ]
   },
   "BowlerStudioConfigs": {
