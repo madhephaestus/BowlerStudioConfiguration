@@ -1,172 +1,21 @@
 {
-  "Performance Designed Products Faceoff Deluxe+ Audio Wired Controller for Nintendo Switch": {
-    "A": "y-mode",
-    "B": "b-mode",
-    "C": "a-mode",
-    "Mode": "start",
-    "rz": "r-joy-up-down",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "y": "l-joy-up-down",
-    "Left Thumb 3": "select",
-    "z": "r-joy-left-right",
-    "Z": "analog-trig",
-    "Left Thumb": "l-trig-button"
-  },
-  "Microsoft X-Box 360 pad": {
-    "A": "a-mode",
-    "B": "b-mode",
-    "Start": "start",
-    "rx": "r-joy-left-right",
-    "ry": "r-joy-up-down",
-    "Mode": "select",
-    "rz": "analog-trig",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "y": "l-joy-up-down",
-    "Y": "y-mode",
-    "Left Thumb": "l-trig-button"
-  },
-  "Gamesir-T4pro_21FD": {
-    "A": "a-mode",
-    "slider": "analog-trig",
-    "B": "b-mode",
-    "Start": "start",
-    "rz": "r-joy-up-down",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "Select": "select",
-    "y": "l-joy-up-down",
-    "Y": "y-mode",
-    "z": "r-joy-left-right",
-    "Left Thumb": "l-trig-button"
-  },
   "workspace": {
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: cylinder.groovy",
-      "1646508831680"
-    ],
-    "https://gist.github.com/26a571e332833f23754d.git": [
-      "GIST: Bowler Studio Game Controllers",
-      "1638042344275"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1644769502551"
-    ],
-    "https://github.com/Hephaestus-Arm/CamLightTester.git": [
-      "Hephaestus-Arm/CamLightTester",
-      "1644517354381"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
-      "Halloween2020TheChild/RazerHydraHIDJava",
-      "1646584731569"
-    ],
-    "https://github.com/madhephaestus/parabolicpictureframe.git": [
-      "https://github.com/madhephaestus/parabolicpictureframe.git",
-      "1640022152007"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1646596965878"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
-      "Halloween2020TheChild/GroguMechanicsCad",
-      "1646584785887"
-    ],
-    "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git": [
-      "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git",
-      "1644767052032"
-    ],
-    "https://gist.github.com/cc98723a870e9666ff2c.git": [
-      "GIST: loadLibraryExample.groovy",
-      "1646509249100"
-    ],
-    "https://github.com/madhephaestus/BowlerStudioImageAssets.git": [
-      "madhephaestus/BowlerStudioImageAssets",
-      "1644765345918"
-    ],
-    "https://gist.github.com/c15329c19b4a33248fe9.git": [
-      "GIST: roundedcube.groovy",
-      "1646508768646"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1646597732536"
-    ],
-    "https://github.com/madhephaestus/6dofServoArm.git": [
-      "madhephaestus/6dofServoArm",
-      "1646584554924"
-    ],
-    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
-      "WPIRoboticsEngineering/HortonsLinkages",
-      "1642878392873"
+      "1646767533759"
     ]
   },
-  "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
-    "A": "y-mode",
-    "B": "b-mode",
-    "C": "a-mode",
-    "rz": "r-joy-up-down",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-up-down",
-    "X": "x-mode",
-    "y": "l-joy-left-right",
-    "Left Thumb 3": "start",
-    "Right Thumb 2": "select",
-    "z": "r-joy-left-right",
-    "Z": "analog-trig",
-    "Left Thumb": "l-trig-button"
-  },
   "studio-open-web": {},
-  "katapult": {
-    "gameControllerNames": [
-      "Game",
-      "Switch",
-      "X-Box",
-      "Dragon",
-      "gamepad"
-    ],
-    "linkDeviceName": "midnight",
-    "robotName": "Luna",
-    "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
-  },
-  "RazerHydra": {},
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/Luna.git:FrontRightCad.groovy": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "FrontRightCad.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git:RearRightCad.groovy": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "RearRightCad.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git:RearLeftCad.groovy": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "RearLeftCad.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
-      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
-      "jinputGrogu.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git:MediumKat.xml": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "MediumKat.xml"
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
+      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+      "cylinder.groovy"
     ]
   },
   "BowlerStudioConfigs": {
-    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
-    "firstVersion": "1.29.0",
-    "tutorialBranch": "deploy",
-    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.41.4",
+    "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.41.4",
     "notifiedArduinoDep": true
   }
 }
