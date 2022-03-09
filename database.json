@@ -1,4 +1,19 @@
 {
+  "Microsoft X-Box 360 pad": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "start",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "z": "analog-trig",
+    "Left Thumb": "l-trig-button"
+  },
   "workspace": {
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: cylinder.groovy",
@@ -10,6 +25,13 @@
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Dragon",
+      "X-Box",
+      "Game"
+    ]
+  },
   "studio-open-git": {
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
