@@ -1,4 +1,19 @@
 {
+  "Performance Designed Products Faceoff Deluxe+ Audio Wired Controller for Nintendo Switch": {
+    "A": "y-mode",
+    "B": "b-mode",
+    "C": "a-mode",
+    "Mode": "start",
+    "rz": "r-joy-up-down",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "l-trig-button",
+    "Right Thumb 2": "select",
+    "z": "r-joy-left-right",
+    "Z": "r-trig-button",
+    "Left Thumb": "analog-trig"
+  },
   "workspace": {
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: cylinder.groovy",
@@ -14,6 +29,14 @@
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Dragon",
+      "X-Box",
+      "Game",
+      "Switch"
+    ]
+  },
   "studio-open-git": {
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
@@ -22,6 +45,10 @@
     "https://github.com/madhephaestus/SVGBowlerExtrude.git:drawing.svg": [
       "https://github.com/madhephaestus/SVGBowlerExtrude.git",
       "drawing.svg"
+    ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
+      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
+      "jinputGrogu.groovy"
     ]
   },
   "BowlerStudioConfigs": {
