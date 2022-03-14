@@ -61,9 +61,9 @@
     "gameControllerNames": [
       "Game",
       "Switch",
+      "gamepad",
       "X-Box",
-      "Dragon",
-      "gamepad"
+      "Dragon"
     ],
     "linkDeviceName": "midnight",
     "robotName": "Luna",
@@ -74,6 +74,10 @@
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Luna.git:lunacad.groovy": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "lunacad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
