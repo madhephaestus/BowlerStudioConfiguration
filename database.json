@@ -137,9 +137,17 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
+      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+      "bearing.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git:load.groovy": [
+      "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
+      "load.groovy"
     ]
   },
   "BowlerStudioConfigs": {
