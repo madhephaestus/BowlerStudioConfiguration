@@ -69,10 +69,6 @@
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1634591577520"
     ],
-    "https://github.com/esuts/Inkscape-Plugin-Demo.git": [
-      "esuts/Inkscape-Plugin-Demo",
-      "1636855714409"
-    ],
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
       "1634769265517"
@@ -136,9 +132,17 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
+      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+      "bearing.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git:load.groovy": [
+      "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
+      "load.groovy"
     ]
   },
   "BowlerStudioConfigs": {
@@ -147,9 +151,9 @@
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.42.1",
+    "skinBranch": "1.42.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.42.1",
+    "currentVersion": "1.42.2",
     "notifiedArduinoDep": true
   }
 }
