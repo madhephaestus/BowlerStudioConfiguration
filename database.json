@@ -124,11 +124,10 @@
   "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
-      "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch",
-      "Game",
-      "X-Box",
       "Dragon",
-      "Performance Designed Products Faceoff Deluxe+ Audio Wired Controller for Nintendo Switch"
+      "X-Box",
+      "Game",
+      "Switch"
     ],
     "linkDeviceName": "midnight",
     "robotName": "Luna",
