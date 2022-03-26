@@ -77,6 +77,10 @@
       "https://github.com/madhephaestus/parabolicpictureframe.git",
       "1640022152007"
     ],
+    "https://gist.github.com/ca2cfbba52c848da45e7.git": [
+      "GIST: csgDatabase.json",
+      "1648310255150"
+    ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "madhephaestus/LewanSoulHornCadGenerator",
       "1633888109076"
@@ -136,9 +140,17 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
+    "https://gist.github.com/ca2cfbba52c848da45e7.git:cube.groovy": [
+      "https://gist.github.com/ca2cfbba52c848da45e7.git",
+      "cube.groovy"
+    ],
     "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git:reload.groovy": [
       "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git",
       "reload.groovy"
+    ],
+    "https://github.com/madhephaestus/CorsetParametric.git:corset.groovy": [
+      "https://github.com/madhephaestus/CorsetParametric.git",
+      "corset.groovy"
     ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
