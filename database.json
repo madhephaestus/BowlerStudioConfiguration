@@ -140,10 +140,6 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
-    "https://gist.github.com/ca2cfbba52c848da45e7.git:cube.groovy": [
-      "https://gist.github.com/ca2cfbba52c848da45e7.git",
-      "cube.groovy"
-    ],
     "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git:reload.groovy": [
       "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git",
       "reload.groovy"
