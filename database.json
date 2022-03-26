@@ -140,10 +140,6 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
-    "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git:reload.groovy": [
-      "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git",
-      "reload.groovy"
-    ],
     "https://github.com/madhephaestus/CorsetParametric.git:corset.groovy": [
       "https://github.com/madhephaestus/CorsetParametric.git",
       "corset.groovy"
