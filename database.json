@@ -77,10 +77,6 @@
       "https://github.com/madhephaestus/parabolicpictureframe.git",
       "1640022152007"
     ],
-    "https://gist.github.com/ca2cfbba52c848da45e7.git": [
-      "GIST: csgDatabase.json",
-      "1648310255150"
-    ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "madhephaestus/LewanSoulHornCadGenerator",
       "1633888109076"
@@ -104,10 +100,6 @@
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
       "WPIRoboticsEngineering/HortonsLinkages",
       "1642878392873"
-    ],
-    "https://github.com/madhephaestus/CorsetParametric.git": [
-      "madhephaestus/CorsetParametric",
-      "1648307655217"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -140,9 +132,9 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
-    "https://github.com/madhephaestus/CorsetParametric.git:corset.groovy": [
-      "https://github.com/madhephaestus/CorsetParametric.git",
-      "corset.groovy"
+    "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git:reload.groovy": [
+      "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git",
+      "reload.groovy"
     ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
