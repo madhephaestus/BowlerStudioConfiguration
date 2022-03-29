@@ -53,6 +53,10 @@
       "Hephaestus-Arm/HephaestusArm2",
       "1644769502551"
     ],
+    "https://gist.github.com/c3944b2a203585d969bf.git": [
+      "GIST: Lets bring together some of the parts.",
+      "1648565782466"
+    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
       "1633894375978"
@@ -97,6 +101,14 @@
       "madhephaestus/BowlerStudioImageAssets",
       "1644765345918"
     ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1648566798932"
+    ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1648567131936"
+    ],
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
       "WPIRoboticsEngineering/HortonsLinkages",
       "1642878392873"
@@ -131,16 +143,7 @@
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "RazerHydra": {},
-  "studio-open-git": {
-    "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git:reload.groovy": [
-      "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git",
-      "reload.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
-      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
-      "jinputGrogu.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.29.0",
