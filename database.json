@@ -53,6 +53,10 @@
       "Hephaestus-Arm/HephaestusArm2",
       "1644769502551"
     ],
+    "https://gist.github.com/c3944b2a203585d969bf.git": [
+      "GIST: Lets bring together some of the parts.",
+      "1648565782466"
+    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
       "1633894375978"
@@ -139,6 +143,10 @@
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
+    ],
+    "https://gist.github.com/c3944b2a203585d969bf.git:kinematicsCad.groovy": [
+      "https://gist.github.com/c3944b2a203585d969bf.git",
+      "kinematicsCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
