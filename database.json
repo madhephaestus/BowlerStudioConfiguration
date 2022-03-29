@@ -61,6 +61,10 @@
       "Hephaestus-Arm/HIDLinkLoader",
       "1634769195670"
     ],
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
+      "WPIRoboticsEngineering/RBELabCustomParts",
+      "1648513949641"
+    ],
     "https://github.com/Hephaestus-Arm/CamLightTester.git": [
       "Hephaestus-Arm/CamLightTester",
       "1644517354381"
