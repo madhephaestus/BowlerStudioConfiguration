@@ -101,6 +101,10 @@
       "madhephaestus/BowlerStudioImageAssets",
       "1644765345918"
     ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1648566798932"
+    ],
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
       "WPIRoboticsEngineering/HortonsLinkages",
       "1642878392873"
@@ -144,9 +148,9 @@
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
     ],
-    "https://gist.github.com/c3944b2a203585d969bf.git:kinematicsCad.groovy": [
-      "https://gist.github.com/c3944b2a203585d969bf.git",
-      "kinematicsCad.groovy"
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/DynamicWalkingV2.groovy"
     ]
   },
   "BowlerStudioConfigs": {
