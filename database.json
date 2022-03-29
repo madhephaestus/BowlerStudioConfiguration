@@ -144,6 +144,10 @@
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "cylinder.groovy"
     ],
+    "https://github.com/CommonWealthRobotics/Bowler-Script-Release-CI.git:CI-build-test.groovy": [
+      "https://github.com/CommonWealthRobotics/Bowler-Script-Release-CI.git",
+      "CI-build-test.groovy"
+    ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git:loadAll.groovy": [
       "https://github.com/CommonWealthRobotics/DeviceProviders.git",
       "loadAll.groovy"
