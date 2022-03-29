@@ -45,6 +45,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
+      "GIST: .gitignore",
+      "1648569967667"
+    ],
     "https://gist.github.com/26a571e332833f23754d.git": [
       "GIST: Bowler Studio Game Controllers",
       "1638042344275"
@@ -131,7 +135,12 @@
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "RazerHydra": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
+      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+      "cylinder.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.29.0",
