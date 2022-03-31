@@ -140,9 +140,9 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
-      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
-      "cylinder.groovy"
+    "https://github.com/madhephaestus/citestbowler.git:run-in-ci.groovy": [
+      "https://github.com/madhephaestus/citestbowler.git",
+      "run-in-ci.groovy"
     ],
     "https://github.com/CommonWealthRobotics/Bowler-Script-Release-CI.git:CI-build-test.groovy": [
       "https://github.com/CommonWealthRobotics/Bowler-Script-Release-CI.git",
