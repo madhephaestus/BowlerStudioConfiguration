@@ -152,6 +152,10 @@
       "https://github.com/CommonWealthRobotics/DeviceProviders.git",
       "loadAll.groovy"
     ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "LewanSoulHorn.groovy"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "cadGenHephaestusArm.groovy"
