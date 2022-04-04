@@ -89,6 +89,10 @@
       "https://github.com/madhephaestus/parabolicpictureframe.git",
       "1640022152007"
     ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1649093437237"
+    ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "madhephaestus/LewanSoulHornCadGenerator",
       "1633888109076"
@@ -151,6 +155,10 @@
     "https://github.com/madhephaestus/tesst-ci-process.git:runme.groovy": [
       "https://github.com/madhephaestus/tesst-ci-process.git",
       "runme.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
+      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
+      "jinputGrogu.groovy"
     ]
   },
   "BowlerStudioConfigs": {
