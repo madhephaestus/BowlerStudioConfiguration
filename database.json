@@ -160,6 +160,10 @@
   },
   "RazerHydra": {},
   "studio-open-git": {
+    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git:Maze-Wall.groovy": [
+      "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
+      "Maze-Wall.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
