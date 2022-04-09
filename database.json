@@ -61,6 +61,10 @@
       "GIST: Cap screw generator",
       "1649099730089"
     ],
+    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
+      "GIST: cube.groovy",
+      "1649528293168"
+    ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
       "1633894375978"
@@ -163,6 +167,10 @@
     "https://github.com/WPIRoboticsEngineering/Modular-Maze.git:Maze-Wall.groovy": [
       "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
       "Maze-Wall.groovy"
+    ],
+    "https://gist.github.com/185a0aad1f898ab32e5e.git:cube.groovy": [
+      "https://gist.github.com/185a0aad1f898ab32e5e.git",
+      "cube.groovy"
     ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
