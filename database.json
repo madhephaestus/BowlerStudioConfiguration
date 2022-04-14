@@ -1,14 +1,26 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/madhephaestus/assemblybowlertest.git": [
+      "https://github.com/madhephaestus/assemblybowlertest.git",
+      "1649949259617"
+    ]
+  },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestus/assemblybowlertest.git:assembly.groovy": [
+      "https://github.com/madhephaestus/assemblybowlertest.git",
+      "assembly.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "firstVersion": "1.45.6",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12,
+    "fontsize": 12.0,
     "skinBranch": "1.45.5",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
+    "notifiedArduinoDep": true,
+    "currentVersion": "1.45.6"
   }
 }
