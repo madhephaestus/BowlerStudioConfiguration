@@ -7,6 +7,10 @@
     "https://github.com/madhephaestus/assemblybowlertest.git": [
       "https://github.com/madhephaestus/assemblybowlertest.git",
       "1649949259617"
+    ],
+    "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
+      "GIST: Demonstrate assembly instructions",
+      "1649969103534"
     ]
   },
   "studio-open-web": {},
@@ -15,8 +19,8 @@
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "cylinder.groovy"
     ],
-    "https://github.com/madhephaestus/assemblybowlertest.git:assembly.groovy": [
-      "https://github.com/madhephaestus/assemblybowlertest.git",
+    "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git:assembly.groovy": [
+      "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git",
       "assembly.groovy"
     ]
   },
