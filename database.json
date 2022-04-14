@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
+      "GIST: .gitignore",
+      "1649949315465"
+    ],
     "https://github.com/madhephaestus/assemblybowlertest.git": [
       "https://github.com/madhephaestus/assemblybowlertest.git",
       "1649949259617"
@@ -7,6 +11,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
+      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+      "cylinder.groovy"
+    ],
     "https://github.com/madhephaestus/assemblybowlertest.git:assembly.groovy": [
       "https://github.com/madhephaestus/assemblybowlertest.git",
       "assembly.groovy"
