@@ -35,9 +35,9 @@
       "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git",
       "assembly.groovy"
     ],
-    "https://github.com/WPIRoboticsEngineering/DFW.git:DFW.h": [
-      "https://github.com/WPIRoboticsEngineering/DFW.git",
-      "DFW.h"
+    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git:Maze-Wall.groovy": [
+      "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
+      "Maze-Wall.groovy"
     ],
     "https://gist.github.com/9655185a6b0f3a230158.git:playWavFile.groovy": [
       "https://gist.github.com/9655185a6b0f3a230158.git",
