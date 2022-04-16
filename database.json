@@ -4,6 +4,10 @@
       "GIST: .gitignore",
       "1649949315465"
     ],
+    "https://github.com/WPIRoboticsEngineering/DFW.git": [
+      "WPIRoboticsEngineering/DFW",
+      "1650075839071"
+    ],
     "https://github.com/madhephaestus/assemblybowlertest.git": [
       "https://github.com/madhephaestus/assemblybowlertest.git",
       "1649949259617"
@@ -26,6 +30,10 @@
     "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git:assembly.groovy": [
       "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git",
       "assembly.groovy"
+    ],
+    "https://github.com/WPIRoboticsEngineering/DFW.git:DFW.h": [
+      "https://github.com/WPIRoboticsEngineering/DFW.git",
+      "DFW.h"
     ],
     "https://gist.github.com/9655185a6b0f3a230158.git:playWavFile.groovy": [
       "https://gist.github.com/9655185a6b0f3a230158.git",
