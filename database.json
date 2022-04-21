@@ -43,6 +43,10 @@
       "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git",
       "assembly.groovy"
     ],
+    "https://github.com/madhephaestus/SynthPickPhysics.git:testScene.groovy": [
+      "https://github.com/madhephaestus/SynthPickPhysics.git",
+      "testScene.groovy"
+    ],
     "https://gist.github.com/9655185a6b0f3a230158.git:playWavFile.groovy": [
       "https://gist.github.com/9655185a6b0f3a230158.git",
       "playWavFile.groovy"
