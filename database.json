@@ -28,6 +28,10 @@
       "https://github.com/madhephaestus/assemblybowlertest.git",
       "1649949259617"
     ],
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
+      "GIST: Robot smashes through pile of bricks",
+      "1650548936385"
+    ],
     "https://gist.github.com/9655185a6b0f3a230158.git": [
       "GIST: .gitignore",
       "1649979487740"
@@ -43,9 +47,9 @@
       "https://github.com/madhephaestus/SynthPickPhysics.git",
       "testScene.groovy"
     ],
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
+      "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
+      "SimulatePhysics.groovy"
     ]
   },
   "BowlerStudioConfigs": {
