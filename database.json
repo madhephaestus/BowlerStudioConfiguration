@@ -16,6 +16,10 @@
       "https://github.com/madhephaestus/imageto3d.git",
       "1650077698359"
     ],
+    "https://gist.github.com/4814b39ee72e9f590757.git": [
+      "GIST: JavaCadExample",
+      "1650546322162"
+    ],
     "https://github.com/madhephaestus/SynthPickPhysics.git": [
       "madhephaestus/SynthPickPhysics",
       "1650546252713"
@@ -35,21 +39,13 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
-      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
-      "cylinder.groovy"
-    ],
-    "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git:assembly.groovy": [
-      "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git",
-      "assembly.groovy"
-    ],
     "https://github.com/madhephaestus/SynthPickPhysics.git:testScene.groovy": [
       "https://github.com/madhephaestus/SynthPickPhysics.git",
       "testScene.groovy"
     ],
-    "https://gist.github.com/9655185a6b0f3a230158.git:playWavFile.groovy": [
-      "https://gist.github.com/9655185a6b0f3a230158.git",
-      "playWavFile.groovy"
+    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "javaCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
