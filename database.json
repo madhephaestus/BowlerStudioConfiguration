@@ -46,6 +46,10 @@
     "https://github.com/madhephaestus/SynthPickPhysics.git:testScene.groovy": [
       "https://github.com/madhephaestus/SynthPickPhysics.git",
       "testScene.groovy"
+    ],
+    "https://github.com/madhephaestus/imageto3d.git:patch.SVG": [
+      "https://github.com/madhephaestus/imageto3d.git",
+      "patch.SVG"
     ]
   },
   "BowlerStudioConfigs": {
