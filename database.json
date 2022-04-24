@@ -8,6 +8,10 @@
       "GIST: .gitignore",
       "1649949315465"
     ],
+    "https://gist.github.com/721302a0ff6d2809b997.git": [
+      "GIST: javaCadHull.groovy",
+      "1650821895204"
+    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1650546322162"
@@ -103,6 +107,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/721302a0ff6d2809b997.git:javaCadHull.groovy": [
+      "https://gist.github.com/721302a0ff6d2809b997.git",
+      "javaCadHull.groovy"
+    ],
     "https://github.com/madhephaestus/SynthPickPhysics.git:testScene.groovy": [
       "https://github.com/madhephaestus/SynthPickPhysics.git",
       "testScene.groovy"
