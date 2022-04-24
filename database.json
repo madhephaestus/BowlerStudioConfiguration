@@ -4,21 +4,9 @@
       "GIST: .gitignore",
       "1649949315465"
     ],
-    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
-      "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
-      "1650075886849"
-    ],
-    "https://gist.github.com/900e15bf3a2ccc0a510d.git": [
-      "GIST: whileexample.groovy",
-      "1650819089249"
-    ],
     "https://github.com/WPIRoboticsEngineering/DFW.git": [
       "WPIRoboticsEngineering/DFW",
       "1650075839071"
-    ],
-    "https://github.com/madhephaestus/imageto3d.git": [
-      "https://github.com/madhephaestus/imageto3d.git",
-      "1650077698359"
     ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
@@ -47,6 +35,22 @@
     "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
       "GIST: Demonstrate assembly instructions",
       "1649969103534"
+    ],
+    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
+      "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
+      "1650075886849"
+    ],
+    "https://gist.github.com/900e15bf3a2ccc0a510d.git": [
+      "GIST: whileexample.groovy",
+      "1650819089249"
+    ],
+    "https://github.com/madhephaestus/imageto3d.git": [
+      "https://github.com/madhephaestus/imageto3d.git",
+      "1650077698359"
+    ],
+    "https://github.com/madhephaestus/ifquiz_madhephaestus.git": [
+      "https://github.com/madhephaestus/ifquiz_madhephaestus.git",
+      "1650819397677"
     ]
   },
   "studio-open-web": {},
@@ -66,6 +70,10 @@
     "https://github.com/madhephaestus/imageto3d.git:patch.SVG": [
       "https://github.com/madhephaestus/imageto3d.git",
       "patch.SVG"
+    ],
+    "https://github.com/madhephaestus/ifquiz_madhephaestus.git:ifquiz.groovy": [
+      "https://github.com/madhephaestus/ifquiz_madhephaestus.git",
+      "ifquiz.groovy"
     ]
   },
   "BowlerStudioConfigs": {
