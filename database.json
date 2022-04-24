@@ -75,6 +75,10 @@
     "https://github.com/madhephaestus/elseifexample_madhephaestus.git": [
       "https://github.com/madhephaestus/elseifexample_madhephaestus.git",
       "1650819681884"
+    ],
+    "https://gist.github.com/bae417566c2b46e3ab94.git": [
+      "GIST: union.groovy",
+      "1650821336700"
     ]
   },
   "studio-open-web": {},
@@ -94,6 +98,10 @@
     "https://gist.github.com/8e721186d2ae185a03b8.git:moveRotate.groovy": [
       "https://gist.github.com/8e721186d2ae185a03b8.git",
       "moveRotate.groovy"
+    ],
+    "https://gist.github.com/bae417566c2b46e3ab94.git:union.groovy": [
+      "https://gist.github.com/bae417566c2b46e3ab94.git",
+      "union.groovy"
     ]
   },
   "BowlerStudioConfigs": {
