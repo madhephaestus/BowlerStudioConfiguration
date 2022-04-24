@@ -56,6 +56,10 @@
       "GIST: Demonstrate assembly instructions",
       "1649969103534"
     ],
+    "https://gist.github.com/8e74becf9b9ab8a52279.git": [
+      "GIST: intersect.groovy",
+      "1650821495374"
+    ],
     "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
       "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
       "1650075886849"
@@ -110,6 +114,10 @@
     "https://gist.github.com/bae417566c2b46e3ab94.git:union.groovy": [
       "https://gist.github.com/bae417566c2b46e3ab94.git",
       "union.groovy"
+    ],
+    "https://gist.github.com/8e74becf9b9ab8a52279.git:intersect.groovy": [
+      "https://gist.github.com/8e74becf9b9ab8a52279.git",
+      "intersect.groovy"
     ]
   },
   "BowlerStudioConfigs": {
