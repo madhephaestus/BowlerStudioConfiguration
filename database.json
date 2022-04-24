@@ -8,6 +8,10 @@
       "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
       "1650075886849"
     ],
+    "https://gist.github.com/900e15bf3a2ccc0a510d.git": [
+      "GIST: whileexample.groovy",
+      "1650819089249"
+    ],
     "https://github.com/WPIRoboticsEngineering/DFW.git": [
       "WPIRoboticsEngineering/DFW",
       "1650075839071"
@@ -47,6 +51,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/900e15bf3a2ccc0a510d.git:whileexample.groovy": [
+      "https://gist.github.com/900e15bf3a2ccc0a510d.git",
+      "whileexample.groovy"
+    ],
     "https://github.com/madhephaestus/SynthPickPhysics.git:testScene.groovy": [
       "https://github.com/madhephaestus/SynthPickPhysics.git",
       "testScene.groovy"
