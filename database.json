@@ -4,6 +4,10 @@
       "GIST: .gitignore",
       "1649949315465"
     ],
+    "https://gist.github.com/8e721186d2ae185a03b8.git": [
+      "GIST: moveRotate.groovy",
+      "1650820988609"
+    ],
     "https://github.com/WPIRoboticsEngineering/DFW.git": [
       "WPIRoboticsEngineering/DFW",
       "1650075839071"
@@ -78,6 +82,10 @@
     "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git:ParabolaTest.groovy": [
       "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git",
       "ParabolaTest.groovy"
+    ],
+    "https://gist.github.com/8e721186d2ae185a03b8.git:moveRotate.groovy": [
+      "https://gist.github.com/8e721186d2ae185a03b8.git",
+      "moveRotate.groovy"
     ]
   },
   "BowlerStudioConfigs": {
