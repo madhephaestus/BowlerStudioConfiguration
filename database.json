@@ -80,6 +80,10 @@
       "GIST: resizeScale.groovy",
       "1650821239406"
     ],
+    "https://gist.github.com/50d40376ff09d23de63c.git": [
+      "GIST: LoadSTL.groovy",
+      "1650821636533"
+    ],
     "https://github.com/madhephaestus/ifquiz_madhephaestus.git": [
       "https://github.com/madhephaestus/ifquiz_madhephaestus.git",
       "1650819397677"
@@ -95,37 +99,13 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/b1356537edaaad7c4b35.git:difference.groovy": [
-      "https://gist.github.com/b1356537edaaad7c4b35.git",
-      "difference.groovy"
-    ],
     "https://github.com/madhephaestus/SynthPickPhysics.git:testScene.groovy": [
       "https://github.com/madhephaestus/SynthPickPhysics.git",
       "testScene.groovy"
     ],
-    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git:ParabolaTest.groovy": [
-      "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git",
-      "ParabolaTest.groovy"
-    ],
-    "https://gist.github.com/e1357b153496bfa70927.git:resizeScale.groovy": [
-      "https://gist.github.com/e1357b153496bfa70927.git",
-      "resizeScale.groovy"
-    ],
-    "https://gist.github.com/8e721186d2ae185a03b8.git:moveRotate.groovy": [
-      "https://gist.github.com/8e721186d2ae185a03b8.git",
-      "moveRotate.groovy"
-    ],
-    "https://gist.github.com/bae417566c2b46e3ab94.git:union.groovy": [
-      "https://gist.github.com/bae417566c2b46e3ab94.git",
-      "union.groovy"
-    ],
-    "https://gist.github.com/8e74becf9b9ab8a52279.git:intersect.groovy": [
-      "https://gist.github.com/8e74becf9b9ab8a52279.git",
-      "intersect.groovy"
-    ],
-    "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git:filletASlice.groovy": [
-      "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git",
-      "filletASlice.groovy"
+    "https://gist.github.com/50d40376ff09d23de63c.git:LoadSTL.groovy": [
+      "https://gist.github.com/50d40376ff09d23de63c.git",
+      "LoadSTL.groovy"
     ]
   },
   "BowlerStudioConfigs": {
