@@ -107,21 +107,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/721302a0ff6d2809b997.git:javaCadHull.groovy": [
-      "https://gist.github.com/721302a0ff6d2809b997.git",
-      "javaCadHull.groovy"
-    ],
     "https://github.com/madhephaestus/SynthPickPhysics.git:testScene.groovy": [
       "https://github.com/madhephaestus/SynthPickPhysics.git",
       "testScene.groovy"
-    ],
-    "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git:assembly.groovy": [
-      "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git",
-      "assembly.groovy"
-    ],
-    "https://gist.github.com/27746e6772959e9544689058d321273e.git:minkowskiAPI.groovy": [
-      "https://gist.github.com/27746e6772959e9544689058d321273e.git",
-      "minkowskiAPI.groovy"
     ]
   },
   "BowlerStudioConfigs": {
