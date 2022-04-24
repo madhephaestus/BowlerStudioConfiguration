@@ -20,6 +20,10 @@
       "GIST: JavaCadExample",
       "1650546322162"
     ],
+    "https://gist.github.com/8a06a5fd3f94c309ed78.git": [
+      "GIST: forexample.groovy",
+      "1650818901400"
+    ],
     "https://github.com/madhephaestus/SynthPickPhysics.git": [
       "madhephaestus/SynthPickPhysics",
       "1650546252713"
@@ -46,6 +50,10 @@
     "https://github.com/madhephaestus/SynthPickPhysics.git:testScene.groovy": [
       "https://github.com/madhephaestus/SynthPickPhysics.git",
       "testScene.groovy"
+    ],
+    "https://gist.github.com/8a06a5fd3f94c309ed78.git:forexample.groovy": [
+      "https://gist.github.com/8a06a5fd3f94c309ed78.git",
+      "forexample.groovy"
     ],
     "https://github.com/madhephaestus/imageto3d.git:patch.SVG": [
       "https://github.com/madhephaestus/imageto3d.git",
