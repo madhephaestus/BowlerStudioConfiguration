@@ -8,18 +8,6 @@
       "GIST: .gitignore",
       "1649949315465"
     ],
-    "https://gist.github.com/8e721186d2ae185a03b8.git": [
-      "GIST: moveRotate.groovy",
-      "1650820988609"
-    ],
-    "https://github.com/WPIRoboticsEngineering/DFW.git": [
-      "WPIRoboticsEngineering/DFW",
-      "1650075839071"
-    ],
-    "https://github.com/madhephaestus/LaputaRobotHead.git": [
-      "madhephaestus/LaputaRobotHead",
-      "1650820197932"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1650546322162"
@@ -32,13 +20,45 @@
       "madhephaestus/SynthPickPhysics",
       "1650546252713"
     ],
-    "https://github.com/madhephaestus/assemblybowlertest.git": [
-      "https://github.com/madhephaestus/assemblybowlertest.git",
-      "1649949259617"
-    ],
     "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
       "GIST: parabola",
       "1650820498291"
+    ],
+    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
+      "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
+      "1650075886849"
+    ],
+    "https://gist.github.com/900e15bf3a2ccc0a510d.git": [
+      "GIST: whileexample.groovy",
+      "1650819089249"
+    ],
+    "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git": [
+      "GIST: Slice a csg and fillet around the slice",
+      "1650821593792"
+    ],
+    "https://github.com/madhephaestus/imageto3d.git": [
+      "https://github.com/madhephaestus/imageto3d.git",
+      "1650077698359"
+    ],
+    "https://github.com/madhephaestus/elseifexample_madhephaestus.git": [
+      "https://github.com/madhephaestus/elseifexample_madhephaestus.git",
+      "1650819681884"
+    ],
+    "https://gist.github.com/8e721186d2ae185a03b8.git": [
+      "GIST: moveRotate.groovy",
+      "1650820988609"
+    ],
+    "https://github.com/WPIRoboticsEngineering/DFW.git": [
+      "WPIRoboticsEngineering/DFW",
+      "1650075839071"
+    ],
+    "https://github.com/madhephaestus/LaputaRobotHead.git": [
+      "madhephaestus/LaputaRobotHead",
+      "1650820197932"
+    ],
+    "https://github.com/madhephaestus/assemblybowlertest.git": [
+      "https://github.com/madhephaestus/assemblybowlertest.git",
+      "1649949259617"
     ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "GIST: Robot smashes through pile of bricks",
@@ -60,21 +80,9 @@
       "GIST: intersect.groovy",
       "1650821495374"
     ],
-    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
-      "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
-      "1650075886849"
-    ],
-    "https://gist.github.com/900e15bf3a2ccc0a510d.git": [
-      "GIST: whileexample.groovy",
-      "1650819089249"
-    ],
-    "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git": [
-      "GIST: Slice a csg and fillet around the slice",
-      "1650821593792"
-    ],
-    "https://github.com/madhephaestus/imageto3d.git": [
-      "https://github.com/madhephaestus/imageto3d.git",
-      "1650077698359"
+    "https://gist.github.com/27746e6772959e9544689058d321273e.git": [
+      "GIST: Minkowski opperation examples",
+      "1650821782651"
     ],
     "https://gist.github.com/e1357b153496bfa70927.git": [
       "GIST: resizeScale.groovy",
@@ -88,10 +96,6 @@
       "https://github.com/madhephaestus/ifquiz_madhephaestus.git",
       "1650819397677"
     ],
-    "https://github.com/madhephaestus/elseifexample_madhephaestus.git": [
-      "https://github.com/madhephaestus/elseifexample_madhephaestus.git",
-      "1650819681884"
-    ],
     "https://gist.github.com/bae417566c2b46e3ab94.git": [
       "GIST: union.groovy",
       "1650821336700"
@@ -103,9 +107,13 @@
       "https://github.com/madhephaestus/SynthPickPhysics.git",
       "testScene.groovy"
     ],
-    "https://gist.github.com/50d40376ff09d23de63c.git:LoadSTL.groovy": [
-      "https://gist.github.com/50d40376ff09d23de63c.git",
-      "LoadSTL.groovy"
+    "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git:assembly.groovy": [
+      "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git",
+      "assembly.groovy"
+    ],
+    "https://gist.github.com/27746e6772959e9544689058d321273e.git:minkowskiAPI.groovy": [
+      "https://gist.github.com/27746e6772959e9544689058d321273e.git",
+      "minkowskiAPI.groovy"
     ]
   },
   "BowlerStudioConfigs": {
