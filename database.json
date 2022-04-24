@@ -32,6 +32,10 @@
       "GIST: .gitignore",
       "1649979487740"
     ],
+    "https://github.com/madhephaestus/elseexample_madhephaestus.git": [
+      "https://github.com/madhephaestus/elseexample_madhephaestus.git",
+      "1650819700413"
+    ],
     "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
       "GIST: Demonstrate assembly instructions",
       "1649969103534"
@@ -71,6 +75,10 @@
       "https://gist.github.com/8a06a5fd3f94c309ed78.git",
       "forexample.groovy"
     ],
+    "https://github.com/madhephaestus/elseexample_madhephaestus.git:elseexample.groovy": [
+      "https://github.com/madhephaestus/elseexample_madhephaestus.git",
+      "elseexample.groovy"
+    ],
     "https://github.com/madhephaestus/imageto3d.git:patch.SVG": [
       "https://github.com/madhephaestus/imageto3d.git",
       "patch.SVG"
@@ -78,10 +86,6 @@
     "https://github.com/madhephaestus/ifquiz_madhephaestus.git:ifquiz.groovy": [
       "https://github.com/madhephaestus/ifquiz_madhephaestus.git",
       "ifquiz.groovy"
-    ],
-    "https://github.com/madhephaestus/elseifexample_madhephaestus.git:elseifexample.groovy": [
-      "https://github.com/madhephaestus/elseifexample_madhephaestus.git",
-      "elseifexample.groovy"
     ]
   },
   "BowlerStudioConfigs": {
