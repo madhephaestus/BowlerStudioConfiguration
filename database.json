@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/b1356537edaaad7c4b35.git": [
+      "GIST: difference.groovy",
+      "1650821454831"
+    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
       "1649949315465"
@@ -83,6 +87,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/b1356537edaaad7c4b35.git:difference.groovy": [
+      "https://gist.github.com/b1356537edaaad7c4b35.git",
+      "difference.groovy"
+    ],
     "https://github.com/madhephaestus/SynthPickPhysics.git:testScene.groovy": [
       "https://github.com/madhephaestus/SynthPickPhysics.git",
       "testScene.groovy"
