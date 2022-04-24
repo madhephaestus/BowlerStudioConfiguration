@@ -8,6 +8,10 @@
       "WPIRoboticsEngineering/DFW",
       "1650075839071"
     ],
+    "https://github.com/madhephaestus/LaputaRobotHead.git": [
+      "madhephaestus/LaputaRobotHead",
+      "1650820197932"
+    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1650546322162"
@@ -74,10 +78,6 @@
     "https://gist.github.com/8a06a5fd3f94c309ed78.git:forexample.groovy": [
       "https://gist.github.com/8a06a5fd3f94c309ed78.git",
       "forexample.groovy"
-    ],
-    "https://github.com/madhephaestus/elseexample_madhephaestus.git:elseexample.groovy": [
-      "https://github.com/madhephaestus/elseexample_madhephaestus.git",
-      "elseexample.groovy"
     ],
     "https://github.com/madhephaestus/imageto3d.git:patch.SVG": [
       "https://github.com/madhephaestus/imageto3d.git",
