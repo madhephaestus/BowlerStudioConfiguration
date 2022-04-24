@@ -28,6 +28,10 @@
       "https://github.com/madhephaestus/assemblybowlertest.git",
       "1649949259617"
     ],
+    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
+      "GIST: parabola",
+      "1650820498291"
+    ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "GIST: Robot smashes through pile of bricks",
       "1650548936385"
@@ -67,25 +71,13 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/900e15bf3a2ccc0a510d.git:whileexample.groovy": [
-      "https://gist.github.com/900e15bf3a2ccc0a510d.git",
-      "whileexample.groovy"
-    ],
     "https://github.com/madhephaestus/SynthPickPhysics.git:testScene.groovy": [
       "https://github.com/madhephaestus/SynthPickPhysics.git",
       "testScene.groovy"
     ],
-    "https://gist.github.com/8a06a5fd3f94c309ed78.git:forexample.groovy": [
-      "https://gist.github.com/8a06a5fd3f94c309ed78.git",
-      "forexample.groovy"
-    ],
-    "https://github.com/madhephaestus/imageto3d.git:patch.SVG": [
-      "https://github.com/madhephaestus/imageto3d.git",
-      "patch.SVG"
-    ],
-    "https://github.com/madhephaestus/ifquiz_madhephaestus.git:ifquiz.groovy": [
-      "https://github.com/madhephaestus/ifquiz_madhephaestus.git",
-      "ifquiz.groovy"
+    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git:ParabolaTest.groovy": [
+      "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git",
+      "ParabolaTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
