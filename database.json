@@ -51,6 +51,10 @@
     "https://github.com/madhephaestus/ifquiz_madhephaestus.git": [
       "https://github.com/madhephaestus/ifquiz_madhephaestus.git",
       "1650819397677"
+    ],
+    "https://github.com/madhephaestus/elseifexample_madhephaestus.git": [
+      "https://github.com/madhephaestus/elseifexample_madhephaestus.git",
+      "1650819681884"
     ]
   },
   "studio-open-web": {},
@@ -74,6 +78,10 @@
     "https://github.com/madhephaestus/ifquiz_madhephaestus.git:ifquiz.groovy": [
       "https://github.com/madhephaestus/ifquiz_madhephaestus.git",
       "ifquiz.groovy"
+    ],
+    "https://github.com/madhephaestus/elseifexample_madhephaestus.git:elseifexample.groovy": [
+      "https://github.com/madhephaestus/elseifexample_madhephaestus.git",
+      "elseifexample.groovy"
     ]
   },
   "BowlerStudioConfigs": {
