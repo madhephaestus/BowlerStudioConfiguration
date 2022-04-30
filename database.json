@@ -56,6 +56,10 @@
       "WPIRoboticsEngineering/DFW",
       "1650075839071"
     ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "Hephaestus-Arm/HephaestusArm2",
+      "1651333606477"
+    ],
     "https://github.com/madhephaestus/LaputaRobotHead.git": [
       "madhephaestus/LaputaRobotHead",
       "1650820197932"
@@ -111,9 +115,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "hephaestus.xml"
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHephaestusArm.groovy"
     ]
   },
   "BowlerStudioConfigs": {
