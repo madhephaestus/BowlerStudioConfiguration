@@ -1,13 +1,23 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1651499594215"
+    ]
+  },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "hephaestus.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.47.5",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12,
+    "fontsize": 12.0,
     "skinBranch": "1.47.5",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "1.47.5"
