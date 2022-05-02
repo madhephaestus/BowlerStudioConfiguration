@@ -1,133 +1,15 @@
 {
-  "workspace": {
-    "https://gist.github.com/b1356537edaaad7c4b35.git": [
-      "GIST: difference.groovy",
-      "1650821454831"
-    ],
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
-      "GIST: .gitignore",
-      "1649949315465"
-    ],
-    "https://gist.github.com/721302a0ff6d2809b997.git": [
-      "GIST: javaCadHull.groovy",
-      "1650821895204"
-    ],
-    "https://gist.github.com/4814b39ee72e9f590757.git": [
-      "GIST: JavaCadExample",
-      "1650546322162"
-    ],
-    "https://gist.github.com/8a06a5fd3f94c309ed78.git": [
-      "GIST: forexample.groovy",
-      "1650818901400"
-    ],
-    "https://github.com/madhephaestus/SynthPickPhysics.git": [
-      "madhephaestus/SynthPickPhysics",
-      "1650546252713"
-    ],
-    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
-      "GIST: parabola",
-      "1650820498291"
-    ],
-    "https://github.com/madhephaestus/DSLForPollice.git": [
-      "madhephaestus/DSLForPollice",
-      "1651356365840"
-    ],
-    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
-      "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
-      "1650075886849"
-    ],
-    "https://gist.github.com/900e15bf3a2ccc0a510d.git": [
-      "GIST: whileexample.groovy",
-      "1650819089249"
-    ],
-    "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git": [
-      "GIST: Slice a csg and fillet around the slice",
-      "1650821593792"
-    ],
-    "https://github.com/madhephaestus/imageto3d.git": [
-      "https://github.com/madhephaestus/imageto3d.git",
-      "1650077698359"
-    ],
-    "https://github.com/madhephaestus/elseifexample_madhephaestus.git": [
-      "https://github.com/madhephaestus/elseifexample_madhephaestus.git",
-      "1650819681884"
-    ],
-    "https://gist.github.com/8e721186d2ae185a03b8.git": [
-      "GIST: moveRotate.groovy",
-      "1650820988609"
-    ],
-    "https://github.com/WPIRoboticsEngineering/DFW.git": [
-      "WPIRoboticsEngineering/DFW",
-      "1650075839071"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1651333606477"
-    ],
-    "https://github.com/madhephaestus/LaputaRobotHead.git": [
-      "madhephaestus/LaputaRobotHead",
-      "1650820197932"
-    ],
-    "https://github.com/madhephaestus/assemblybowlertest.git": [
-      "https://github.com/madhephaestus/assemblybowlertest.git",
-      "1649949259617"
-    ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
-      "GIST: Robot smashes through pile of bricks",
-      "1650548936385"
-    ],
-    "https://gist.github.com/9655185a6b0f3a230158.git": [
-      "GIST: .gitignore",
-      "1649979487740"
-    ],
-    "https://github.com/madhephaestus/elseexample_madhephaestus.git": [
-      "https://github.com/madhephaestus/elseexample_madhephaestus.git",
-      "1650819700413"
-    ],
-    "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
-      "GIST: Demonstrate assembly instructions",
-      "1649969103534"
-    ],
-    "https://gist.github.com/8e74becf9b9ab8a52279.git": [
-      "GIST: intersect.groovy",
-      "1650821495374"
-    ],
-    "https://gist.github.com/27746e6772959e9544689058d321273e.git": [
-      "GIST: Minkowski opperation examples",
-      "1650821782651"
-    ],
-    "https://gist.github.com/e1357b153496bfa70927.git": [
-      "GIST: resizeScale.groovy",
-      "1650821239406"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
-      "Halloween2020TheChild/GroguMechanicsCad",
-      "1651194042453"
-    ],
-    "https://gist.github.com/50d40376ff09d23de63c.git": [
-      "GIST: LoadSTL.groovy",
-      "1650821636533"
-    ],
-    "https://github.com/madhephaestus/ifquiz_madhephaestus.git": [
-      "https://github.com/madhephaestus/ifquiz_madhephaestus.git",
-      "1650819397677"
-    ],
-    "https://gist.github.com/bae417566c2b46e3ab94.git": [
-      "GIST: union.groovy",
-      "1650821336700"
-    ]
-  },
+  "workspace": {},
   "studio-open-web": {},
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
-    "firstVersion": "1.45.6",
+    "firstVersion": "1.47.5",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
-    "skinBranch": "1.45.5",
+    "fontsize": 12,
+    "skinBranch": "1.47.5",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true,
-    "currentVersion": "1.45.6"
+    "currentVersion": "1.47.5"
   }
 }
