@@ -52,6 +52,10 @@
       "https://github.com/madhephaestus/elseifexample_madhephaestus.git",
       "1650819681884"
     ],
+    "https://gist.github.com/21f739b0d9fb10e81af9.git": [
+      "GIST: cartWalker copy of humanoid",
+      "1651788093091"
+    ],
     "https://gist.github.com/8e721186d2ae185a03b8.git": [
       "GIST: moveRotate.groovy",
       "1650820988609"
@@ -118,7 +122,12 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/21f739b0d9fb10e81af9.git:cartWalker.xml": [
+      "https://gist.github.com/21f739b0d9fb10e81af9.git",
+      "cartWalker.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.45.6",
