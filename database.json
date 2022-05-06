@@ -122,12 +122,7 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://gist.github.com/21f739b0d9fb10e81af9.git:cartWalker.xml": [
-      "https://gist.github.com/21f739b0d9fb10e81af9.git",
-      "cartWalker.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.45.6",
