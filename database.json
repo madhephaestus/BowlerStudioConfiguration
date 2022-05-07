@@ -32,6 +32,10 @@
       "madhephaestus/DSLForPollice",
       "1651356365840"
     ],
+    "https://gist.github.com/09a7c973ba854d9b8d35.git": [
+      "GIST: sphere.groovy",
+      "1651946833605"
+    ],
     "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
       "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
       "1650075886849"
@@ -138,6 +142,10 @@
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
+    ],
+    "https://gist.github.com/09a7c973ba854d9b8d35.git:sphere.groovy": [
+      "https://gist.github.com/09a7c973ba854d9b8d35.git",
+      "sphere.groovy"
     ]
   },
   "BowlerStudioConfigs": {
