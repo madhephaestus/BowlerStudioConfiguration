@@ -134,18 +134,6 @@
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:JansenWalker_SeriesParallelHybrid.xml": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "JansenWalker_SeriesParallelHybrid.xml"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "cadGenHephaestusArm.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "hephaestus.xml"
-    ],
-    "https://gist.github.com/09a7c973ba854d9b8d35.git:sphere.groovy": [
-      "https://gist.github.com/09a7c973ba854d9b8d35.git",
-      "sphere.groovy"
     ]
   },
   "BowlerStudioConfigs": {
