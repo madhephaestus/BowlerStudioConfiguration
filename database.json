@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1652556054650"
+    ],
     "https://gist.github.com/b1356537edaaad7c4b35.git": [
       "GIST: difference.groovy",
       "1650821454831"
@@ -143,9 +147,9 @@
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "JansenWalker_SeriesParallelHybrid.xml"
     ],
-    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git:ParabolaTest.groovy": [
-      "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git",
-      "ParabolaTest.groovy"
+    "https://github.com/madhephaestus/JansenWalker_SeriesParallelHybrid_copy.git:JansenWalker_SeriesParallelHybrid_copy.xml": [
+      "https://github.com/madhephaestus/JansenWalker_SeriesParallelHybrid_copy.git",
+      "JansenWalker_SeriesParallelHybrid_copy.xml"
     ]
   },
   "BowlerStudioConfigs": {
