@@ -139,6 +139,10 @@
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "JansenWalker_SeriesParallelHybrid.xml"
     ],
+    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git:ParabolaTest.groovy": [
+      "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git",
+      "ParabolaTest.groovy"
+    ],
     "https://gist.github.com/be239e0b21fc2fe7f6f744321822a9ca.git:CamferedCylinder.groovy": [
       "https://gist.github.com/be239e0b21fc2fe7f6f744321822a9ca.git",
       "CamferedCylinder.groovy"
