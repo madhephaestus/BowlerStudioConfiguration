@@ -104,6 +104,10 @@
       "GIST: intersect.groovy",
       "1650821495374"
     ],
+    "https://gist.github.com/be239e0b21fc2fe7f6f744321822a9ca.git": [
+      "GIST: CamferedCylinder",
+      "1652550562993"
+    ],
     "https://gist.github.com/27746e6772959e9544689058d321273e.git": [
       "GIST: Minkowski opperation examples",
       "1650821782651"
@@ -134,6 +138,10 @@
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:JansenWalker_SeriesParallelHybrid.xml": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "JansenWalker_SeriesParallelHybrid.xml"
+    ],
+    "https://gist.github.com/be239e0b21fc2fe7f6f744321822a9ca.git:CamferedCylinder.groovy": [
+      "https://gist.github.com/be239e0b21fc2fe7f6f744321822a9ca.git",
+      "CamferedCylinder.groovy"
     ]
   },
   "BowlerStudioConfigs": {
