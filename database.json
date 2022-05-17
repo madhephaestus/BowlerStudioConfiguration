@@ -84,6 +84,10 @@
       "madhephaestus/LaputaRobotHead",
       "1650820197932"
     ],
+    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
+      "GIST: cube.groovy",
+      "1652760698480"
+    ],
     "https://github.com/madhephaestus/assemblybowlertest.git": [
       "https://github.com/madhephaestus/assemblybowlertest.git",
       "1649949259617"
@@ -142,6 +146,14 @@
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:JansenWalker_SeriesParallelHybrid.xml": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "JansenWalker_SeriesParallelHybrid.xml"
+    ],
+    "https://gist.github.com/185a0aad1f898ab32e5e.git:cube.groovy": [
+      "https://gist.github.com/185a0aad1f898ab32e5e.git",
+      "cube.groovy"
+    ],
+    "https://gist.github.com/09a7c973ba854d9b8d35.git:sphere.groovy": [
+      "https://gist.github.com/09a7c973ba854d9b8d35.git",
+      "sphere.groovy"
     ]
   },
   "BowlerStudioConfigs": {
@@ -149,7 +161,7 @@
     "firstVersion": "1.45.6",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 18,
     "skinBranch": "1.45.5",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
