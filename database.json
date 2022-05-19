@@ -4,10 +4,6 @@
       "GIST: difference.groovy",
       "1650821454831"
     ],
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
-      "GIST: .gitignore",
-      "1649949315465"
-    ],
     "https://gist.github.com/721302a0ff6d2809b997.git": [
       "GIST: javaCadHull.groovy",
       "1650821895204"
@@ -71,6 +67,10 @@
     "https://gist.github.com/8e721186d2ae185a03b8.git": [
       "GIST: moveRotate.groovy",
       "1650820988609"
+    ],
+    "https://github.com/Courtnah/courtnahspawn.git": [
+      "Courtnah/courtnahspawn",
+      "1652972991580"
     ],
     "https://github.com/WPIRoboticsEngineering/DFW.git": [
       "WPIRoboticsEngineering/DFW",
