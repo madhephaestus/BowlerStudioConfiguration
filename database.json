@@ -146,9 +146,9 @@
     "gameControllerNames": [
       "Play",
       "Game",
+      "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H",
       "X-Box",
-      "Dragon",
-      "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H"
+      "Dragon"
     ],
     "linkDeviceName": "midnight",
     "robotName": "Luna",
@@ -169,6 +169,21 @@
       "https://github.com/OperationSmallKat/Luna.git",
       "lunacad.groovy"
     ]
+  },
+  "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
+    "A": "y-mode",
+    "B": "b-mode",
+    "C": "a-mode",
+    "Mode": "start",
+    "rz": "r-joy-up-down",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "l-trig-button",
+    "Right Thumb 2": "select",
+    "z": "r-joy-left-right",
+    "Z": "r-trig-button",
+    "Left Thumb": "analog-trig"
   },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
