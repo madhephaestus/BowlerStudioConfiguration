@@ -36,6 +36,10 @@
       "GIST: sphere.groovy",
       "1651946833605"
     ],
+    "https://github.com/CommonWealthRobotics/Installer-Linux-BowlerStudio.git": [
+      "CommonWealthRobotics/Installer-Linux-BowlerStudio",
+      "1653154730363"
+    ],
     "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
       "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
       "1650075886849"
@@ -103,10 +107,6 @@
     "https://github.com/madhephaestus/elseexample_madhephaestus.git": [
       "https://github.com/madhephaestus/elseexample_madhephaestus.git",
       "1650819700413"
-    ],
-    "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
-      "GIST: Demonstrate assembly instructions",
-      "1649969103534"
     ],
     "https://gist.github.com/8e74becf9b9ab8a52279.git": [
       "GIST: intersect.groovy",
