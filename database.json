@@ -80,10 +80,6 @@
       "Courtnah/courtnahspawn",
       "1652972991580"
     ],
-    "https://github.com/WPIRoboticsEngineering/DFW.git": [
-      "WPIRoboticsEngineering/DFW",
-      "1650075839071"
-    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "Hephaestus-Arm/HephaestusArm2",
       "1651333606477"
@@ -136,6 +132,10 @@
       "https://github.com/madhephaestus/ifquiz_madhephaestus.git",
       "1650819397677"
     ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1653155329221"
+    ],
     "https://gist.github.com/bae417566c2b46e3ab94.git": [
       "GIST: union.groovy",
       "1650821336700"
@@ -143,6 +143,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/DynamicWalkingV2.groovy"
+    ],
     "https://gist.github.com/09a7c973ba854d9b8d35.git:sphere.groovy": [
       "https://gist.github.com/09a7c973ba854d9b8d35.git",
       "sphere.groovy"
