@@ -56,6 +56,10 @@
       "https://github.com/madhephaestus/imageto3d.git",
       "1650077698359"
     ],
+    "https://github.com/OperationSmallKat/Luna.git": [
+      "OperationSmallKat/Luna",
+      "1653155325955"
+    ],
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
       "JansenSmith/JansenWalker_SeriesParallelHybrid",
       "1651874046462"
@@ -100,10 +104,6 @@
       "GIST: Robot smashes through pile of bricks",
       "1650548936385"
     ],
-    "https://gist.github.com/9655185a6b0f3a230158.git": [
-      "GIST: .gitignore",
-      "1649979487740"
-    ],
     "https://github.com/madhephaestus/elseexample_madhephaestus.git": [
       "https://github.com/madhephaestus/elseexample_madhephaestus.git",
       "1650819700413"
@@ -143,17 +143,13 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:JansenWalker_SeriesParallelHybrid.xml": [
-      "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
-      "JansenWalker_SeriesParallelHybrid.xml"
-    ],
     "https://gist.github.com/09a7c973ba854d9b8d35.git:sphere.groovy": [
       "https://gist.github.com/09a7c973ba854d9b8d35.git",
       "sphere.groovy"
     ],
-    "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git:ChamferedParts.groovy": [
-      "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git",
-      "ChamferedParts.groovy"
+    "https://github.com/OperationSmallKat/Luna.git:lunacad.groovy": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "lunacad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
