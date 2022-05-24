@@ -36,6 +36,10 @@
       "GIST: sphere.groovy",
       "1651946833605"
     ],
+    "https://github.com/CommonWealthRobotics/Installer-Linux-BowlerStudio.git": [
+      "CommonWealthRobotics/Installer-Linux-BowlerStudio",
+      "1653154730363"
+    ],
     "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
       "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
       "1650075886849"
@@ -51,6 +55,10 @@
     "https://github.com/madhephaestus/imageto3d.git": [
       "https://github.com/madhephaestus/imageto3d.git",
       "1650077698359"
+    ],
+    "https://github.com/OperationSmallKat/Luna.git": [
+      "OperationSmallKat/Luna",
+      "1653155325955"
     ],
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
       "JansenSmith/JansenWalker_SeriesParallelHybrid",
@@ -72,10 +80,6 @@
       "Courtnah/courtnahspawn",
       "1652972991580"
     ],
-    "https://github.com/WPIRoboticsEngineering/DFW.git": [
-      "WPIRoboticsEngineering/DFW",
-      "1650075839071"
-    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "Hephaestus-Arm/HephaestusArm2",
       "1651333606477"
@@ -96,17 +100,9 @@
       "GIST: Robot smashes through pile of bricks",
       "1650548936385"
     ],
-    "https://gist.github.com/9655185a6b0f3a230158.git": [
-      "GIST: .gitignore",
-      "1649979487740"
-    ],
     "https://github.com/madhephaestus/elseexample_madhephaestus.git": [
       "https://github.com/madhephaestus/elseexample_madhephaestus.git",
       "1650819700413"
-    ],
-    "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
-      "GIST: Demonstrate assembly instructions",
-      "1649969103534"
     ],
     "https://gist.github.com/8e74becf9b9ab8a52279.git": [
       "GIST: intersect.groovy",
@@ -136,16 +132,35 @@
       "https://github.com/madhephaestus/ifquiz_madhephaestus.git",
       "1650819397677"
     ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1653155329221"
+    ],
     "https://gist.github.com/bae417566c2b46e3ab94.git": [
       "GIST: union.groovy",
       "1650821336700"
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H",
+      "X-Box",
+      "Dragon",
+      "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch"
+    ],
+    "linkDeviceName": "midnight",
+    "robotName": "Luna",
+    "robotGitFile": "MediumKat.xml",
+    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
+  },
+  "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
   "studio-open-git": {
-    "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:JansenWalker_SeriesParallelHybrid.xml": [
-      "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
-      "JansenWalker_SeriesParallelHybrid.xml"
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/DynamicWalkingV2.groovy"
     ],
     "https://github.com/Courtnah/courtnahspawn.git:pawn.groovy": [
       "https://github.com/Courtnah/courtnahspawn.git",
@@ -155,10 +170,25 @@
       "https://gist.github.com/09a7c973ba854d9b8d35.git",
       "sphere.groovy"
     ],
-    "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git:ChamferedParts.groovy": [
-      "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git",
-      "ChamferedParts.groovy"
+    "https://github.com/OperationSmallKat/Luna.git:lunacad.groovy": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "lunacad.groovy"
     ]
+  },
+  "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
+    "A": "y-mode",
+    "B": "b-mode",
+    "C": "a-mode",
+    "Mode": "start",
+    "rz": "r-joy-up-down",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "l-trig-button",
+    "Right Thumb 2": "select",
+    "z": "r-joy-left-right",
+    "Z": "r-trig-button",
+    "Left Thumb": "analog-trig"
   },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
