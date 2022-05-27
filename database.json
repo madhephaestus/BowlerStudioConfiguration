@@ -158,13 +158,13 @@
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/DynamicWalkingV2.groovy"
-    ],
     "https://github.com/Courtnah/courtnahspawn.git:pawn.groovy": [
       "https://github.com/Courtnah/courtnahspawn.git",
       "pawn.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/DynamicWalkingV2.groovy"
     ],
     "https://gist.github.com/09a7c973ba854d9b8d35.git:sphere.groovy": [
       "https://gist.github.com/09a7c973ba854d9b8d35.git",
