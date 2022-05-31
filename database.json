@@ -40,10 +40,6 @@
       "CommonWealthRobotics/Installer-Linux-BowlerStudio",
       "1653154730363"
     ],
-    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
-      "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
-      "1650075886849"
-    ],
     "https://gist.github.com/900e15bf3a2ccc0a510d.git": [
       "GIST: whileexample.groovy",
       "1650819089249"
@@ -59,6 +55,10 @@
     "https://github.com/OperationSmallKat/Luna.git": [
       "OperationSmallKat/Luna",
       "1653155325955"
+    ],
+    "https://github.com/madhephaestus/mujoco-test.git": [
+      "https://github.com/madhephaestus/mujoco-test.git",
+      "1654018774921"
     ],
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
       "JansenSmith/JansenWalker_SeriesParallelHybrid",
