@@ -162,6 +162,10 @@
       "https://github.com/Courtnah/courtnahspawn.git",
       "pawn.groovy"
     ],
+    "https://github.com/madhephaestus/mujoco-test.git:mujoco-test.groovy": [
+      "https://github.com/madhephaestus/mujoco-test.git",
+      "mujoco-test.groovy"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "Bowler/DynamicWalkingV2.groovy"
