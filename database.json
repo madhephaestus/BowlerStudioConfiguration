@@ -40,6 +40,10 @@
       "CommonWealthRobotics/Installer-Linux-BowlerStudio",
       "1653154730363"
     ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
+      "Halloween2020TheChild/RazerHydraHIDJava",
+      "1654372278178"
+    ],
     "https://gist.github.com/900e15bf3a2ccc0a510d.git": [
       "GIST: whileexample.groovy",
       "1650819089249"
@@ -47,10 +51,6 @@
     "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git": [
       "GIST: Slice a csg and fillet around the slice",
       "1650821593792"
-    ],
-    "https://github.com/madhephaestus/imageto3d.git": [
-      "https://github.com/madhephaestus/imageto3d.git",
-      "1650077698359"
     ],
     "https://github.com/OperationSmallKat/Luna.git": [
       "OperationSmallKat/Luna",
@@ -161,6 +161,10 @@
     "https://github.com/madhephaestus/mujoco-test.git:mujoco-test.groovy": [
       "https://github.com/madhephaestus/mujoco-test.git",
       "mujoco-test.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
+      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
+      "jinputGrogu.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
