@@ -164,6 +164,10 @@
       "https://gist.github.com/9655185a6b0f3a230158.git",
       "playWavFile.groovy"
     ],
+    "https://github.com/madhephaestus/LaputaRobotHead.git:testVitamins.groovy": [
+      "https://github.com/madhephaestus/LaputaRobotHead.git",
+      "testVitamins.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
