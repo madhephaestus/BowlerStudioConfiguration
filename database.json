@@ -88,10 +88,6 @@
       "GIST: cube.groovy",
       "1652760698480"
     ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
-      "GIST: Robot smashes through pile of bricks",
-      "1650548936385"
-    ],
     "https://gist.github.com/9655185a6b0f3a230158.git": [
       "GIST: .gitignore",
       "1654373164120"
@@ -111,6 +107,10 @@
     "https://gist.github.com/27746e6772959e9544689058d321273e.git": [
       "GIST: Minkowski opperation examples",
       "1650821782651"
+    ],
+    "https://github.com/Halloween2020TheChild/FirmwareTheChild.git": [
+      "Halloween2020TheChild/FirmwareTheChild",
+      "1656633381424"
     ],
     "https://gist.github.com/e1357b153496bfa70927.git": [
       "GIST: resizeScale.groovy",
@@ -163,6 +163,14 @@
     "https://github.com/madhephaestus/LaputaRobotHead.git:testVitamins.groovy": [
       "https://github.com/madhephaestus/LaputaRobotHead.git",
       "testVitamins.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "hephaestus.xml"
+    ],
+    "https://github.com/Halloween2020TheChild/FirmwareTheChild.git:FirmwareTheChild.ino": [
+      "https://github.com/Halloween2020TheChild/FirmwareTheChild.git",
+      "FirmwareTheChild.ino"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
