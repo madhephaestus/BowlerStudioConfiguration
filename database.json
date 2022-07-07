@@ -8,10 +8,6 @@
       "GIST: javaCadHull.groovy",
       "1650821895204"
     ],
-    "https://gist.github.com/8a06a5fd3f94c309ed78.git": [
-      "GIST: forexample.groovy",
-      "1650818901400"
-    ],
     "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
       "GIST: parabola",
       "1650820498291"
@@ -112,6 +108,10 @@
       "Halloween2020TheChild/FirmwareTheChild",
       "1656633381424"
     ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "1657212180015"
+    ],
     "https://gist.github.com/e1357b153496bfa70927.git": [
       "GIST: resizeScale.groovy",
       "1650821239406"
@@ -167,10 +167,6 @@
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
-    ],
-    "https://github.com/Halloween2020TheChild/FirmwareTheChild.git:FirmwareTheChild.ino": [
-      "https://github.com/Halloween2020TheChild/FirmwareTheChild.git",
-      "FirmwareTheChild.ino"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
