@@ -160,13 +160,9 @@
       "https://github.com/madhephaestus/mujoco-test.git",
       "mujoco-test.groovy"
     ],
-    "https://github.com/madhephaestus/LaputaRobotHead.git:testVitamins.groovy": [
-      "https://github.com/madhephaestus/LaputaRobotHead.git",
-      "testVitamins.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "hephaestus.xml"
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:Fanuc_LR_Mate_200id_7L.xml": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "Fanuc_LR_Mate_200id_7L.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
