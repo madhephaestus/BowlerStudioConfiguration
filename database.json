@@ -156,6 +156,10 @@
       "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
       "loadUDP.groovy"
     ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:DefaultDhSolver.groovy": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "DefaultDhSolver.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
