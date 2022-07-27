@@ -156,6 +156,10 @@
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
   "studio-open-git": {
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:launch.groovy": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "launch.groovy"
+    ],
     "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:makeHand.groovy": [
       "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
       "makeHand.groovy"
