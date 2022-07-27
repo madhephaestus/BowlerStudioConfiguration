@@ -156,9 +156,13 @@
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
   "studio-open-git": {
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "hephaestus.xml"
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:makeHand.groovy": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "makeHand.groovy"
+    ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:Fanuc_LR_Mate_200id_7L.xml": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "Fanuc_LR_Mate_200id_7L.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
