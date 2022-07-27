@@ -160,6 +160,10 @@
       "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
       "makeHand.groovy"
     ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:loadHardware.groovy": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "loadHardware.groovy"
+    ],
     "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:Fanuc_LR_Mate_200id_7L.xml": [
       "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
       "Fanuc_LR_Mate_200id_7L.xml"
