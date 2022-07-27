@@ -175,6 +175,10 @@
     "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:fingerCad.groovy": [
       "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
       "fingerCad.groovy"
+    ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:sliceFIngers.groovy": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "sliceFIngers.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
