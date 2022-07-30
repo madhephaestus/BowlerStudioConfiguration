@@ -48,6 +48,10 @@
       "https://github.com/madhephaestus/mujoco-test.git",
       "1654018774921"
     ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
+      "madhephaestus/LewanSoulHornCadGenerator",
+      "1659199126614"
+    ],
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
       "JansenSmith/JansenWalker_SeriesParallelHybrid",
       "1651874046462"
@@ -72,9 +76,9 @@
       "GIST: parts that have chamfered",
       "1652760818013"
     ],
-    "https://github.com/madhephaestus/LaputaRobotHead.git": [
-      "madhephaestus/LaputaRobotHead",
-      "1650820197932"
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
+      "GIST: Cap screw generator",
+      "1659199127080"
     ],
     "https://gist.github.com/185a0aad1f898ab32e5e.git": [
       "GIST: cube.groovy",
@@ -87,10 +91,6 @@
     "https://gist.github.com/9655185a6b0f3a230158.git": [
       "GIST: .gitignore",
       "1654373164120"
-    ],
-    "https://github.com/madhephaestus/elseexample_madhephaestus.git": [
-      "https://github.com/madhephaestus/elseexample_madhephaestus.git",
-      "1650819700413"
     ],
     "https://gist.github.com/8e74becf9b9ab8a52279.git": [
       "GIST: intersect.groovy",
@@ -163,6 +163,14 @@
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "heatedThreadedInsert.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "LewanSoulHorn.groovy"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
