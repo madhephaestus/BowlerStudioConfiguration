@@ -8,10 +8,6 @@
       "GIST: javaCadHull.groovy",
       "1650821895204"
     ],
-    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
-      "GIST: parabola",
-      "1650820498291"
-    ],
     "https://github.com/madhephaestus/DSLForPollice.git": [
       "madhephaestus/DSLForPollice",
       "1651356365840"
@@ -43,6 +39,10 @@
     "https://github.com/OperationSmallKat/Luna.git": [
       "OperationSmallKat/Luna",
       "1653155325955"
+    ],
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
+      "madhephaestus/LewanSoulMotorCadGenerator",
+      "1659199127535"
     ],
     "https://github.com/madhephaestus/mujoco-test.git": [
       "https://github.com/madhephaestus/mujoco-test.git",
@@ -156,6 +156,10 @@
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
   "studio-open-git": {
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
+      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+      "LewanSoulMotor.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "cadGenHephaestusArm.groovy"
