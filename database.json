@@ -8,10 +8,6 @@
       "GIST: javaCadHull.groovy",
       "1650821895204"
     ],
-    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
-      "GIST: parabola",
-      "1650820498291"
-    ],
     "https://github.com/madhephaestus/DSLForPollice.git": [
       "madhephaestus/DSLForPollice",
       "1651356365840"
@@ -55,6 +51,10 @@
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "madhephaestus/LewanSoulHornCadGenerator",
       "1659199126614"
+    ],
+    "https://gist.github.com/d4312a0787456ec27a2a.git": [
+      "GIST: BowlerStudio Hello World",
+      "1660263708869"
     ],
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
       "JansenSmith/JansenWalker_SeriesParallelHybrid",
@@ -156,6 +156,10 @@
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
   "studio-open-git": {
+    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
+      "https://gist.github.com/d4312a0787456ec27a2a.git",
+      "helloWorld.groovy"
+    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:ServoGear.SVG": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "ServoGear.SVG"
@@ -167,6 +171,10 @@
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "heatedThreadedInsert.groovy"
+    ],
+    "https://github.com/JansenSmith/Luna_Parameterization.git:GeneratedServoSpline.groovy": [
+      "https://github.com/JansenSmith/Luna_Parameterization.git",
+      "GeneratedServoSpline.groovy"
     ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
       "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
