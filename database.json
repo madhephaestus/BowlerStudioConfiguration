@@ -156,37 +156,9 @@
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
   "studio-open-git": {
-    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
-      "https://gist.github.com/d4312a0787456ec27a2a.git",
-      "helloWorld.groovy"
-    ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:ServoGear.SVG": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "ServoGear.SVG"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "cadGenHephaestusArm.groovy"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "heatedThreadedInsert.groovy"
-    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:GeneratedServoSpline.groovy": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "GeneratedServoSpline.groovy"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
-      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
-      "LewanSoulHorn.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "hephaestus.xml"
-    ],
-    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:Fanuc_LR_Mate_200id_7L.xml": [
-      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
-      "Fanuc_LR_Mate_200id_7L.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
