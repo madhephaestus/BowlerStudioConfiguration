@@ -1,4 +1,19 @@
 {
+  "Performance Designed Products Faceoff Deluxe+ Audio Wired Controller for Nintendo Switch": {
+    "A": "y-mode",
+    "B": "b-mode",
+    "C": "a-mode",
+    "Mode": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "analog-trig",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "l-trig-button",
+    "Left Thumb 3": "select",
+    "z": "r-joy-left-right",
+    "Z": "r-trig-button"
+  },
   "workspace": {
     "https://github.com/Courtnah/courtnahspawn.git": [
       "Courtnah/courtnahspawn",
@@ -96,17 +111,9 @@
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
   "studio-open-git": {
-    "https://github.com/JansenSmith/Luna_Parameterization.git:GeneratedServoSpline.groovy": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "GeneratedServoSpline.groovy"
-    ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:Luna_Parameterization.xml": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "Luna_Parameterization.xml"
-    ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:lunacad.groovy": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "lunacad.groovy"
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
+      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
+      "jinputGrogu.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
