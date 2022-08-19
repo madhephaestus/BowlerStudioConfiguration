@@ -130,6 +130,10 @@
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "cadGenHephaestusArm.groovy"
     ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:camera.groovy": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "camera.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
