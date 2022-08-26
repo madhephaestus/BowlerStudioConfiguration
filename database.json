@@ -38,10 +38,6 @@
       "GIST: parts that have chamfered",
       "1652760818013"
     ],
-    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
-      "GIST: cube.groovy",
-      "1652760698480"
-    ],
     "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
       "Hephaestus-Arm/HIDLinkLoader",
       "1657225735733"
@@ -49,6 +45,10 @@
     "https://github.com/JansenSmith/Luna_Parameterization.git": [
       "JansenSmith/Luna_Parameterization",
       "1659661686029"
+    ],
+    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git": [
+      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
+      "1661528252900"
     ],
     "https://gist.github.com/9655185a6b0f3a230158.git": [
       "GIST: .gitignore",
