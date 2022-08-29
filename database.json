@@ -34,10 +34,6 @@
       "Courtnah/courtnahspawn",
       "1652972991580"
     ],
-    "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git": [
-      "GIST: parts that have chamfered",
-      "1652760818013"
-    ],
     "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
       "Hephaestus-Arm/HIDLinkLoader",
       "1657225735733"
@@ -102,6 +98,10 @@
       "OperationSmallKat/SmallKat_V2",
       "1653155329221"
     ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1661796000904"
+    ],
     "https://github.com/madhephaestus/crystlinematrix.git": [
       "https://github.com/madhephaestus/crystlinematrix.git",
       "1655428477575"
@@ -126,6 +126,10 @@
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
   "studio-open-git": {
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
     "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:iktest.groovy": [
       "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
       "iktest.groovy"
