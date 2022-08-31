@@ -134,6 +134,10 @@
       "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
       "iktest.groovy"
     ],
+    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:DefaultDhSolver.groovy": [
+      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
+      "DefaultDhSolver.groovy"
+    ],
     "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:Fanuc_Delta_DR-3iB.xml": [
       "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
       "Fanuc_Delta_DR-3iB.xml"
