@@ -146,6 +146,10 @@
       "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
       "setKinematicsMeasurments.groovy"
     ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:Fanuc_LR_Mate_200id_7L.xml": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "Fanuc_LR_Mate_200id_7L.xml"
+    ],
     "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:cadGenHephaestusArm.groovy": [
       "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
       "cadGenHephaestusArm.groovy"
