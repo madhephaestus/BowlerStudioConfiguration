@@ -126,33 +126,13 @@
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
   "studio-open-git": {
-    "https://github.com/madhephaestus/6dofServoArm.git:DefaultDhSolver.groovy": [
-      "https://github.com/madhephaestus/6dofServoArm.git",
-      "DefaultDhSolver.groovy"
-    ],
-    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:iktest.groovy": [
-      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
-      "iktest.groovy"
-    ],
-    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:DefaultDhSolver.groovy": [
-      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
-      "DefaultDhSolver.groovy"
-    ],
     "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:Fanuc_Delta_DR-3iB.xml": [
       "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
       "Fanuc_Delta_DR-3iB.xml"
     ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "hephaestus.xml"
-    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
-    ],
-    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:Fanuc_LR_Mate_200id_7L.xml": [
-      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
-      "Fanuc_LR_Mate_200id_7L.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
