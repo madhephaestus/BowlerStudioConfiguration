@@ -34,10 +34,6 @@
       "Hephaestus-Arm/HIDLinkLoader",
       "1657225735733"
     ],
-    "git@bitbucket.org:SRIsoftware/superpick.git": [
-      "git@bitbucket.org:SRIsoftware/superpick.git",
-      "1663165057602"
-    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git": [
       "JansenSmith/Luna_Parameterization",
       "1659661686029"
@@ -137,10 +133,6 @@
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
-    ],
-    "git@bitbucket.org:SRIsoftware/superpick.git:docker/fauxbotConfig/etc/superpick/fauxbot/bowler-robot.xml": [
-      "git@bitbucket.org:SRIsoftware/superpick.git",
-      "docker/fauxbotConfig/etc/superpick/fauxbot/bowler-robot.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
