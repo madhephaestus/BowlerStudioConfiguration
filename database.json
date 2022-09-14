@@ -34,6 +34,10 @@
       "Hephaestus-Arm/HIDLinkLoader",
       "1657225735733"
     ],
+    "git@bitbucket.org:SRIsoftware/superpick.git": [
+      "git@bitbucket.org:SRIsoftware/superpick.git",
+      "1663166061046"
+    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git": [
       "JansenSmith/Luna_Parameterization",
       "1659661686029"
@@ -122,17 +126,9 @@
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
   "studio-open-git": {
-    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:compact_standard_regulartip.xml": [
-      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
-      "compact_standard_regulartip.xml"
-    ],
-    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:Fanuc_Delta_DR-3iB.xml": [
-      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
-      "Fanuc_Delta_DR-3iB.xml"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
-      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
-      "jinputGrogu.groovy"
+    "git@bitbucket.org:SRIsoftware/superpick.git:docker/fauxbotConfig/etc/superpick/fauxbot/bowler-robot.xml": [
+      "git@bitbucket.org:SRIsoftware/superpick.git",
+      "docker/fauxbotConfig/etc/superpick/fauxbot/bowler-robot.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
