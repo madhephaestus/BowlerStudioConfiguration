@@ -34,6 +34,10 @@
       "Hephaestus-Arm/HIDLinkLoader",
       "1657225735733"
     ],
+    "git@bitbucket.org:SRIsoftware/superpick.git": [
+      "git@bitbucket.org:SRIsoftware/superpick.git",
+      "1663166976070"
+    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git": [
       "JansenSmith/Luna_Parameterization",
       "1659661686029"
@@ -121,7 +125,12 @@
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "git@bitbucket.org:SRIsoftware/superpick.git:docker/fauxbotConfig/etc/superpick/fauxbot/bowler-robot.xml": [
+      "git@bitbucket.org:SRIsoftware/superpick.git",
+      "docker/fauxbotConfig/etc/superpick/fauxbot/bowler-robot.xml"
+    ]
+  },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
