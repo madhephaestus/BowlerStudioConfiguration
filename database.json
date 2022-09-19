@@ -42,6 +42,10 @@
       "git@bitbucket.org:SRIsoftware/superpick.git",
       "1663166976070"
     ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
+      "GIST: Sealed Bearing generator",
+      "1663614843206"
+    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git": [
       "JansenSmith/Luna_Parameterization",
       "1659661686029"
@@ -65,10 +69,6 @@
     "https://github.com/Halloween2020TheChild/FirmwareTheChild.git": [
       "Halloween2020TheChild/FirmwareTheChild",
       "1656633381424"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1653155325955"
     ],
     "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git": [
       "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
@@ -129,6 +129,22 @@
     "https://github.com/madhephaestus/6dofServoArm.git:DefaultDhSolver.groovy": [
       "https://github.com/madhephaestus/6dofServoArm.git",
       "DefaultDhSolver.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:wrist3.groovy": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "wrist3.groovy"
+    ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
+      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+      "bearing.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "cadGenHephaestusArm.groovy"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "LewanSoulHorn.groovy"
     ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
