@@ -130,13 +130,9 @@
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
     ],
-    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:Fanuc_LR_Mate_200id_7L.xml": [
-      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
-      "Fanuc_LR_Mate_200id_7L.xml"
-    ],
-    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:bowler-robot.xml": [
-      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
-      "bowler-robot.xml"
+    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:Fanuc_Delta_DR-3iB.xml": [
+      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
+      "Fanuc_Delta_DR-3iB.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
