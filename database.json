@@ -134,22 +134,6 @@
       "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
       "LewanSoulMotor.groovy"
     ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "cadGenHephaestusArm.groovy"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "heatedThreadedInsert.groovy"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:pcbmountpoints.groovy": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "pcbmountpoints.groovy"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
-      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
-      "LewanSoulHorn.groovy"
-    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
