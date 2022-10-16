@@ -38,6 +38,10 @@
       "JansenSmith/Luna_Parameterization",
       "1659661686029"
     ],
+    "https://gist.github.com/09a7c973ba854d9b8d35.git": [
+      "https://gist.github.com/09a7c973ba854d9b8d35.git",
+      "1665943713897"
+    ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1659199126149"
@@ -98,10 +102,6 @@
       "GIST: Cap screw generator",
       "1663615185542"
     ],
-    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
-      "Hephaestus-Arm/HIDLinkLoader",
-      "1657225735733"
-    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
       "1660871431770"
@@ -125,44 +125,7 @@
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
-  "studio-open-git": {
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:wrist3.groovy": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "wrist3.groovy"
-    ],
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
-      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
-      "LewanSoulMotor.groovy"
-    ],
-    "https://github.com/Courtnah/courtnahspawn.git:pawn.groovy": [
-      "https://github.com/Courtnah/courtnahspawn.git",
-      "pawn.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
-      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
-      "jinputGrogu.groovy"
-    ],
-    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:Fanuc_Delta_DR-3iB.xml": [
-      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
-      "Fanuc_Delta_DR-3iB.xml"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "hephaestus.xml"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/DynamicWalkingV2.groovy"
-    ],
-    "https://gist.github.com/09a7c973ba854d9b8d35.git:sphere.groovy": [
-      "https://gist.github.com/09a7c973ba854d9b8d35.git",
-      "sphere.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git:lunacad.groovy": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "lunacad.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
