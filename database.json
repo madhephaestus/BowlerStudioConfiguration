@@ -130,9 +130,13 @@
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "rodpuppet.xml"
     ],
-    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:Fanuc_Delta_DR-3iB.xml": [
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:setKinematics.groovy": [
+      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
+      "setKinematics.groovy"
+    ],
+    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:setKinematicsMeasurments.groovy": [
       "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
-      "Fanuc_Delta_DR-3iB.xml"
+      "setKinematicsMeasurments.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
