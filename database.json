@@ -34,6 +34,10 @@
       "Project ",
       "1663286798366"
     ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "madhephaestus/carl-the-hexapod",
+      "1665949053140"
+    ],
     "https://github.com/Courtnah/courtnahspawn.git": [
       "https://github.com/Courtnah/courtnahspawn.git",
       "1665943707229"
@@ -73,10 +77,6 @@
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "1664498661655"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
-      "madhephaestus/heatedThreadedInsertCadGenerator",
-      "1659199126149"
     ],
     "https://github.com/OperationSmallKat/Luna.git": [
       "OperationSmallKat/Luna",
@@ -129,6 +129,14 @@
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:rodpuppet.xml": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "rodpuppet.xml"
+    ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git:DefaultDhSolver.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "DefaultDhSolver.groovy"
+    ],
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:debugDH.groovy": [
+      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
+      "debugDH.groovy"
     ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:sphericalIK.groovy": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
