@@ -66,6 +66,10 @@
       "madhephaestus/6dofServoArm",
       "1660872552603"
     ],
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
+      "Halloween2022RodPuppet/RodPuppetKinematics",
+      "1665943905383"
+    ],
     "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git": [
       "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
       "1661528252900"
@@ -105,10 +109,6 @@
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
       "1660871431770"
-    ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
-      "CommonWealthRobotics/DeviceProviders",
-      "1658860901642"
     ]
   },
   "studio-open-web": {},
@@ -125,7 +125,12 @@
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:rodpuppet.xml": [
+      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
+      "rodpuppet.xml"
+    ]
+  },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
