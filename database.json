@@ -66,13 +66,13 @@
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1665943905383"
     ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git": [
-      "JansenSmith/Luna_Parameterization",
-      "1659661686029"
-    ],
     "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git": [
       "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
       "1661528252900"
+    ],
+    "https://gist.github.com/9655185a6b0f3a230158.git": [
+      "GIST: .gitignore",
+      "1666309814816"
     ],
     "https://gist.github.com/09a7c973ba854d9b8d35.git": [
       "https://gist.github.com/09a7c973ba854d9b8d35.git",
@@ -145,6 +145,10 @@
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
+    ],
+    "https://gist.github.com/9655185a6b0f3a230158.git:playWavFile.groovy": [
+      "https://gist.github.com/9655185a6b0f3a230158.git",
+      "playWavFile.groovy"
     ],
     "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:deltaCad.groovy": [
       "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
