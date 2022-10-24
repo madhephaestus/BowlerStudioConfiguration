@@ -138,6 +138,10 @@
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "animation.groovy"
     ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "cadGenHephaestusArm.groovy"
+    ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:debugDH.groovy": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "debugDH.groovy"
