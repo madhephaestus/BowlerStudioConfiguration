@@ -86,6 +86,10 @@
       "OperationSmallKat/Luna",
       "1665943713549"
     ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git": [
+      "madhephaestus/Fanuc_LR_Mate_200id_7L",
+      "1666619795836"
+    ],
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
       "madhephaestus/LewanSoulMotorCadGenerator",
       "1664497645861"
@@ -93,10 +97,6 @@
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
       "1660871431770"
-    ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1660263708869"
     ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
@@ -129,6 +129,10 @@
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:rodpuppet.xml": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "rodpuppet.xml"
+    ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:makeModularHand.groovy": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "makeModularHand.groovy"
     ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:animation.groovy": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
