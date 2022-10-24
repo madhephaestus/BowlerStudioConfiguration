@@ -111,6 +111,21 @@
       "1660872552603"
     ]
   },
+  "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
+    "A": "y-mode",
+    "B": "b-mode",
+    "C": "a-mode",
+    "Mode": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "analog-trig",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "l-trig-button",
+    "Left Thumb 3": "select",
+    "z": "r-joy-left-right",
+    "Z": "r-trig-button"
+  },
   "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
