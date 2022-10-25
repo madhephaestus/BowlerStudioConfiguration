@@ -149,6 +149,10 @@
       "https://github.com/madhephaestus/sequencetest.git",
       "test.sequence"
     ],
+    "https://github.com/madhephaestus/sequencetest.git:init.groovy": [
+      "https://github.com/madhephaestus/sequencetest.git",
+      "init.groovy"
+    ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:rcControl.groovy": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "rcControl.groovy"
