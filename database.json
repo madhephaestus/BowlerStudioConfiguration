@@ -94,6 +94,10 @@
       "madhephaestus/LewanSoulMotorCadGenerator",
       "1664497645861"
     ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1667521963240"
+    ],
     "https://github.com/madhephaestus/sequencetest.git": [
       "https://github.com/madhephaestus/sequencetest.git",
       "1666719458963"
@@ -105,10 +109,6 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1661796000904"
-    ],
-    "https://github.com/madhephaestus/6dofServoArm.git": [
-      "madhephaestus/6dofServoArm",
-      "1660872552603"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -144,6 +144,10 @@
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:animation.groovy": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "animation.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "cadGenHephaestusArm.groovy"
     ],
     "https://github.com/madhephaestus/sequencetest.git:test.sequence": [
       "https://github.com/madhephaestus/sequencetest.git",
