@@ -66,10 +66,6 @@
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1665943905383"
     ],
-    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git": [
-      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
-      "1661528252900"
-    ],
     "https://gist.github.com/9655185a6b0f3a230158.git": [
       "GIST: .gitignore",
       "1666309814816"
@@ -81,6 +77,10 @@
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "1664498661655"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "madhephaestus/heatedThreadedInsertCadGenerator",
+      "1667521964617"
     ],
     "https://github.com/OperationSmallKat/Luna.git": [
       "OperationSmallKat/Luna",
@@ -145,9 +145,21 @@
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "animation.groovy"
     ],
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
+      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+      "LewanSoulMotor.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "cadGenHephaestusArm.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "heatedThreadedInsert.groovy"
     ],
     "https://github.com/madhephaestus/sequencetest.git:test.sequence": [
       "https://github.com/madhephaestus/sequencetest.git",
