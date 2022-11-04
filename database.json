@@ -98,6 +98,10 @@
       "Halloween2020TheChild/GroguMechanicsCad",
       "1667521963240"
     ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
+      "madhephaestus/LewanSoulHornCadGenerator",
+      "1667521965071"
+    ],
     "https://github.com/madhephaestus/sequencetest.git": [
       "https://github.com/madhephaestus/sequencetest.git",
       "1666719458963"
@@ -105,10 +109,6 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "1665943712389"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1661796000904"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -160,6 +160,10 @@
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "heatedThreadedInsert.groovy"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "LewanSoulHorn.groovy"
     ],
     "https://github.com/madhephaestus/sequencetest.git:test.sequence": [
       "https://github.com/madhephaestus/sequencetest.git",
