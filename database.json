@@ -74,6 +74,10 @@
       "OperationSmallKat/Luna",
       "1665943713549"
     ],
+    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
+      "GIST: Move a limb attached to a MobileBase",
+      "1668993631921"
+    ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "madhephaestus/LewanSoulHornCadGenerator",
       "1667521965071"
@@ -89,10 +93,6 @@
     "https://github.com/Courtnah/courtnahspawn.git": [
       "https://github.com/Courtnah/courtnahspawn.git",
       "1665943707229"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1664497646370"
     ],
     "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git": [
       "madhephaestusdemo/helloWorld_madhephaestusdemo",
@@ -170,8 +170,8 @@
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
     ],
-    "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git:MoveLimb.groovy": [
-      "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git",
+    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git:MoveLimb.groovy": [
+      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
       "MoveLimb.groovy"
     ],
     "https://github.com/madhephaestus/sequencetest.git:test.sequence": [
