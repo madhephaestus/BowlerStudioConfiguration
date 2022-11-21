@@ -62,10 +62,6 @@
       "https://gist.github.com/09a7c973ba854d9b8d35.git",
       "1665943713897"
     ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
-      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
-      "1664498661655"
-    ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1667521964617"
@@ -125,6 +121,10 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "1665943712389"
+    ],
+    "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git": [
+      "GIST: Simple Physics example",
+      "1668993925303"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -170,9 +170,9 @@
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
     ],
-    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git:MoveLimb.groovy": [
-      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
-      "MoveLimb.groovy"
+    "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git:SimplePhysicsExample.groovy": [
+      "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git",
+      "SimplePhysicsExample.groovy"
     ],
     "https://github.com/madhephaestus/sequencetest.git:test.sequence": [
       "https://github.com/madhephaestus/sequencetest.git",
