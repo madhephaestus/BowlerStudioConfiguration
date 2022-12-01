@@ -70,6 +70,10 @@
       "https://github.com/madhephaestusdemo/gistGetTipLocations_madhephaestusdemo.git",
       "1668737293652"
     ],
+    "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git": [
+      "madhephaestus/Fanuc_SR_12ia-Scara",
+      "1669909864625"
+    ],
     "https://gist.github.com/9655185a6b0f3a230158.git": [
       "GIST: .gitignore",
       "1666309814816"
@@ -118,10 +122,6 @@
       "https://github.com/madhephaestus/sequencetest.git",
       "1666719458963"
     ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "1665943712389"
-    ],
     "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git": [
       "GIST: Simple Physics example",
       "1668993925303"
@@ -169,10 +169,6 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
-    ],
-    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:delta-dh-ik.groovy": [
-      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
-      "delta-dh-ik.groovy"
     ],
     "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git:SimplePhysicsExample.groovy": [
       "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git",
