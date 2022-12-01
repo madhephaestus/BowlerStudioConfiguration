@@ -170,6 +170,10 @@
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
     ],
+    "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git:iktest.groovy": [
+      "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git",
+      "iktest.groovy"
+    ],
     "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git:SimplePhysicsExample.groovy": [
       "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git",
       "SimplePhysicsExample.groovy"
