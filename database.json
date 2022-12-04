@@ -20,6 +20,7 @@
     "Start": "start",
     "rx": "r-joy-left-right",
     "ry": "r-joy-up-down",
+    "Mode": "select",
     "rz": "analog-trig",
     "Right Thumb": "r-trig-button",
     "x": "l-joy-left-right",
@@ -29,42 +30,49 @@
     "Y": "y-mode",
     "Left Thumb": "l-trig-button"
   },
+  "Gamesir-T4pro_21FD": {
+    "A": "a-mode",
+    "slider": "analog-trig",
+    "B": "b-mode",
+    "Start": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "z": "r-joy-left-right",
+    "Left Thumb": "l-trig-button"
+  },
   "workspace": {
-    "": [
-      "Project ",
-      "1663286798366"
-    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1665949053140"
-    ],
-    "https://github.com/Courtnah/courtnahspawn.git": [
-      "https://github.com/Courtnah/courtnahspawn.git",
-      "1665943707229"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1664497646370"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "GIST: Cap screw generator",
-      "1663615185542"
     ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1666308465759"
     ],
-    "git@bitbucket.org:SRIsoftware/superpick.git": [
-      "git@bitbucket.org:SRIsoftware/superpick.git",
-      "1663166976070"
-    ],
-    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
-      "GIST: Sealed Bearing generator",
-      "1663614843206"
-    ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1665943905383"
+    ],
+    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git": [
+      "madhephaestus/Fanuc_Delta_DR-3iB",
+      "1669909808039"
+    ],
+    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git": [
+      "madhephaestusdemo/helloWorld_madhephaestusdemo",
+      "1668736502286"
+    ],
+    "https://github.com/madhephaestusdemo/gistGetTipLocations_madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/gistGetTipLocations_madhephaestusdemo.git",
+      "1668737293652"
+    ],
+    "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git": [
+      "madhephaestus/Fanuc_SR_12ia-Scara",
+      "1669909864625"
     ],
     "https://gist.github.com/9655185a6b0f3a230158.git": [
       "GIST: .gitignore",
@@ -73,10 +81,6 @@
     "https://gist.github.com/09a7c973ba854d9b8d35.git": [
       "https://gist.github.com/09a7c973ba854d9b8d35.git",
       "1665943713897"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
-      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
-      "1664498661655"
     ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
@@ -90,9 +94,9 @@
       "madhephaestus/Fanuc_LR_Mate_200id_7L",
       "1666619795836"
     ],
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
-      "madhephaestus/LewanSoulMotorCadGenerator",
-      "1664497645861"
+    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
+      "GIST: Move a limb attached to a MobileBase",
+      "1668993631921"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
@@ -102,13 +106,25 @@
       "madhephaestus/LewanSoulHornCadGenerator",
       "1667521965071"
     ],
+    "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git",
+      "1668975173824"
+    ],
+    "https://gist.github.com/d4312a0787456ec27a2a.git": [
+      "GIST: BowlerStudio Hello World",
+      "1668732022865"
+    ],
+    "https://github.com/madhephaestusdemo/WalkTest_madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/WalkTest_madhephaestusdemo.git",
+      "1668736799553"
+    ],
     "https://github.com/madhephaestus/sequencetest.git": [
       "https://github.com/madhephaestus/sequencetest.git",
       "1666719458963"
     ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "1665943712389"
+    "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git": [
+      "GIST: Simple Physics example",
+      "1668993925303"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -123,8 +139,10 @@
     "y": "l-joy-up-down",
     "Y": "l-trig-button",
     "Left Thumb 3": "select",
+    "Right Thumb 2": "select",
     "z": "r-joy-left-right",
-    "Z": "r-trig-button"
+    "Z": "r-trig-button",
+    "Left Thumb": "l-trig-button"
   },
   "studio-open-web": {},
   "katapult": {
@@ -139,43 +157,30 @@
     "robotGitFile": "MediumKat.xml",
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
+  "Saitek PLC Saitek P2600 Rumble Force Pad": {
+    "jogKinz": "rz",
+    "jogLink": "x",
+    "jogKinslider": "slider",
+    "jogKiny": "y",
+    "jogKinx": "x"
+  },
   "PDP CO.,LTD. Faceoff Wired Pro Controller foNintendo Switch̞H": {},
   "studio-open-git": {
-    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:animation.groovy": [
-      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
-      "animation.groovy"
+    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
+      "https://gist.github.com/d4312a0787456ec27a2a.git",
+      "helloWorld.groovy"
     ],
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
-      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
-      "LewanSoulMotor.groovy"
+    "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git:iktest.groovy": [
+      "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git",
+      "iktest.groovy"
     ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "cadGenHephaestusArm.groovy"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
-      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
-      "capScrew.groovy"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "heatedThreadedInsert.groovy"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
-      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
-      "LewanSoulHorn.groovy"
+    "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git:SimplePhysicsExample.groovy": [
+      "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git",
+      "SimplePhysicsExample.groovy"
     ],
     "https://github.com/madhephaestus/sequencetest.git:test.sequence": [
       "https://github.com/madhephaestus/sequencetest.git",
       "test.sequence"
-    ],
-    "https://github.com/madhephaestus/sequencetest.git:init.groovy": [
-      "https://github.com/madhephaestus/sequencetest.git",
-      "init.groovy"
-    ],
-    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:rcControl.groovy": [
-      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
-      "rcControl.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -197,11 +202,14 @@
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.45.6",
     "tutorialBranch": "deploy",
+    "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
     "skinBranch": "1.45.5",
+    "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
-    "currentVersion": "1.45.6"
+    "currentVersion": "1.45.6",
+    "showCreatureLab": true
   }
 }
