@@ -148,6 +148,10 @@
       "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
       "LewanSoulMotor.groovy"
     ],
+    "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git:Fanuc_SR_12ia.xml": [
+      "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git",
+      "Fanuc_SR_12ia.xml"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "cadGenHephaestusArm.groovy"
@@ -159,6 +163,10 @@
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "heatedThreadedInsert.groovy"
+    ],
+    "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git:stlfix.groovy": [
+      "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git",
+      "stlfix.groovy"
     ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
       "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
