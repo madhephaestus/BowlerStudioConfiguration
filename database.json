@@ -50,10 +50,6 @@
       "GIST: JavaCadExample",
       "1666308465759"
     ],
-    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
-      "GIST: Sealed Bearing generator",
-      "1663614843206"
-    ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1665943905383"
@@ -109,6 +105,10 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "1665943712389"
+    ],
+    "https://github.com/madhephaestus/Staubli_scara_ts2_100_vb.git": [
+      "https://github.com/madhephaestus/Staubli_scara_ts2_100_vb.git",
+      "1670871338095"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -143,10 +143,6 @@
     "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git:Fanuc_SR_12ia.xml": [
       "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git",
       "Fanuc_SR_12ia.xml"
-    ],
-    "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git:stlfix.groovy": [
-      "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git",
-      "stlfix.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
