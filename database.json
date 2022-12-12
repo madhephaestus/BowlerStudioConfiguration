@@ -30,10 +30,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "": [
-      "Project ",
-      "1663286798366"
-    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1665949053140"
@@ -61,6 +57,10 @@
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1665943905383"
+    ],
+    "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git": [
+      "madhephaestus/Fanuc_SR_12ia-Scara",
+      "1670859854988"
     ],
     "https://gist.github.com/9655185a6b0f3a230158.git": [
       "GIST: .gitignore",
