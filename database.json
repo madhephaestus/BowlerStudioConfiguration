@@ -42,10 +42,6 @@
       "Hephaestus-Arm/HephaestusArm2",
       "1664497646370"
     ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "GIST: Cap screw generator",
-      "1663615185542"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1666308465759"
@@ -53,6 +49,10 @@
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1665943905383"
+    ],
+    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git": [
+      "madhephaestus/Fanuc_Delta_DR-3iB",
+      "1670962496757"
     ],
     "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git": [
       "madhephaestus/Fanuc_SR_12ia-Scara",
@@ -140,9 +140,17 @@
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/Staubli_scara_ts2_100_vb.git:Staubli_scara_ts2_100_vb.xml": [
+      "https://github.com/madhephaestus/Staubli_scara_ts2_100_vb.git",
+      "Staubli_scara_ts2_100_vb.xml"
+    ],
     "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git:Fanuc_SR_12ia.xml": [
       "https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git",
       "Fanuc_SR_12ia.xml"
+    ],
+    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:Fanuc_Delta_DR-3iB.xml": [
+      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
+      "Fanuc_Delta_DR-3iB.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
