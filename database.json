@@ -30,10 +30,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "": [
-      "Project ",
-      "1663286798366"
-    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1665949053140"
@@ -53,6 +49,10 @@
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1666308465759"
+    ],
+    "https://github.com/madhephaestus/ahhhhhhhhhh.git": [
+      "https://github.com/madhephaestus/ahhhhhhhhhh.git",
+      "1671775712317"
     ],
     "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
       "GIST: Sealed Bearing generator",
