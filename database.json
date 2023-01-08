@@ -54,6 +54,10 @@
       "https://github.com/madhephaestus/ahhhhhhhhhh.git",
       "1671775712317"
     ],
+    "https://github.com/madhephaestus/potbot.git": [
+      "madhephaestus/potbot",
+      "1673211621539"
+    ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1665943905383"
@@ -81,10 +85,6 @@
     "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git": [
       "madhephaestus/Fanuc_LR_Mate_200id_7L",
       "1666619795836"
-    ],
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
-      "madhephaestus/LewanSoulMotorCadGenerator",
-      "1664497645861"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
