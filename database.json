@@ -42,10 +42,6 @@
       "https://github.com/Courtnah/courtnahspawn.git",
       "1665943707229"
     ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1664497646370"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1666308465759"
@@ -106,6 +102,10 @@
       "madhephaestus/manipulator-test",
       "1672641073059"
     ],
+    "https://github.com/madhephaestus/GearGenerator.git": [
+      "madhephaestus/GearGenerator",
+      "1673547155579"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "1665943712389"
@@ -147,6 +147,14 @@
     "https://github.com/madhephaestus/fractaltree.git:tree.groovy": [
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
+    ],
+    "https://github.com/madhephaestus/potbot.git:robotBase.groovy": [
+      "https://github.com/madhephaestus/potbot.git",
+      "robotBase.groovy"
+    ],
+    "https://github.com/madhephaestus/GearGenerator.git:bevelGear.groovy": [
+      "https://github.com/madhephaestus/GearGenerator.git",
+      "bevelGear.groovy"
     ],
     "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
       "https://github.com/madhephaestus/manipulator-test.git",
