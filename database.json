@@ -38,13 +38,13 @@
       "https://github.com/madhephaestus/fractaltree.git",
       "1672085584896"
     ],
-    "https://github.com/Courtnah/courtnahspawn.git": [
-      "https://github.com/Courtnah/courtnahspawn.git",
-      "1665943707229"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1666308465759"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
+      "GIST: Cap screw generator",
+      "1673547157538"
     ],
     "https://github.com/madhephaestus/ahhhhhhhhhh.git": [
       "https://github.com/madhephaestus/ahhhhhhhhhh.git",
@@ -152,6 +152,10 @@
       "https://github.com/madhephaestus/RoundMotorVitamin.git",
       "dShaft.groovy"
     ],
+    "https://github.com/madhephaestus/RoundMotorVitamin.git:roundMotor.groovy": [
+      "https://github.com/madhephaestus/RoundMotorVitamin.git",
+      "roundMotor.groovy"
+    ],
     "https://github.com/madhephaestus/potbot.git:robotBase.groovy": [
       "https://github.com/madhephaestus/potbot.git",
       "robotBase.groovy"
@@ -159,6 +163,10 @@
     "https://github.com/madhephaestus/GearGenerator.git:bevelGear.groovy": [
       "https://github.com/madhephaestus/GearGenerator.git",
       "bevelGear.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
     ],
     "https://github.com/madhephaestus/manipulator-test.git:manipulator.groovy": [
       "https://github.com/madhephaestus/manipulator-test.git",
