@@ -66,10 +66,6 @@
       "https://gist.github.com/09a7c973ba854d9b8d35.git",
       "1665943713897"
     ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
-      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
-      "1664498661655"
-    ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1667521964617"
@@ -89,6 +85,10 @@
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "madhephaestus/LewanSoulHornCadGenerator",
       "1667521965071"
+    ],
+    "https://github.com/madhephaestus/RoundMotorVitamin.git": [
+      "madhephaestus/RoundMotorVitamin",
+      "1673547156209"
     ],
     "https://github.com/madhephaestus/basicincomeviatransactiontax.git": [
       "madhephaestus/basicincomeviatransactiontax",
@@ -147,6 +147,10 @@
     "https://github.com/madhephaestus/fractaltree.git:tree.groovy": [
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
+    ],
+    "https://github.com/madhephaestus/RoundMotorVitamin.git:dShaft.groovy": [
+      "https://github.com/madhephaestus/RoundMotorVitamin.git",
+      "dShaft.groovy"
     ],
     "https://github.com/madhephaestus/potbot.git:robotBase.groovy": [
       "https://github.com/madhephaestus/potbot.git",
