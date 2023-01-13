@@ -148,10 +148,6 @@
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
     ],
-    "https://github.com/madhephaestus/arduinotest.git:arduinotest.ino": [
-      "https://github.com/madhephaestus/arduinotest.git",
-      "arduinotest.ino"
-    ],
     "https://github.com/madhephaestus/potbot.git:robotBase.groovy": [
       "https://github.com/madhephaestus/potbot.git",
       "robotBase.groovy"
