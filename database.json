@@ -38,10 +38,6 @@
       "https://github.com/madhephaestus/fractaltree.git",
       "1672085584896"
     ],
-    "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git": [
-      "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git",
-      "1673907853884"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1666308465759"
@@ -109,6 +105,10 @@
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
       "1673547155579"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "1665943712389"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -143,10 +143,6 @@
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:animation.groovy": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "animation.groovy"
-    ],
-    "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git:BezierEditor.groovy": [
-      "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git",
-      "BezierEditor.groovy"
     ],
     "https://github.com/madhephaestus/fractaltree.git:tree.groovy": [
       "https://github.com/madhephaestus/fractaltree.git",
