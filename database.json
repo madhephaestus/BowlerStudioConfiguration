@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1673910522781"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1665949053140"
@@ -73,10 +77,6 @@
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1667521964617"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1665943713549"
     ],
     "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git": [
       "madhephaestus/Fanuc_LR_Mate_200id_7L",
