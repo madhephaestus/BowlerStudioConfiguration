@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1673910522781"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1665949053140"
@@ -37,6 +41,10 @@
     "https://github.com/madhephaestus/fractaltree.git": [
       "https://github.com/madhephaestus/fractaltree.git",
       "1672085584896"
+    ],
+    "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git": [
+      "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git",
+      "1673907853884"
     ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
@@ -70,10 +78,6 @@
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1667521964617"
     ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1665943713549"
-    ],
     "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git": [
       "madhephaestus/Fanuc_LR_Mate_200id_7L",
       "1666619795836"
@@ -105,10 +109,6 @@
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
       "1673547155579"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "1665943712389"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -148,9 +148,9 @@
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
     ],
-    "https://github.com/madhephaestus/potbot.git:robotBase.groovy": [
-      "https://github.com/madhephaestus/potbot.git",
-      "robotBase.groovy"
+    "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git:BezierEditorDemo.groovy": [
+      "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git",
+      "BezierEditorDemo.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
