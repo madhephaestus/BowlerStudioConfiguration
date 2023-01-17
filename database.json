@@ -62,13 +62,21 @@
       "https://gist.github.com/09a7c973ba854d9b8d35.git",
       "1665943713897"
     ],
+    "https://github.com/madhephaestus/HonkyHorn.git": [
+      "https://github.com/madhephaestus/HonkyHorn.git",
+      "1673984062410"
+    ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1667521964617"
     ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1665943713549"
+    "https://github.com/madhephaestus/arduinotest.git": [
+      "https://github.com/madhephaestus/arduinotest.git",
+      "1673627443989"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
+      "TechnocopiaPlant/ForkyRobot",
+      "1673635559239"
     ],
     "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git": [
       "madhephaestus/Fanuc_LR_Mate_200id_7L",
@@ -101,10 +109,6 @@
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
       "1673547155579"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "1665943712389"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -136,13 +140,9 @@
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "studio-open-git": {
-    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:animation.groovy": [
-      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
-      "animation.groovy"
-    ],
-    "https://github.com/madhephaestus/fractaltree.git:tree.groovy": [
-      "https://github.com/madhephaestus/fractaltree.git",
-      "tree.groovy"
+    "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
+      "https://github.com/madhephaestus/HonkyHorn.git",
+      "HonkyHorn.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
