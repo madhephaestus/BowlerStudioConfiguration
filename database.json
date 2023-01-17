@@ -50,10 +50,6 @@
       "https://github.com/madhephaestus/ahhhhhhhhhh.git",
       "1671775712317"
     ],
-    "https://github.com/madhephaestus/potbot.git": [
-      "madhephaestus/potbot",
-      "1673211621539"
-    ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1665943905383"
@@ -70,13 +66,9 @@
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1667521964617"
     ],
-    "https://github.com/madhephaestus/arduinotest.git": [
-      "https://github.com/madhephaestus/arduinotest.git",
-      "1673627443989"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
-      "TechnocopiaPlant/ForkyRobot",
-      "1673635559239"
+    "https://github.com/OperationSmallKat/Luna.git": [
+      "OperationSmallKat/Luna",
+      "1665943713549"
     ],
     "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git": [
       "madhephaestus/Fanuc_LR_Mate_200id_7L",
@@ -109,6 +101,10 @@
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
       "1673547155579"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "1665943712389"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
