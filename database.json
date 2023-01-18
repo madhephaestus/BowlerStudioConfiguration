@@ -46,13 +46,13 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "https://github.com/madhephaestus/carl-the-hexapod.git": [
-      "madhephaestus/carl-the-hexapod",
-      "1665949053140"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1666308465759"
+    ],
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
+      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
+      "1674006485874"
     ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
