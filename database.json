@@ -157,6 +157,10 @@
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
     ],
+    "https://github.com/madhephaestus/GHWorkflowTest3.git:GHWorkflowTest3.groovy": [
+      "https://github.com/madhephaestus/GHWorkflowTest3.git",
+      "GHWorkflowTest3.groovy"
+    ],
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
       "HonkyHorn.groovy"
