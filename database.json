@@ -20,6 +20,7 @@
     "Start": "start",
     "rx": "r-joy-left-right",
     "ry": "r-joy-up-down",
+    "Mode": "select",
     "rz": "analog-trig",
     "Right Thumb": "r-trig-button",
     "x": "l-joy-left-right",
@@ -29,18 +30,49 @@
     "Y": "y-mode",
     "Left Thumb": "l-trig-button"
   },
+  "Gamesir-T4pro_21FD": {
+    "A": "a-mode",
+    "slider": "analog-trig",
+    "B": "b-mode",
+    "Start": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "z": "r-joy-left-right",
+    "Left Thumb": "l-trig-button"
+  },
   "workspace": {
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1665949053140"
     ],
-    "https://github.com/madhephaestus/fractaltree.git": [
-      "https://github.com/madhephaestus/fractaltree.git",
-      "1672085584896"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1666308465759"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "madhephaestus/heatedThreadedInsertCadGenerator",
+      "1667521964617"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
+      "madhephaestus/LewanSoulHornCadGenerator",
+      "1667521965071"
+    ],
+    "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git",
+      "1668975173824"
+    ],
+    "https://github.com/madhephaestus/RoundMotorVitamin.git": [
+      "madhephaestus/RoundMotorVitamin",
+      "1673547156209"
+    ],
+    "https://github.com/madhephaestus/fractaltree.git": [
+      "https://github.com/madhephaestus/fractaltree.git",
+      "1672085584896"
     ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
@@ -50,29 +82,25 @@
       "https://github.com/madhephaestus/ahhhhhhhhhh.git",
       "1671775712317"
     ],
-    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
-      "Halloween2022RodPuppet/RodPuppetKinematics",
-      "1665943905383"
+    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git": [
+      "madhephaestusdemo/helloWorld_madhephaestusdemo",
+      "1668736502286"
+    ],
+    "https://github.com/madhephaestusdemo/gistGetTipLocations_madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/gistGetTipLocations_madhephaestusdemo.git",
+      "1668737293652"
     ],
     "https://gist.github.com/9655185a6b0f3a230158.git": [
       "GIST: .gitignore",
       "1666309814816"
     ],
-    "https://gist.github.com/09a7c973ba854d9b8d35.git": [
-      "https://gist.github.com/09a7c973ba854d9b8d35.git",
-      "1665943713897"
+    "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git",
+      "1673912776922"
     ],
     "https://github.com/madhephaestus/HonkyHorn.git": [
       "madhephaestus/HonkyHorn",
       "1673996730722"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
-      "madhephaestus/heatedThreadedInsertCadGenerator",
-      "1667521964617"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1665943713549"
     ],
     "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git": [
       "madhephaestus/Fanuc_LR_Mate_200id_7L",
@@ -81,14 +109,6 @@
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
       "1667521963240"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "madhephaestus/LewanSoulHornCadGenerator",
-      "1667521965071"
-    ],
-    "https://github.com/madhephaestus/RoundMotorVitamin.git": [
-      "madhephaestus/RoundMotorVitamin",
-      "1673547156209"
     ],
     "https://github.com/madhephaestus/basicincomeviatransactiontax.git": [
       "madhephaestus/basicincomeviatransactiontax",
@@ -105,10 +125,6 @@
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
       "1673547155579"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "1665943712389"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -123,8 +139,10 @@
     "y": "l-joy-up-down",
     "Y": "l-trig-button",
     "Left Thumb 3": "select",
+    "Right Thumb 2": "select",
     "z": "r-joy-left-right",
-    "Z": "r-trig-button"
+    "Z": "r-trig-button",
+    "Left Thumb": "l-trig-button"
   },
   "studio-open-web": {},
   "katapult": {
@@ -139,6 +157,13 @@
     "robotGitFile": "MediumKat.xml",
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
+  "Saitek PLC Saitek P2600 Rumble Force Pad": {
+    "jogKinz": "rz",
+    "jogLink": "x",
+    "jogKinslider": "slider",
+    "jogKiny": "y",
+    "jogKinx": "x"
+  },
   "studio-open-git": {
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:animation.groovy": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
@@ -147,6 +172,10 @@
     "https://github.com/madhephaestus/fractaltree.git:tree.groovy": [
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
+    ],
+    "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git:BezierEditorDemo.groovy": [
+      "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git",
+      "BezierEditorDemo.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -168,11 +197,14 @@
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.45.6",
     "tutorialBranch": "deploy",
+    "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
     "skinBranch": "1.45.5",
+    "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
-    "currentVersion": "1.45.6"
+    "currentVersion": "1.45.6",
+    "showCreatureLab": true
   }
 }
