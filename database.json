@@ -90,10 +90,6 @@
       "Halloween2020TheChild/GroguMechanicsCad",
       "1667521963240"
     ],
-    "https://github.com/madhephaestus/GHAPITestProject.git": [
-      "https://github.com/madhephaestus/GHAPITestProject.git",
-      "1674059643741"
-    ],
     "https://github.com/madhephaestus/GHWorkflowtest2.git": [
       "https://github.com/madhephaestus/GHWorkflowtest2.git",
       "1674062384284"
@@ -172,14 +168,6 @@
     "https://github.com/madhephaestus/fractaltree.git:tree.groovy": [
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
-    ],
-    "https://github.com/madhephaestus/GHAPITestProject.git:GHAPITestProject.groovy": [
-      "https://github.com/madhephaestus/GHAPITestProject.git",
-      "GHAPITestProject.groovy"
-    ],
-    "https://github.com/madhephaestus/GHWorkflowtest2.git:GHWorkflowtest2.groovy": [
-      "https://github.com/madhephaestus/GHWorkflowtest2.git",
-      "GHWorkflowtest2.groovy"
     ],
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
