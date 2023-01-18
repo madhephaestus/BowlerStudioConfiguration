@@ -177,6 +177,10 @@
       "https://github.com/madhephaestus/GHAPITestProject.git",
       "GHAPITestProject.groovy"
     ],
+    "https://github.com/madhephaestus/GHWorkflowtest2.git:GHWorkflowtest2.groovy": [
+      "https://github.com/madhephaestus/GHWorkflowtest2.git",
+      "GHWorkflowtest2.groovy"
+    ],
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
       "HonkyHorn.groovy"
