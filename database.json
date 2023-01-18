@@ -173,6 +173,10 @@
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
     ],
+    "https://github.com/madhephaestus/GHAPITestProject.git:GHAPITestProject.groovy": [
+      "https://github.com/madhephaestus/GHAPITestProject.git",
+      "GHAPITestProject.groovy"
+    ],
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
       "HonkyHorn.groovy"
