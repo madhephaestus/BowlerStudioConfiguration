@@ -1,18 +1,194 @@
 {
+  "Performance Designed Products Faceoff Deluxe+ Audio Wired Controller for Nintendo Switch": {
+    "A": "y-mode",
+    "B": "b-mode",
+    "C": "a-mode",
+    "Mode": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "analog-trig",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "l-trig-button",
+    "Left Thumb 3": "select",
+    "z": "r-joy-left-right",
+    "Z": "r-trig-button"
+  },
+  "Microsoft X-Box 360 pad": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "start",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "Mode": "select",
+    "rz": "analog-trig",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "Left Thumb": "l-trig-button"
+  },
+  "Gamesir-T4pro_21FD": {
+    "A": "a-mode",
+    "slider": "analog-trig",
+    "B": "b-mode",
+    "Start": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "z": "r-joy-left-right",
+    "Left Thumb": "l-trig-button"
+  },
   "workspace": {
+    "https://github.com/madhephaestus/fractaltree.git": [
+      "https://github.com/madhephaestus/fractaltree.git",
+      "1672085584896"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
+      "GIST: Cap screw generator",
+      "1673547157538"
+    ],
+    "https://github.com/madhephaestus/ahhhhhhhhhh.git": [
+      "https://github.com/madhephaestus/ahhhhhhhhhh.git",
+      "1671775712317"
+    ],
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
+      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
+      "1674006485874"
+    ],
+    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git": [
+      "madhephaestusdemo/helloWorld_madhephaestusdemo",
+      "1668736502286"
+    ],
+    "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git",
+      "1673912776922"
+    ],
     "https://github.com/madhephaestus/HonkyHorn.git": [
       "madhephaestus/HonkyHorn",
-      "1674083299673"
+      "1673996730722"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "madhephaestus/heatedThreadedInsertCadGenerator",
+      "1667521964617"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1667521963240"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
+      "madhephaestus/LewanSoulHornCadGenerator",
+      "1667521965071"
+    ],
+    "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git",
+      "1668975173824"
+    ],
+    "https://github.com/madhephaestus/RoundMotorVitamin.git": [
+      "madhephaestus/RoundMotorVitamin",
+      "1673547156209"
+    ],
+    "https://github.com/madhephaestus/basicincomeviatransactiontax.git": [
+      "madhephaestus/basicincomeviatransactiontax",
+      "1670634456176"
+    ],
+    "https://github.com/madhephaestus/sequencetest.git": [
+      "https://github.com/madhephaestus/sequencetest.git",
+      "1666719458963"
+    ],
+    "https://github.com/madhephaestus/manipulator-test.git": [
+      "madhephaestus/manipulator-test",
+      "1672641073059"
+    ],
+    "https://github.com/madhephaestus/GearGenerator.git": [
+      "madhephaestus/GearGenerator",
+      "1673547155579"
     ]
   },
+  "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
+    "A": "y-mode",
+    "B": "b-mode",
+    "C": "a-mode",
+    "Mode": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "analog-trig",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "l-trig-button",
+    "Left Thumb 3": "select",
+    "Right Thumb 2": "select",
+    "z": "r-joy-left-right",
+    "Z": "r-trig-button",
+    "Left Thumb": "l-trig-button"
+  },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Dragon",
+      "X-Box",
+      "Game",
+      "Switch"
+    ],
+    "linkDeviceName": "midnight",
+    "robotName": "Luna",
+    "robotGitFile": "MediumKat.xml",
+    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
+  },
+  "Saitek PLC Saitek P2600 Rumble Force Pad": {
+    "jogKinz": "rz",
+    "jogLink": "x",
+    "jogKinslider": "slider",
+    "jogKiny": "y",
+    "jogKinx": "x"
+  },
+  "studio-open-git": {
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:animation.groovy": [
+      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
+      "animation.groovy"
+    ],
+    "https://github.com/madhephaestus/fractaltree.git:tree.groovy": [
+      "https://github.com/madhephaestus/fractaltree.git",
+      "tree.groovy"
+    ],
+    "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
+      "https://github.com/madhephaestus/HonkyHorn.git",
+      "HonkyHorn.groovy"
+    ]
+  },
+  "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
+    "A": "y-mode",
+    "B": "b-mode",
+    "C": "a-mode",
+    "Mode": "start",
+    "rz": "r-joy-up-down",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "l-trig-button",
+    "Right Thumb 2": "select",
+    "z": "r-joy-left-right",
+    "Z": "r-trig-button",
+    "Left Thumb": "analog-trig"
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "firstVersion": "1.45.6",
     "tutorialBranch": "deploy",
+    "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12,
-    "skinBranch": "1.70.0",
-    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git"
+    "fontsize": 12.0,
+    "skinBranch": "1.45.5",
+    "showDevices": true,
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "notifiedArduinoDep": true,
+    "currentVersion": "1.45.6",
+    "showCreatureLab": true
   }
 }
