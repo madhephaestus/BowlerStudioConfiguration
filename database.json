@@ -71,8 +71,8 @@
       "1673912776922"
     ],
     "https://github.com/madhephaestus/HonkyHorn.git": [
-      "https://github.com/madhephaestus/HonkyHorn.git",
-      "1674251783009"
+      "madhephaestus/HonkyHorn",
+      "1673996730722"
     ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
@@ -149,14 +149,6 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:animation.groovy": [
-      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
-      "animation.groovy"
-    ],
-    "https://github.com/madhephaestus/fractaltree.git:tree.groovy": [
-      "https://github.com/madhephaestus/fractaltree.git",
-      "tree.groovy"
-    ],
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
       "HonkyHorn.groovy"
