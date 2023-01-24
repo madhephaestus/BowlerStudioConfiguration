@@ -156,6 +156,14 @@
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
     ],
+    "https://github.com/madhephaestus/RoundMotorVitamin.git:roundMotor.groovy": [
+      "https://github.com/madhephaestus/RoundMotorVitamin.git",
+      "roundMotor.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
+    ],
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
       "HonkyHorn.groovy"
