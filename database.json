@@ -78,6 +78,10 @@
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1667521964617"
     ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
+      "TechnocopiaPlant/ForkyRobot",
+      "1674604736622"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
       "1667521963240"
@@ -128,6 +132,7 @@
     "Z": "r-trig-button",
     "Left Thumb": "l-trig-button"
   },
+  "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
       "Dragon",
@@ -155,14 +160,6 @@
     "https://github.com/madhephaestus/fractaltree.git:tree.groovy": [
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
-    ],
-    "https://github.com/madhephaestus/RoundMotorVitamin.git:roundMotor.groovy": [
-      "https://github.com/madhephaestus/RoundMotorVitamin.git",
-      "roundMotor.groovy"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
-      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
-      "capScrew.groovy"
     ],
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
