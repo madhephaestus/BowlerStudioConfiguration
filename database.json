@@ -165,6 +165,10 @@
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
     ],
+    "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git:exampleKinematics.groovy": [
+      "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git",
+      "exampleKinematics.groovy"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "robotBase.groovy"
