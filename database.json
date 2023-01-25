@@ -157,10 +157,6 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:animation.groovy": [
-      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
-      "animation.groovy"
-    ],
     "https://github.com/madhephaestus/fractaltree.git:tree.groovy": [
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
@@ -169,9 +165,9 @@
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "robotBase.groovy"
     ],
-    "https://github.com/madhephaestus/imageto3d.git:patch.SVG": [
-      "https://github.com/madhephaestus/imageto3d.git",
-      "patch.SVG"
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyRobotKinematicsDefinition.xml": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "ForkyRobotKinematicsDefinition.xml"
     ],
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
