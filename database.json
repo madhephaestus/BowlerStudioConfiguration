@@ -185,10 +185,6 @@
       "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git",
       "exampleWalking.groovy"
     ],
-    "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git:exampleRobots.json": [
-      "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git",
-      "exampleRobots.json"
-    ],
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
       "HonkyHorn.groovy"
