@@ -176,6 +176,10 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "robotBase.groovy"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:Blarg.xml": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "Blarg.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
