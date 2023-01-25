@@ -188,6 +188,10 @@
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
       "HonkyHorn.groovy"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:Test.xml": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "Test.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
