@@ -82,6 +82,10 @@
       "TechnocopiaPlant/ForkyRobot",
       "1674604736622"
     ],
+    "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git": [
+      "CommonWealthRobotics/BowlerStudioExampleRobots",
+      "1674611963802"
+    ],
     "https://github.com/madhephaestus/imageto3d.git": [
       "madhephaestus/imageto3d",
       "1674606899636"
@@ -168,6 +172,10 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyRobotKinematicsDefinition.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyRobotKinematicsDefinition.xml"
+    ],
+    "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git:exampleRobots.json": [
+      "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git",
+      "exampleRobots.json"
     ],
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
