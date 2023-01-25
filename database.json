@@ -177,6 +177,10 @@
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "robotBase.groovy"
     ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:Test2.xml": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "Test2.xml"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyRobotKinematicsDefinition.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyRobotKinematicsDefinition.xml"
