@@ -82,6 +82,10 @@
       "TechnocopiaPlant/ForkyRobot",
       "1674604736622"
     ],
+    "https://github.com/madhephaestus/imageto3d.git": [
+      "madhephaestus/imageto3d",
+      "1674606899636"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
       "1667521963240"
@@ -160,6 +164,14 @@
     "https://github.com/madhephaestus/fractaltree.git:tree.groovy": [
       "https://github.com/madhephaestus/fractaltree.git",
       "tree.groovy"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "robotBase.groovy"
+    ],
+    "https://github.com/madhephaestus/imageto3d.git:patch.SVG": [
+      "https://github.com/madhephaestus/imageto3d.git",
+      "patch.SVG"
     ],
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
