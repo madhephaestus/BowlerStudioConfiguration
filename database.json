@@ -165,25 +165,13 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/4be95191d9cfb2015cdc24f1b05a4f35.git:ToroidTest.groovy": [
-      "https://gist.github.com/4be95191d9cfb2015cdc24f1b05a4f35.git",
-      "ToroidTest.groovy"
-    ],
-    "https://github.com/madhephaestus/fractaltree.git:tree.groovy": [
-      "https://github.com/madhephaestus/fractaltree.git",
-      "tree.groovy"
-    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "robotBase.groovy"
     ],
-    "https://github.com/madhephaestus/ToroidTest.git:ToroidTest.groovy": [
-      "https://github.com/madhephaestus/ToroidTest.git",
-      "ToroidTest.groovy"
-    ],
-    "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:walking.groovy": [
-      "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
-      "walking.groovy"
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftCad.groovy": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "ForkyLiftCad.groovy"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
