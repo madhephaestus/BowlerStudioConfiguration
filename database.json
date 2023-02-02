@@ -46,6 +46,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1675351032190"
+    ],
     "https://github.com/madhephaestus/fractaltree.git": [
       "https://github.com/madhephaestus/fractaltree.git",
       "1672085584896"
@@ -69,10 +73,6 @@
     "https://gist.github.com/4be95191d9cfb2015cdc24f1b05a4f35.git": [
       "https://gist.github.com/4be95191d9cfb2015cdc24f1b05a4f35.git",
       "1675180098805"
-    ],
-    "none": [
-      "Project none",
-      "1675290969959"
     ],
     "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git": [
       "madhephaestusdemo/helloWorld_madhephaestusdemo",
