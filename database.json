@@ -169,17 +169,9 @@
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLiftCad.groovy"
     ],
-    "none:/home/hephaestus/bowler-workspace/gitcache/github.com/TechnocopiaPlant/ForkyRobot/ForkyLiftKinematics.groovy": [
-      "none",
-      "/home/hephaestus/bowler-workspace/gitcache/github.com/TechnocopiaPlant/ForkyRobot/ForkyLiftKinematics.groovy"
-    ],
-    "none:/home/hephaestus/bowler-workspace/gitcache/github.com/TechnocopiaPlant/ForkyRobot/ForkyLiftWalk.groovy": [
-      "none",
-      "/home/hephaestus/bowler-workspace/gitcache/github.com/TechnocopiaPlant/ForkyRobot/ForkyLiftWalk.groovy"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftKinematics.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "ForkyLift.xml"
+      "ForkyLiftKinematics.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
