@@ -82,6 +82,10 @@
       "https://github.com/madhephaestus/HonkyHorn.git",
       "1674251783009"
     ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
+      "Halloween2020TheChild/RazerHydraHIDJava",
+      "1675391225136"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "TechnocopiaPlant/ForkyRobot",
       "1674604736622"
@@ -172,6 +176,10 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
+    ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
+      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
+      "jinputGrogu.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
