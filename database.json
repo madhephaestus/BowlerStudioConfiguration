@@ -98,10 +98,6 @@
       "madhephaestus/imageto3d",
       "1674606899636"
     ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "madhephaestus/LewanSoulHornCadGenerator",
-      "1667521965071"
-    ],
     "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git": [
       "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git",
       "1668975173824"
@@ -125,6 +121,10 @@
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
       "1673547155579"
+    ],
+    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git": [
+      "GIST: A linked script generating a cad engine from the sample. ",
+      "1675393775299"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -166,6 +166,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
+      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
+      "LinkedCadEngine.groovy"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftCad.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLiftCad.groovy"
