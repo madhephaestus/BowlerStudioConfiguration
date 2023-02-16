@@ -66,6 +66,10 @@
       "https://github.com/madhephaestus/ahhhhhhhhhh.git",
       "1671775712317"
     ],
+    "https://gist.github.com/c3944b2a203585d969bf.git": [
+      "GIST: Lets bring together some of the parts.",
+      "1676567305369"
+    ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "1674006485874"
@@ -97,10 +101,6 @@
     "https://github.com/madhephaestus/imageto3d.git": [
       "madhephaestus/imageto3d",
       "1674606899636"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "madhephaestus/LewanSoulHornCadGenerator",
-      "1667521965071"
     ],
     "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git": [
       "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git",
@@ -188,6 +188,10 @@
     "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
       "https://github.com/madhephaestus/HonkyHorn.git",
       "HonkyHorn.groovy"
+    ],
+    "https://gist.github.com/c3944b2a203585d969bf.git:kinematicsCad.groovy": [
+      "https://gist.github.com/c3944b2a203585d969bf.git",
+      "kinematicsCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
