@@ -54,6 +54,10 @@
       "madhephaestus/ToroidTest",
       "1675104333358"
     ],
+    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
+      "TechnocopiaPlant/TendyTheTankEngine",
+      "1676564420436"
+    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1673547157538"
@@ -61,6 +65,10 @@
     "https://github.com/madhephaestus/ahhhhhhhhhh.git": [
       "https://github.com/madhephaestus/ahhhhhhhhhh.git",
       "1671775712317"
+    ],
+    "https://gist.github.com/c3944b2a203585d969bf.git": [
+      "GIST: Lets bring together some of the parts.",
+      "1676567305369"
     ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
@@ -70,6 +78,10 @@
       "https://gist.github.com/4be95191d9cfb2015cdc24f1b05a4f35.git",
       "1675180098805"
     ],
+    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git": [
+      "madhephaestusdemo/helloWorld_madhephaestusdemo",
+      "1668736502286"
+    ],
     "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git": [
       "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git",
       "1673912776922"
@@ -77,10 +89,6 @@
     "https://github.com/madhephaestus/HonkyHorn.git": [
       "https://github.com/madhephaestus/HonkyHorn.git",
       "1674251783009"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
-      "Halloween2020TheChild/RazerHydraHIDJava",
-      "1675391225136"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "TechnocopiaPlant/ForkyRobot",
@@ -117,14 +125,6 @@
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
       "1673547155579"
-    ],
-    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git": [
-      "GIST: A linked script generating a cad engine from the sample. ",
-      "1675393775299"
-    ],
-    "https://gist.github.com/bae417566c2b46e3ab94.git": [
-      "GIST: union.groovy",
-      "1675960940248"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -145,7 +145,6 @@
     "Left Thumb": "l-trig-button"
   },
   "studio-open-web": {},
-  "StadiaL8ZV-1c39": {},
   "katapult": {
     "gameControllerNames": [
       "Dragon",
@@ -166,17 +165,21 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
-      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
-      "LinkedCadEngine.groovy"
+    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngine.xml": [
+      "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
+      "TendyTheTankEngine.xml"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftCad.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLiftCad.groovy"
     ],
-    "https://gist.github.com/bae417566c2b46e3ab94.git:union.groovy": [
-      "https://gist.github.com/bae417566c2b46e3ab94.git",
-      "union.groovy"
+    "https://github.com/madhephaestus/ToroidTest.git:ToroidTest.xml": [
+      "https://github.com/madhephaestus/ToroidTest.git",
+      "ToroidTest.xml"
+    ],
+    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:Path.groovy": [
+      "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
+      "Path.groovy"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
