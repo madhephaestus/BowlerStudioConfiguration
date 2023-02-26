@@ -166,29 +166,13 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
-      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
-      "LinkedCadEngine.groovy"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftCad.groovy": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "ForkyLiftCad.groovy"
-    ],
-    "https://gist.github.com/bae417566c2b46e3ab94.git:union.groovy": [
-      "https://gist.github.com/bae417566c2b46e3ab94.git",
-      "union.groovy"
-    ],
-    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:Path.groovy": [
+    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngine.xml": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
-      "Path.groovy"
+      "TendyTheTankEngine.xml"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
-    ],
-    "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git:hotfix.groovy": [
-      "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git",
-      "hotfix.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
