@@ -58,13 +58,13 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "1676744572471"
     ],
-    "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git": [
-      "GIST: Linear Bearing generator",
-      "1677701397094"
-    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1673547157538"
+    ],
+    "https://github.com/madhephaestus/ahhhhhhhhhh.git": [
+      "https://github.com/madhephaestus/ahhhhhhhhhh.git",
+      "1671775712317"
     ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
@@ -85,10 +85,6 @@
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1675391225136"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
-      "TechnocopiaPlant/ForkyRobot",
-      "1674604736622"
     ],
     "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git": [
       "CommonWealthRobotics/BowlerStudioExampleRobots",
@@ -144,6 +140,7 @@
     "Z": "r-trig-button",
     "Left Thumb": "l-trig-button"
   },
+  "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
       "Dragon",
@@ -179,18 +176,6 @@
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:Path.groovy": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "Path.groovy"
-    ],
-    "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git:LinearBearing.groovy": [
-      "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git",
-      "LinearBearing.groovy"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftCad.groovy": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "ForkyLiftCad.groovy"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "robotBase.groovy"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
