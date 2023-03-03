@@ -56,15 +56,15 @@
     ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
-      "1677270047669"
-    ],
-    "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git": [
-      "GIST: Linear Bearing generator",
-      "1677701397094"
+      "1676744572471"
     ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1673547157538"
+    ],
+    "https://github.com/madhephaestus/ahhhhhhhhhh.git": [
+      "https://github.com/madhephaestus/ahhhhhhhhhh.git",
+      "1671775712317"
     ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
@@ -86,13 +86,13 @@
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1675391225136"
     ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
-      "TechnocopiaPlant/ForkyRobot",
-      "1674604736622"
-    ],
     "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git": [
       "CommonWealthRobotics/BowlerStudioExampleRobots",
       "1674611963802"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "1677707522130"
     ],
     "https://github.com/madhephaestus/imageto3d.git": [
       "madhephaestus/imageto3d",
@@ -101,6 +101,10 @@
     "https://github.com/madhephaestus/RoundMotorVitamin.git": [
       "madhephaestus/RoundMotorVitamin",
       "1673547156209"
+    ],
+    "https://github.com/madhephaestus/basicincomeviatransactiontax.git": [
+      "madhephaestus/basicincomeviatransactiontax",
+      "1670634456176"
     ],
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
@@ -117,10 +121,6 @@
     "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git": [
       "GIST: A linked script generating a cad engine from the sample. ",
       "1675393775299"
-    ],
-    "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git": [
-      "CommonWealthRobotics/HotfixBowlerStudio",
-      "1677265969324"
     ],
     "https://gist.github.com/bae417566c2b46e3ab94.git": [
       "GIST: union.groovy",
@@ -145,7 +145,6 @@
     "Left Thumb": "l-trig-button"
   },
   "studio-open-web": {},
-  "StadiaL8ZV-1c39": {},
   "katapult": {
     "gameControllerNames": [
       "Dragon",
@@ -166,21 +165,21 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngine.xml": [
-      "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
-      "TendyTheTankEngine.xml"
-    ],
-    "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git:LinearBearing.groovy": [
-      "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git",
-      "LinearBearing.groovy"
+    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
+      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
+      "LinkedCadEngine.groovy"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftCad.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLiftCad.groovy"
     ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "robotBase.groovy"
+    "https://gist.github.com/bae417566c2b46e3ab94.git:union.groovy": [
+      "https://gist.github.com/bae417566c2b46e3ab94.git",
+      "union.groovy"
+    ],
+    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:Path.groovy": [
+      "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
+      "Path.groovy"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
