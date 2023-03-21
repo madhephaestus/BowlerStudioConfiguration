@@ -46,10 +46,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "https://github.com/madhephaestus/fractaltree.git": [
-      "https://github.com/madhephaestus/fractaltree.git",
-      "1672085584896"
-    ],
     "https://github.com/madhephaestus/ToroidTest.git": [
       "madhephaestus/ToroidTest",
       "1675104333358"
@@ -93,6 +89,10 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "1678556985006"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "madhephaestus/heatedThreadedInsertCadGenerator",
+      "1679421859223"
     ],
     "https://github.com/madhephaestus/imageto3d.git": [
       "madhephaestus/imageto3d",
@@ -185,6 +185,10 @@
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "capScrew.groovy"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "heatedThreadedInsert.groovy"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
