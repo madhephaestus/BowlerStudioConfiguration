@@ -148,15 +148,15 @@
   "StadiaL8ZV-1c39": {},
   "katapult": {
     "gameControllerNames": [
-      "Dragon",
-      "X-Box",
       "Game",
-      "Switch"
+      "Switch",
+      "X-Box",
+      "Dragon"
     ],
-    "linkDeviceName": "midnight",
-    "robotName": "Luna",
+    "linkDeviceName": "kevkat",
+    "robotName": "MediumKat",
     "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
+    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
     "jogKinz": "rz",
