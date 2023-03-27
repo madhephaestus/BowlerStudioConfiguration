@@ -98,6 +98,10 @@
       "madhephaestus/imageto3d",
       "1674606899636"
     ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1679950599123"
+    ],
     "https://github.com/madhephaestus/RoundMotorVitamin.git": [
       "madhephaestus/RoundMotorVitamin",
       "1673547156209"
@@ -105,10 +109,6 @@
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "1675206170659"
-    ],
-    "https://github.com/madhephaestus/manipulator-test.git": [
-      "madhephaestus/manipulator-test",
-      "1672641073059"
     ],
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
@@ -189,6 +189,10 @@
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "heatedThreadedInsert.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "cadGenHephaestusArm.groovy"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
