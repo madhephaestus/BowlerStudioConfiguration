@@ -102,10 +102,6 @@
       "Halloween2020TheChild/GroguMechanicsCad",
       "1679950599123"
     ],
-    "https://github.com/madhephaestus/RoundMotorVitamin.git": [
-      "madhephaestus/RoundMotorVitamin",
-      "1673547156209"
-    ],
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "1675206170659"
@@ -117,6 +113,10 @@
     "https://github.com/CommonWealthRobotics/HotfixBowlerStudio.git": [
       "CommonWealthRobotics/HotfixBowlerStudio",
       "1677265969324"
+    ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1680019427652"
     ],
     "https://gist.github.com/bae417566c2b46e3ab94.git": [
       "GIST: union.groovy",
@@ -170,6 +170,10 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngine.xml"
     ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
     "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git:LinearBearing.groovy": [
       "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git",
       "LinearBearing.groovy"
@@ -197,6 +201,10 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "hephaestus.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
