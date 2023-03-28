@@ -14,22 +14,6 @@
     "z": "r-joy-left-right",
     "Z": "r-trig-button"
   },
-  "Microsoft X-Box 360 pad": {
-    "A": "a-mode",
-    "B": "b-mode",
-    "Start": "start",
-    "rx": "r-joy-left-right",
-    "ry": "r-joy-up-down",
-    "Mode": "select",
-    "rz": "analog-trig",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "Select": "select",
-    "y": "l-joy-up-down",
-    "Y": "y-mode",
-    "Left Thumb": "l-trig-button"
-  },
   "Gamesir-T4pro_21FD": {
     "A": "a-mode",
     "slider": "analog-trig",
@@ -123,6 +107,35 @@
       "1675960940248"
     ]
   },
+  "StadiaL8ZV-1c39": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Game",
+      "Switch",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "kevkat",
+    "robotName": "MediumKat",
+    "robotGitFile": "MediumKat.xml",
+    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
+  },
+  "Microsoft X-Box 360 pad": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "start",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "Mode": "select",
+    "rz": "analog-trig",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "Left Thumb": "l-trig-button"
+  },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
@@ -141,25 +154,15 @@
     "Left Thumb": "l-trig-button"
   },
   "studio-open-web": {},
-  "StadiaL8ZV-1c39": {},
-  "katapult": {
-    "gameControllerNames": [
-      "Game",
-      "Switch",
-      "X-Box",
-      "Dragon"
-    ],
-    "linkDeviceName": "kevkat",
-    "robotName": "MediumKat",
-    "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
-  },
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
     "jogKinz": "rz",
     "jogLink": "x",
     "jogKinslider": "slider",
     "jogKiny": "y",
     "jogKinx": "x"
+  },
+  "MenueSettings": {
+    "printCSG": true
   },
   "studio-open-git": {
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngine.xml": [
