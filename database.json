@@ -205,6 +205,10 @@
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
     ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
+      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
+      "jinputGrogu.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:supportCrane.groovy": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "supportCrane.groovy"
