@@ -169,10 +169,6 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngine.xml"
     ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
-      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
-      "dhcad.groovy"
-    ],
     "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git:LinearBearing.groovy": [
       "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git",
       "LinearBearing.groovy"
