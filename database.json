@@ -62,10 +62,6 @@
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "1678556985006"
     ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
-      "madhephaestus/heatedThreadedInsertCadGenerator",
-      "1679421859223"
-    ],
     "https://github.com/madhephaestus/imageto3d.git": [
       "madhephaestus/imageto3d",
       "1674606899636"
@@ -156,10 +152,6 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "robotBase.groovy"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "heatedThreadedInsert.groovy"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
