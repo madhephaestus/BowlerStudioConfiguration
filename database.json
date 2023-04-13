@@ -38,10 +38,6 @@
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "1674006485874"
     ],
-    "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git": [
-      "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git",
-      "1673912776922"
-    ],
     "https://github.com/madhephaestus/HonkyHorn.git": [
       "https://github.com/madhephaestus/HonkyHorn.git",
       "1674251783009"
@@ -152,6 +148,10 @@
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
       "jinputGrogu.groovy"
+    ],
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:rcControl.groovy": [
+      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
+      "rcControl.groovy"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:supportCrane.groovy": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
