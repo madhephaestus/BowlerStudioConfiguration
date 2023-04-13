@@ -30,9 +30,25 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git": [
+      "CommonWealthRobotics/BowlerStudioExampleRobots",
+      "1674611963802"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "1678556985006"
+    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "1677270047669"
+    ],
+    "https://github.com/madhephaestus/imageto3d.git": [
+      "madhephaestus/imageto3d",
+      "1674606899636"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1679950599123"
     ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
@@ -45,22 +61,6 @@
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1675391225136"
-    ],
-    "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git": [
-      "CommonWealthRobotics/BowlerStudioExampleRobots",
-      "1674611963802"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "1678556985006"
-    ],
-    "https://github.com/madhephaestus/imageto3d.git": [
-      "madhephaestus/imageto3d",
-      "1674606899636"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
-      "Halloween2020TheChild/GroguMechanicsCad",
-      "1679950599123"
     ]
   },
   "StadiaL8ZV-1c39": {},
