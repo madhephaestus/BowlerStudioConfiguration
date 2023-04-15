@@ -137,10 +137,6 @@
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "robotBase.groovy"
     ],
-    "https://gist.github.com/c15329c19b4a33248fe9.git:roundedcube.groovy": [
-      "https://gist.github.com/c15329c19b4a33248fe9.git",
-      "roundedcube.groovy"
-    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "cadGenHephaestusArm.groovy"
