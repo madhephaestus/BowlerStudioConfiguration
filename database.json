@@ -46,6 +46,10 @@
       "madhephaestus/imageto3d",
       "1674606899636"
     ],
+    "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git": [
+      "GIST: .gitignore",
+      "1681838708564"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
       "1679950599123"
@@ -133,9 +137,9 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
-      "https://gist.github.com/d4312a0787456ec27a2a.git",
-      "helloWorld.groovy"
+    "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git:BezierEditorDemo.groovy": [
+      "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git",
+      "BezierEditorDemo.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
