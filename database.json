@@ -42,6 +42,10 @@
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "1674006485874"
     ],
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
+      "GIST: Robot smashes through pile of bricks",
+      "1682444850274"
+    ],
     "https://gist.github.com/01de984b2912f73643f7.git": [
       "GIST: TheCalledScript.groovy",
       "1681944242327"
@@ -148,6 +152,10 @@
     "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git:SimplePhysicsExample.groovy": [
       "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git",
       "SimplePhysicsExample.groovy"
+    ],
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
+      "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
+      "SimulatePhysics.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
