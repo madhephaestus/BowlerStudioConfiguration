@@ -81,6 +81,10 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1681826411974"
+    ],
+    "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git": [
+      "GIST: Simple Physics example",
+      "1682443929531"
     ]
   },
   "StadiaL8ZV-1c39": {},
@@ -140,7 +144,12 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git:SimplePhysicsExample.groovy": [
+      "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git",
+      "SimplePhysicsExample.groovy"
+    ]
+  },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
