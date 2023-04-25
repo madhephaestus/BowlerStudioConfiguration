@@ -140,16 +140,7 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {
-    "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git:BezierEditorDemo.groovy": [
-      "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git",
-      "BezierEditorDemo.groovy"
-    ],
-    "https://gist.github.com/01de984b2912f73643f7.git:TheCalledScript.groovy": [
-      "https://gist.github.com/01de984b2912f73643f7.git",
-      "TheCalledScript.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
