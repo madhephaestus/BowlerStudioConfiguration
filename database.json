@@ -38,6 +38,10 @@
       "GIST: .gitignore",
       "1681838708564"
     ],
+    "https://gist.github.com/4814b39ee72e9f590757.git": [
+      "GIST: JavaCadExample",
+      "1683220578939"
+    ],
     "https://gist.github.com/c3944b2a203585d969bf.git": [
       "GIST: Lets bring together some of the parts.",
       "1683220514866"
@@ -153,6 +157,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "javaCad.groovy"
+    ],
     "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git:SimplePhysicsExample.groovy": [
       "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git",
       "SimplePhysicsExample.groovy"
