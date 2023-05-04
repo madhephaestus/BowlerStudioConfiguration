@@ -38,6 +38,10 @@
       "GIST: .gitignore",
       "1681838708564"
     ],
+    "https://gist.github.com/c3944b2a203585d969bf.git": [
+      "GIST: Lets bring together some of the parts.",
+      "1683220514866"
+    ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
       "1674006485874"
@@ -160,6 +164,10 @@
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
       "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
       "SimulatePhysics.groovy"
+    ],
+    "https://gist.github.com/c3944b2a203585d969bf.git:kinematicsCad.groovy": [
+      "https://gist.github.com/c3944b2a203585d969bf.git",
+      "kinematicsCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
