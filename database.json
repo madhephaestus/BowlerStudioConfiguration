@@ -165,6 +165,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
+      "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
+      "TextToSpeechASDRTest.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
