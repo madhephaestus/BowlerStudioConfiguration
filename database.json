@@ -177,6 +177,10 @@
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
     ],
+    "https://github.com/madhephaestus/VoskGroovy.git:VoskGroovy.groovy": [
+      "https://github.com/madhephaestus/VoskGroovy.git",
+      "VoskGroovy.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
