@@ -169,10 +169,6 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
-      "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
-      "TextToSpeechASDRTest.groovy"
-    ],
     "https://github.com/madhephaestus/JavaCVBowler.git:JavaCVBowler.groovy": [
       "https://github.com/madhephaestus/JavaCVBowler.git",
       "JavaCVBowler.groovy"
@@ -181,17 +177,9 @@
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
     ],
-    "https://github.com/madhephaestus/VoskGroovy.git:VoskGroovy.groovy": [
-      "https://github.com/madhephaestus/VoskGroovy.git",
-      "VoskGroovy.groovy"
-    ],
-    "https://github.com/madhephaestus/YoloJava.git:YoloJava.groovy": [
+    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
       "https://github.com/madhephaestus/YoloJava.git",
-      "YoloJava.groovy"
-    ],
-    "https://gist.github.com/f17ec09ad20e29590ea40a903b1f045d.git:TextToSpeech.groovy": [
-      "https://gist.github.com/f17ec09ad20e29590ea40a903b1f045d.git",
-      "TextToSpeech.groovy"
+      "ResnetWithCamera.groovy"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
