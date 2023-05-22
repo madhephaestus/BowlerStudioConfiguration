@@ -169,6 +169,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/CoquiDocker.git:CoquiDocker.groovy": [
+      "https://github.com/madhephaestus/CoquiDocker.git",
+      "CoquiDocker.groovy"
+    ],
     "https://github.com/madhephaestus/JavaCVBowler.git:JavaCVBowler.groovy": [
       "https://github.com/madhephaestus/JavaCVBowler.git",
       "JavaCVBowler.groovy"
