@@ -192,6 +192,10 @@
     "https://github.com/madhephaestus/ESPnetTTS.git:ESPnetTTS.py": [
       "https://github.com/madhephaestus/ESPnetTTS.git",
       "ESPnetTTS.py"
+    ],
+    "https://github.com/Halloween2020TheChild/CoquiDocker.git:testing.groovy": [
+      "https://github.com/Halloween2020TheChild/CoquiDocker.git",
+      "testing.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
