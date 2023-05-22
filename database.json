@@ -30,10 +30,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
-      "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
-      "1677270047669"
-    ],
     "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git": [
       "GIST: .gitignore",
       "1681838708564"
@@ -69,6 +65,10 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "1678556985006"
+    ],
+    "https://github.com/madhephaestus/CoquiDocker.git": [
+      "https://github.com/madhephaestus/CoquiDocker.git",
+      "1684770068025"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
