@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1684890621380"
+    ],
     "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git": [
       "GIST: .gitignore",
       "1681838708564"
@@ -69,10 +73,6 @@
     "https://github.com/madhephaestus/CoquiDocker.git": [
       "https://github.com/madhephaestus/CoquiDocker.git",
       "1684770068025"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
-      "Halloween2020TheChild/GroguMechanicsCad",
-      "1679950599123"
     ],
     "https://gist.github.com/f17ec09ad20e29590ea40a903b1f045d.git": [
       "GIST: Text To Speech example",
