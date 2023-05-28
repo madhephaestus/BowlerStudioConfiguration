@@ -169,29 +169,9 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
-      "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
-      "TextToSpeechASDRTest.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
-      "https://github.com/Halloween2020TheChild/Zoltar.git",
-      "ZoltarController.groovy"
-    ],
-    "https://github.com/madhephaestus/VoskGroovy.git:VoskGroovy.groovy": [
-      "https://github.com/madhephaestus/VoskGroovy.git",
-      "VoskGroovy.groovy"
-    ],
-    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
-      "https://github.com/madhephaestus/YoloJava.git",
-      "ResnetWithCamera.groovy"
-    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
-      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
-      "jinputGrogu.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
