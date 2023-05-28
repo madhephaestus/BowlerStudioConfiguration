@@ -70,10 +70,6 @@
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1685115421091"
     ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
-      "TechnocopiaPlant/ForkyRobot",
-      "1685231451855"
-    ],
     "https://github.com/madhephaestus/CoquiDocker.git": [
       "https://github.com/madhephaestus/CoquiDocker.git",
       "1684770068025"
@@ -101,6 +97,10 @@
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
       "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
       "1684156722199"
+    ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1681826411974"
     ],
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "Halloween2020TheChild/Zoltar",
@@ -169,6 +169,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
+      "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
+      "TextToSpeechASDRTest.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
