@@ -74,6 +74,10 @@
       "https://github.com/madhephaestus/CoquiDocker.git",
       "1684770068025"
     ],
+    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git": [
+      "GIST: gsonExample.groovy",
+      "1685639396909"
+    ],
     "https://gist.github.com/f17ec09ad20e29590ea40a903b1f045d.git": [
       "GIST: Text To Speech example",
       "1684458375451"
@@ -97,10 +101,6 @@
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
       "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
       "1684156722199"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1681826411974"
     ],
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "Halloween2020TheChild/Zoltar",
@@ -176,6 +176,10 @@
     "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
+    ],
+    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git:gsonExample.groovy": [
+      "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git",
+      "gsonExample.groovy"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
