@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git": [
+      "GIST: parts that have chamfered",
+      "1685815976840"
+    ],
     "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git": [
       "GIST: .gitignore",
       "1681838708564"
@@ -93,10 +97,6 @@
     "https://github.com/madhephaestus/YoloJava.git": [
       "https://github.com/madhephaestus/YoloJava.git",
       "1684513907742"
-    ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1681838200920"
     ],
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
       "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
@@ -169,6 +169,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
+      "https://gist.github.com/d4312a0787456ec27a2a.git",
+      "helloWorld.groovy"
+    ],
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
       "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
       "TextToSpeechASDRTest.groovy"
@@ -184,6 +188,10 @@
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
+    ],
+    "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git:ChamferedParts.groovy": [
+      "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git",
+      "ChamferedParts.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -207,7 +215,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 18,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
