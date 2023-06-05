@@ -50,6 +50,10 @@
       "https://github.com/madhephaestus/VoskGroovy.git",
       "1684277563090"
     ],
+    "https://github.com/EmmanuelAsumadu/firefightingrobot.git": [
+      "EmmanuelAsumadu/firefightingrobot",
+      "1685926243297"
+    ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "GIST: Robot smashes through pile of bricks",
       "1682444850274"
@@ -61,10 +65,6 @@
     "https://github.com/Halloween2020TheChild/CoquiDocker.git": [
       "Halloween2020TheChild/CoquiDocker",
       "1684799206047"
-    ],
-    "https://gist.github.com/01de984b2912f73643f7.git": [
-      "GIST: TheCalledScript.groovy",
-      "1681944242327"
     ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
@@ -188,6 +188,10 @@
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
+    ],
+    "https://github.com/EmmanuelAsumadu/firefightingrobot.git:HardwareForSonicHope.groovy": [
+      "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
+      "HardwareForSonicHope.groovy"
     ],
     "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git:ChamferedParts.groovy": [
       "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git",
