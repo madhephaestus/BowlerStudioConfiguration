@@ -169,33 +169,17 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
-      "https://gist.github.com/d4312a0787456ec27a2a.git",
-      "helloWorld.groovy"
-    ],
-    "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
-      "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
-      "TextToSpeechASDRTest.groovy"
-    ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
     ],
-    "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git:gsonExample.groovy": [
-      "https://gist.github.com/aa464b39c1208c357b8d4ae7fe210bbb.git",
-      "gsonExample.groovy"
+    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
+      "https://github.com/madhephaestus/YoloJava.git",
+      "ResnetWithCamera.groovy"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
-    ],
-    "https://github.com/EmmanuelAsumadu/firefightingrobot.git:HardwareForSonicHope.groovy": [
-      "https://github.com/EmmanuelAsumadu/firefightingrobot.git",
-      "HardwareForSonicHope.groovy"
-    ],
-    "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git:ChamferedParts.groovy": [
-      "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git",
-      "ChamferedParts.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
