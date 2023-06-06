@@ -62,6 +62,10 @@
       "https://github.com/madhephaestus/ESPnetTTS.git",
       "1684694910930"
     ],
+    "none": [
+      "Project none",
+      "1686023288340"
+    ],
     "https://github.com/Halloween2020TheChild/CoquiDocker.git": [
       "Halloween2020TheChild/CoquiDocker",
       "1684799206047"
@@ -105,10 +109,6 @@
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "Halloween2020TheChild/Zoltar",
       "1683999087858"
-    ],
-    "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git": [
-      "GIST: Simple Physics example",
-      "1682443929531"
     ]
   },
   "StadiaL8ZV-1c39": {},
@@ -172,6 +172,10 @@
     "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
+    ],
+    "none:/home/hephaestus/bowler-workspace/face_memory.json": [
+      "none",
+      "/home/hephaestus/bowler-workspace/face_memory.json"
     ],
     "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
       "https://github.com/madhephaestus/YoloJava.git",
