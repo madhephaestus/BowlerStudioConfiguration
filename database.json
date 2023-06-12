@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1686576557136"
+    ],
     "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git": [
       "GIST: parts that have chamfered",
       "1685815976840"
@@ -41,10 +45,6 @@
     "https://github.com/madhephaestus/JavaCVBowler.git": [
       "https://github.com/madhephaestus/JavaCVBowler.git",
       "1684332974335"
-    ],
-    "https://gist.github.com/c3944b2a203585d969bf.git": [
-      "GIST: Lets bring together some of the parts.",
-      "1683220514866"
     ],
     "https://github.com/madhephaestus/VoskGroovy.git": [
       "https://github.com/madhephaestus/VoskGroovy.git",
@@ -169,10 +169,6 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/6dofServoArm.git:DefaultDhSolver.groovy": [
-      "https://github.com/madhephaestus/6dofServoArm.git",
-      "DefaultDhSolver.groovy"
-    ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
