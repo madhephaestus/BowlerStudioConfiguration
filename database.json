@@ -173,9 +173,17 @@
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
     ],
+    "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "Marcos.xml"
+    ],
     "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
       "https://github.com/madhephaestus/YoloJava.git",
       "ResnetWithCamera.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosWalk.groovy"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
