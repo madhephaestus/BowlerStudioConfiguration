@@ -54,10 +54,6 @@
       "EmmanuelAsumadu/firefightingrobot",
       "1685926243297"
     ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
-      "GIST: Robot smashes through pile of bricks",
-      "1682444850274"
-    ],
     "https://github.com/madhephaestus/ESPnetTTS.git": [
       "https://github.com/madhephaestus/ESPnetTTS.git",
       "1684694910930"
@@ -109,6 +105,10 @@
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "Halloween2020TheChild/Zoltar",
       "1683999087858"
+    ],
+    "https://github.com/madhephaestus/6dofServoArm.git": [
+      "madhephaestus/6dofServoArm",
+      "1686576441821"
     ]
   },
   "StadiaL8ZV-1c39": {},
@@ -169,6 +169,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/6dofServoArm.git:DefaultDhSolver.groovy": [
+      "https://github.com/madhephaestus/6dofServoArm.git",
+      "DefaultDhSolver.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
