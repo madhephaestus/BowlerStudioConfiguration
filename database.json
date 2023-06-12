@@ -98,6 +98,10 @@
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "1685823081044"
     ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1686592235750"
+    ],
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "Halloween2020TheChild/Zoltar",
       "1683999087858"
@@ -168,6 +172,10 @@
     "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "MarcosCad.groovy"
+    ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
     ],
     "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
       "https://github.com/OperationSmallKat/Marcos.git",
