@@ -30,10 +30,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "": [
-      "Project ",
-      "1686576557136"
-    ],
     "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git": [
       "GIST: parts that have chamfered",
       "1685815976840"
@@ -176,6 +172,22 @@
     "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "Marcos.xml"
+    ],
+    "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "ZoltarController.groovy"
+    ],
+    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
+      "https://github.com/madhephaestus/YoloJava.git",
+      "ResnetWithCamera.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosWalk.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "hephaestus.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
