@@ -34,10 +34,6 @@
       "GIST: parts that have chamfered",
       "1685815976840"
     ],
-    "https://gist.github.com/4814b39ee72e9f590757.git": [
-      "GIST: JavaCadExample",
-      "1683220578939"
-    ],
     "https://github.com/madhephaestus/JavaCVBowler.git": [
       "https://github.com/madhephaestus/JavaCVBowler.git",
       "1684332974335"
@@ -97,6 +93,10 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "1685823081044"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "GIST: servo.groovy",
+      "1686617978639"
     ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
@@ -188,6 +188,10 @@
     "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
       "https://github.com/madhephaestus/YoloJava.git",
       "ResnetWithCamera.groovy"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
     ],
     "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
