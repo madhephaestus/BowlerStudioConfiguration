@@ -78,10 +78,6 @@
       "Halloween2020TheChild/GroguMechanicsCad",
       "1684896439054"
     ],
-    "https://github.com/madhephaestus/HortonsLinkages.git": [
-      "madhephaestus/HortonsLinkages",
-      "1683402339795"
-    ],
     "https://github.com/madhephaestus/YoloJava.git": [
       "https://github.com/madhephaestus/YoloJava.git",
       "1684513907742"
@@ -109,6 +105,10 @@
     "https://github.com/madhephaestus/6dofServoArm.git": [
       "madhephaestus/6dofServoArm",
       "1686576441821"
+    ],
+    "git@github.com:madhephaestus/Hardware-Dimensions.git": [
+      "git@github.com:madhephaestus/Hardware-Dimensions.git",
+      "1686622671408"
     ]
   },
   "StadiaL8ZV-1c39": {},
@@ -200,6 +200,10 @@
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosKinematics.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosKinematics.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
