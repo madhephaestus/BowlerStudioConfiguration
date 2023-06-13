@@ -173,37 +173,13 @@
       "https://github.com/OperationSmallKat/Marcos.git",
       "MarcosCad.groovy"
     ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
-      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
-      "dhcad.groovy"
-    ],
     "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "Marcos.xml"
     ],
-    "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
-      "https://github.com/Halloween2020TheChild/Zoltar.git",
-      "ZoltarController.groovy"
-    ],
-    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
-      "https://github.com/madhephaestus/YoloJava.git",
-      "ResnetWithCamera.groovy"
-    ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
-      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
-      "servo.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
+    "https://github.com/OperationSmallKat/Marcos.git:PrintBedLayout.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosWalk.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "hephaestus.xml"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosKinematics.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosKinematics.groovy"
+      "PrintBedLayout.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
