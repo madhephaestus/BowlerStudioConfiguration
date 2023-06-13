@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://github.com/madhephaestus/Hardware-Dimensions.git": [
+      "madhephaestus/Hardware-Dimensions",
+      "1686623707041"
+    ],
     "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git": [
       "GIST: parts that have chamfered",
       "1685815976840"
@@ -97,10 +101,6 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1686592235750"
-    ],
-    "https://github.com/Halloween2020TheChild/Zoltar.git": [
-      "Halloween2020TheChild/Zoltar",
-      "1683999087858"
     ],
     "https://github.com/madhephaestus/6dofServoArm.git": [
       "madhephaestus/6dofServoArm",
