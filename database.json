@@ -74,6 +74,10 @@
       "https://github.com/madhephaestus/ESPnetTTS.git",
       "1684694910930"
     ],
+    "https://github.com/JansenSmith/Laputa.git": [
+      "JansenSmith/Laputa",
+      "1686876391328"
+    ],
     "https://github.com/Halloween2020TheChild/CoquiDocker.git": [
       "Halloween2020TheChild/CoquiDocker",
       "1684799206047"
@@ -117,10 +121,6 @@
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
       "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
       "1684156722199"
-    ],
-    "https://github.com/Halloween2020TheChild/Zoltar.git": [
-      "Halloween2020TheChild/Zoltar",
-      "1686873876846"
     ],
     "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git": [
       "GIST: Simple Physics example",
