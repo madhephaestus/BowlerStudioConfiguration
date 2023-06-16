@@ -183,6 +183,10 @@
     "https://github.com/OperationSmallKat/Marcos.git:PrintBedLayout.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "PrintBedLayout.groovy"
+    ],
+    "https://github.com/JansenSmith/Laputa.git:Laputa.groovy": [
+      "https://github.com/JansenSmith/Laputa.git",
+      "Laputa.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
