@@ -114,13 +114,13 @@
       "https://github.com/madhephaestus/YoloJava.git",
       "1684513907742"
     ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1681838200920"
-    ],
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
       "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
       "1684156722199"
+    ],
+    "https://github.com/Halloween2020TheChild/Zoltar.git": [
+      "Halloween2020TheChild/Zoltar",
+      "1686873876846"
     ],
     "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git": [
       "GIST: Simple Physics example",
@@ -168,6 +168,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
+    ],
     "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "Marcos.xml"
