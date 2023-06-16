@@ -46,10 +46,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git": [
-      "GIST: .gitignore",
-      "1681838708564"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1683220578939"
@@ -121,6 +117,10 @@
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
       "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
       "1684156722199"
+    ],
+    "https://github.com/Halloween2020TheChild/Zoltar.git": [
+      "Halloween2020TheChild/Zoltar",
+      "1686945134754"
     ],
     "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git": [
       "GIST: Simple Physics example",
