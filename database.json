@@ -180,6 +180,10 @@
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
     ],
+    "https://github.com/madhephaestus/HokuyoURGDevice.git:UseHokuyo.groovy": [
+      "https://github.com/madhephaestus/HokuyoURGDevice.git",
+      "UseHokuyo.groovy"
+    ],
     "https://github.com/OperationSmallKat/Marcos.git:PrintBedLayout.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "PrintBedLayout.groovy"
