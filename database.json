@@ -110,6 +110,10 @@
       "https://github.com/madhephaestus/YoloJava.git",
       "1684513907742"
     ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
+      "madhephaestus/LewanSoulHornCadGenerator",
+      "1687117010353"
+    ],
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
       "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
       "1684156722199"
@@ -121,10 +125,6 @@
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "Halloween2020TheChild/Zoltar",
       "1687027598541"
-    ],
-    "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git": [
-      "GIST: Simple Physics example",
-      "1682443929531"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -172,6 +172,10 @@
       "https://github.com/OperationSmallKat/Marcos.git",
       "MarcosCad.groovy"
     ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:mouthcad.groovy": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "mouthcad.groovy"
+    ],
     "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "Marcos.xml"
@@ -180,6 +184,10 @@
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
     ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "cadGenHephaestusArm.groovy"
+    ],
     "https://github.com/madhephaestus/HokuyoURGDevice.git:UseHokuyo.groovy": [
       "https://github.com/madhephaestus/HokuyoURGDevice.git",
       "UseHokuyo.groovy"
@@ -187,6 +195,14 @@
     "https://github.com/OperationSmallKat/Marcos.git:PrintBedLayout.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "PrintBedLayout.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:wrist1.groovy": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "wrist1.groovy"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "LewanSoulHorn.groovy"
     ],
     "https://github.com/JansenSmith/Laputa.git:Laputa.groovy": [
       "https://github.com/JansenSmith/Laputa.git",
