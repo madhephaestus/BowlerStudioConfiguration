@@ -167,12 +167,7 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {
-    "https://gist.github.com/9786cbb6076d99e64445907a21698be4.git:ToManufacturing.groovy": [
-      "https://gist.github.com/9786cbb6076d99e64445907a21698be4.git",
-      "ToManufacturing.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
