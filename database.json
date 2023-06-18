@@ -54,6 +54,10 @@
       "GIST: Cap screw generator",
       "1687117134992"
     ],
+    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
+      "GIST: cube.groovy",
+      "1687124676657"
+    ],
     "https://github.com/madhephaestus/VoskGroovy.git": [
       "https://github.com/madhephaestus/VoskGroovy.git",
       "1684277563090"
@@ -101,10 +105,6 @@
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
       "madhephaestus/LewanSoulMotorCadGenerator",
       "1687118375063"
-    ],
-    "https://github.com/madhephaestus/HortonsLinkages.git": [
-      "madhephaestus/HortonsLinkages",
-      "1683402339795"
     ],
     "https://github.com/madhephaestus/YoloJava.git": [
       "https://github.com/madhephaestus/YoloJava.git",
@@ -179,6 +179,10 @@
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "heatedThreadedInsert.groovy"
+    ],
+    "https://gist.github.com/185a0aad1f898ab32e5e.git:cube.groovy": [
+      "https://gist.github.com/185a0aad1f898ab32e5e.git",
+      "cube.groovy"
     ],
     "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
