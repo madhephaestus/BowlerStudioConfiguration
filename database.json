@@ -62,10 +62,6 @@
       "https://github.com/madhephaestus/VoskGroovy.git",
       "1684277563090"
     ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
-      "GIST: Robot smashes through pile of bricks",
-      "1682444850274"
-    ],
     "https://github.com/madhephaestus/ESPnetTTS.git": [
       "https://github.com/madhephaestus/ESPnetTTS.git",
       "1684694910930"
@@ -89,6 +85,10 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "TechnocopiaPlant/ForkyRobot",
       "1685231451855"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "madhephaestus/heatedThreadedInsertCadGenerator",
+      "1687117134134"
     ],
     "https://github.com/madhephaestus/CoquiDocker.git": [
       "https://github.com/madhephaestus/CoquiDocker.git",
@@ -187,6 +187,10 @@
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "cadGenHephaestusArm.groovy"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "heatedThreadedInsert.groovy"
     ],
     "https://github.com/madhephaestus/HokuyoURGDevice.git:UseHokuyo.groovy": [
       "https://github.com/madhephaestus/HokuyoURGDevice.git",
