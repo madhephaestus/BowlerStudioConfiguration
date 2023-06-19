@@ -171,6 +171,10 @@
     "https://github.com/madhephaestus/chamferedScrew.git:chamferedScrew.groovy": [
       "https://github.com/madhephaestus/chamferedScrew.git",
       "chamferedScrew.groovy"
+    ],
+    "https://github.com/madhephaestus/PhillipsRoundedHeadThreadFormingScrews.git:PhillipsRoundedHeadThreadFormingScrews.groovy": [
+      "https://github.com/madhephaestus/PhillipsRoundedHeadThreadFormingScrews.git",
+      "PhillipsRoundedHeadThreadFormingScrews.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
