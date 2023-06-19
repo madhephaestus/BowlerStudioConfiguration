@@ -179,6 +179,10 @@
     "https://github.com/madhephaestus/conePointSetScrew.git:conePointSetScrew.groovy": [
       "https://github.com/madhephaestus/conePointSetScrew.git",
       "conePointSetScrew.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
