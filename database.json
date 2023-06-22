@@ -144,6 +144,7 @@
     "Z": "r-trig-button",
     "Left Thumb": "l-trig-button"
   },
+  "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
       "Game",
