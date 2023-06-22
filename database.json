@@ -94,6 +94,10 @@
       "https://github.com/madhephaestus/CoquiDocker.git",
       "1684770068025"
     ],
+    "https://gist.github.com/a3bf40807728ed83dd99.git": [
+      "GIST: BowlerStudio Tabs",
+      "1687399172646"
+    ],
     "https://gist.github.com/f17ec09ad20e29590ea40a903b1f045d.git": [
       "GIST: Text To Speech example",
       "1684458375451"
@@ -164,6 +168,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://gist.github.com/a3bf40807728ed83dd99.git:tabLaunch.groovy": [
+      "https://gist.github.com/a3bf40807728ed83dd99.git",
+      "tabLaunch.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
