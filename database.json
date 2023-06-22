@@ -50,10 +50,6 @@
       "Project ",
       "1687396055166"
     ],
-    "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git": [
-      "GIST: .gitignore",
-      "1681838708564"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1683220578939"
@@ -85,6 +81,10 @@
     "https://gist.github.com/01de984b2912f73643f7.git": [
       "GIST: TheCalledScript.groovy",
       "1681944242327"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git": [
+      "OperationSmallKat/Marcos",
+      "1687396156152"
     ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
@@ -171,6 +171,10 @@
     "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "Marcos.xml"
     ],
     "https://github.com/madhephaestus/VoskGroovy.git:VoskGroovy.groovy": [
       "https://github.com/madhephaestus/VoskGroovy.git",
