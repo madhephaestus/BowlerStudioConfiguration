@@ -46,6 +46,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1687396055166"
+    ],
     "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git": [
       "GIST: .gitignore",
       "1681838708564"
@@ -109,10 +113,6 @@
     "https://github.com/madhephaestus/YoloJava.git": [
       "https://github.com/madhephaestus/YoloJava.git",
       "1684513907742"
-    ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1681838200920"
     ],
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
       "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
