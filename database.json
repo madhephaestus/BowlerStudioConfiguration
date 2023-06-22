@@ -46,6 +46,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://github.com/madhephaestus/chamferedScrew.git": [
+      "madhephaestus/chamferedScrew",
+      "1687448571358"
+    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1683220578939"
@@ -73,10 +77,6 @@
     "https://github.com/Halloween2020TheChild/CoquiDocker.git": [
       "Halloween2020TheChild/CoquiDocker",
       "1684799206047"
-    ],
-    "https://gist.github.com/01de984b2912f73643f7.git": [
-      "GIST: TheCalledScript.groovy",
-      "1681944242327"
     ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
@@ -168,9 +168,17 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
+    ],
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
       "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
       "TextToSpeechASDRTest.groovy"
+    ],
+    "https://github.com/madhephaestus/chamferedScrew.git:chamferedScrew.groovy": [
+      "https://github.com/madhephaestus/chamferedScrew.git",
+      "chamferedScrew.groovy"
     ],
     "https://gist.github.com/a3bf40807728ed83dd99.git:tabLaunch.groovy": [
       "https://gist.github.com/a3bf40807728ed83dd99.git",
@@ -195,10 +203,6 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "hephaestus.xml"
     ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
