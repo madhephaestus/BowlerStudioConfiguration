@@ -46,41 +46,41 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
+    "https://gist.github.com/4aeeaa49bd3a807eed8f8ff3dea84c48.git": [
       "GIST: .gitignore",
-      "1687127708948"
+      "1681838708564"
     ],
-    "https://github.com/madhephaestus/chamferedScrew.git": [
-      "https://github.com/madhephaestus/chamferedScrew.git",
-      "1687191092891"
+    "https://gist.github.com/4814b39ee72e9f590757.git": [
+      "GIST: JavaCadExample",
+      "1683220578939"
     ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "GIST: Cap screw generator",
-      "1687117134992"
+    "https://github.com/madhephaestus/JavaCVBowler.git": [
+      "https://github.com/madhephaestus/JavaCVBowler.git",
+      "1684332974335"
     ],
-    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
-      "GIST: cube.groovy",
-      "1687124676657"
+    "https://gist.github.com/c3944b2a203585d969bf.git": [
+      "GIST: Lets bring together some of the parts.",
+      "1683220514866"
     ],
-    "https://github.com/OperationSmallKat/SmallKatElectronicsCad.git": [
-      "OperationSmallKat/SmallKatElectronicsCad",
-      "1687224684925"
+    "https://github.com/madhephaestus/VoskGroovy.git": [
+      "https://github.com/madhephaestus/VoskGroovy.git",
+      "1684277563090"
     ],
-    "https://github.com/JansenSmith/Laputa.git": [
-      "JansenSmith/Laputa",
-      "1686876391328"
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
+      "GIST: Robot smashes through pile of bricks",
+      "1682444850274"
+    ],
+    "https://github.com/madhephaestus/ESPnetTTS.git": [
+      "https://github.com/madhephaestus/ESPnetTTS.git",
+      "1684694910930"
     ],
     "https://github.com/Halloween2020TheChild/CoquiDocker.git": [
       "Halloween2020TheChild/CoquiDocker",
       "1684799206047"
     ],
-    "https://github.com/OperationSmallKat/Marcos.git": [
-      "OperationSmallKat/Marcos",
-      "1686802189386"
-    ],
-    "https://github.com/madhephaestus/conePointSetScrew.git": [
-      "madhephaestus/conePointSetScrew",
-      "1687194046889"
+    "https://gist.github.com/01de984b2912f73643f7.git": [
+      "GIST: TheCalledScript.groovy",
+      "1681944242327"
     ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
@@ -90,41 +90,41 @@
       "TechnocopiaPlant/ForkyRobot",
       "1685231451855"
     ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
-      "madhephaestus/heatedThreadedInsertCadGenerator",
-      "1687117134134"
+    "https://github.com/madhephaestus/CoquiDocker.git": [
+      "https://github.com/madhephaestus/CoquiDocker.git",
+      "1684770068025"
     ],
-    "https://gist.github.com/9786cbb6076d99e64445907a21698be4.git": [
-      "GIST: Create a toManufaacturing closure on a CSG",
-      "1687125954502"
+    "https://gist.github.com/f17ec09ad20e29590ea40a903b1f045d.git": [
+      "GIST: Text To Speech example",
+      "1684458375451"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
       "1684896439054"
     ],
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
-      "madhephaestus/LewanSoulMotorCadGenerator",
-      "1687118375063"
+    "https://github.com/madhephaestus/HortonsLinkages.git": [
+      "madhephaestus/HortonsLinkages",
+      "1683402339795"
     ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "madhephaestus/LewanSoulHornCadGenerator",
-      "1687117010353"
+    "https://github.com/madhephaestus/YoloJava.git": [
+      "https://github.com/madhephaestus/YoloJava.git",
+      "1684513907742"
     ],
-    "https://github.com/madhephaestus/squareNut.git": [
-      "https://github.com/madhephaestus/squareNut.git",
-      "1687196202637"
+    "https://gist.github.com/d4312a0787456ec27a2a.git": [
+      "GIST: BowlerStudio Hello World",
+      "1681838200920"
     ],
-    "https://github.com/madhephaestus/PhillipsRoundedHeadThreadFormingScrews.git": [
-      "https://github.com/madhephaestus/PhillipsRoundedHeadThreadFormingScrews.git",
-      "1687192777635"
-    ],
-    "https://github.com/madhephaestus/HokuyoURGDevice.git": [
-      "https://github.com/madhephaestus/HokuyoURGDevice.git",
-      "1687026960659"
+    "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
+      "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
+      "1684156722199"
     ],
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "Halloween2020TheChild/Zoltar",
-      "1687027598541"
+      "1683999087858"
+    ],
+    "https://gist.github.com/fac882debda5325e816e9a2e6fc2dc44.git": [
+      "GIST: Simple Physics example",
+      "1682443929531"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -168,9 +168,29 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosCad.groovy"
+    "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "ZoltarController.groovy"
+    ],
+    "https://github.com/madhephaestus/VoskGroovy.git:VoskGroovy.groovy": [
+      "https://github.com/madhephaestus/VoskGroovy.git",
+      "VoskGroovy.groovy"
+    ],
+    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
+      "https://github.com/madhephaestus/YoloJava.git",
+      "ResnetWithCamera.groovy"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "ForkyLift.xml"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "hephaestus.xml"
+    ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
+      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
+      "jinputGrogu.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
