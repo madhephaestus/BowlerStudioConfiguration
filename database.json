@@ -196,9 +196,17 @@
       "https://github.com/madhephaestus/YoloJava.git",
       "ResnetWithCamera.groovy"
     ],
+    "https://github.com/Halloween2020TheChild/Zoltar.git:RunGame.groovy": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "RunGame.groovy"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
+    ],
+    "https://github.com/Halloween2020TheChild/Zoltar.git:zoltar.xml": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "zoltar.xml"
     ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
       "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
