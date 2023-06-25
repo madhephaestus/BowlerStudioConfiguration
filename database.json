@@ -168,10 +168,6 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
-      "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
-      "TextToSpeechASDRTest.groovy"
-    ],
     "https://gist.github.com/a3bf40807728ed83dd99.git:tabLaunch.groovy": [
       "https://gist.github.com/a3bf40807728ed83dd99.git",
       "tabLaunch.groovy"
