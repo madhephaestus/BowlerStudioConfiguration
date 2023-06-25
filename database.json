@@ -46,6 +46,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1687689945648"
+    ],
     "https://github.com/madhephaestus/chamferedScrew.git": [
       "madhephaestus/chamferedScrew",
       "1687448571358"
