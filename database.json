@@ -46,6 +46,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1688320952390"
+    ],
     "https://github.com/madhephaestus/chamferedScrew.git": [
       "madhephaestus/chamferedScrew",
       "1687448571358"
@@ -57,10 +61,6 @@
     "https://github.com/madhephaestus/JavaCVBowler.git": [
       "https://github.com/madhephaestus/JavaCVBowler.git",
       "1684332974335"
-    ],
-    "https://gist.github.com/c3944b2a203585d969bf.git": [
-      "GIST: Lets bring together some of the parts.",
-      "1683220514866"
     ],
     "https://github.com/madhephaestus/VoskGroovy.git": [
       "https://github.com/madhephaestus/VoskGroovy.git",
