@@ -168,22 +168,6 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
-      "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
-      "TextToSpeechASDRTest.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
-      "https://github.com/Halloween2020TheChild/Zoltar.git",
-      "ZoltarController.groovy"
-    ],
-    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
-      "https://github.com/madhephaestus/YoloJava.git",
-      "ResnetWithCamera.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/Zoltar.git:RunGame.groovy": [
-      "https://github.com/Halloween2020TheChild/Zoltar.git",
-      "RunGame.groovy"
-    ],
     "https://github.com/madhephaestus/TestTriangulation.git:TestTriangulation.groovy": [
       "https://github.com/madhephaestus/TestTriangulation.git",
       "TestTriangulation.groovy"
