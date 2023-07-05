@@ -86,6 +86,10 @@
       "TechnocopiaPlant/ForkyRobot",
       "1685231451855"
     ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "madhephaestus/heatedThreadedInsertCadGenerator",
+      "1688582684657"
+    ],
     "https://github.com/madhephaestus/CoquiDocker.git": [
       "https://github.com/madhephaestus/CoquiDocker.git",
       "1684770068025"
@@ -164,6 +168,14 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "cadGenHephaestusArm.groovy"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "heatedThreadedInsert.groovy"
+    ],
     "https://github.com/madhephaestus/TestTriangulation.git:TestTriangulation.groovy": [
       "https://github.com/madhephaestus/TestTriangulation.git",
       "TestTriangulation.groovy"
