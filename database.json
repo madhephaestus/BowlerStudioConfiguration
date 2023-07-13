@@ -45,10 +45,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "": [
-      "Project ",
-      "1656792120006"
-    ],
     "https://gist.github.com/26a571e332833f23754d.git": [
       "GIST: Bowler Studio Game Controllers",
       "1638042344275"
@@ -133,6 +129,9 @@
     "robotName": "Luna",
     "robotGitFile": "MediumKat.xml",
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
+  },
+  "MenueSettings": {
+    "printCSG": true
   },
   "RazerHydra": {},
   "studio-open-git": {
