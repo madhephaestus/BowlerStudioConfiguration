@@ -46,6 +46,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1689633791394"
+    ],
     "https://github.com/madhephaestus/chamferedScrew.git": [
       "madhephaestus/chamferedScrew",
       "1687448571358"
@@ -57,10 +61,6 @@
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1689628087623"
-    ],
-    "https://github.com/madhephaestus/VoskGroovy.git": [
-      "https://github.com/madhephaestus/VoskGroovy.git",
-      "1684277563090"
     ],
     "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
       "Hephaestus-Arm/HIDLinkLoader",
