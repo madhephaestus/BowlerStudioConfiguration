@@ -82,6 +82,10 @@
       "OperationSmallKat/Marcos",
       "1687396156152"
     ],
+    "https://gist.github.com/01de984b2912f73643f7.git": [
+      "GIST: TheCalledScript.groovy",
+      "1689633790077"
+    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1685115421091"
@@ -121,10 +125,6 @@
     "https://github.com/madhephaestus/TestTriangulation.git": [
       "https://github.com/madhephaestus/TestTriangulation.git",
       "1688491524859"
-    ],
-    "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
-      "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
-      "1684156722199"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -168,6 +168,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://gist.github.com/01de984b2912f73643f7.git:TheCalledScript.groovy": [
+      "https://gist.github.com/01de984b2912f73643f7.git",
+      "TheCalledScript.groovy"
+    ],
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
@@ -183,6 +187,10 @@
     "https://github.com/Halloween2020TheChild/Zoltar.git:RunGame.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "RunGame.groovy"
+    ],
+    "https://github.com/madhephaestus/SVGBowlerExtrude.git:drawing.svg": [
+      "https://github.com/madhephaestus/SVGBowlerExtrude.git",
+      "drawing.svg"
     ],
     "https://github.com/madhephaestus/TestTriangulation.git:TestTriangulation.groovy": [
       "https://github.com/madhephaestus/TestTriangulation.git",
