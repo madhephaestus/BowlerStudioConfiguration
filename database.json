@@ -54,6 +54,10 @@
       "https://github.com/madhephaestus/JavaCVBowler.git",
       "1684332974335"
     ],
+    "https://gist.github.com/4814b39ee72e9f590757.git": [
+      "GIST: JavaCadExample",
+      "1689628087623"
+    ],
     "https://github.com/madhephaestus/VoskGroovy.git": [
       "https://github.com/madhephaestus/VoskGroovy.git",
       "1684277563090"
@@ -164,6 +168,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "javaCad.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "cadGenHephaestusArm.groovy"
