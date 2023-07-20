@@ -192,6 +192,10 @@
       "https://github.com/madhephaestus/SVGBowlerExtrude.git",
       "drawing.svg"
     ],
+    "https://github.com/madhephaestus/FinnsChairLevel.git:FinnsChairLevel.groovy": [
+      "https://github.com/madhephaestus/FinnsChairLevel.git",
+      "FinnsChairLevel.groovy"
+    ],
     "https://github.com/madhephaestus/TestTriangulation.git:TestTriangulation.groovy": [
       "https://github.com/madhephaestus/TestTriangulation.git",
       "TestTriangulation.groovy"
