@@ -184,6 +184,10 @@
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "heatedThreadedInsert.groovy"
     ],
+    "https://github.com/madhephaestus/GearGenerator.git:bevelGear.groovy": [
+      "https://github.com/madhephaestus/GearGenerator.git",
+      "bevelGear.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:RunGame.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "RunGame.groovy"
