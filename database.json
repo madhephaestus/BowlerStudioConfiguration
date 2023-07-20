@@ -46,6 +46,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
+      "GIST: .gitignore",
+      "1689863847499"
+    ],
     "https://github.com/madhephaestus/chamferedScrew.git": [
       "madhephaestus/chamferedScrew",
       "1687448571358"
@@ -167,6 +171,10 @@
     "https://gist.github.com/01de984b2912f73643f7.git:TheCalledScript.groovy": [
       "https://gist.github.com/01de984b2912f73643f7.git",
       "TheCalledScript.groovy"
+    ],
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
+      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+      "cylinder.groovy"
     ],
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
