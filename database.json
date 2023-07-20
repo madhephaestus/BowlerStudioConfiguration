@@ -46,6 +46,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1689861747678"
+    ],
     "https://github.com/madhephaestus/chamferedScrew.git": [
       "madhephaestus/chamferedScrew",
       "1687448571358"
@@ -109,10 +113,6 @@
     "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
       "madhephaestus/SVGBowlerExtrude",
       "1689632452007"
-    ],
-    "https://github.com/madhephaestus/YoloJava.git": [
-      "https://github.com/madhephaestus/YoloJava.git",
-      "1684513907742"
     ],
     "https://github.com/madhephaestus/TestTriangulation.git": [
       "https://github.com/madhephaestus/TestTriangulation.git",
