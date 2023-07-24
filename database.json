@@ -168,33 +168,9 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://gist.github.com/01de984b2912f73643f7.git:TheCalledScript.groovy": [
-      "https://gist.github.com/01de984b2912f73643f7.git",
-      "TheCalledScript.groovy"
-    ],
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
-      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
-      "cylinder.groovy"
-    ],
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "cadGenHephaestusArm.groovy"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "heatedThreadedInsert.groovy"
-    ],
-    "https://github.com/madhephaestus/GearGenerator.git:bevelGear.groovy": [
-      "https://github.com/madhephaestus/GearGenerator.git",
-      "bevelGear.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/Zoltar.git:RunGame.groovy": [
+    "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
-      "RunGame.groovy"
+      "ZoltarController.groovy"
     ],
     "https://github.com/madhephaestus/SVGBowlerExtrude.git:drawing.svg": [
       "https://github.com/madhephaestus/SVGBowlerExtrude.git",
