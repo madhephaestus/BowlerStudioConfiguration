@@ -46,6 +46,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1691073457999"
+    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
       "1689863847499"
@@ -65,10 +69,6 @@
     "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
       "Hephaestus-Arm/HIDLinkLoader",
       "1687530243076"
-    ],
-    "https://github.com/madhephaestus/ESPnetTTS.git": [
-      "https://github.com/madhephaestus/ESPnetTTS.git",
-      "1684694910930"
     ],
     "https://github.com/JansenSmith/Laputa.git": [
       "JansenSmith/Laputa",
