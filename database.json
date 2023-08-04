@@ -94,10 +94,6 @@
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1688582684657"
     ],
-    "https://github.com/madhephaestus/CoquiDocker.git": [
-      "https://github.com/madhephaestus/CoquiDocker.git",
-      "1684770068025"
-    ],
     "https://gist.github.com/a3bf40807728ed83dd99.git": [
       "GIST: BowlerStudio Tabs",
       "1687399172646"
@@ -113,6 +109,10 @@
     "https://github.com/madhephaestus/TestTriangulation.git": [
       "https://github.com/madhephaestus/TestTriangulation.git",
       "1688491524859"
+    ],
+    "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
+      "madhephaestus/TextToSpeechASDRTest",
+      "1691109353976"
     ],
     "https://github.com/madhephaestus/GearGenerator.git": [
       "madhephaestus/GearGenerator",
@@ -168,9 +168,17 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/Halloween2020TheChild/Zoltar.git:ResnetWithCamera.groovy": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "ResnetWithCamera.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/Zoltar.git:zoltar.xml": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "zoltar.xml"
     ],
     "https://github.com/madhephaestus/YtPlaylistExtractor.git:YtPlaylistExtractor.sh": [
       "https://github.com/madhephaestus/YtPlaylistExtractor.git",
