@@ -46,6 +46,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1691259657631"
+    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
       "1689863847499"
@@ -69,10 +73,6 @@
     "https://github.com/JansenSmith/Laputa.git": [
       "JansenSmith/Laputa",
       "1687965077556"
-    ],
-    "https://github.com/Halloween2020TheChild/CoquiDocker.git": [
-      "Halloween2020TheChild/CoquiDocker",
-      "1684799206047"
     ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
