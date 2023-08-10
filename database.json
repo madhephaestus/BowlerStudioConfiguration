@@ -66,6 +66,10 @@
       "Hephaestus-Arm/HIDLinkLoader",
       "1687530243076"
     ],
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
+      "Halloween2022RodPuppet/RodPuppetKinematics",
+      "1691710353226"
+    ],
     "https://github.com/JansenSmith/Laputa.git": [
       "JansenSmith/Laputa",
       "1687965077556"
@@ -164,6 +168,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:ResnetWithCamera.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ResnetWithCamera.groovy"
@@ -179,6 +187,10 @@
     "https://github.com/Halloween2020TheChild/Zoltar.git:zoltar.xml": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "zoltar.xml"
+    ],
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:rcControl.groovy": [
+      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
+      "rcControl.groovy"
     ],
     "https://github.com/madhephaestus/YtPlaylistExtractor.git:YtPlaylistExtractor.sh": [
       "https://github.com/madhephaestus/YtPlaylistExtractor.git",
