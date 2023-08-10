@@ -29,22 +29,6 @@
     "z": "r-joy-left-right",
     "Left Thumb": "l-trig-button"
   },
-  "Microsoft X-Box 360 pad": {
-    "A": "a-mode",
-    "B": "b-mode",
-    "Start": "start",
-    "rx": "r-joy-left-right",
-    "ry": "r-joy-up-down",
-    "Mode": "select",
-    "rz": "analog-trig",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "Select": "select",
-    "y": "l-joy-up-down",
-    "Y": "y-mode",
-    "Left Thumb": "l-trig-button"
-  },
   "workspace": {
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
@@ -127,6 +111,49 @@
       "1689634264716"
     ]
   },
+  "Logitech Logitech Dual Action": {
+    "Thumb": "b-mode",
+    "rz": "r-joy-up-down",
+    "Base 3": "select",
+    "Base 4": "start",
+    "Pinkie": "r-trig-button",
+    "Thumb 2": "a-mode",
+    "Base 2": "analog-trig",
+    "Trigger": "x-mode",
+    "Top 2": "l-trig-button",
+    "Top": "y-mode",
+    "x": "l-joy-up-down",
+    "y": "l-joy-left-right",
+    "z": "r-joy-left-right"
+  },
+  "katapult": {
+    "gameControllerNames": [
+      "Game",
+      "Switch",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "kevkat",
+    "robotName": "MediumKat",
+    "robotGitFile": "MediumKat.xml",
+    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
+  },
+  "Microsoft X-Box 360 pad": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "start",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "Mode": "select",
+    "rz": "analog-trig",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "Left Thumb": "l-trig-button"
+  },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
@@ -145,18 +172,6 @@
     "Left Thumb": "l-trig-button"
   },
   "studio-open-web": {},
-  "katapult": {
-    "gameControllerNames": [
-      "Game",
-      "Switch",
-      "X-Box",
-      "Dragon"
-    ],
-    "linkDeviceName": "kevkat",
-    "robotName": "MediumKat",
-    "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
-  },
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
     "jogKinz": "rz",
     "jogLink": "x",
