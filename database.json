@@ -191,6 +191,10 @@
       "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
       "TextToSpeechASDRTest.groovy"
     ],
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git:vitaminsExportToTinkercad.groovy": [
+      "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
+      "vitaminsExportToTinkercad.groovy"
+    ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
