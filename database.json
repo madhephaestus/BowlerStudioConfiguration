@@ -46,6 +46,10 @@
       "https://github.com/madhephaestus/FinnsChairLevel.git",
       "1689860757260"
     ],
+    "https://github.com/adamjvr/openscad-to-jcsg.git": [
+      "adamjvr/openscad-to-jcsg",
+      "1693517547369"
+    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1689628087623"
@@ -61,10 +65,6 @@
     "https://github.com/JansenSmith/Laputa.git": [
       "JansenSmith/Laputa",
       "1687965077556"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git": [
-      "OperationSmallKat/Marcos",
-      "1687396156152"
     ],
     "https://gist.github.com/01de984b2912f73643f7.git": [
       "GIST: TheCalledScript.groovy",
