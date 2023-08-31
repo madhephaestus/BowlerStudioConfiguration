@@ -50,6 +50,10 @@
       "adamjvr/openscad-to-jcsg",
       "1693517547369"
     ],
+    "https://github.com/adamjvr/skully.git": [
+      "adamjvr/skully",
+      "1693520759912"
+    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1689628087623"
@@ -69,10 +73,6 @@
     "https://gist.github.com/01de984b2912f73643f7.git": [
       "GIST: TheCalledScript.groovy",
       "1689633790077"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
-      "Halloween2020TheChild/RazerHydraHIDJava",
-      "1685115421091"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "TechnocopiaPlant/ForkyRobot",
@@ -186,6 +186,10 @@
     "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "MarcosCad.groovy"
+    ],
+    "https://github.com/adamjvr/openscad-to-jcsg.git:AddOpenscadToBowlerKernel.groovy": [
+      "https://github.com/adamjvr/openscad-to-jcsg.git",
+      "AddOpenscadToBowlerKernel.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
