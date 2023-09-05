@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1693933585886"
+    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
       "1689863847499"
@@ -81,10 +85,6 @@
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "madhephaestus/heatedThreadedInsertCadGenerator",
       "1688582684657"
-    ],
-    "https://gist.github.com/a3bf40807728ed83dd99.git": [
-      "GIST: BowlerStudio Tabs",
-      "1687399172646"
     ],
     "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
       "madhephaestus/SVGBowlerExtrude",
