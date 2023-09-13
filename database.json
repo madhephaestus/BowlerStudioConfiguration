@@ -50,10 +50,6 @@
       "GIST: JavaCadExample",
       "1689628087623"
     ],
-    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
-      "Hephaestus-Arm/HIDLinkLoader",
-      "1687530243076"
-    ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1691710353226"
@@ -89,6 +85,10 @@
     "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
       "madhephaestus/SVGBowlerExtrude",
       "1689632452007"
+    ],
+    "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git": [
+      "GIST: TrextExtrudeExample.groovy",
+      "1694619338627"
     ],
     "https://github.com/madhephaestus/TestTriangulation.git": [
       "https://github.com/madhephaestus/TestTriangulation.git",
@@ -186,6 +186,10 @@
     "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "MarcosCad.groovy"
+    ],
+    "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git:TrextExtrudeExample.groovy": [
+      "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
+      "TrextExtrudeExample.groovy"
     ],
     "https://github.com/madhephaestus/KevinHarringtonNametag.git:KevinHarringtonNametag.groovy": [
       "https://github.com/madhephaestus/KevinHarringtonNametag.git",
