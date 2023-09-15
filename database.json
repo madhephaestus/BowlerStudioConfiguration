@@ -108,7 +108,7 @@
     ],
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "Halloween2020TheChild/Zoltar",
-      "1689634264716"
+      "1694810358930"
     ]
   },
   "Logitech Logitech Dual Action": {
@@ -194,6 +194,10 @@
     "https://github.com/adamjvr/openscad-to-jcsg.git:AddOpenscadToBowlerKernel.groovy": [
       "https://github.com/adamjvr/openscad-to-jcsg.git",
       "AddOpenscadToBowlerKernel.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "ZoltarController.groovy"
     ],
     "https://github.com/madhephaestus/YtPlaylistExtractor.git:mactest.groovy": [
       "https://github.com/madhephaestus/YtPlaylistExtractor.git",
