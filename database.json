@@ -195,6 +195,10 @@
       "https://github.com/CommonWealthRobotics/ESP32ArduinoEclipseInstaller.git",
       "test.groovy"
     ],
+    "https://github.com/CommonWealthRobotics/Installer-Linux-BowlerStudio.git:test.groovy": [
+      "https://github.com/CommonWealthRobotics/Installer-Linux-BowlerStudio.git",
+      "test.groovy"
+    ],
     "https://gist.github.com/f17ec09ad20e29590ea40a903b1f045d.git:TextToSpeech.groovy": [
       "https://gist.github.com/f17ec09ad20e29590ea40a903b1f045d.git",
       "TextToSpeech.groovy"
