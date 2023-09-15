@@ -195,10 +195,6 @@
       "https://github.com/adamjvr/openscad-to-jcsg.git",
       "AddOpenscadToBowlerKernel.groovy"
     ],
-    "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
-      "https://github.com/Halloween2020TheChild/Zoltar.git",
-      "ZoltarController.groovy"
-    ],
     "https://github.com/madhephaestus/YtPlaylistExtractor.git:mactest.groovy": [
       "https://github.com/madhephaestus/YtPlaylistExtractor.git",
       "mactest.groovy"
