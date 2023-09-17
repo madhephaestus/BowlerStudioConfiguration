@@ -46,10 +46,6 @@
       "https://github.com/madhephaestus/FinnsChairLevel.git",
       "1689860757260"
     ],
-    "https://gist.github.com/4814b39ee72e9f590757.git": [
-      "GIST: JavaCadExample",
-      "1689628087623"
-    ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1691710353226"
@@ -93,6 +89,10 @@
     "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
       "madhephaestus/SVGBowlerExtrude",
       "1689632452007"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1694967674626"
     ],
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
       "madhephaestus/TextToSpeechASDRTest",
@@ -190,6 +190,10 @@
     "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "ZoltarController.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "cadGenHephaestusArm.groovy"
     ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:RunGame.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
