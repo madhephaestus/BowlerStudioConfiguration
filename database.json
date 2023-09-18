@@ -34,10 +34,6 @@
       "GIST: .gitignore",
       "1689863847499"
     ],
-    "https://github.com/madhephaestus/FinnsChairLevel.git": [
-      "https://github.com/madhephaestus/FinnsChairLevel.git",
-      "1689860757260"
-    ],
     "https://github.com/adamjvr/openscad-to-jcsg.git": [
       "adamjvr/openscad-to-jcsg",
       "1693517547369"
@@ -46,9 +42,9 @@
       "adamjvr/skully",
       "1693520759912"
     ],
-    "https://gist.github.com/4814b39ee72e9f590757.git": [
-      "GIST: JavaCadExample",
-      "1689628087623"
+    "https://github.com/madhephaestus/FinnsChairLevel.git": [
+      "https://github.com/madhephaestus/FinnsChairLevel.git",
+      "1689860757260"
     ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "Halloween2022RodPuppet/RodPuppetKinematics",
@@ -82,10 +78,6 @@
       "CommonWealthRobotics/ESP32ArduinoEclipseInstaller",
       "1694796672309"
     ],
-    "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
-      "madhephaestus/SVGBowlerExtrude",
-      "1689632452007"
-    ],
     "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git": [
       "GIST: TrextExtrudeExample.groovy",
       "1694619338627"
@@ -93,6 +85,14 @@
     "https://gist.github.com/f17ec09ad20e29590ea40a903b1f045d.git": [
       "GIST: Text To Speech example",
       "1694795517344"
+    ],
+    "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
+      "madhephaestus/SVGBowlerExtrude",
+      "1689632452007"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1694967674626"
     ],
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
       "madhephaestus/TextToSpeechASDRTest",
@@ -108,7 +108,7 @@
     ],
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "Halloween2020TheChild/Zoltar",
-      "1689634264716"
+      "1694810549506"
     ]
   },
   "Logitech Logitech Dual Action": {
@@ -183,13 +183,17 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosCad.groovy"
+    "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "ZoltarController.groovy"
     ],
-    "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git:TrextExtrudeExample.groovy": [
-      "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
-      "TrextExtrudeExample.groovy"
+    "https://github.com/Halloween2020TheChild/Zoltar.git:RunGame.groovy": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "RunGame.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/Zoltar.git:zoltar.xml": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "zoltar.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
