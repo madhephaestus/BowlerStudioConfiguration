@@ -30,10 +30,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "": [
-      "Project ",
-      "1695222053706"
-    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
       "1689863847499"
@@ -85,6 +81,10 @@
     "https://github.com/CommonWealthRobotics/ESP32ArduinoEclipseInstaller.git": [
       "CommonWealthRobotics/ESP32ArduinoEclipseInstaller",
       "1694796672309"
+    ],
+    "https://github.com/madhephaestus/SVGBowlerExtrude.git": [
+      "madhephaestus/SVGBowlerExtrude",
+      "1689632452007"
     ],
     "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git": [
       "GIST: TrextExtrudeExample.groovy",
@@ -183,17 +183,9 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosCad.groovy"
-    ],
     "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git:TrextExtrudeExample.groovy": [
       "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
       "TrextExtrudeExample.groovy"
-    ],
-    "https://github.com/BancroftSchoolOpenSource/UbuntuSetupScript.git:run.sh": [
-      "https://github.com/BancroftSchoolOpenSource/UbuntuSetupScript.git",
-      "run.sh"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -217,7 +209,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 18.0,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
