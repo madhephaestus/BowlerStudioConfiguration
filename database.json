@@ -46,10 +46,6 @@
       "adamjvr/skully",
       "1693520759912"
     ],
-    "https://gist.github.com/4814b39ee72e9f590757.git": [
-      "GIST: JavaCadExample",
-      "1689628087623"
-    ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1691710353226"
@@ -57,6 +53,10 @@
     "https://github.com/madhephaestus/KevinHarringtonNametag.git": [
       "https://github.com/madhephaestus/KevinHarringtonNametag.git",
       "1694616199688"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/UbuntuSetupScript.git": [
+      "BancroftSchoolOpenSource/UbuntuSetupScript",
+      "1695211912515"
     ],
     "https://github.com/BancroftRoboDogs/ZenCad.git": [
       "BancroftRoboDogs/ZenCad",
@@ -183,10 +183,6 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosCad.groovy"
-    ],
     "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git:TrextExtrudeExample.groovy": [
       "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
       "TrextExtrudeExample.groovy"
@@ -213,7 +209,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 18.0,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
