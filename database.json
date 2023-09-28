@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1695933592693"
+    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
       "1689863847499"
@@ -61,10 +65,6 @@
     "https://github.com/BancroftRoboDogs/LabCodeRepoSetup.git": [
       "BancroftRoboDogs/LabCodeRepoSetup",
       "1693930094330"
-    ],
-    "https://gist.github.com/01de984b2912f73643f7.git": [
-      "GIST: TheCalledScript.groovy",
-      "1689633790077"
     ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
