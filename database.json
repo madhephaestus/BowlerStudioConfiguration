@@ -191,6 +191,10 @@
       "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git",
       "hornVitamin.groovy"
     ],
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git:LetsPrintRobots.ino": [
+      "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git",
+      "LetsPrintRobots.ino"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
