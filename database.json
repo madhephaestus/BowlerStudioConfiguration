@@ -199,6 +199,10 @@
       "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
       "BaseBot.groovy"
     ],
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots-Courseware.git:test.groovy": [
+      "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots-Courseware.git",
+      "test.groovy"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
