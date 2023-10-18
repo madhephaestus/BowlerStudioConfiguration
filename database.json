@@ -70,6 +70,10 @@
       "OperationSmallKat/Marcos",
       "1696101177014"
     ],
+    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git": [
+      "BancroftSchoolOpenSource/ArduinoClassRobot",
+      "1697640282352"
+    ],
     "https://github.com/CommonWealthRobotics/Installer-Linux-BowlerStudio.git": [
       "CommonWealthRobotics/Installer-Linux-BowlerStudio",
       "1694797958292"
@@ -105,10 +109,6 @@
     "https://github.com/madhephaestus/YtPlaylistExtractor.git": [
       "https://github.com/madhephaestus/YtPlaylistExtractor.git",
       "1694523868373"
-    ],
-    "https://github.com/Halloween2020TheChild/Zoltar.git": [
-      "Halloween2020TheChild/Zoltar",
-      "1689634264716"
     ]
   },
   "Logitech Logitech Dual Action": {
