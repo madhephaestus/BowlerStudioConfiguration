@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
+      "GIST: .gitignore",
+      "1689863847499"
+    ],
     "https://github.com/adamjvr/openscad-to-jcsg.git": [
       "adamjvr/openscad-to-jcsg",
       "1693517547369"
@@ -183,9 +187,25 @@
       "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
       "TrextExtrudeExample.groovy"
     ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
+    ],
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
       "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
       "TextToSpeechASDRTest.groovy"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git:LetsPrintRobots.ino": [
+      "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git",
+      "LetsPrintRobots.ino"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:BaseBot.groovy": [
+      "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
+      "BaseBot.groovy"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots-Courseware.git:test.groovy": [
+      "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots-Courseware.git",
+      "test.groovy"
     ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:RunGame.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
@@ -194,6 +214,14 @@
     "https://github.com/Halloween2020TheChild/Zoltar.git:zoltar.xml": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "zoltar.xml"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "ForkyLift.xml"
+    ],
+    "https://github.com/madhephaestus/SoSArduino.git:SoSArduino.ino": [
+      "https://github.com/madhephaestus/SoSArduino.git",
+      "SoSArduino.ino"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
