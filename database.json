@@ -46,10 +46,6 @@
       "BancroftSchoolOpenSource/LetsPrintRobots-Courseware",
       "1697651412549"
     ],
-    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
-      "Halloween2022RodPuppet/RodPuppetKinematics",
-      "1691710353226"
-    ],
     "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
       "GIST: Servo Horn generator",
       "1698159076922"
@@ -105,6 +101,10 @@
     "https://github.com/madhephaestus/YtPlaylistExtractor.git": [
       "https://github.com/madhephaestus/YtPlaylistExtractor.git",
       "1694523868373"
+    ],
+    "https://github.com/madhephaestus/BatteryBoxCadGenerator.git": [
+      "https://github.com/madhephaestus/BatteryBoxCadGenerator.git",
+      "1698329328897"
     ],
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "Halloween2020TheChild/Zoltar",
@@ -183,6 +183,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/BatteryBoxCadGenerator.git:BatteryBox.groovy": [
+      "https://github.com/madhephaestus/BatteryBoxCadGenerator.git",
+      "BatteryBox.groovy"
+    ],
     "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:BaseBot.groovy": [
       "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
       "BaseBot.groovy"
