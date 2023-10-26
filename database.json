@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
+      "GIST: .gitignore",
+      "1689863847499"
+    ],
     "https://github.com/adamjvr/openscad-to-jcsg.git": [
       "adamjvr/openscad-to-jcsg",
       "1693517547369"
@@ -46,9 +50,9 @@
       "BancroftSchoolOpenSource/LetsPrintRobots-Courseware",
       "1697651412549"
     ],
-    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
-      "GIST: Servo Horn generator",
-      "1698159076922"
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
+      "Halloween2022RodPuppet/RodPuppetKinematics",
+      "1691710353226"
     ],
     "https://github.com/madhephaestus/KevinHarringtonNametag.git": [
       "https://github.com/madhephaestus/KevinHarringtonNametag.git",
@@ -61,10 +65,6 @@
     "https://github.com/BancroftRoboDogs/LabCodeRepoSetup.git": [
       "BancroftRoboDogs/LabCodeRepoSetup",
       "1693930094330"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git": [
-      "OperationSmallKat/Marcos",
-      "1696101177014"
     ],
     "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git": [
       "BancroftSchoolOpenSource/ArduinoClassRobot",
@@ -90,21 +90,17 @@
       "GIST: Text To Speech example",
       "1694795517344"
     ],
+    "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
+      "madhephaestus/TextToSpeechASDRTest",
+      "1691109353976"
+    ],
     "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git": [
       "BancroftSchoolOpenSource/LetsPrintRobots",
       "1695650959843"
     ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
-      "GIST: .gitignore",
-      "1698159076085"
-    ],
     "https://github.com/madhephaestus/YtPlaylistExtractor.git": [
       "https://github.com/madhephaestus/YtPlaylistExtractor.git",
       "1694523868373"
-    ],
-    "https://github.com/madhephaestus/BatteryBoxCadGenerator.git": [
-      "https://github.com/madhephaestus/BatteryBoxCadGenerator.git",
-      "1698329328897"
     ],
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "Halloween2020TheChild/Zoltar",
@@ -183,21 +179,45 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/BatteryBoxCadGenerator.git:BatteryBox.groovy": [
-      "https://github.com/madhephaestus/BatteryBoxCadGenerator.git",
-      "BatteryBox.groovy"
+    "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git:TrextExtrudeExample.groovy": [
+      "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
+      "TrextExtrudeExample.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
+    ],
+    "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
+      "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
+      "TextToSpeechASDRTest.groovy"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git:LetsPrintRobots.ino": [
+      "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git",
+      "LetsPrintRobots.ino"
     ],
     "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:BaseBot.groovy": [
       "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
       "BaseBot.groovy"
     ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
-      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
-      "servo.groovy"
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots-Courseware.git:test.groovy": [
+      "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots-Courseware.git",
+      "test.groovy"
     ],
-    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
-      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
-      "servoHorn.groovy"
+    "https://github.com/Halloween2020TheChild/Zoltar.git:RunGame.groovy": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "RunGame.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/Zoltar.git:zoltar.xml": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "zoltar.xml"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "ForkyLift.xml"
+    ],
+    "https://github.com/madhephaestus/SoSArduino.git:SoSArduino.ino": [
+      "https://github.com/madhephaestus/SoSArduino.git",
+      "SoSArduino.ino"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
