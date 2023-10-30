@@ -30,10 +30,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
-      "GIST: .gitignore",
-      "1689863847499"
-    ],
     "https://github.com/adamjvr/openscad-to-jcsg.git": [
       "adamjvr/openscad-to-jcsg",
       "1693517547369"
@@ -49,6 +45,10 @@
     "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots-Courseware.git": [
       "BancroftSchoolOpenSource/LetsPrintRobots-Courseware",
       "1697651412549"
+    ],
+    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
+      "GIST: cube.groovy",
+      "1698669156445"
     ],
     "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
       "Halloween2022RodPuppet/RodPuppetKinematics",
@@ -183,9 +183,9 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:BaseBot.groovy": [
-      "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
-      "BaseBot.groovy"
+    "https://gist.github.com/185a0aad1f898ab32e5e.git:cube.groovy": [
+      "https://gist.github.com/185a0aad1f898ab32e5e.git",
+      "cube.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
