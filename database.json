@@ -54,6 +54,10 @@
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1691710353226"
     ],
+    "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git": [
+      "Bancroft6th-grade-art/LabCodeRepoSetup",
+      "1698786397374"
+    ],
     "https://github.com/madhephaestus/KevinHarringtonNametag.git": [
       "https://github.com/madhephaestus/KevinHarringtonNametag.git",
       "1694616199688"
@@ -93,10 +97,6 @@
     "https://gist.github.com/f17ec09ad20e29590ea40a903b1f045d.git": [
       "GIST: Text To Speech example",
       "1694795517344"
-    ],
-    "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
-      "madhephaestus/TextToSpeechASDRTest",
-      "1691109353976"
     ],
     "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git": [
       "BancroftSchoolOpenSource/LetsPrintRobots",
@@ -186,6 +186,10 @@
     "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:BaseBot.groovy": [
       "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
       "BaseBot.groovy"
+    ],
+    "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
+      "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git",
+      "LabCodeRepoSetupMain.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
