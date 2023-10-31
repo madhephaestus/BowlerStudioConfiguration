@@ -183,9 +183,9 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://gist.github.com/185a0aad1f898ab32e5e.git:cube.groovy": [
-      "https://gist.github.com/185a0aad1f898ab32e5e.git",
-      "cube.groovy"
+    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:BaseBot.groovy": [
+      "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
+      "BaseBot.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
