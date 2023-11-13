@@ -191,6 +191,10 @@
       "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
       "ArduinoClassRobot.ino"
     ],
+    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:delta-dh-ik.groovy": [
+      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
+      "delta-dh-ik.groovy"
+    ],
     "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
       "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git",
       "LabCodeRepoSetupMain.groovy"
