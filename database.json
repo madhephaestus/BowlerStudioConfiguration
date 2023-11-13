@@ -70,10 +70,6 @@
       "BancroftRoboDogs/LabCodeRepoSetup",
       "1693930094330"
     ],
-    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git": [
-      "BancroftSchoolOpenSource/ArduinoClassRobot",
-      "1697640282352"
-    ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
       "1698353907586"
@@ -198,10 +194,6 @@
     "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
       "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git",
       "LabCodeRepoSetupMain.groovy"
-    ],
-    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:deltaCad.groovy": [
-      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
-      "deltaCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
