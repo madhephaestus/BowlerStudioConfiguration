@@ -50,10 +50,6 @@
       "GIST: cube.groovy",
       "1698669156445"
     ],
-    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
-      "Halloween2022RodPuppet/RodPuppetKinematics",
-      "1691710353226"
-    ],
     "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git": [
       "Bancroft6th-grade-art/LabCodeRepoSetup",
       "1698786397374"
@@ -89,6 +85,10 @@
     "https://github.com/CommonWealthRobotics/ESP32ArduinoEclipseInstaller.git": [
       "CommonWealthRobotics/ESP32ArduinoEclipseInstaller",
       "1694796672309"
+    ],
+    "https://github.com/madhephaestus/CoatPegTutorial.git": [
+      "https://github.com/madhephaestus/CoatPegTutorial.git",
+      "1701016414769"
     ],
     "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git": [
       "GIST: TrextExtrudeExample.groovy",
