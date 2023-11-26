@@ -30,9 +30,9 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "https://github.com/adamjvr/openscad-to-jcsg.git": [
-      "adamjvr/openscad-to-jcsg",
-      "1693517547369"
+    "https://github.com/madhephaestus/ballChainCadGenerator.git": [
+      "https://github.com/madhephaestus/ballChainCadGenerator.git",
+      "1700590075985"
     ],
     "https://github.com/adamjvr/skully.git": [
       "adamjvr/skully",
@@ -50,10 +50,6 @@
       "GIST: cube.groovy",
       "1698669156445"
     ],
-    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
-      "Halloween2022RodPuppet/RodPuppetKinematics",
-      "1691710353226"
-    ],
     "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git": [
       "Bancroft6th-grade-art/LabCodeRepoSetup",
       "1698786397374"
@@ -61,6 +57,10 @@
     "https://github.com/madhephaestus/KevinHarringtonNametag.git": [
       "https://github.com/madhephaestus/KevinHarringtonNametag.git",
       "1694616199688"
+    ],
+    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git": [
+      "madhephaestus/Fanuc_Delta_DR-3iB",
+      "1699580993515"
     ],
     "https://github.com/BancroftRoboDogs/ZenCad.git": [
       "BancroftRoboDogs/ZenCad",
@@ -191,9 +191,21 @@
       "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
       "ArduinoClassRobot.ino"
     ],
+    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:delta-dh-ik.groovy": [
+      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
+      "delta-dh-ik.groovy"
+    ],
     "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
       "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git",
       "LabCodeRepoSetupMain.groovy"
+    ],
+    "https://github.com/madhephaestus/ballChainCadGenerator.git:ballChain.groovy": [
+      "https://github.com/madhephaestus/ballChainCadGenerator.git",
+      "ballChain.groovy"
+    ],
+    "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git:deltaCad.groovy": [
+      "https://github.com/madhephaestus/Fanuc_Delta_DR-3iB.git",
+      "deltaCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
