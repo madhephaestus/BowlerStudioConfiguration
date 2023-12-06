@@ -66,10 +66,6 @@
       "BancroftRoboDogs/LabCodeRepoSetup",
       "1693930094330"
     ],
-    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git": [
-      "BancroftSchoolOpenSource/ArduinoClassRobot",
-      "1697640282352"
-    ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
       "1698353907586"
@@ -182,24 +178,7 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {
-    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:BaseBot.groovy": [
-      "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
-      "BaseBot.groovy"
-    ],
-    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:ArduinoClassRobot.ino": [
-      "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
-      "ArduinoClassRobot.ino"
-    ],
-    "https://github.com/madhephaestus/CoatPegTutorial.git:CoatPegTutorial.groovy": [
-      "https://github.com/madhephaestus/CoatPegTutorial.git",
-      "CoatPegTutorial.groovy"
-    ],
-    "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
-      "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git",
-      "LabCodeRepoSetupMain.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
