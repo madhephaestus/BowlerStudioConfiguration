@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://github.com/OperationSmallKat/MarcosFirmware.git": [
+      "OperationSmallKat/MarcosFirmware",
+      "1702222508410"
+    ],
     "https://github.com/madhephaestus/GPTGeneratedCadTest.git": [
       "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
       "1701985577510"
@@ -65,10 +69,6 @@
     "https://github.com/BancroftRoboDogs/LabCodeRepoSetup.git": [
       "BancroftRoboDogs/LabCodeRepoSetup",
       "1693930094330"
-    ],
-    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git": [
-      "BancroftSchoolOpenSource/ArduinoClassRobot",
-      "1697640282352"
     ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
@@ -190,18 +190,6 @@
     "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:ArduinoClassRobot.ino": [
       "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
       "ArduinoClassRobot.ino"
-    ],
-    "https://github.com/madhephaestus/CoatPegTutorial.git:CoatPegTutorial.groovy": [
-      "https://github.com/madhephaestus/CoatPegTutorial.git",
-      "CoatPegTutorial.groovy"
-    ],
-    "https://github.com/madhephaestus/GPTGeneratedCadTest.git:GPTGeneratedCadTest.groovy": [
-      "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
-      "GPTGeneratedCadTest.groovy"
-    ],
-    "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
-      "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git",
-      "LabCodeRepoSetupMain.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
