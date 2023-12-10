@@ -38,10 +38,6 @@
       "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
       "1701985577510"
     ],
-    "https://github.com/adamjvr/skully.git": [
-      "adamjvr/skully",
-      "1693520759912"
-    ],
     "https://github.com/madhephaestus/SoSArduino.git": [
       "https://github.com/madhephaestus/SoSArduino.git",
       "1696343108167"
@@ -73,6 +69,10 @@
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
       "1698353907586"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git": [
+      "BancroftSchoolOpenSource/ArduinoClassRobot",
+      "1702234100149"
     ],
     "https://github.com/CommonWealthRobotics/Installer-Linux-BowlerStudio.git": [
       "CommonWealthRobotics/Installer-Linux-BowlerStudio",
