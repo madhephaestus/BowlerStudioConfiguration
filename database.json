@@ -34,6 +34,10 @@
       "OperationSmallKat/MarcosFirmware",
       "1702222508410"
     ],
+    "": [
+      "Project ",
+      "1702414424837"
+    ],
     "https://github.com/madhephaestus/GPTGeneratedCadTest.git": [
       "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
       "1701985577510"
@@ -61,10 +65,6 @@
     "https://github.com/BancroftRoboDogs/ZenCad.git": [
       "BancroftRoboDogs/ZenCad",
       "1694365834587"
-    ],
-    "https://github.com/BancroftRoboDogs/LabCodeRepoSetup.git": [
-      "BancroftRoboDogs/LabCodeRepoSetup",
-      "1693930094330"
     ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
@@ -183,6 +183,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
+    ],
     "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:BaseBot.groovy": [
       "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
       "BaseBot.groovy"
