@@ -130,9 +130,9 @@
     "gameControllerNames": [
       "Game",
       "Switch",
+      "gamepad",
       "X-Box",
-      "Dragon",
-      "gamepad"
+      "Dragon"
     ],
     "linkDeviceName": "midnight",
     "robotName": "Marcos",
