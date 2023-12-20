@@ -131,12 +131,13 @@
       "Game",
       "Switch",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "gamepad"
     ],
-    "linkDeviceName": "kevkat",
-    "robotName": "MediumKat",
-    "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
+    "linkDeviceName": "midnight",
+    "robotName": "Marcos",
+    "robotGitFile": "Marcos.xml",
+    "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
   },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
@@ -202,6 +203,10 @@
     "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:ArduinoClassRobot.ino": [
       "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
       "ArduinoClassRobot.ino"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosWalk.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
