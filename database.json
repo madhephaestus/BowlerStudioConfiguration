@@ -64,7 +64,7 @@
     ],
     "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git": [
       "BancroftSchoolOpenSource/ArduinoClassRobot",
-      "1703133348927"
+      "1703205858315"
     ],
     "https://github.com/CommonWealthRobotics/Installer-Linux-BowlerStudio.git": [
       "CommonWealthRobotics/Installer-Linux-BowlerStudio",
@@ -199,6 +199,10 @@
     "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:BaseBot.groovy": [
       "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
       "BaseBot.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:calculateScale.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "calculateScale.groovy"
     ],
     "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:ArduinoClassRobot.ino": [
       "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
