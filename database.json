@@ -188,6 +188,10 @@
       "https://github.com/OperationSmallKat/Marcos.git",
       "MarcosCad.groovy"
     ],
+    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoJavaCad.groovy": [
+      "https://github.com/madhephaestus/MuJoCoTest.git",
+      "MujocoJavaCad.groovy"
+    ],
     "https://github.com/OperationSmallKat/MarcosFirmware.git:MarcosFirmware.ino": [
       "https://github.com/OperationSmallKat/MarcosFirmware.git",
       "MarcosFirmware.ino"
