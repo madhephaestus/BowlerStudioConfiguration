@@ -200,6 +200,10 @@
       "https://github.com/OperationSmallKat/Marcos.git",
       "calculateScale.groovy"
     ],
+    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:BaseBot.groovy": [
+      "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
+      "BaseBot.groovy"
+    ],
     "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "MarcosWalk.groovy"
