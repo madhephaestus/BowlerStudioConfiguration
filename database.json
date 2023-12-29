@@ -180,37 +180,13 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosCad.groovy"
-    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoJavaCad.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoJavaCad.groovy"
     ],
-    "https://github.com/OperationSmallKat/MarcosFirmware.git:MarcosFirmware.ino": [
-      "https://github.com/OperationSmallKat/MarcosFirmware.git",
-      "MarcosFirmware.ino"
-    ],
-    "https://github.com/madhephaestus/squareNut.git:squareNut.groovy": [
-      "https://github.com/madhephaestus/squareNut.git",
-      "squareNut.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git:calculateScale.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "calculateScale.groovy"
-    ],
-    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git:BaseBot.groovy": [
-      "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git",
-      "BaseBot.groovy"
-    ],
     "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "MarcosWalk.groovy"
-    ],
-    "https://github.com/madhephaestus/MuJoCoTest.git:MuJoCoTest.groovy": [
-      "https://github.com/madhephaestus/MuJoCoTest.git",
-      "MuJoCoTest.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
