@@ -34,6 +34,10 @@
       "OperationSmallKat/MarcosFirmware",
       "1702222508410"
     ],
+    "": [
+      "Project ",
+      "1703823124563"
+    ],
     "https://github.com/madhephaestus/GPTGeneratedCadTest.git": [
       "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
       "1701985577510"
@@ -85,10 +89,6 @@
     "https://github.com/madhephaestus/CoatPegTutorial.git": [
       "https://github.com/madhephaestus/CoatPegTutorial.git",
       "1701016414769"
-    ],
-    "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git": [
-      "GIST: TrextExtrudeExample.groovy",
-      "1694619338627"
     ],
     "https://gist.github.com/f17ec09ad20e29590ea40a903b1f045d.git": [
       "GIST: Text To Speech example",
