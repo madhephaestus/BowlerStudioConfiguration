@@ -184,17 +184,13 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/CommonWealthRobotics/mujoco-java.git:model/humanoid/humanoid-ridgid.xml": [
-      "https://github.com/CommonWealthRobotics/mujoco-java.git",
-      "model/humanoid/humanoid-ridgid.xml"
-    ],
-    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoJavaCad.groovy": [
-      "https://github.com/madhephaestus/MuJoCoTest.git",
-      "MujocoJavaCad.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
+    "https://github.com/OperationSmallKat/Marcos.git:mujoco.xml": [
       "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosWalk.groovy"
+      "mujoco.xml"
+    ],
+    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
+      "https://github.com/madhephaestus/MuJoCoTest.git",
+      "MujocoMobileBase.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
