@@ -184,6 +184,10 @@
       "https://github.com/OperationSmallKat/Marcos.git",
       "Marcos.xml"
     ],
+    "https://github.com/madhephaestus/ShrinkAndLayout.git:ShrinkAndLayout.groovy": [
+      "https://github.com/madhephaestus/ShrinkAndLayout.git",
+      "ShrinkAndLayout.groovy"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoMobileBase.groovy"
