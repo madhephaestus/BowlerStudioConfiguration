@@ -66,6 +66,10 @@
       "BancroftSchoolOpenSource/ArduinoClassRobot",
       "1703772116796"
     ],
+    "https://github.com/OperationSmallKat/Marcos.git": [
+      "OperationSmallKat/Marcos",
+      "1704494701975"
+    ],
     "https://github.com/CommonWealthRobotics/Installer-Linux-BowlerStudio.git": [
       "CommonWealthRobotics/Installer-Linux-BowlerStudio",
       "1694797958292"
@@ -183,6 +187,10 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
     ],
     "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
       "https://github.com/OperationSmallKat/Marcos.git",
