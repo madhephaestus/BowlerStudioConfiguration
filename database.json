@@ -82,6 +82,10 @@
       "BancroftSchoolOpenSource/ArduinoClassRobot",
       "1703772116796"
     ],
+    "https://github.com/OperationSmallKat/Marcos.git": [
+      "OperationSmallKat/Marcos",
+      "1704490262154"
+    ],
     "https://github.com/CommonWealthRobotics/Installer-Linux-BowlerStudio.git": [
       "CommonWealthRobotics/Installer-Linux-BowlerStudio",
       "1694797958292"
@@ -93,10 +97,6 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "TechnocopiaPlant/ForkyRobot",
       "1695491358084"
-    ],
-    "https://github.com/CommonWealthRobotics/ESP32ArduinoEclipseInstaller.git": [
-      "CommonWealthRobotics/ESP32ArduinoEclipseInstaller",
-      "1694796672309"
     ],
     "https://github.com/madhephaestus/CoatPegTutorial.git": [
       "https://github.com/madhephaestus/CoatPegTutorial.git",
