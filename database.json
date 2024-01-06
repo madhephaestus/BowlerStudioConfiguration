@@ -188,6 +188,14 @@
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
     ],
+    "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "Marcos.xml"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosWalk.groovy"
+    ],
     "https://github.com/madhephaestus/ShrinkAndLayout.git:ShrinkAndLayout.groovy": [
       "https://github.com/madhephaestus/ShrinkAndLayout.git",
       "ShrinkAndLayout.groovy"
