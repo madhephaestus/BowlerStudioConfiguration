@@ -34,6 +34,10 @@
       "OperationSmallKat/MarcosFirmware",
       "1702222508410"
     ],
+    "": [
+      "Project ",
+      "1704737692809"
+    ],
     "https://github.com/madhephaestus/GPTGeneratedCadTest.git": [
       "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
       "1701985577510"
@@ -41,10 +45,6 @@
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "1703281349491"
-    ],
-    "https://github.com/madhephaestus/SoSArduino.git": [
-      "https://github.com/madhephaestus/SoSArduino.git",
-      "1696343108167"
     ],
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
