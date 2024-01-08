@@ -38,29 +38,9 @@
       "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
       "1701985577510"
     ],
-    "https://github.com/madhephaestus/MuJoCoTest.git": [
-      "https://github.com/madhephaestus/MuJoCoTest.git",
-      "1703281349491"
-    ],
-    "https://github.com/madhephaestus/SoSArduino.git": [
-      "https://github.com/madhephaestus/SoSArduino.git",
-      "1696343108167"
-    ],
-    "https://github.com/OperationSmallKat/Katapult.git": [
-      "OperationSmallKat/Katapult",
-      "1703356661468"
-    ],
     "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots-Courseware.git": [
       "BancroftSchoolOpenSource/LetsPrintRobots-Courseware",
       "1697651412549"
-    ],
-    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
-      "GIST: cube.groovy",
-      "1698669156445"
-    ],
-    "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git": [
-      "Bancroft6th-grade-art/LabCodeRepoSetup",
-      "1698786397374"
     ],
     "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git": [
       "BancroftSchoolOpenSource/ArduinoClassRobot",
@@ -86,21 +66,41 @@
       "https://github.com/madhephaestus/CoatPegTutorial.git",
       "1701016414769"
     ],
-    "https://github.com/JansenSmith/SDXLvoucher.git": [
-      "JansenSmith/SDXLvoucher",
-      "1702578271236"
-    ],
     "https://github.com/madhephaestus/squareNut.git": [
       "madhephaestus/squareNut",
       "1703084212863"
     ],
-    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git": [
-      "BancroftSchoolOpenSource/LetsPrintRobots",
-      "1695650959843"
-    ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1704418225756"
+    ],
+    "https://github.com/madhephaestus/MuJoCoTest.git": [
+      "https://github.com/madhephaestus/MuJoCoTest.git",
+      "1703281349491"
+    ],
+    "https://github.com/madhephaestus/SoSArduino.git": [
+      "https://github.com/madhephaestus/SoSArduino.git",
+      "1696343108167"
+    ],
+    "https://github.com/OperationSmallKat/Katapult.git": [
+      "OperationSmallKat/Katapult",
+      "1703356661468"
+    ],
+    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
+      "GIST: cube.groovy",
+      "1698669156445"
+    ],
+    "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git": [
+      "Bancroft6th-grade-art/LabCodeRepoSetup",
+      "1698786397374"
+    ],
+    "https://github.com/JansenSmith/SDXLvoucher.git": [
+      "JansenSmith/SDXLvoucher",
+      "1702578271236"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git": [
+      "BancroftSchoolOpenSource/LetsPrintRobots",
+      "1695650959843"
     ],
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "Halloween2020TheChild/Zoltar",
@@ -188,6 +188,22 @@
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
     ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
+    ],
+    "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git:TrextExtrudeExample.groovy": [
+      "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
+      "TrextExtrudeExample.groovy"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git:hornVitamin.groovy": [
+      "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git",
+      "hornVitamin.groovy"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git:LetsPrintRobots.ino": [
+      "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git",
+      "LetsPrintRobots.ino"
+    ],
     "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "Marcos.xml"
@@ -199,6 +215,10 @@
     "https://github.com/madhephaestus/ShrinkAndLayout.git:ShrinkAndLayout.groovy": [
       "https://github.com/madhephaestus/ShrinkAndLayout.git",
       "ShrinkAndLayout.groovy"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "ForkyLift.xml"
     ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
