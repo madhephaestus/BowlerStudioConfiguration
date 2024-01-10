@@ -38,10 +38,6 @@
       "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
       "1701985577510"
     ],
-    "https://github.com/madhephaestus/MuJoCoTest.git": [
-      "madhephaestus/MuJoCoTest",
-      "1704919567748"
-    ],
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1703356661468"
@@ -223,10 +219,6 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
-    ],
-    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
-      "https://github.com/madhephaestus/MuJoCoTest.git",
-      "MujocoMobileBase.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
