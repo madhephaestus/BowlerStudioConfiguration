@@ -74,6 +74,10 @@
       "GIST: BowlerStudio Hello World",
       "1704418225756"
     ],
+    "https://github.com/madhephaestus/YtPlaylistExtractor.git": [
+      "madhephaestus/YtPlaylistExtractor",
+      "1705150598956"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1704923588519"
@@ -101,10 +105,6 @@
     "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git": [
       "BancroftSchoolOpenSource/LetsPrintRobots",
       "1704737691914"
-    ],
-    "https://github.com/Halloween2020TheChild/Zoltar.git": [
-      "Halloween2020TheChild/Zoltar",
-      "1697844028691"
     ],
     "https://github.com/CommonWealthRobotics/mujoco-java.git": [
       "CommonWealthRobotics/mujoco-java",
