@@ -38,9 +38,21 @@
       "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
       "1701985577510"
     ],
+    "https://github.com/madhephaestus/MuJoCoTest.git": [
+      "madhephaestus/MuJoCoTest",
+      "1704923588519"
+    ],
     "https://github.com/adamjvr/openscad-to-jcsg.git": [
       "https://github.com/adamjvr/openscad-to-jcsg.git",
       "1705150588114"
+    ],
+    "https://github.com/OperationSmallKat/Katapult.git": [
+      "OperationSmallKat/Katapult",
+      "1703356661468"
+    ],
+    "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git": [
+      "Bancroft6th-grade-art/LabCodeRepoSetup",
+      "1698786397374"
     ],
     "https://github.com/BancroftRoboDogs/ZenCad.git": [
       "BancroftRoboDogs/ZenCad",
@@ -62,6 +74,10 @@
       "TechnocopiaPlant/ForkyRobot",
       "1704737432614"
     ],
+    "https://github.com/BancroftSchoolOpenSource/CardboardEngineering.git": [
+      "BancroftSchoolOpenSource/CardboardEngineering",
+      "1704805949589"
+    ],
     "https://github.com/madhephaestus/CoatPegTutorial.git": [
       "https://github.com/madhephaestus/CoatPegTutorial.git",
       "1701016414769"
@@ -74,37 +90,21 @@
       "madhephaestus/squareNut",
       "1703084212863"
     ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1704418225756"
-    ],
-    "https://github.com/madhephaestus/YtPlaylistExtractor.git": [
-      "madhephaestus/YtPlaylistExtractor",
-      "1705150598956"
-    ],
-    "https://github.com/madhephaestus/MuJoCoTest.git": [
-      "madhephaestus/MuJoCoTest",
-      "1704923588519"
-    ],
-    "https://github.com/OperationSmallKat/Katapult.git": [
-      "OperationSmallKat/Katapult",
-      "1703356661468"
-    ],
-    "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git": [
-      "Bancroft6th-grade-art/LabCodeRepoSetup",
-      "1698786397374"
-    ],
-    "https://github.com/BancroftSchoolOpenSource/CardboardEngineering.git": [
-      "BancroftSchoolOpenSource/CardboardEngineering",
-      "1704805949589"
-    ],
     "https://github.com/JansenSmith/SDXLvoucher.git": [
       "JansenSmith/SDXLvoucher",
       "1702578271236"
     ],
+    "https://gist.github.com/d4312a0787456ec27a2a.git": [
+      "GIST: BowlerStudio Hello World",
+      "1704418225756"
+    ],
     "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git": [
       "BancroftSchoolOpenSource/LetsPrintRobots",
       "1704737691914"
+    ],
+    "https://github.com/madhephaestus/YtPlaylistExtractor.git": [
+      "madhephaestus/YtPlaylistExtractor",
+      "1705150598956"
     ],
     "https://github.com/CommonWealthRobotics/mujoco-java.git": [
       "CommonWealthRobotics/mujoco-java",
