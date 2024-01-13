@@ -38,6 +38,42 @@
       "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
       "1701985577510"
     ],
+    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git": [
+      "BancroftSchoolOpenSource/ArduinoClassRobot",
+      "1703772116796"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git": [
+      "OperationSmallKat/Marcos",
+      "1704497681922"
+    ],
+    "https://github.com/CommonWealthRobotics/Installer-Linux-BowlerStudio.git": [
+      "CommonWealthRobotics/Installer-Linux-BowlerStudio",
+      "1694797958292"
+    ],
+    "https://github.com/madhephaestus/ShrinkAndLayout.git": [
+      "https://github.com/madhephaestus/ShrinkAndLayout.git",
+      "1704396495940"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
+      "TechnocopiaPlant/ForkyRobot",
+      "1704737432614"
+    ],
+    "https://github.com/madhephaestus/CoatPegTutorial.git": [
+      "https://github.com/madhephaestus/CoatPegTutorial.git",
+      "1701016414769"
+    ],
+    "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git": [
+      "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
+      "1704732055843"
+    ],
+    "https://github.com/madhephaestus/squareNut.git": [
+      "madhephaestus/squareNut",
+      "1703084212863"
+    ],
+    "https://gist.github.com/d4312a0787456ec27a2a.git": [
+      "GIST: BowlerStudio Hello World",
+      "1704418225756"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1704923588519"
@@ -54,45 +90,13 @@
       "Bancroft6th-grade-art/LabCodeRepoSetup",
       "1698786397374"
     ],
-    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git": [
-      "BancroftSchoolOpenSource/ArduinoClassRobot",
-      "1703772116796"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git": [
-      "OperationSmallKat/Marcos",
-      "1704497681922"
-    ],
-    "https://github.com/madhephaestus/ShrinkAndLayout.git": [
-      "https://github.com/madhephaestus/ShrinkAndLayout.git",
-      "1704396495940"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
-      "TechnocopiaPlant/ForkyRobot",
-      "1704737432614"
-    ],
     "https://github.com/BancroftSchoolOpenSource/CardboardEngineering.git": [
       "BancroftSchoolOpenSource/CardboardEngineering",
       "1704805949589"
     ],
-    "https://github.com/madhephaestus/CoatPegTutorial.git": [
-      "https://github.com/madhephaestus/CoatPegTutorial.git",
-      "1701016414769"
-    ],
-    "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git": [
-      "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
-      "1704732055843"
-    ],
-    "https://github.com/madhephaestus/squareNut.git": [
-      "madhephaestus/squareNut",
-      "1703084212863"
-    ],
     "https://github.com/JansenSmith/SDXLvoucher.git": [
       "JansenSmith/SDXLvoucher",
       "1702578271236"
-    ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1704418225756"
     ],
     "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git": [
       "BancroftSchoolOpenSource/LetsPrintRobots",
@@ -180,6 +184,34 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/adamjvr/openscad-to-jcsg.git:AddOpenscadToBowlerKernel.groovy": [
+      "https://github.com/adamjvr/openscad-to-jcsg.git",
+      "AddOpenscadToBowlerKernel.groovy"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git:LetsPrintRobots.ino": [
+      "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git",
+      "LetsPrintRobots.ino"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/CardboardEngineering.git:SimpleTray.groovy": [
+      "https://github.com/BancroftSchoolOpenSource/CardboardEngineering.git",
+      "SimpleTray.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosWalk.groovy"
+    ],
+    "https://github.com/CommonWealthRobotics/mujoco-java.git:publish.sh": [
+      "https://github.com/CommonWealthRobotics/mujoco-java.git",
+      "publish.sh"
+    ],
+    "https://github.com/madhephaestus/YtPlaylistExtractor.git:mactest.groovy": [
+      "https://github.com/madhephaestus/YtPlaylistExtractor.git",
+      "mactest.groovy"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "ForkyLift.xml"
+    ],
     "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
@@ -192,37 +224,21 @@
       "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
       "TrextExtrudeExample.groovy"
     ],
-    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git:LetsPrintRobots.ino": [
-      "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git",
-      "LetsPrintRobots.ino"
-    ],
-    "https://github.com/BancroftSchoolOpenSource/CardboardEngineering.git:SimpleTray.groovy": [
-      "https://github.com/BancroftSchoolOpenSource/CardboardEngineering.git",
-      "SimpleTray.groovy"
-    ],
     "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "Marcos.xml"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosWalk.groovy"
-    ],
-    "https://github.com/CommonWealthRobotics/mujoco-java.git:publish.sh": [
-      "https://github.com/CommonWealthRobotics/mujoco-java.git",
-      "publish.sh"
     ],
     "https://github.com/madhephaestus/ShrinkAndLayout.git:ShrinkAndLayout.groovy": [
       "https://github.com/madhephaestus/ShrinkAndLayout.git",
       "ShrinkAndLayout.groovy"
     ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "ForkyLift.xml"
-    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoMobileBase.groovy"
+    ],
+    "https://github.com/BancroftRoboDogs/ZenCad.git:ZenCad.groovy": [
+      "https://github.com/BancroftRoboDogs/ZenCad.git",
+      "ZenCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
