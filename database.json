@@ -188,10 +188,6 @@
       "https://github.com/OperationSmallKat/Marcos.git",
       "Marcos.xml"
     ],
-    "https://github.com/CommonWealthRobotics/mujoco-java.git:publish.sh": [
-      "https://github.com/CommonWealthRobotics/mujoco-java.git",
-      "publish.sh"
-    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoMobileBase.groovy"
