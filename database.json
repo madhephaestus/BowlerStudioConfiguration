@@ -29,14 +29,26 @@
     "z": "r-joy-left-right",
     "Left Thumb": "l-trig-button"
   },
+  "Microsoft X-Box 360 pad": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "start",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "Mode": "select",
+    "rz": "analog-trig",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "Left Thumb": "l-trig-button"
+  },
   "workspace": {
     "https://github.com/OperationSmallKat/MarcosFirmware.git": [
       "OperationSmallKat/MarcosFirmware",
       "1702222508410"
-    ],
-    "": [
-      "Project ",
-      "1705424966588"
     ],
     "https://github.com/madhephaestus/GPTGeneratedCadTest.git": [
       "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
@@ -53,6 +65,10 @@
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1703356661468"
+    ],
+    "https://github.com/Bancroft6th-grade-art/LabCodeRepoSetup.git": [
+      "Bancroft6th-grade-art/LabCodeRepoSetup",
+      "1698786397374"
     ],
     "https://github.com/BancroftRoboDogs/ZenCad.git": [
       "BancroftRoboDogs/ZenCad",
@@ -111,6 +127,23 @@
       "1703873265587"
     ]
   },
+  "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
+    "A": "y-mode",
+    "B": "b-mode",
+    "C": "a-mode",
+    "Mode": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "analog-trig",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "l-trig-button",
+    "Left Thumb 3": "select",
+    "Right Thumb 2": "select",
+    "z": "r-joy-left-right",
+    "Z": "r-trig-button",
+    "Left Thumb": "l-trig-button"
+  },
   "Logitech Logitech Dual Action": {
     "Thumb": "b-mode",
     "rz": "r-joy-up-down",
@@ -139,40 +172,6 @@
     "robotGitFile": "Marcos.xml",
     "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
   },
-  "Microsoft X-Box 360 pad": {
-    "A": "a-mode",
-    "B": "b-mode",
-    "Start": "start",
-    "rx": "r-joy-left-right",
-    "ry": "r-joy-up-down",
-    "Mode": "select",
-    "rz": "analog-trig",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "Select": "select",
-    "y": "l-joy-up-down",
-    "Y": "y-mode",
-    "Left Thumb": "l-trig-button"
-  },
-  "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
-    "A": "y-mode",
-    "B": "b-mode",
-    "C": "a-mode",
-    "Mode": "start",
-    "rz": "r-joy-up-down",
-    "Right Thumb": "analog-trig",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "y": "l-joy-up-down",
-    "Y": "l-trig-button",
-    "Left Thumb 3": "select",
-    "Right Thumb 2": "select",
-    "z": "r-joy-left-right",
-    "Z": "r-trig-button",
-    "Left Thumb": "l-trig-button"
-  },
-  "studio-open-web": {},
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
     "jogKinz": "rz",
     "jogLink": "x",
