@@ -192,6 +192,10 @@
       "https://github.com/OperationSmallKat/Marcos.git",
       "Marcos.xml"
     ],
+    "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git",
+      "LabCodeRepoSetupMain.groovy"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoMobileBase.groovy"
