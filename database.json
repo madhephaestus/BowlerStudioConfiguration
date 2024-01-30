@@ -102,6 +102,10 @@
       "madhephaestus/YtPlaylistExtractor",
       "1705150598956"
     ],
+    "https://github.com/madhephaestus/6dofServoArm.git": [
+      "madhephaestus/6dofServoArm",
+      "1706620851671"
+    ],
     "https://github.com/CommonWealthRobotics/mujoco-java.git": [
       "CommonWealthRobotics/mujoco-java",
       "1703873265587"
@@ -179,24 +183,7 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {
-    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git:MoveLimb.groovy": [
-      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
-      "MoveLimb.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "Marcos.xml"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git",
-      "LabCodeRepoSetupMain.groovy"
-    ],
-    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
-      "https://github.com/madhephaestus/MuJoCoTest.git",
-      "MujocoMobileBase.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
