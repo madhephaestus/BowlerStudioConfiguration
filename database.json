@@ -34,6 +34,10 @@
       "madhephaestus/MuJoCoTest",
       "1705156984998"
     ],
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
+      "GIST: .gitignore",
+      "1706622404023"
+    ],
     "https://github.com/adamjvr/openscad-to-jcsg.git": [
       "https://github.com/adamjvr/openscad-to-jcsg.git",
       "1705150588114"
@@ -85,10 +89,6 @@
     "https://github.com/madhephaestus/squareNut.git": [
       "madhephaestus/squareNut",
       "1703084212863"
-    ],
-    "https://github.com/JansenSmith/SDXLvoucher.git": [
-      "JansenSmith/SDXLvoucher",
-      "1702578271236"
     ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
@@ -187,6 +187,10 @@
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
+    ],
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:printbed.json": [
+      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+      "printbed.json"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
