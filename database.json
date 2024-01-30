@@ -30,10 +30,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "https://github.com/OperationSmallKat/MarcosFirmware.git": [
-      "OperationSmallKat/MarcosFirmware",
-      "1702222508410"
-    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1705156984998"
@@ -45,6 +41,10 @@
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1703356661468"
+    ],
+    "https://gist.github.com/4814b39ee72e9f590757.git": [
+      "GIST: JavaCadExample",
+      "1706622016090"
     ],
     "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git": [
       "BancroftKineticSystemsClass/LabCodeRepoSetup",
@@ -183,7 +183,12 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "javaCad.groovy"
+    ]
+  },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
