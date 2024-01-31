@@ -34,10 +34,6 @@
       "OperationSmallKat/MarcosFirmware",
       "1702222508410"
     ],
-    "https://github.com/madhephaestus/GPTGeneratedCadTest.git": [
-      "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
-      "1701985577510"
-    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1705156984998"
@@ -77,6 +73,10 @@
     "https://github.com/BancroftSchoolOpenSource/CardboardEngineering.git": [
       "BancroftSchoolOpenSource/CardboardEngineering",
       "1704805949589"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
+      "BancroftKineticSystemsClass/KineticSystems2024Group09",
+      "1706727944586"
     ],
     "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git": [
       "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
@@ -183,24 +183,7 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {
-    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git:MoveLimb.groovy": [
-      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
-      "MoveLimb.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "Marcos.xml"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git",
-      "LabCodeRepoSetupMain.groovy"
-    ],
-    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
-      "https://github.com/madhephaestus/MuJoCoTest.git",
-      "MujocoMobileBase.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
