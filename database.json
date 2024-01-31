@@ -30,13 +30,17 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://github.com/OperationSmallKat/MarcosFirmware.git": [
+      "OperationSmallKat/MarcosFirmware",
+      "1702222508410"
+    ],
+    "https://github.com/madhephaestus/GPTGeneratedCadTest.git": [
+      "https://github.com/madhephaestus/GPTGeneratedCadTest.git",
+      "1701985577510"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1705156984998"
-    ],
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
-      "GIST: .gitignore",
-      "1706622404023"
     ],
     "https://github.com/adamjvr/openscad-to-jcsg.git": [
       "https://github.com/adamjvr/openscad-to-jcsg.git",
@@ -45,10 +49,6 @@
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1703356661468"
-    ],
-    "https://gist.github.com/4814b39ee72e9f590757.git": [
-      "GIST: JavaCadExample",
-      "1706622016090"
     ],
     "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git": [
       "BancroftKineticSystemsClass/LabCodeRepoSetup",
@@ -78,10 +78,6 @@
       "BancroftSchoolOpenSource/CardboardEngineering",
       "1704805949589"
     ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
-      "BancroftKineticSystemsClass/KineticSystems2024Group09",
-      "1706623300901"
-    ],
     "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git": [
       "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
       "1704732055843"
@@ -89,6 +85,14 @@
     "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
       "GIST: Move a limb attached to a MobileBase",
       "1705505570460"
+    ],
+    "https://github.com/madhephaestus/squareNut.git": [
+      "madhephaestus/squareNut",
+      "1703084212863"
+    ],
+    "https://github.com/JansenSmith/SDXLvoucher.git": [
+      "JansenSmith/SDXLvoucher",
+      "1702578271236"
     ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
@@ -101,10 +105,6 @@
     "https://github.com/madhephaestus/YtPlaylistExtractor.git": [
       "madhephaestus/YtPlaylistExtractor",
       "1705150598956"
-    ],
-    "https://github.com/madhephaestus/6dofServoArm.git": [
-      "madhephaestus/6dofServoArm",
-      "1706620851671"
     ],
     "https://github.com/CommonWealthRobotics/mujoco-java.git": [
       "CommonWealthRobotics/mujoco-java",
@@ -184,17 +184,21 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
+    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git:MoveLimb.groovy": [
+      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
+      "MoveLimb.groovy"
     ],
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:printbed.json": [
-      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
-      "printbed.json"
+    "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "Marcos.xml"
     ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
-      "Nametag.groovy"
+    "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git:LabCodeRepoSetupMain.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git",
+      "LabCodeRepoSetupMain.groovy"
+    ],
+    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
+      "https://github.com/madhephaestus/MuJoCoTest.git",
+      "MujocoMobileBase.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
