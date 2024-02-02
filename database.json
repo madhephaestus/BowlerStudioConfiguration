@@ -30,10 +30,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "https://github.com/OperationSmallKat/MarcosFirmware.git": [
-      "OperationSmallKat/MarcosFirmware",
-      "1702222508410"
-    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1705156984998"
@@ -109,6 +105,10 @@
     "https://github.com/CommonWealthRobotics/mujoco-java.git": [
       "CommonWealthRobotics/mujoco-java",
       "1703873265587"
+    ],
+    "https://gist.github.com/bae417566c2b46e3ab94.git": [
+      "GIST: union.groovy",
+      "1706896042836"
     ]
   },
   "Logitech Logitech Dual Action": {
@@ -187,6 +187,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "Nametag.groovy"
+    ],
+    "https://gist.github.com/bae417566c2b46e3ab94.git:union.groovy": [
+      "https://gist.github.com/bae417566c2b46e3ab94.git",
+      "union.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
