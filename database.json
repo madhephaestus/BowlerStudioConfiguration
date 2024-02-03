@@ -139,6 +139,21 @@
     "robotGitFile": "Marcos.xml",
     "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
   },
+  "GPD Win 2 X-Box Controller": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "analog-trig",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "pov-up-down": "start",
+    "pov-left-right": "select",
+    "Left Thumb": "l-trig-button"
+  },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
     "B": "b-mode",
