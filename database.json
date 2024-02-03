@@ -132,8 +132,7 @@
       "Switch",
       "gamepad",
       "X-Box",
-      "Dragon",
-      "GPD"
+      "Dragon"
     ],
     "linkDeviceName": "midnight",
     "robotName": "Marcos",
@@ -200,6 +199,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/Katapult.git:katapult.sh": [
+      "https://github.com/OperationSmallKat/Katapult.git",
+      "katapult.sh"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "Nametag.groovy"
