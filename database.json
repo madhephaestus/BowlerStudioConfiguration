@@ -86,10 +86,6 @@
       "madhephaestus/squareNut",
       "1703084212863"
     ],
-    "https://github.com/JansenSmith/SDXLvoucher.git": [
-      "JansenSmith/SDXLvoucher",
-      "1702578271236"
-    ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1704418225756"
@@ -101,6 +97,10 @@
     "https://github.com/madhephaestus/YtPlaylistExtractor.git": [
       "madhephaestus/YtPlaylistExtractor",
       "1705150598956"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git": [
+      "BancroftKineticSystemsClass/GatherAndPrint",
+      "1707139775985"
     ],
     "https://github.com/CommonWealthRobotics/mujoco-java.git": [
       "CommonWealthRobotics/mujoco-java",
@@ -138,21 +138,6 @@
     "robotName": "Marcos",
     "robotGitFile": "Marcos.xml",
     "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
-  },
-  "GPD Win 2 X-Box Controller": {
-    "A": "a-mode",
-    "B": "b-mode",
-    "Start": "analog-trig",
-    "rx": "r-joy-left-right",
-    "ry": "r-joy-up-down",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "y": "l-joy-up-down",
-    "Y": "y-mode",
-    "pov-up-down": "start",
-    "pov-left-right": "select",
-    "Left Thumb": "l-trig-button"
   },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
@@ -199,17 +184,9 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/Katapult.git:katapult.sh": [
-      "https://github.com/OperationSmallKat/Katapult.git",
-      "katapult.sh"
-    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "Nametag.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Katapult.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/Katapult.git",
-      "launch.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
