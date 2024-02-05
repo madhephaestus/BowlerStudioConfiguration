@@ -139,6 +139,21 @@
     "robotGitFile": "Marcos.xml",
     "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
   },
+  "GPD Win 2 X-Box Controller": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "analog-trig",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "pov-up-down": "start",
+    "pov-left-right": "select",
+    "Left Thumb": "l-trig-button"
+  },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
     "B": "b-mode",
@@ -184,13 +199,17 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/Katapult.git:katapult.sh": [
+      "https://github.com/OperationSmallKat/Katapult.git",
+      "katapult.sh"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "Nametag.groovy"
     ],
-    "https://gist.github.com/bae417566c2b46e3ab94.git:union.groovy": [
-      "https://gist.github.com/bae417566c2b46e3ab94.git",
-      "union.groovy"
+    "https://github.com/OperationSmallKat/Katapult.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/Katapult.git",
+      "launch.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
