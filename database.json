@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1707156123007"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1705156984998"
@@ -81,10 +85,6 @@
     "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
       "GIST: Move a limb attached to a MobileBase",
       "1705505570460"
-    ],
-    "https://github.com/madhephaestus/squareNut.git": [
-      "madhephaestus/squareNut",
-      "1703084212863"
     ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
