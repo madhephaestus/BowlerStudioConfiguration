@@ -90,6 +90,10 @@
       "BancroftSchoolOpenSource/LetsPrintRobots",
       "1704737691914"
     ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "GIST: .gitignore",
+      "1707233649675"
+    ],
     "https://github.com/madhephaestus/YtPlaylistExtractor.git": [
       "madhephaestus/YtPlaylistExtractor",
       "1705150598956"
@@ -183,6 +187,10 @@
     "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git:gatherAndPrint.groovy": [
       "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git",
       "gatherAndPrint.groovy"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
