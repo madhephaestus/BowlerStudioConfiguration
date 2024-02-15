@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1708019886683"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1705156984998"
@@ -37,10 +41,6 @@
     "https://github.com/adamjvr/openscad-to-jcsg.git": [
       "https://github.com/adamjvr/openscad-to-jcsg.git",
       "1705150588114"
-    ],
-    "https://github.com/OperationSmallKat/Katapult.git": [
-      "OperationSmallKat/Katapult",
-      "1703356661468"
     ],
     "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git": [
       "BancroftKineticSystemsClass/LabCodeRepoSetup",
