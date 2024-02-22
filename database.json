@@ -38,6 +38,10 @@
       "https://github.com/adamjvr/openscad-to-jcsg.git",
       "1705150588114"
     ],
+    "https://github.com/CommonWealthRobotics/bowler-device-server.git": [
+      "CommonWealthRobotics/bowler-device-server",
+      "1708633929219"
+    ],
     "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git": [
       "BancroftKineticSystemsClass/LabCodeRepoSetup",
       "1706020345737"
@@ -49,10 +53,6 @@
     "https://github.com/BancroftRoboDogs/ZenCad.git": [
       "BancroftRoboDogs/ZenCad",
       "1705150612560"
-    ],
-    "https://github.com/BancroftSchoolOpenSource/ArduinoClassRobot.git": [
-      "BancroftSchoolOpenSource/ArduinoClassRobot",
-      "1703772116796"
     ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
@@ -207,6 +207,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "Nametag.groovy"
+    ],
+    "https://github.com/CommonWealthRobotics/bowler-device-server.git:include/bowlerDeviceServerUtil.hpp": [
+      "https://github.com/CommonWealthRobotics/bowler-device-server.git",
+      "include/bowlerDeviceServerUtil.hpp"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
