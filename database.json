@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1708656216758"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1705156984998"
@@ -101,10 +105,6 @@
     "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git": [
       "BancroftKineticSystemsClass/GatherAndPrint",
       "1707139775985"
-    ],
-    "https://github.com/CommonWealthRobotics/mujoco-java.git": [
-      "CommonWealthRobotics/mujoco-java",
-      "1703873265587"
     ],
     "https://gist.github.com/bae417566c2b46e3ab94.git": [
       "GIST: union.groovy",
