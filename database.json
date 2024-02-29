@@ -196,6 +196,10 @@
       "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git",
       "gatherAndPrint.groovy"
     ],
+    "https://github.com/madhephaestus/TextScalingExample.git:TextScalingExample.groovy": [
+      "https://github.com/madhephaestus/TextScalingExample.git",
+      "TextScalingExample.groovy"
+    ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
       "https://gist.github.com/3f9fef17b23acfadf3f7.git",
       "servo.groovy"
