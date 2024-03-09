@@ -38,6 +38,10 @@
       "https://github.com/adamjvr/openscad-to-jcsg.git",
       "1705150588114"
     ],
+    "https://github.com/madhephaestus/ScrapeAllTheThings.git": [
+      "https://github.com/madhephaestus/ScrapeAllTheThings.git",
+      "1710010349301"
+    ],
     "https://github.com/CommonWealthRobotics/bowler-device-server.git": [
       "CommonWealthRobotics/bowler-device-server",
       "1708633929219"
@@ -77,10 +81,6 @@
     "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
       "GIST: Move a limb attached to a MobileBase",
       "1705505570460"
-    ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1704418225756"
     ],
     "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git": [
       "BancroftSchoolOpenSource/LetsPrintRobots",
