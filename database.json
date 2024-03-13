@@ -62,6 +62,10 @@
       "BancroftRoboDogs/ZenCad",
       "1705150612560"
     ],
+    "https://github.com/OperationSmallKat/Marcos.git": [
+      "OperationSmallKat/Marcos",
+      "1710357378018"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "TechnocopiaPlant/ForkyRobot",
       "1704737432614"
@@ -73,10 +77,6 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
       "1706727944586"
-    ],
-    "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git": [
-      "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
-      "1704732055843"
     ],
     "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
       "GIST: Move a limb attached to a MobileBase",
