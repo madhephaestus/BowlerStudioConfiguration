@@ -42,6 +42,10 @@
       "https://github.com/madhephaestus/ScrapeAllTheThings.git",
       "1710010349301"
     ],
+    "https://github.com/JansenSmith/joystickCoversCadGenerator.git": [
+      "https://github.com/JansenSmith/joystickCoversCadGenerator.git",
+      "1710356992087"
+    ],
     "https://github.com/CommonWealthRobotics/bowler-device-server.git": [
       "CommonWealthRobotics/bowler-device-server",
       "1708633929219"
@@ -57,10 +61,6 @@
     "https://github.com/BancroftRoboDogs/ZenCad.git": [
       "BancroftRoboDogs/ZenCad",
       "1705150612560"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git": [
-      "OperationSmallKat/Marcos",
-      "1704497681922"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "TechnocopiaPlant/ForkyRobot",
@@ -227,6 +227,10 @@
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoMobileBase.groovy"
+    ],
+    "https://github.com/JansenSmith/joystickCoversCadGenerator.git:joystickCovers.groovy": [
+      "https://github.com/JansenSmith/joystickCoversCadGenerator.git",
+      "joystickCovers.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
