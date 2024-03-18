@@ -50,6 +50,10 @@
       "GIST: JavaCadExample",
       "1710515142161"
     ],
+    "https://github.com/madhephaestus/AsyncTCP.git": [
+      "madhephaestus/AsyncTCP",
+      "1710805480000"
+    ],
     "https://github.com/CommonWealthRobotics/bowler-device-server.git": [
       "CommonWealthRobotics/bowler-device-server",
       "1708633929219"
@@ -180,45 +184,9 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git:gatherAndPrint.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git",
-      "gatherAndPrint.groovy"
-    ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
-      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
-      "servo.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
-      "Nametag.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosCad.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
-      "SimpleRobot.xml"
-    ],
-    "https://github.com/madhephaestus/2dBezFunction.git:2dBezFunction.groovy": [
-      "https://github.com/madhephaestus/2dBezFunction.git",
-      "2dBezFunction.groovy"
-    ],
-    "https://github.com/madhephaestus/ScrapeAllTheThings.git:ScrapeAllTheThings.groovy": [
-      "https://github.com/madhephaestus/ScrapeAllTheThings.git",
-      "ScrapeAllTheThings.groovy"
-    ],
-    "https://github.com/madhephaestus/TextScalingExample.git:TextScalingExample.groovy": [
-      "https://github.com/madhephaestus/TextScalingExample.git",
-      "TextScalingExample.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:TestKinematics.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
-      "TestKinematics.groovy"
-    ],
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
+    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
+      "https://github.com/madhephaestus/MuJoCoTest.git",
+      "MujocoManagerTest.groovy"
     ],
     "https://github.com/CommonWealthRobotics/bowler-device-server.git:include/bowlerDeviceServerUtil.hpp": [
       "https://github.com/CommonWealthRobotics/bowler-device-server.git",
@@ -227,10 +195,6 @@
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoMobileBase.groovy"
-    ],
-    "https://github.com/JansenSmith/joystickCoversCadGenerator.git:joystickCovers.groovy": [
-      "https://github.com/JansenSmith/joystickCoversCadGenerator.git",
-      "joystickCovers.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
