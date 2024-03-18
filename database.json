@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1710789189830"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1705156984998"
@@ -81,10 +85,6 @@
     "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
       "GIST: Move a limb attached to a MobileBase",
       "1705505570460"
-    ],
-    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git": [
-      "BancroftSchoolOpenSource/LetsPrintRobots",
-      "1704737691914"
     ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: .gitignore",
