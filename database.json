@@ -188,10 +188,6 @@
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoManagerTest.groovy"
     ],
-    "https://github.com/CommonWealthRobotics/bowler-device-server.git:include/bowlerDeviceServerUtil.hpp": [
-      "https://github.com/CommonWealthRobotics/bowler-device-server.git",
-      "include/bowlerDeviceServerUtil.hpp"
-    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoMobileBase.groovy"
