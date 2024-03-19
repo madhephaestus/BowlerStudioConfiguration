@@ -184,17 +184,9 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
-      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
-      "dhcad.groovy"
-    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoManagerTest.groovy"
-    ],
-    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
-      "https://github.com/madhephaestus/MuJoCoTest.git",
-      "MujocoMobileBase.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
