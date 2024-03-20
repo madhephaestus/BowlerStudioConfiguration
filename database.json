@@ -90,9 +90,9 @@
       "BancroftKineticSystemsClass/KineticSystems2024Group01",
       "1709736005025"
     ],
-    "https://github.com/madhephaestus/YtPlaylistExtractor.git": [
-      "madhephaestus/YtPlaylistExtractor",
-      "1705150598956"
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
+      "CommonWealthRobotics/DeviceProviders",
+      "1710957335862"
     ],
     "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git": [
       "BancroftKineticSystemsClass/GatherAndPrint",
@@ -184,6 +184,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git:devices.json": [
+      "https://github.com/CommonWealthRobotics/DeviceProviders.git",
+      "devices.json"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoManagerTest.groovy"
