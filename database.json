@@ -34,10 +34,6 @@
       "madhephaestus/MuJoCoTest",
       "1705156984998"
     ],
-    "https://github.com/adamjvr/openscad-to-jcsg.git": [
-      "https://github.com/adamjvr/openscad-to-jcsg.git",
-      "1705150588114"
-    ],
     "https://github.com/madhephaestus/ScrapeAllTheThings.git": [
       "https://github.com/madhephaestus/ScrapeAllTheThings.git",
       "1710010349301"
@@ -109,6 +105,10 @@
     "https://gist.github.com/bae417566c2b46e3ab94.git": [
       "GIST: union.groovy",
       "1706896042836"
+    ],
+    "https://github.com/NeuronRobotics/NASACurisoity.git": [
+      "NeuronRobotics/NASACurisoity",
+      "1710940284033"
     ]
   },
   "Logitech Logitech Dual Action": {
@@ -187,6 +187,10 @@
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoManagerTest.groovy"
+    ],
+    "https://github.com/NeuronRobotics/NASACurisoity.git:NASA_Curiosity.xml": [
+      "https://github.com/NeuronRobotics/NASACurisoity.git",
+      "NASA_Curiosity.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
