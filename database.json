@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://github.com/madhephaestus/MuJoCoTest.git": [
+      "madhephaestus/MuJoCoTest",
+      "1710982458930"
+    ],
     "https://github.com/madhephaestus/ScrapeAllTheThings.git": [
       "https://github.com/madhephaestus/ScrapeAllTheThings.git",
       "1710010349301"
