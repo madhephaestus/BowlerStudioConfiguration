@@ -58,10 +58,6 @@
       "CommonWealthRobotics/bowler-device-server",
       "1708633929219"
     ],
-    "https://github.com/BancroftKineticSystemsClass/LabCodeRepoSetup.git": [
-      "BancroftKineticSystemsClass/LabCodeRepoSetup",
-      "1706020345737"
-    ],
     "https://github.com/madhephaestus/2dBezFunction.git": [
       "https://github.com/madhephaestus/2dBezFunction.git",
       "1708632672359"
@@ -77,6 +73,10 @@
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
       "1710957378894"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1711025029669"
     ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: .gitignore",
@@ -199,6 +199,10 @@
     "https://github.com/NeuronRobotics/NASACurisoity.git:NASA_Curiosity.xml": [
       "https://github.com/NeuronRobotics/NASACurisoity.git",
       "NASA_Curiosity.xml"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "hephaestus.xml"
     ],
     "https://github.com/madhephaestus/carl-the-hexapod.git:LinkedCadEngine.groovy": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
