@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "madhephaestus/carl-the-hexapod",
+      "1710992710924"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1710982458930"
@@ -73,10 +77,6 @@
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
       "1710957378894"
-    ],
-    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
-      "GIST: Move a limb attached to a MobileBase",
-      "1705505570460"
     ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: .gitignore",
@@ -199,6 +199,10 @@
     "https://github.com/NeuronRobotics/NASACurisoity.git:NASA_Curiosity.xml": [
       "https://github.com/NeuronRobotics/NASACurisoity.git",
       "NASA_Curiosity.xml"
+    ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git:LinkedCadEngine.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "LinkedCadEngine.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
