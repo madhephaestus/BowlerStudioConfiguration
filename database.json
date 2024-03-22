@@ -54,13 +54,13 @@
       "OperationSmallKat/Marcos",
       "1710357378018"
     ],
+    "https://github.com/madhephaestus/ShrinkAndLayout.git": [
+      "madhephaestus/ShrinkAndLayout",
+      "1711072022437"
+    ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1711071643407"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git": [
-      "BancroftKineticSystemsClass/GatherAndPrint",
-      "1707139775985"
     ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
@@ -199,10 +199,6 @@
     "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "Marcos.xml"
-    ],
-    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
-      "https://github.com/madhephaestus/MuJoCoTest.git",
-      "MujocoManagerTest.groovy"
     ],
     "https://github.com/NeuronRobotics/NASACurisoity.git:NASA_Curiosity.xml": [
       "https://github.com/NeuronRobotics/NASACurisoity.git",
