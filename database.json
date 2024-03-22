@@ -78,6 +78,10 @@
       "Halloween2020TheChild/GroguMechanicsCad",
       "1711025029669"
     ],
+    "https://gist.github.com/d4312a0787456ec27a2a.git": [
+      "GIST: BowlerStudio Hello World",
+      "1711071643407"
+    ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: .gitignore",
       "1707233649675"
@@ -101,10 +105,6 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1710816936702"
-    ],
-    "https://gist.github.com/bae417566c2b46e3ab94.git": [
-      "GIST: union.groovy",
-      "1706896042836"
     ],
     "https://github.com/NeuronRobotics/NASACurisoity.git": [
       "NeuronRobotics/NASACurisoity",
@@ -184,6 +184,18 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
+    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
+      "https://gist.github.com/d4312a0787456ec27a2a.git",
+      "helloWorld.groovy"
+    ],
+    "https://github.com/NeuronRobotics/NASACurisoity.git:bodyCad.groovy": [
+      "https://github.com/NeuronRobotics/NASACurisoity.git",
+      "bodyCad.groovy"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoManagerTest.groovy"
