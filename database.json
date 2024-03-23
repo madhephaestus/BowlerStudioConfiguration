@@ -70,10 +70,6 @@
       "OperationSmallKat/Marcos",
       "1710357378018"
     ],
-    "https://github.com/madhephaestus/ShrinkAndLayout.git": [
-      "madhephaestus/ShrinkAndLayout",
-      "1711072022437"
-    ],
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
       "1710957378894"
@@ -101,6 +97,10 @@
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1710957335862"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git": [
+      "BancroftKineticSystemsClass/GatherAndPrint",
+      "1707139775985"
     ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
@@ -184,25 +184,9 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
-      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
-      "dhcad.groovy"
-    ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
-      "https://gist.github.com/d4312a0787456ec27a2a.git",
-      "helloWorld.groovy"
-    ],
     "https://github.com/NeuronRobotics/NASACurisoity.git:steer_wheel.groovy": [
       "https://github.com/NeuronRobotics/NASACurisoity.git",
       "steer_wheel.groovy"
-    ],
-    "https://github.com/NeuronRobotics/NASACurisoity.git:bodyCad.groovy": [
-      "https://github.com/NeuronRobotics/NASACurisoity.git",
-      "bodyCad.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "Marcos.xml"
     ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
@@ -212,10 +196,6 @@
       "https://github.com/NeuronRobotics/NASACurisoity.git",
       "NASA_Curiosity.xml"
     ],
-    "https://github.com/madhephaestus/ShrinkAndLayout.git:ShrinkAndLayout.groovy": [
-      "https://github.com/madhephaestus/ShrinkAndLayout.git",
-      "ShrinkAndLayout.groovy"
-    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
       "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
       "hephaestus.xml"
@@ -223,10 +203,6 @@
     "https://github.com/NeuronRobotics/NASACurisoity.git:DriveEngine.groovy": [
       "https://github.com/NeuronRobotics/NASACurisoity.git",
       "DriveEngine.groovy"
-    ],
-    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
-      "https://github.com/madhephaestus/MuJoCoTest.git",
-      "MujocoMobileBase.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
