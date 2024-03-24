@@ -184,10 +184,6 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/NeuronRobotics/NASACurisoity.git:steer_wheel.groovy": [
-      "https://github.com/NeuronRobotics/NASACurisoity.git",
-      "steer_wheel.groovy"
-    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoManagerTest.groovy"
@@ -195,14 +191,6 @@
     "https://github.com/NeuronRobotics/NASACurisoity.git:NASA_Curiosity.xml": [
       "https://github.com/NeuronRobotics/NASACurisoity.git",
       "NASA_Curiosity.xml"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "hephaestus.xml"
-    ],
-    "https://github.com/NeuronRobotics/NASACurisoity.git:DriveEngine.groovy": [
-      "https://github.com/NeuronRobotics/NASACurisoity.git",
-      "DriveEngine.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
