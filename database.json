@@ -184,6 +184,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/MotomanDemo.git:MotomanDemo.xml": [
+      "https://github.com/madhephaestus/MotomanDemo.git",
+      "MotomanDemo.xml"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoManagerTest.groovy"
