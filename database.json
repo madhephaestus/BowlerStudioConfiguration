@@ -58,6 +58,10 @@
       "madhephaestus/AsyncTCP",
       "1710805480000"
     ],
+    "https://github.com/madhephaestus/MotomanGP8.git": [
+      "https://github.com/madhephaestus/MotomanGP8.git",
+      "1711558500266"
+    ],
     "https://github.com/CommonWealthRobotics/bowler-device-server.git": [
       "CommonWealthRobotics/bowler-device-server",
       "1708633929219"
@@ -97,10 +101,6 @@
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1710957335862"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git": [
-      "BancroftKineticSystemsClass/GatherAndPrint",
-      "1707139775985"
     ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
