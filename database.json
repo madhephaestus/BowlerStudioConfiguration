@@ -42,6 +42,10 @@
       "madhephaestus/BevelGearWristModule",
       "1711043689770"
     ],
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
+      "GIST: .gitignore",
+      "1711653896142"
+    ],
     "https://github.com/madhephaestus/ScrapeAllTheThings.git": [
       "https://github.com/madhephaestus/ScrapeAllTheThings.git",
       "1710010349301"
@@ -65,10 +69,6 @@
     "https://github.com/CommonWealthRobotics/bowler-device-server.git": [
       "CommonWealthRobotics/bowler-device-server",
       "1708633929219"
-    ],
-    "https://github.com/madhephaestus/2dBezFunction.git": [
-      "https://github.com/madhephaestus/2dBezFunction.git",
-      "1708632672359"
     ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
@@ -184,9 +184,9 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/MotomanDemo.git:MotomanDemo.xml": [
-      "https://github.com/madhephaestus/MotomanDemo.git",
-      "MotomanDemo.xml"
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
+      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+      "cylinder.groovy"
     ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
