@@ -188,9 +188,21 @@
       "https://github.com/madhephaestus/AsyncTCP.git",
       "KevinProgram.groovy"
     ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
+      "SimpleRobot.xml"
+    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "cylinder.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:TestKinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
+      "TestKinematics.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
+      "Nametag.groovy"
     ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
