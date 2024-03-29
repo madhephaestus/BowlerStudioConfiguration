@@ -66,10 +66,6 @@
       "https://github.com/madhephaestus/MotomanGP8.git",
       "1711558500266"
     ],
-    "https://github.com/CommonWealthRobotics/bowler-device-server.git": [
-      "CommonWealthRobotics/bowler-device-server",
-      "1708633929219"
-    ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
       "1710357378018"
@@ -77,6 +73,10 @@
     "https://github.com/madhephaestus/MotomanDemo.git": [
       "https://github.com/madhephaestus/MotomanDemo.git",
       "1711562350290"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
+      "BancroftKineticSystemsClass/KineticSystems2024Group09",
+      "1711731916730"
     ],
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
