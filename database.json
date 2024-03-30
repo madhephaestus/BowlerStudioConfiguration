@@ -34,10 +34,6 @@
       "madhephaestus/carl-the-hexapod",
       "1710992710924"
     ],
-    "https://github.com/madhephaestus/MuJoCoTest.git": [
-      "madhephaestus/MuJoCoTest",
-      "1710982458930"
-    ],
     "https://github.com/madhephaestus/BevelGearWristModule.git": [
       "madhephaestus/BevelGearWristModule",
       "1711043689770"
@@ -45,10 +41,6 @@
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
       "1711653896142"
-    ],
-    "https://github.com/madhephaestus/ScrapeAllTheThings.git": [
-      "https://github.com/madhephaestus/ScrapeAllTheThings.git",
-      "1710010349301"
     ],
     "https://github.com/JansenSmith/joystickCoversCadGenerator.git": [
       "https://github.com/JansenSmith/joystickCoversCadGenerator.git",
@@ -74,6 +66,22 @@
       "https://github.com/madhephaestus/MotomanDemo.git",
       "1711562350290"
     ],
+    "https://gist.github.com/d4312a0787456ec27a2a.git": [
+      "GIST: BowlerStudio Hello World",
+      "1711071643407"
+    ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1710816936702"
+    ],
+    "https://github.com/madhephaestus/MuJoCoTest.git": [
+      "madhephaestus/MuJoCoTest",
+      "1710982458930"
+    ],
+    "https://github.com/madhephaestus/ScrapeAllTheThings.git": [
+      "https://github.com/madhephaestus/ScrapeAllTheThings.git",
+      "1710010349301"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
       "1711731916730"
@@ -86,10 +94,6 @@
       "Halloween2020TheChild/GroguMechanicsCad",
       "1711025029669"
     ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1711071643407"
-    ],
     "https://github.com/madhephaestus/TextScalingExample.git": [
       "https://github.com/madhephaestus/TextScalingExample.git",
       "1709226272425"
@@ -101,10 +105,6 @@
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1710957335862"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1710816936702"
     ],
     "https://github.com/NeuronRobotics/NASACurisoity.git": [
       "NeuronRobotics/NASACurisoity",
@@ -192,6 +192,10 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "SimpleRobot.xml"
     ],
+    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoJavaCad.groovy": [
+      "https://github.com/madhephaestus/MuJoCoTest.git",
+      "MujocoJavaCad.groovy"
+    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "cylinder.groovy"
@@ -203,6 +207,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "Nametag.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosWalk.groovy"
     ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
