@@ -134,10 +134,10 @@
       "X-Box",
       "Dragon"
     ],
-    "linkDeviceName": "midnight",
-    "robotName": "Marcos",
-    "robotGitFile": "Marcos.xml",
-    "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
+    "linkDeviceName": "dyio",
+    "robotName": "NASA_Curiosity",
+    "robotGitFile": "NASA_Curiosity.xml",
+    "robotGit": "https://github.com/NeuronRobotics/NASACurisoity.git"
   },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
