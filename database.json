@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1712419694260"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1710992710924"
@@ -93,10 +97,6 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1711071643407"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git": [
-      "BancroftKineticSystemsClass/KineticSystems2024Group01",
-      "1709736005025"
     ],
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
