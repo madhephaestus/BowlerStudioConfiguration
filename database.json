@@ -188,10 +188,6 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "SimpleRobot.xml"
     ],
-    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoJavaCad.groovy": [
-      "https://github.com/madhephaestus/MuJoCoTest.git",
-      "MujocoJavaCad.groovy"
-    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "cylinder.groovy"
