@@ -102,6 +102,10 @@
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1710816936702"
     ],
+    "https://github.com/madhephaestus/NASA_Curiosity_copy.git": [
+      "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
+      "1712463085134"
+    ],
     "https://github.com/NeuronRobotics/NASACurisoity.git": [
       "NeuronRobotics/NASACurisoity",
       "1710940284033"
@@ -199,10 +203,6 @@
     "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "MarcosWalk.groovy"
-    ],
-    "https://github.com/NeuronRobotics/NASACurisoity.git:NASA_Curiosity.xml": [
-      "https://github.com/NeuronRobotics/NASACurisoity.git",
-      "NASA_Curiosity.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
