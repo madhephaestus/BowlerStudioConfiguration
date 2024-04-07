@@ -46,10 +46,6 @@
       "madhephaestus/MuJoCoTest",
       "1710982458930"
     ],
-    "https://github.com/madhephaestus/ScrapeAllTheThings.git": [
-      "https://github.com/madhephaestus/ScrapeAllTheThings.git",
-      "1710010349301"
-    ],
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1712246285698"
@@ -97,6 +93,10 @@
     "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
       "CommonWealthRobotics/DeviceProviders",
       "1710957335862"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "GIST: .gitignore",
+      "1712527818528"
     ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
@@ -188,6 +188,10 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "SimpleRobot.xml"
     ],
+    "https://github.com/madhephaestus/NASA_Curiosity_copy.git:bodyCad.groovy": [
+      "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
+      "bodyCad.groovy"
+    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "cylinder.groovy"
@@ -199,6 +203,10 @@
     "https://github.com/madhephaestus/NASA_Curiosity_copy.git:NASA_Curiosity_copy.xml": [
       "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
       "NASA_Curiosity_copy.xml"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
