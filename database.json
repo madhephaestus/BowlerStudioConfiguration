@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1712680495047"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1710992710924"
@@ -49,10 +53,6 @@
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1712246285698"
-    ],
-    "https://github.com/JansenSmith/joystickCoversCadGenerator.git": [
-      "https://github.com/JansenSmith/joystickCoversCadGenerator.git",
-      "1710356992087"
     ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
