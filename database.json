@@ -58,6 +58,10 @@
       "https://github.com/madhephaestus/MotomanGP8.git",
       "1711558500266"
     ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
+      "GIST: Servo Horn generator",
+      "1712784037459"
+    ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
       "1710357378018"
@@ -176,9 +180,17 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
     "https://github.com/madhephaestus/NASA_Curiosity_copy.git:NASA_Curiosity_copy.xml": [
       "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
       "NASA_Curiosity_copy.xml"
+    ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
+      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
+      "servoHorn.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
