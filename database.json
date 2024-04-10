@@ -180,9 +180,33 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
+      "SimpleRobot.xml"
+    ],
+    "https://github.com/madhephaestus/NASA_Curiosity_copy.git:bodyCad.groovy": [
+      "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
+      "bodyCad.groovy"
+    ],
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
+      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+      "cylinder.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:TestKinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
+      "TestKinematics.groovy"
+    ],
     "https://github.com/madhephaestus/NASA_Curiosity_copy.git:NASA_Curiosity_copy.xml": [
       "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
       "NASA_Curiosity_copy.xml"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
+      "Nametag.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
