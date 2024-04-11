@@ -38,10 +38,6 @@
       "madhephaestus/BevelGearWristModule",
       "1711043689770"
     ],
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
-      "GIST: .gitignore",
-      "1711653896142"
-    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1710982458930"
@@ -61,6 +57,10 @@
     "https://github.com/madhephaestus/MotomanGP8.git": [
       "https://github.com/madhephaestus/MotomanGP8.git",
       "1711558500266"
+    ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
+      "GIST: Servo Horn generator",
+      "1712784037459"
     ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
