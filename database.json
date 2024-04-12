@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1712966333249"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1710992710924"
@@ -89,10 +93,6 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1711071643407"
-    ],
-    "https://github.com/madhephaestus/TextScalingExample.git": [
-      "https://github.com/madhephaestus/TextScalingExample.git",
-      "1709226272425"
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group01",
