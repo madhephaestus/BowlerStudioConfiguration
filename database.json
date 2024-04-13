@@ -180,26 +180,6 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
-      "SimpleRobot.xml"
-    ],
-    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoJavaCad.groovy": [
-      "https://github.com/madhephaestus/MuJoCoTest.git",
-      "MujocoJavaCad.groovy"
-    ],
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
-      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
-      "cylinder.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:TestKinematics.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
-      "TestKinematics.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:Nametag.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
-      "Nametag.groovy"
-    ],
     "https://github.com/NeuronRobotics/NASACurisoity.git:NASA_Curiosity.xml": [
       "https://github.com/NeuronRobotics/NASACurisoity.git",
       "NASA_Curiosity.xml"
