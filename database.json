@@ -127,14 +127,14 @@
       "Game",
       "Switch",
       "gamepad",
+      "Xbox 360 Pro EX Controller",
       "X-Box",
-      "Dragon",
-      "Xbox 360 Pro EX Controller"
+      "Dragon"
     ],
     "linkDeviceName": "dyio",
-    "robotName": "NASA_Curiosity",
-    "robotGitFile": "NASA_Curiosity.xml",
-    "robotGit": "https://github.com/NeuronRobotics/NASACurisoity.git"
+    "robotName": "NASA_Curiosity_copy",
+    "robotGitFile": "NASA_Curiosity_copy.xml",
+    "robotGit": "https://github.com/madhephaestus/NASA_Curiosity_copy.git"
   },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
@@ -199,6 +199,10 @@
     "https://github.com/madhephaestus/NASA_Curiosity_copy.git:NASA_Curiosity_copy.xml": [
       "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
       "NASA_Curiosity_copy.xml"
+    ],
+    "https://github.com/OperationSmallKat/Katapult.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/Katapult.git",
+      "launch.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
