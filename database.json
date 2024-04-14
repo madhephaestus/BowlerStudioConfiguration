@@ -42,10 +42,6 @@
       "madhephaestus/BevelGearWristModule",
       "1711043689770"
     ],
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
-      "GIST: .gitignore",
-      "1711653896142"
-    ],
     "https://github.com/madhephaestus/MuJoCoTest.git": [
       "madhephaestus/MuJoCoTest",
       "1710982458930"
@@ -65,6 +61,10 @@
     "https://github.com/madhephaestus/MotomanGP8.git": [
       "https://github.com/madhephaestus/MotomanGP8.git",
       "1711558500266"
+    ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
+      "GIST: Servo Horn generator",
+      "1712784037459"
     ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
@@ -131,13 +131,14 @@
       "Game",
       "Switch",
       "gamepad",
+      "Xbox 360 Pro EX Controller",
       "X-Box",
       "Dragon"
     ],
     "linkDeviceName": "dyio",
-    "robotName": "NASA_Curiosity",
-    "robotGitFile": "NASA_Curiosity.xml",
-    "robotGit": "https://github.com/NeuronRobotics/NASACurisoity.git"
+    "robotName": "NASA_Curiosity_copy",
+    "robotGitFile": "NASA_Curiosity_copy.xml",
+    "robotGit": "https://github.com/madhephaestus/NASA_Curiosity_copy.git"
   },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
@@ -183,10 +184,29 @@
   "MenueSettings": {
     "printCSG": false
   },
+  "Xbox 360 Pro EX Controller": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "start",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "z": "analog-trig",
+    "Left Thumb": "l-trig-button"
+  },
   "studio-open-git": {
     "https://github.com/madhephaestus/NASA_Curiosity_copy.git:NASA_Curiosity_copy.xml": [
       "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
       "NASA_Curiosity_copy.xml"
+    ],
+    "https://github.com/OperationSmallKat/Katapult.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/Katapult.git",
+      "launch.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
