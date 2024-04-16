@@ -102,6 +102,10 @@
       "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
       "1712463085134"
     ],
+    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git": [
+      "BancroftKineticSystemsClass/GatherAndPrint",
+      "1713287597622"
+    ],
     "https://github.com/NeuronRobotics/NASACurisoity.git": [
       "NeuronRobotics/NASACurisoity",
       "1710940284033"
@@ -180,6 +184,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "SimpleRobot.xml"
