@@ -179,6 +179,21 @@
   "MenueSettings": {
     "printCSG": false
   },
+  "Xbox 360 Pro EX Controller": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "start",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "z": "analog-trig",
+    "Left Thumb": "l-trig-button"
+  },
   "studio-open-git": {
     "https://github.com/madhephaestus/NASA_Curiosity_copy.git:NASA_Curiosity_copy.xml": [
       "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
