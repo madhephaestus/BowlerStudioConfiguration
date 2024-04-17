@@ -72,7 +72,7 @@
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
-      "1711731916730"
+      "1713270823039"
     ],
     "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
       "OperationSmallKat/SmallKatLinkLoader",
@@ -102,6 +102,10 @@
       "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
       "1712463085134"
     ],
+    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git": [
+      "BancroftKineticSystemsClass/GatherAndPrint",
+      "1713287597622"
+    ],
     "https://github.com/NeuronRobotics/NASACurisoity.git": [
       "NeuronRobotics/NASACurisoity",
       "1710940284033"
@@ -128,8 +132,7 @@
       "Switch",
       "gamepad",
       "X-Box",
-      "Dragon",
-      "Xbox 360 Pro EX Controller"
+      "Dragon"
     ],
     "linkDeviceName": "dyio",
     "robotName": "NASA_Curiosity",
@@ -180,25 +183,18 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "Xbox 360 Pro EX Controller": {
-    "A": "a-mode",
-    "B": "b-mode",
-    "Start": "start",
-    "rx": "r-joy-left-right",
-    "ry": "r-joy-up-down",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "Select": "select",
-    "y": "l-joy-up-down",
-    "Y": "y-mode",
-    "z": "analog-trig",
-    "Left Thumb": "l-trig-button"
-  },
   "studio-open-git": {
-    "https://github.com/madhephaestus/NASA_Curiosity_copy.git:NASA_Curiosity_copy.xml": [
-      "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
-      "NASA_Curiosity_copy.xml"
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
+      "SimpleRobot.xml"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git:gatherAndPrint.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git",
+      "gatherAndPrint.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
