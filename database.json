@@ -46,13 +46,13 @@
       "madhephaestus/MuJoCoTest",
       "1710982458930"
     ],
+    "https://gist.github.com/721302a0ff6d2809b997.git": [
+      "GIST: javaCadHull.groovy",
+      "1713487775003"
+    ],
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1712246285698"
-    ],
-    "https://gist.github.com/4814b39ee72e9f590757.git": [
-      "GIST: JavaCadExample",
-      "1710515142161"
     ],
     "https://gist.github.com/185a0aad1f898ab32e5e.git": [
       "GIST: cube.groovy",
@@ -217,6 +217,10 @@
     "Left Thumb": "l-trig-button"
   },
   "studio-open-git": {
+    "https://gist.github.com/721302a0ff6d2809b997.git:javaCadHull.groovy": [
+      "https://gist.github.com/721302a0ff6d2809b997.git",
+      "javaCadHull.groovy"
+    ],
     "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git:gatherAndPrint.groovy": [
       "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git",
       "gatherAndPrint.groovy"
