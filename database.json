@@ -54,6 +54,10 @@
       "GIST: JavaCadExample",
       "1710515142161"
     ],
+    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
+      "GIST: cube.groovy",
+      "1713487639446"
+    ],
     "https://github.com/madhephaestus/AsyncTCP.git": [
       "madhephaestus/AsyncTCP",
       "1710805480000"
@@ -61,10 +65,6 @@
     "https://github.com/madhephaestus/MotomanGP8.git": [
       "https://github.com/madhephaestus/MotomanGP8.git",
       "1711558500266"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git": [
-      "OperationSmallKat/Marcos",
-      "1710357378018"
     ],
     "https://github.com/madhephaestus/MotomanDemo.git": [
       "https://github.com/madhephaestus/MotomanDemo.git",
@@ -133,6 +133,18 @@
       "gamepad",
       "X-Box",
       "Dragon",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
       "Dragon",
       "X-Box",
       "Game",
@@ -212,6 +224,14 @@
     "https://github.com/madhephaestus/NASA_Curiosity_copy.git:NASA_Curiosity_copy.xml": [
       "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
       "NASA_Curiosity_copy.xml"
+    ],
+    "https://gist.github.com/185a0aad1f898ab32e5e.git:cube.groovy": [
+      "https://gist.github.com/185a0aad1f898ab32e5e.git",
+      "cube.groovy"
+    ],
+    "https://github.com/madhephaestus/NASA_Curiosity_copy.git:armCad.groovy": [
+      "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
+      "armCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
