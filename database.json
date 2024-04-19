@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1713544519614"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1710992710924"
@@ -61,10 +65,6 @@
     "https://github.com/madhephaestus/MotomanGP8.git": [
       "https://github.com/madhephaestus/MotomanGP8.git",
       "1711558500266"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git": [
-      "OperationSmallKat/Marcos",
-      "1710357378018"
     ],
     "https://github.com/madhephaestus/MotomanDemo.git": [
       "https://github.com/madhephaestus/MotomanDemo.git",
