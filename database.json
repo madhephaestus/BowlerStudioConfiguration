@@ -46,25 +46,21 @@
       "madhephaestus/MuJoCoTest",
       "1710982458930"
     ],
-    "https://gist.github.com/721302a0ff6d2809b997.git": [
-      "GIST: javaCadHull.groovy",
-      "1713487775003"
-    ],
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1712246285698"
     ],
-    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
-      "GIST: cube.groovy",
-      "1713487639446"
-    ],
-    "https://github.com/madhephaestus/AsyncTCP.git": [
-      "madhephaestus/AsyncTCP",
-      "1710805480000"
-    ],
     "https://github.com/madhephaestus/MotomanGP8.git": [
       "https://github.com/madhephaestus/MotomanGP8.git",
       "1711558500266"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git": [
+      "BancroftKineticSystemsClass/KineticSystems2024Group08",
+      "1713622462061"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git": [
+      "OperationSmallKat/Marcos",
+      "1713544522411"
     ],
     "https://github.com/madhephaestus/MotomanDemo.git": [
       "https://github.com/madhephaestus/MotomanDemo.git",
@@ -132,25 +128,7 @@
       "Switch",
       "gamepad",
       "X-Box",
-      "Dragon",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD"
+      "Dragon"
     ],
     "linkDeviceName": "dyio",
     "robotName": "NASA_Curiosity",
@@ -201,43 +179,7 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "Xbox 360 Pro EX Controller": {
-    "A": "a-mode",
-    "B": "b-mode",
-    "Start": "start",
-    "rx": "r-joy-left-right",
-    "ry": "r-joy-up-down",
-    "rz": "analog-trig",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "Select": "select",
-    "y": "l-joy-up-down",
-    "Y": "y-mode",
-    "Left Thumb": "l-trig-button"
-  },
-  "studio-open-git": {
-    "https://gist.github.com/721302a0ff6d2809b997.git:javaCadHull.groovy": [
-      "https://gist.github.com/721302a0ff6d2809b997.git",
-      "javaCadHull.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git:gatherAndPrint.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git",
-      "gatherAndPrint.groovy"
-    ],
-    "https://github.com/madhephaestus/NASA_Curiosity_copy.git:NASA_Curiosity_copy.xml": [
-      "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
-      "NASA_Curiosity_copy.xml"
-    ],
-    "https://gist.github.com/185a0aad1f898ab32e5e.git:cube.groovy": [
-      "https://gist.github.com/185a0aad1f898ab32e5e.git",
-      "cube.groovy"
-    ],
-    "https://github.com/madhephaestus/NASA_Curiosity_copy.git:armCad.groovy": [
-      "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
-      "armCad.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
@@ -259,7 +201,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 20.0,
+    "fontsize": 6,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
