@@ -199,6 +199,14 @@
     "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "Marcos.xml"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git:simpleRobotCad.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git",
+      "simpleRobotCad.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git:simpleRobot.xml": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git",
+      "simpleRobot.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
