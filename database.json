@@ -179,32 +179,7 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
-      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
-      "dhcad.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
-      "SimpleRobot.xml"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git:gatherAndPrint.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git",
-      "gatherAndPrint.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "Marcos.xml"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git:simpleRobotCad.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git",
-      "simpleRobotCad.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git:simpleRobot.xml": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git",
-      "simpleRobot.xml"
-    ]
-  },
+  "studio-open-git": {},
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
