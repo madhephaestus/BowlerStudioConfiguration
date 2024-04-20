@@ -128,34 +128,19 @@
   },
   "katapult": {
     "gameControllerNames": [
+      "Dragon",
+      "Microsoft",
+      "X-Box",
       "Game",
       "Switch",
       "gamepad",
-      "X-Box",
-      "Dragon",
-      "Dragon",
-      "X-Box",
-      "Game",
       "XBOX",
-      "Microsoft",
-      "GPD",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
       "GPD"
     ],
-    "linkDeviceName": "dyio",
-    "robotName": "NASA_Curiosity",
-    "robotGitFile": "NASA_Curiosity.xml",
-    "robotGit": "https://github.com/NeuronRobotics/NASACurisoity.git"
+    "linkDeviceName": "midnight",
+    "robotName": "Marcos",
+    "robotGitFile": "Marcos.xml",
+    "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
   },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
@@ -216,28 +201,7 @@
     "Y": "y-mode",
     "Left Thumb": "l-trig-button"
   },
-  "studio-open-git": {
-    "https://gist.github.com/721302a0ff6d2809b997.git:javaCadHull.groovy": [
-      "https://gist.github.com/721302a0ff6d2809b997.git",
-      "javaCadHull.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git:gatherAndPrint.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git",
-      "gatherAndPrint.groovy"
-    ],
-    "https://github.com/madhephaestus/NASA_Curiosity_copy.git:NASA_Curiosity_copy.xml": [
-      "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
-      "NASA_Curiosity_copy.xml"
-    ],
-    "https://gist.github.com/185a0aad1f898ab32e5e.git:cube.groovy": [
-      "https://gist.github.com/185a0aad1f898ab32e5e.git",
-      "cube.groovy"
-    ],
-    "https://github.com/madhephaestus/NASA_Curiosity_copy.git:armCad.groovy": [
-      "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
-      "armCad.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
@@ -259,7 +223,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 20.0,
+    "fontsize": 32,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
