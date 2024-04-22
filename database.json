@@ -201,7 +201,12 @@
     "Y": "y-mode",
     "Left Thumb": "l-trig-button"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
+      "SimpleRobot.xml"
+    ]
+  },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
@@ -223,7 +228,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 28.0,
+    "fontsize": 32,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
