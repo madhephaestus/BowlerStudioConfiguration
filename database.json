@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1713817638844"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1710992710924"
@@ -224,7 +228,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 28.0,
+    "fontsize": 12,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
