@@ -106,9 +106,9 @@
       "BancroftKineticSystemsClass/GatherAndPrint",
       "1713287597622"
     ],
-    "https://github.com/NeuronRobotics/NASACurisoity.git": [
-      "NeuronRobotics/NASACurisoity",
-      "1710940284033"
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1713967310381"
     ]
   },
   "Logitech Logitech Dual Action": {
@@ -214,6 +214,10 @@
     "Left Thumb": "l-trig-button"
   },
   "studio-open-git": {
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "SimpleRobot.xml"
