@@ -70,6 +70,10 @@
       "https://github.com/madhephaestus/MotomanDemo.git",
       "1711562350290"
     ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git": [
+      "madhephaestus/VexVitaminScripts",
+      "1713967309520"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
       "1713270823039"
@@ -93,10 +97,6 @@
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: .gitignore",
       "1712527818528"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1710816936702"
     ],
     "https://github.com/madhephaestus/NASA_Curiosity_copy.git": [
       "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
@@ -135,6 +135,18 @@
       "Switch",
       "gamepad",
       "XBOX",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
       "GPD"
     ],
     "linkDeviceName": "midnight",
@@ -209,6 +221,10 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
+    ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Cchannel.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/Cchannel.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
