@@ -66,17 +66,25 @@
       "https://github.com/madhephaestus/MotomanGP8.git",
       "1711558500266"
     ],
+    "https://github.com/madhephaestus/VexVitaminsRobot.git": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "1713964471948"
+    ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
+      "GIST: Servo Horn generator",
+      "1713967828652"
+    ],
     "https://github.com/madhephaestus/MotomanDemo.git": [
       "https://github.com/madhephaestus/MotomanDemo.git",
       "1711562350290"
     ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git": [
+      "madhephaestus/VexVitaminScripts",
+      "1713967309520"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
       "1713270823039"
-    ],
-    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
-      "OperationSmallKat/SmallKatLinkLoader",
-      "1710957378894"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
@@ -86,17 +94,9 @@
       "GIST: BowlerStudio Hello World",
       "1711071643407"
     ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
-      "CommonWealthRobotics/DeviceProviders",
-      "1710957335862"
-    ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: .gitignore",
       "1712527818528"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1710816936702"
     ],
     "https://github.com/madhephaestus/NASA_Curiosity_copy.git": [
       "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
@@ -106,9 +106,9 @@
       "BancroftKineticSystemsClass/GatherAndPrint",
       "1713287597622"
     ],
-    "https://github.com/NeuronRobotics/NASACurisoity.git": [
-      "NeuronRobotics/NASACurisoity",
-      "1710940284033"
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1713967310381"
     ]
   },
   "Logitech Logitech Dual Action": {
@@ -128,19 +128,19 @@
   },
   "katapult": {
     "gameControllerNames": [
-      "Dragon",
-      "Microsoft",
-      "X-Box",
       "Game",
       "Switch",
       "gamepad",
+      "Microsoft",
       "XBOX",
-      "GPD"
+      "GPD",
+      "X-Box",
+      "Dragon"
     ],
-    "linkDeviceName": "midnight",
-    "robotName": "Marcos",
-    "robotGitFile": "Marcos.xml",
-    "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
+    "linkDeviceName": "dyio",
+    "robotName": "NASA_Curiosity",
+    "robotGitFile": "NASA_Curiosity.xml",
+    "robotGit": "https://github.com/NeuronRobotics/NASACurisoity.git"
   },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
@@ -202,9 +202,21 @@
     "Left Thumb": "l-trig-button"
   },
   "studio-open-git": {
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "SimpleRobot.xml"
+    ],
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "VexVitaminsRobot.xml"
+    ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Cchannel.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/Cchannel.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -228,7 +240,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 28.0,
+    "fontsize": 24.0,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
