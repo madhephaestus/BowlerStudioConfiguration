@@ -235,6 +235,7 @@
     "Z": "r-trig-button",
     "Left Thumb": "l-trig-button"
   },
+  "studio-open-web": {},
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
     "jogKinz": "rz",
     "jogLink": "x",
@@ -299,7 +300,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 24,
+    "fontsize": 20,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
