@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1713969959014"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1710992710924"
@@ -82,10 +86,6 @@
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
       "1713270823039"
     ],
-    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
-      "OperationSmallKat/SmallKatLinkLoader",
-      "1710957378894"
-    ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
       "1711025029669"
@@ -135,6 +135,18 @@
       "Switch",
       "gamepad",
       "XBOX",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
       "GPD",
       "Dragon",
       "X-Box",
@@ -241,10 +253,6 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Cchannel.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/Cchannel.groovy"
-    ],
-    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
-      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
-      "servoHorn.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
