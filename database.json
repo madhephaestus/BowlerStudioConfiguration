@@ -257,10 +257,6 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
-    ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobotCad.groovy": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "VexVitaminsRobotCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -284,7 +280,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 18.0,
+    "fontsize": 24,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
