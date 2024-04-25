@@ -74,6 +74,10 @@
       "https://github.com/madhephaestus/MotomanDemo.git",
       "1711562350290"
     ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
+      "Halloween2020TheChild/RazerHydraHIDJava",
+      "1714088250782"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
       "1713270823039"
@@ -105,10 +109,6 @@
     "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git": [
       "BancroftKineticSystemsClass/GatherAndPrint",
       "1713287597622"
-    ],
-    "https://github.com/NeuronRobotics/NASACurisoity.git": [
-      "NeuronRobotics/NASACurisoity",
-      "1710940284033"
     ]
   },
   "Logitech Logitech Dual Action": {
@@ -135,6 +135,18 @@
       "Switch",
       "gamepad",
       "XBOX",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
       "GPD",
       "Dragon",
       "X-Box",
@@ -257,6 +269,10 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
+    ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:jinputGrogu.groovy": [
+      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
+      "jinputGrogu.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
