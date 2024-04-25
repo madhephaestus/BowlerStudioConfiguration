@@ -30,10 +30,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "": [
-      "Project ",
-      "1713999912608"
-    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1710992710924"
@@ -67,24 +63,20 @@
       "1711558500266"
     ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "1713964471948"
-    ],
-    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
-      "GIST: Servo Horn generator",
-      "1713967828652"
+      "madhephaestus/VexVitaminsRobot",
+      "1713990556893"
     ],
     "https://github.com/madhephaestus/MotomanDemo.git": [
       "https://github.com/madhephaestus/MotomanDemo.git",
       "1711562350290"
     ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git": [
-      "madhephaestus/VexVitaminScripts",
-      "1713967309520"
-    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
       "1713270823039"
+    ],
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
+      "OperationSmallKat/SmallKatLinkLoader",
+      "1710957378894"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
@@ -93,6 +85,10 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1711071643407"
+    ],
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
+      "CommonWealthRobotics/DeviceProviders",
+      "1710957335862"
     ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: .gitignore",
@@ -106,9 +102,9 @@
       "BancroftKineticSystemsClass/GatherAndPrint",
       "1713287597622"
     ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1713967310381"
+    "https://github.com/NeuronRobotics/NASACurisoity.git": [
+      "NeuronRobotics/NASACurisoity",
+      "1710940284033"
     ]
   },
   "Logitech Logitech Dual Action": {
@@ -128,25 +124,13 @@
   },
   "katapult": {
     "gameControllerNames": [
+      "Dragon",
+      "Microsoft",
+      "X-Box",
       "Game",
       "Switch",
       "gamepad",
-      "Microsoft",
       "XBOX",
-      "GPD",
-      "X-Box",
-      "Dragon",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
       "GPD",
       "Dragon",
       "X-Box",
@@ -197,10 +181,10 @@
       "Microsoft",
       "GPD"
     ],
-    "linkDeviceName": "dyio",
-    "robotName": "NASA_Curiosity",
-    "robotGitFile": "NASA_Curiosity.xml",
-    "robotGit": "https://github.com/NeuronRobotics/NASACurisoity.git"
+    "linkDeviceName": "midnight",
+    "robotName": "Marcos",
+    "robotGitFile": "Marcos.xml",
+    "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
   },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
@@ -262,10 +246,6 @@
     "Left Thumb": "l-trig-button"
   },
   "studio-open-git": {
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
-      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
-      "dhcad.groovy"
-    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "SimpleRobot.xml"
@@ -274,9 +254,9 @@
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
     ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Cchannel.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/Cchannel.groovy"
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobotCad.groovy": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "VexVitaminsRobotCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -300,7 +280,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 20,
+    "fontsize": 18.0,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
