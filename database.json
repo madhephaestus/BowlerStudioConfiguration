@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1714150633887"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1710992710924"
@@ -197,6 +201,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "SimpleRobot.xml"
+    ],
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "VexVitaminsRobot.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -220,7 +228,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 24.0,
+    "fontsize": 28,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
