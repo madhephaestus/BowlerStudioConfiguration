@@ -78,6 +78,10 @@
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1714088250782"
     ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git": [
+      "madhephaestus/VexVitaminScripts",
+      "1714221262993"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
       "1713270823039"
@@ -93,10 +97,6 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
       "1711071643407"
-    ],
-    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
-      "CommonWealthRobotics/DeviceProviders",
-      "1710957335862"
     ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: .gitignore",
@@ -205,6 +205,10 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
+    ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Lchannel.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/Lchannel.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
