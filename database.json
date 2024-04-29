@@ -46,10 +46,6 @@
       "GIST: .gitignore",
       "1711653896142"
     ],
-    "https://github.com/madhephaestus/MuJoCoTest.git": [
-      "madhephaestus/MuJoCoTest",
-      "1710982458930"
-    ],
     "https://gist.github.com/721302a0ff6d2809b997.git": [
       "GIST: javaCadHull.groovy",
       "1713487775003"
@@ -57,6 +53,10 @@
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1712246285698"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
+      "GIST: Cap screw generator",
+      "1714349033961"
     ],
     "https://gist.github.com/185a0aad1f898ab32e5e.git": [
       "GIST: cube.groovy",
@@ -209,6 +209,14 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
+    ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Motor.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/Motor.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
     ],
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Lchannel.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
