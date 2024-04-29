@@ -66,10 +66,6 @@
       "https://github.com/madhephaestus/MotomanGP8.git",
       "1711558500266"
     ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git": [
-      "madhephaestus/VexVitaminsRobot",
-      "1714148741853"
-    ],
     "https://github.com/madhephaestus/MotomanDemo.git": [
       "https://github.com/madhephaestus/MotomanDemo.git",
       "1711562350290"
@@ -205,10 +201,6 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
       "SimpleRobot.xml"
-    ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "VexVitaminsRobot.xml"
     ],
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Motor.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
