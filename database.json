@@ -222,26 +222,6 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
-    ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Motor.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/Motor.groovy"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
-      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
-      "capScrew.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Lchannel.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/Lchannel.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobotCad.groovy": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "VexVitaminsRobotCad.groovy"
-    ],
-    "https://github.com/NeuronRobotics/NASACurisoity.git:DriveEngine.groovy": [
-      "https://github.com/NeuronRobotics/NASACurisoity.git",
-      "DriveEngine.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -265,7 +245,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 28,
+    "fontsize": 24,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
