@@ -34,10 +34,6 @@
       "Project ",
       "1714582455085"
     ],
-    "https://github.com/madhephaestus/carl-the-hexapod.git": [
-      "madhephaestus/carl-the-hexapod",
-      "1710992710924"
-    ],
     "https://github.com/madhephaestus/BevelGearWristModule.git": [
       "madhephaestus/BevelGearWristModule",
       "1711043689770"
@@ -109,6 +105,10 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1714221263912"
+    ],
+    "https://github.com/NeuronRobotics/NASACurisoity.git": [
+      "NeuronRobotics/NASACurisoity",
+      "1714583334774"
     ]
   },
   "Logitech Logitech Dual Action": {
@@ -234,6 +234,14 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Lchannel.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/Lchannel.groovy"
+    ],
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobotCad.groovy": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "VexVitaminsRobotCad.groovy"
+    ],
+    "https://github.com/NeuronRobotics/NASACurisoity.git:DriveEngine.groovy": [
+      "https://github.com/NeuronRobotics/NASACurisoity.git",
+      "DriveEngine.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
