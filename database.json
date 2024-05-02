@@ -222,6 +222,14 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
+    ],
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobotWalk.groovy": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "VexVitaminsRobotWalk.groovy"
+    ],
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:FixedDriveEngine.groovy": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "FixedDriveEngine.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
