@@ -222,6 +222,10 @@
       "https://github.com/madhephaestus/Hardware-Dimensions.git",
       "json/vexCchannel.json"
     ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/vex_Hex_Nut_Retainer.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/vex_Hex_Nut_Retainer.groovy"
+    ],
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Cchannel.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/Cchannel.groovy"
