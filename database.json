@@ -214,6 +214,14 @@
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
     ],
+    "https://github.com/madhephaestus/Hardware-Dimensions.git:json/vexLchannel.json": [
+      "https://github.com/madhephaestus/Hardware-Dimensions.git",
+      "json/vexLchannel.json"
+    ],
+    "https://github.com/madhephaestus/Hardware-Dimensions.git:json/vexCchannel.json": [
+      "https://github.com/madhephaestus/Hardware-Dimensions.git",
+      "json/vexCchannel.json"
+    ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobotWalk.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobotWalk.groovy"
