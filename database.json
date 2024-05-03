@@ -34,6 +34,10 @@
       "Project ",
       "1714671976162"
     ],
+    "https://github.com/madhephaestus/Hardware-Dimensions.git": [
+      "madhephaestus/Hardware-Dimensions",
+      "1714746597378"
+    ],
     "https://github.com/madhephaestus/BevelGearWristModule.git": [
       "madhephaestus/BevelGearWristModule",
       "1711043689770"
@@ -81,10 +85,6 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
       "1713270823039"
-    ],
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
-      "Halloween2020TheChild/GroguMechanicsCad",
-      "1711025029669"
     ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "GIST: BowlerStudio Hello World",
@@ -225,6 +225,10 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Cchannel.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/Cchannel.groovy"
+    ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Lchannel.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/Lchannel.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
