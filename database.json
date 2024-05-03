@@ -222,10 +222,6 @@
       "https://github.com/madhephaestus/Hardware-Dimensions.git",
       "json/vexCchannel.json"
     ],
-    "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git:vex_Hex_Nut_Retainer.groovy": [
-      "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git",
-      "vex_Hex_Nut_Retainer.groovy"
-    ],
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Cchannel.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/Cchannel.groovy"
@@ -233,6 +229,10 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Lchannel.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/Lchannel.groovy"
+    ],
+    "https://github.com/madhephaestus/Hardware-Dimensions.git:json/vex_Hex_Nut_Retainer.json": [
+      "https://github.com/madhephaestus/Hardware-Dimensions.git",
+      "json/vex_Hex_Nut_Retainer.json"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
