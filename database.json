@@ -38,10 +38,6 @@
       "Project ",
       "1714747872475"
     ],
-    "https://github.com/madhephaestus/BevelGearWristModule.git": [
-      "madhephaestus/BevelGearWristModule",
-      "1711043689770"
-    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
       "1711653896142"
@@ -93,6 +89,10 @@
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: .gitignore",
       "1712527818528"
+    ],
+    "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git": [
+      "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git",
+      "1714749522449"
     ],
     "https://github.com/madhephaestus/NASA_Curiosity_copy.git": [
       "https://github.com/madhephaestus/NASA_Curiosity_copy.git",
@@ -222,13 +222,9 @@
       "https://github.com/madhephaestus/Hardware-Dimensions.git",
       "json/vexCchannel.json"
     ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobotWalk.groovy": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "VexVitaminsRobotWalk.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:FixedDriveEngine.groovy": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "FixedDriveEngine.groovy"
+    "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git:vex_Hex_Nut_Retainer.groovy": [
+      "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git",
+      "vex_Hex_Nut_Retainer.groovy"
     ],
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Cchannel.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
