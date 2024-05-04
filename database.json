@@ -46,6 +46,10 @@
       "GIST: javaCadHull.groovy",
       "1713487775003"
     ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "Hephaestus-Arm/HephaestusArm2",
+      "1714853573231"
+    ],
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1712246285698"
@@ -81,10 +85,6 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
       "1713270823039"
-    ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1711071643407"
     ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: .gitignore",
@@ -233,6 +233,10 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Lchannel.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/Lchannel.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "hephaestus.xml"
     ],
     "https://github.com/madhephaestus/Hardware-Dimensions.git:json/vex_Hex_Nut_Retainer.json": [
       "https://github.com/madhephaestus/Hardware-Dimensions.git",
