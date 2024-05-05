@@ -46,10 +46,6 @@
       "Hephaestus-Arm/HephaestusArm2",
       "1714853573231"
     ],
-    "https://github.com/OperationSmallKat/Katapult.git": [
-      "OperationSmallKat/Katapult",
-      "1712246285698"
-    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1714349033961"
@@ -85,6 +81,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
       "1713270823039"
+    ],
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
+      "madhephaestus/LewanSoulMotorCadGenerator",
+      "1714934985022"
     ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: .gitignore",
@@ -215,6 +215,10 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
+    ],
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
+      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+      "LewanSoulMotor.groovy"
     ],
     "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git:assembly.groovy": [
       "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git",
