@@ -202,10 +202,10 @@
     "Left Thumb": "l-trig-button"
   },
   "PhysicsWidget": {
-    "movingObjects": "scripts/Cchannel.groovy",
-    "gitStatic": "https://github.com/madhephaestus/javaCad_madhephaestus.git",
-    "staticObjects": "javaCad.groovy",
-    "gitMoving": "https://github.com/madhephaestus/VexVitaminScripts.git"
+    "movingObjects": "javaCad.groovy",
+    "gitStatic": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "staticObjects": "scripts/Wheels.groovy",
+    "gitMoving": "https://github.com/madhephaestus/javaCad_madhephaestus.git"
   },
   "studio-open-git": {
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
