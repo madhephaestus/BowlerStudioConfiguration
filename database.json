@@ -36,7 +36,7 @@
     ],
     "": [
       "Project ",
-      "1714935750154"
+      "1714951261079"
     ],
     "https://gist.github.com/721302a0ff6d2809b997.git": [
       "GIST: javaCadHull.groovy",
@@ -202,9 +202,9 @@
     "Left Thumb": "l-trig-button"
   },
   "PhysicsWidget": {
-    "movingObjects": "assembly.groovy",
-    "gitStatic": "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git",
-    "staticObjects": "assembly.groovy",
+    "movingObjects": "scripts/Cchannel.groovy",
+    "gitStatic": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "staticObjects": "scripts/standoff.groovy",
     "gitMoving": "https://github.com/madhephaestus/VexVitaminScripts.git"
   },
   "studio-open-git": {
