@@ -205,7 +205,7 @@
     "movingObjects": "javaCad.groovy",
     "gitStatic": "https://gist.github.com/4814b39ee72e9f590757.git",
     "staticObjects": "javaCad.groovy",
-    "gitMoving": ""
+    "gitMoving": "https://gist.github.com/4814b39ee72e9f590757.git"
   },
   "studio-open-git": {
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
