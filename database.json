@@ -36,7 +36,7 @@
     ],
     "": [
       "Project ",
-      "1714927617161"
+      "1714930266316"
     ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
@@ -200,6 +200,11 @@
     "y": "l-joy-up-down",
     "Y": "y-mode",
     "Left Thumb": "l-trig-button"
+  },
+  "PhysicsWidget": {
+    "movingObjects": "javaCad.groovy",
+    "gitStatic": "",
+    "gitMoving": "https://gist.github.com/4814b39ee72e9f590757.git"
   },
   "studio-open-git": {
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
