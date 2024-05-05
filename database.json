@@ -216,17 +216,9 @@
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
     ],
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
-      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
-      "LewanSoulMotor.groovy"
-    ],
     "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git:assembly.groovy": [
       "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git",
       "assembly.groovy"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
-      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
-      "LewanSoulHorn.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
