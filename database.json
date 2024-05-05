@@ -36,7 +36,7 @@
     ],
     "": [
       "Project ",
-      "1714933239717"
+      "1714934313005"
     ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
@@ -203,9 +203,9 @@
   },
   "PhysicsWidget": {
     "movingObjects": "assembly.groovy",
-    "gitStatic": "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git",
+    "gitStatic": "",
     "staticObjects": "assembly.groovy",
-    "gitMoving": ""
+    "gitMoving": "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git"
   },
   "studio-open-git": {
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
