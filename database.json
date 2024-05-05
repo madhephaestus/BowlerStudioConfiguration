@@ -204,7 +204,7 @@
   "PhysicsWidget": {
     "movingObjects": "javaCad.groovy",
     "gitStatic": "https://gist.github.com/4814b39ee72e9f590757.git",
-    "staticObjects": "",
+    "staticObjects": "javaCad.groovy",
     "gitMoving": ""
   },
   "studio-open-git": {
