@@ -203,9 +203,9 @@
   },
   "PhysicsWidget": {
     "movingObjects": "assembly.groovy",
-    "gitStatic": "",
+    "gitStatic": "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git",
     "staticObjects": "assembly.groovy",
-    "gitMoving": "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git"
+    "gitMoving": ""
   },
   "studio-open-git": {
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
