@@ -36,7 +36,7 @@
     ],
     "": [
       "Project ",
-      "1714931386935"
+      "1714932172691"
     ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
@@ -203,7 +203,7 @@
   },
   "PhysicsWidget": {
     "movingObjects": "javaCad.groovy",
-    "gitStatic": "",
+    "gitStatic": "https://gist.github.com/4814b39ee72e9f590757.git",
     "staticObjects": "javaCad.groovy",
     "gitMoving": ""
   },
