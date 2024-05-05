@@ -203,7 +203,7 @@
   },
   "PhysicsWidget": {
     "movingObjects": "javaCad.groovy",
-    "gitStatic": "https://gist.github.com/4814b39ee72e9f590757.git",
+    "gitStatic": "",
     "staticObjects": "javaCad.groovy",
     "gitMoving": ""
   },
