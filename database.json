@@ -86,10 +86,6 @@
       "BancroftKineticSystemsClass/KineticSystems2024Group09",
       "1713270823039"
     ],
-    "https://gist.github.com/d4312a0787456ec27a2a.git": [
-      "GIST: BowlerStudio Hello World",
-      "1711071643407"
-    ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "GIST: .gitignore",
       "1712527818528"
@@ -105,6 +101,10 @@
     "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git": [
       "BancroftKineticSystemsClass/GatherAndPrint",
       "1713287597622"
+    ],
+    "https://github.com/madhephaestus/VexBrainCadGenerator.git": [
+      "https://github.com/madhephaestus/VexBrainCadGenerator.git",
+      "1715011042666"
     ],
     "https://github.com/NeuronRobotics/NASACurisoity.git": [
       "NeuronRobotics/NASACurisoity",
@@ -219,6 +219,10 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Motor.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/Motor.groovy"
+    ],
+    "https://github.com/madhephaestus/VexBrainCadGenerator.git:VexBrain.groovy": [
+      "https://github.com/madhephaestus/VexBrainCadGenerator.git",
+      "VexBrain.groovy"
     ],
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
