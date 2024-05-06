@@ -131,7 +131,13 @@
       "Microsoft",
       "GPD",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD"
     ],
     "linkDeviceName": "virtualDev",
     "robotName": "VexVitaminsRobot",
@@ -200,7 +206,6 @@
   "PhysicsWidget": {
     "movingObjects": "javaCad.groovy",
     "gitStatic": "https://gist.github.com/4814b39ee72e9f590757.git",
-    "staticObjects": "javaCad.groovy",
     "gitMoving": "https://gist.github.com/4814b39ee72e9f590757.git"
   },
   "studio-open-git": {
