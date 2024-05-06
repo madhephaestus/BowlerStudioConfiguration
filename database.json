@@ -216,6 +216,10 @@
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/Motor.groovy"
     ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexBrain.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/VexBrain.groovy"
+    ],
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
