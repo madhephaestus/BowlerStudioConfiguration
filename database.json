@@ -102,10 +102,6 @@
       "BancroftKineticSystemsClass/GatherAndPrint",
       "1713287597622"
     ],
-    "https://github.com/madhephaestus/VexBrainCadGenerator.git": [
-      "https://github.com/madhephaestus/VexBrainCadGenerator.git",
-      "1715011042666"
-    ],
     "https://github.com/NeuronRobotics/NASACurisoity.git": [
       "NeuronRobotics/NASACurisoity",
       "1714583334774"
@@ -219,10 +215,6 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Motor.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/Motor.groovy"
-    ],
-    "https://github.com/madhephaestus/VexBrainCadGenerator.git:VexBrain.groovy": [
-      "https://github.com/madhephaestus/VexBrainCadGenerator.git",
-      "VexBrain.groovy"
     ],
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
