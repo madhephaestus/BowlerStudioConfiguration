@@ -216,9 +216,17 @@
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
     ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Motor.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/Motor.groovy"
+    ],
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
+    ],
+    "https://github.com/madhephaestus/Hardware-Dimensions.git:json/vexMotor.json": [
+      "https://github.com/madhephaestus/Hardware-Dimensions.git",
+      "json/vexMotor.json"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
