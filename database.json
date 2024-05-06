@@ -36,7 +36,7 @@
     ],
     "": [
       "Project ",
-      "1714757472219"
+      "1715002308243"
     ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "GIST: .gitignore",
@@ -206,37 +206,13 @@
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
     ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git:SimpleRobot.xml": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git",
-      "SimpleRobot.xml"
-    ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
     ],
-    "https://github.com/madhephaestus/Hardware-Dimensions.git:json/vexLchannel.json": [
-      "https://github.com/madhephaestus/Hardware-Dimensions.git",
-      "json/vexLchannel.json"
-    ],
-    "https://github.com/madhephaestus/Hardware-Dimensions.git:json/vexCchannel.json": [
-      "https://github.com/madhephaestus/Hardware-Dimensions.git",
-      "json/vexCchannel.json"
-    ],
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/vex_Hex_Nut_Retainer.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/vex_Hex_Nut_Retainer.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Cchannel.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/Cchannel.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Lchannel.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/Lchannel.groovy"
-    ],
-    "https://github.com/madhephaestus/Hardware-Dimensions.git:json/vex_Hex_Nut_Retainer.json": [
-      "https://github.com/madhephaestus/Hardware-Dimensions.git",
-      "json/vex_Hex_Nut_Retainer.json"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
