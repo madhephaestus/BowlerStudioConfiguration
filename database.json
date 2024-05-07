@@ -127,7 +127,13 @@
       "Microsoft",
       "GPD",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD"
     ],
     "linkDeviceName": "virtualDev",
     "robotName": "VexVitaminsRobot",
@@ -207,6 +213,10 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
+    ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexBattery.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/VexBattery.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
