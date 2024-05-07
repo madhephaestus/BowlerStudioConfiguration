@@ -62,10 +62,6 @@
       "Courtnah/svgstorage",
       "1714920846745"
     ],
-    "https://github.com/madhephaestus/VexBatteryCadGenerator.git": [
-      "https://github.com/madhephaestus/VexBatteryCadGenerator.git",
-      "1715084022511"
-    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1714088250782"
@@ -211,10 +207,6 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
-    ],
-    "https://github.com/madhephaestus/VexBatteryCadGenerator.git:VexBattery.groovy": [
-      "https://github.com/madhephaestus/VexBatteryCadGenerator.git",
-      "VexBattery.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
