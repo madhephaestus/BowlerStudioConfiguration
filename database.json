@@ -137,6 +137,18 @@
       "Game",
       "XBOX",
       "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
       "GPD"
     ],
     "linkDeviceName": "virtualDev",
@@ -219,6 +231,10 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
+    ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexWireless.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/VexWireless.groovy"
     ],
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexBattery.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
