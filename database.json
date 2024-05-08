@@ -36,7 +36,7 @@
     ],
     "": [
       "Project ",
-      "1715178405947"
+      "1715179114310"
     ],
     "https://gist.github.com/721302a0ff6d2809b997.git": [
       "GIST: javaCadHull.groovy",
@@ -124,20 +124,14 @@
   },
   "katapult": {
     "gameControllerNames": [
+      "Dragon",
       "Game",
       "Switch",
       "gamepad",
       "XBOX",
       "Microsoft",
       "GPD",
-      "X-Box",
-      "Dragon",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD"
+      "X-Box"
     ],
     "linkDeviceName": "virtualDev",
     "robotName": "VexVitaminsRobot",
@@ -188,21 +182,7 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "Xbox 360 Pro EX Controller": {
-    "A": "a-mode",
-    "B": "b-mode",
-    "Start": "start",
-    "rx": "r-joy-left-right",
-    "ry": "r-joy-up-down",
-    "rz": "analog-trig",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "Select": "select",
-    "y": "l-joy-up-down",
-    "Y": "y-mode",
-    "Left Thumb": "l-trig-button"
-  },
+  "Xbox 360 Pro EX Controller": {},
   "PhysicsWidget": {
     "movingObjects": "javaCad.groovy",
     "gitStatic": "https://github.com/madhephaestus/VexVitaminScripts.git",
