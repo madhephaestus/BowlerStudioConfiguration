@@ -38,6 +38,10 @@
       "Project ",
       "1715186741873"
     ],
+    "https://github.com/madhephaestus/VexWirelessCadGenerator.git": [
+      "https://github.com/madhephaestus/VexWirelessCadGenerator.git",
+      "1715188101937"
+    ],
     "https://gist.github.com/721302a0ff6d2809b997.git": [
       "GIST: javaCadHull.groovy",
       "1713487775003"
@@ -81,10 +85,6 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git": [
       "madhephaestus/VexVitaminScripts",
       "1714221262993"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group09.git": [
-      "BancroftKineticSystemsClass/KineticSystems2024Group09",
-      "1713270823039"
     ],
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
       "madhephaestus/LewanSoulMotorCadGenerator",
@@ -227,6 +227,10 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexBattery.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/VexBattery.groovy"
+    ],
+    "https://github.com/madhephaestus/VexWirelessCadGenerator.git:VexWireless.groovy": [
+      "https://github.com/madhephaestus/VexWirelessCadGenerator.git",
+      "VexWireless.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
