@@ -218,10 +218,9 @@
     "Left Thumb": "l-trig-button"
   },
   "PhysicsWidget": {
-    "movingObjects": "javaCad.groovy",
     "gitStatic": "https://gist.github.com/4814b39ee72e9f590757.git",
     "staticObjects": "javaCad.groovy",
-    "gitMoving": "https://gist.github.com/4814b39ee72e9f590757.git"
+    "gitMoving": ""
   },
   "studio-open-git": {
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
