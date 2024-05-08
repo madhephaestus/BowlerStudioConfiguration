@@ -36,7 +36,7 @@
     ],
     "": [
       "Project ",
-      "1715186741873"
+      "1715189163373"
     ],
     "https://gist.github.com/721302a0ff6d2809b997.git": [
       "GIST: javaCadHull.groovy",
@@ -235,10 +235,6 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexWireless.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/VexWireless.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexBattery.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/VexBattery.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -262,7 +258,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 28.0,
+    "fontsize": 18,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
