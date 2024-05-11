@@ -221,6 +221,14 @@
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/VexWireless.groovy"
     ],
+    "https://github.com/madhephaestus/YoloJava.git:YoLoWithCamera.groovy": [
+      "https://github.com/madhephaestus/YoloJava.git",
+      "YoLoWithCamera.groovy"
+    ],
+    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
+      "https://github.com/madhephaestus/YoloJava.git",
+      "ResnetWithCamera.groovy"
+    ],
     "https://github.com/madhephaestus/GridfinityLazer.git:ImALazerBaby.groovy": [
       "https://github.com/madhephaestus/GridfinityLazer.git",
       "ImALazerBaby.groovy"
