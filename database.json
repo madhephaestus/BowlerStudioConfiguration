@@ -34,10 +34,6 @@
       "madhephaestus/Hardware-Dimensions",
       "1714746597378"
     ],
-    "": [
-      "Project ",
-      "1715361679287"
-    ],
     "https://gist.github.com/721302a0ff6d2809b997.git": [
       "GIST: javaCadHull.groovy",
       "1713487775003"
@@ -228,7 +224,8 @@
     "Left Thumb": "l-trig-button"
   },
   "PhysicsWidget": {
-    "gitStatic": "",
+    "gitStatic": "https://gist.github.com/4814b39ee72e9f590757.git",
+    "staticObjects": "javaCad.groovy",
     "gitMoving": ""
   },
   "studio-open-git": {
@@ -270,7 +267,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 20,
+    "fontsize": 28.0,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
