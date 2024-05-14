@@ -240,6 +240,10 @@
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/VexWireless.groovy"
     ],
+    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
+      "https://github.com/madhephaestus/VexHighStakes2024.git",
+      "fieldElements.groovy"
+    ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "RCControl.groovy"
