@@ -228,8 +228,9 @@
     "Left Thumb": "l-trig-button"
   },
   "PhysicsWidget": {
+    "movingObjects": "fieldElements.groovy",
     "gitStatic": "",
-    "gitMoving": ""
+    "gitMoving": "https://github.com/madhephaestus/VexHighStakes2024.git"
   },
   "studio-open-git": {
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
