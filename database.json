@@ -36,7 +36,7 @@
     ],
     "": [
       "Project ",
-      "1715361679287"
+      "1715448221900"
     ],
     "https://gist.github.com/721302a0ff6d2809b997.git": [
       "GIST: javaCadHull.groovy",
@@ -94,13 +94,13 @@
       "madhephaestus/LewanSoulHornCadGenerator",
       "1714934986048"
     ],
+    "https://github.com/madhephaestus/YoloJava.git": [
+      "madhephaestus/YoloJava",
+      "1715454402272"
+    ],
     "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git": [
       "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git",
       "1714749522449"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git": [
-      "BancroftKineticSystemsClass/GatherAndPrint",
-      "1713287597622"
     ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
@@ -131,40 +131,16 @@
       "Game",
       "Switch",
       "gamepad",
-      "XBOX",
       "Microsoft",
+      "XBOX",
       "GPD",
       "X-Box",
-      "Dragon",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD"
+      "Dragon"
     ],
-    "linkDeviceName": "virtualDev",
-    "robotName": "VexVitaminsRobot",
-    "robotGitFile": "VexVitaminsRobot.xml",
-    "robotGit": "https://github.com/madhephaestus/VexVitaminsRobot.git"
+    "linkDeviceName": "dyio",
+    "robotName": "NASA_Curiosity",
+    "robotGitFile": "NASA_Curiosity.xml",
+    "robotGit": "https://github.com/NeuronRobotics/NASACurisoity.git"
   },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
@@ -228,7 +204,8 @@
     "Left Thumb": "l-trig-button"
   },
   "PhysicsWidget": {
-    "gitStatic": "",
+    "gitStatic": "https://gist.github.com/4814b39ee72e9f590757.git",
+    "staticObjects": "javaCad.groovy",
     "gitMoving": ""
   },
   "studio-open-git": {
@@ -243,6 +220,14 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexWireless.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/VexWireless.groovy"
+    ],
+    "https://github.com/madhephaestus/YoloJava.git:YoLoWithCamera.groovy": [
+      "https://github.com/madhephaestus/YoloJava.git",
+      "YoLoWithCamera.groovy"
+    ],
+    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
+      "https://github.com/madhephaestus/YoloJava.git",
+      "ResnetWithCamera.groovy"
     ],
     "https://github.com/madhephaestus/GridfinityLazer.git:ImALazerBaby.groovy": [
       "https://github.com/madhephaestus/GridfinityLazer.git",
@@ -270,7 +255,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 20,
+    "fontsize": 24,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
