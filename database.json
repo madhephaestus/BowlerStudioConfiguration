@@ -34,10 +34,6 @@
       "madhephaestus/Hardware-Dimensions",
       "1714746597378"
     ],
-    "": [
-      "Project ",
-      "1715784108383"
-    ],
     "https://github.com/madhephaestus/VexHighStakes2024.git": [
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "1715697863920"
@@ -101,6 +97,10 @@
     "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git": [
       "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git",
       "1714749522449"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/GatherAndPrint.git": [
+      "BancroftKineticSystemsClass/GatherAndPrint",
+      "1713287597622"
     ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
@@ -279,7 +279,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 28.0,
+    "fontsize": 20,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
