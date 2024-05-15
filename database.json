@@ -34,10 +34,6 @@
       "madhephaestus/Hardware-Dimensions",
       "1714746597378"
     ],
-    "": [
-      "Project ",
-      "1715783977329"
-    ],
     "https://github.com/madhephaestus/VexHighStakes2024.git": [
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "1715697863920"
@@ -279,7 +275,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 28,
+    "fontsize": 28.0,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
