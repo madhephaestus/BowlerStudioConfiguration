@@ -54,6 +54,10 @@
       "OperationSmallKat/Katapult",
       "1715182511564"
     ],
+    "https://github.com/2442Steven/VexVitaminsRobot.git": [
+      "https://github.com/2442Steven/VexVitaminsRobot.git",
+      "1715863253378"
+    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1714349033961"
@@ -61,10 +65,6 @@
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1714932517152"
-    ],
-    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
-      "GIST: cube.groovy",
-      "1713487639446"
     ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git": [
       "madhephaestus/VexVitaminsRobot",
@@ -252,10 +252,6 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "RCControl.groovy"
-    ],
-    "https://github.com/madhephaestus/GridfinityLazer.git:ImALazerBaby.groovy": [
-      "https://github.com/madhephaestus/GridfinityLazer.git",
-      "ImALazerBaby.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
