@@ -241,14 +241,6 @@
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
     ],
-    "https://github.com/2442Steven/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
-      "https://github.com/2442Steven/VexVitaminsRobot.git",
-      "VexVitaminsRobot.xml"
-    ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexWireless.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/VexWireless.groovy"
-    ],
     "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "fieldElements.groovy"
