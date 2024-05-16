@@ -204,8 +204,9 @@
     "Left Thumb": "l-trig-button"
   },
   "PhysicsWidget": {
+    "movingObjects": "fieldElements.groovy",
     "gitStatic": "",
-    "gitMoving": ""
+    "gitMoving": "https://github.com/madhephaestus/VexHighStakes2024.git"
   },
   "studio-open-git": {
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
@@ -224,9 +225,17 @@
       "https://github.com/madhephaestus/YoloJava.git",
       "YoLoWithCamera.groovy"
     ],
+    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
+      "https://github.com/madhephaestus/VexHighStakes2024.git",
+      "fieldElements.groovy"
+    ],
     "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
       "https://github.com/madhephaestus/YoloJava.git",
       "ResnetWithCamera.groovy"
+    ],
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "RCControl.groovy"
     ],
     "https://github.com/madhephaestus/GridfinityLazer.git:ImALazerBaby.groovy": [
       "https://github.com/madhephaestus/GridfinityLazer.git",
