@@ -38,6 +38,10 @@
       "Project ",
       "1715892259272"
     ],
+    "https://github.com/madhephaestus/VexHighStakes2024.git": [
+      "madhephaestus/VexHighStakes2024",
+      "1715892368015"
+    ],
     "https://gist.github.com/721302a0ff6d2809b997.git": [
       "GIST: javaCadHull.groovy",
       "1713487775003"
@@ -57,10 +61,6 @@
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1714932517152"
-    ],
-    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
-      "GIST: cube.groovy",
-      "1713487639446"
     ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git": [
       "madhephaestus/VexVitaminsRobot",
@@ -204,8 +204,7 @@
     "Left Thumb": "l-trig-button"
   },
   "PhysicsWidget": {
-    "gitStatic": "https://gist.github.com/4814b39ee72e9f590757.git",
-    "staticObjects": "javaCad.groovy",
+    "gitStatic": "",
     "gitMoving": ""
   },
   "studio-open-git": {
