@@ -36,7 +36,7 @@
     ],
     "": [
       "Project ",
-      "1715902294911"
+      "1715956294606"
     ],
     "https://github.com/madhephaestus/VexHighStakes2024.git": [
       "madhephaestus/VexHighStakes2024",
@@ -269,7 +269,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 24.0,
+    "fontsize": 28,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
