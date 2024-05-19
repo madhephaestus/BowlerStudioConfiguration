@@ -34,9 +34,17 @@
       "madhephaestus/Hardware-Dimensions",
       "1714746597378"
     ],
+    "": [
+      "Project ",
+      "1715902294911"
+    ],
     "https://github.com/madhephaestus/VexHighStakes2024.git": [
       "madhephaestus/VexHighStakes2024",
       "1715892368015"
+    ],
+    "https://gist.github.com/721302a0ff6d2809b997.git": [
+      "GIST: javaCadHull.groovy",
+      "1713487775003"
     ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "Hephaestus-Arm/HephaestusArm2",
@@ -45,10 +53,6 @@
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
       "1715182511564"
-    ],
-    "https://github.com/2442Steven/VexVitaminsRobot.git": [
-      "https://github.com/2442Steven/VexVitaminsRobot.git",
-      "1715970996658"
     ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
@@ -93,10 +97,6 @@
     "https://github.com/madhephaestus/YoloJava.git": [
       "madhephaestus/YoloJava",
       "1715454402272"
-    ],
-    "https://github.com/CommonWealthRobotics/HolonomicWheels.git": [
-      "CommonWealthRobotics/HolonomicWheels",
-      "1716039639309"
     ],
     "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git": [
       "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git",
@@ -223,10 +223,6 @@
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
     ],
-    "https://github.com/CommonWealthRobotics/HolonomicWheels.git:WheelFactory.groovy": [
-      "https://github.com/CommonWealthRobotics/HolonomicWheels.git",
-      "WheelFactory.groovy"
-    ],
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexWireless.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/VexWireless.groovy"
@@ -273,7 +269,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 28.0,
+    "fontsize": 24.0,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
