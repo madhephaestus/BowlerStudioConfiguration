@@ -36,7 +36,7 @@
     ],
     "": [
       "Project ",
-      "1715902294911"
+      "1716150330058"
     ],
     "https://github.com/madhephaestus/VexHighStakes2024.git": [
       "madhephaestus/VexHighStakes2024",
@@ -223,29 +223,13 @@
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
     ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexWireless.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/VexWireless.groovy"
-    ],
-    "https://github.com/madhephaestus/YoloJava.git:YoLoWithCamera.groovy": [
-      "https://github.com/madhephaestus/YoloJava.git",
-      "YoLoWithCamera.groovy"
-    ],
     "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "fieldElements.groovy"
     ],
-    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
-      "https://github.com/madhephaestus/YoloJava.git",
-      "ResnetWithCamera.groovy"
-    ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "RCControl.groovy"
-    ],
-    "https://github.com/madhephaestus/GridfinityLazer.git:ImALazerBaby.groovy": [
-      "https://github.com/madhephaestus/GridfinityLazer.git",
-      "ImALazerBaby.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -269,7 +253,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 24.0,
+    "fontsize": 20,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
