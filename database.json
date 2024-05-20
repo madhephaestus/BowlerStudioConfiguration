@@ -54,6 +54,10 @@
       "https://github.com/2442Steven/VexVitaminsRobot.git",
       "1715970996658"
     ],
+    "https://github.com/madhephaestus/steelPinCadGenerator.git": [
+      "https://github.com/madhephaestus/steelPinCadGenerator.git",
+      "1716223634302"
+    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "GIST: Cap screw generator",
       "1714349033961"
@@ -101,10 +105,6 @@
     "https://github.com/madhephaestus/omniWheelRollerCadGenerator.git": [
       "https://github.com/madhephaestus/omniWheelRollerCadGenerator.git",
       "1716223482644"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1714221263912"
     ],
     "https://github.com/NeuronRobotics/NASACurisoity.git": [
       "NeuronRobotics/NASACurisoity",
@@ -230,6 +230,10 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexWireless.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/VexWireless.groovy"
+    ],
+    "https://github.com/madhephaestus/steelPinCadGenerator.git:steelPin.groovy": [
+      "https://github.com/madhephaestus/steelPinCadGenerator.git",
+      "steelPin.groovy"
     ],
     "https://github.com/madhephaestus/YoloJava.git:YoLoWithCamera.groovy": [
       "https://github.com/madhephaestus/YoloJava.git",
