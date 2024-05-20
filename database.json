@@ -219,10 +219,6 @@
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
     ],
-    "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git:exampleCad.groovy": [
-      "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git",
-      "exampleCad.groovy"
-    ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
@@ -234,26 +230,6 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexWireless.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/VexWireless.groovy"
-    ],
-    "https://github.com/madhephaestus/YoloJava.git:YoLoWithCamera.groovy": [
-      "https://github.com/madhephaestus/YoloJava.git",
-      "YoLoWithCamera.groovy"
-    ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "fieldElements.groovy"
-    ],
-    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
-      "https://github.com/madhephaestus/YoloJava.git",
-      "ResnetWithCamera.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "RCControl.groovy"
-    ],
-    "https://github.com/madhephaestus/GridfinityLazer.git:ImALazerBaby.groovy": [
-      "https://github.com/madhephaestus/GridfinityLazer.git",
-      "ImALazerBaby.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
