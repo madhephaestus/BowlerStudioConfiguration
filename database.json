@@ -58,10 +58,6 @@
       "https://github.com/madhephaestus/steelPinCadGenerator.git",
       "1716223634302"
     ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "GIST: Cap screw generator",
-      "1714349033961"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1714932517152"
@@ -77,6 +73,10 @@
     "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
       "GIST: Demonstrate assembly instructions",
       "1714934983927"
+    ],
+    "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git": [
+      "CommonWealthRobotics/BowlerStudioExampleRobots",
+      "1716246619410"
     ],
     "https://github.com/madhephaestus/GridfinityLazer.git": [
       "https://github.com/madhephaestus/GridfinityLazer.git",
@@ -218,6 +218,10 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
+    ],
+    "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git:exampleCad.groovy": [
+      "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git",
+      "exampleCad.groovy"
     ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
