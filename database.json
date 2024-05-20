@@ -231,10 +231,6 @@
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/VexWireless.groovy"
     ],
-    "https://github.com/madhephaestus/steelPinCadGenerator.git:steelPin.groovy": [
-      "https://github.com/madhephaestus/steelPinCadGenerator.git",
-      "steelPin.groovy"
-    ],
     "https://github.com/madhephaestus/YoloJava.git:YoLoWithCamera.groovy": [
       "https://github.com/madhephaestus/YoloJava.git",
       "YoLoWithCamera.groovy"
@@ -250,10 +246,6 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "RCControl.groovy"
-    ],
-    "https://github.com/madhephaestus/omniWheelRollerCadGenerator.git:omniWheelRoller.groovy": [
-      "https://github.com/madhephaestus/omniWheelRollerCadGenerator.git",
-      "omniWheelRoller.groovy"
     ],
     "https://github.com/madhephaestus/GridfinityLazer.git:ImALazerBaby.groovy": [
       "https://github.com/madhephaestus/GridfinityLazer.git",
