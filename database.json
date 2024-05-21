@@ -62,10 +62,6 @@
       "GIST: JavaCadExample",
       "1714932517152"
     ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "1716252657483"
-    ],
     "https://github.com/Courtnah/svgstorage.git": [
       "Courtnah/svgstorage",
       "1714920846745"
@@ -218,10 +214,6 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "VexVitaminsRobot.xml"
     ],
     "https://github.com/CommonWealthRobotics/HolonomicWheels.git:WheelFactory.groovy": [
       "https://github.com/CommonWealthRobotics/HolonomicWheels.git",
