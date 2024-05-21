@@ -30,10 +30,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "https://github.com/madhephaestus/Hardware-Dimensions.git": [
-      "madhephaestus/Hardware-Dimensions",
-      "1714746597378"
-    ],
     "": [
       "Project ",
       "1716252656503"
@@ -77,6 +73,10 @@
     "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
       "GIST: Demonstrate assembly instructions",
       "1714934983927"
+    ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "1716252659898"
     ],
     "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git": [
       "CommonWealthRobotics/BowlerStudioExampleRobots",
