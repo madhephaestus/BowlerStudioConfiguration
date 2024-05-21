@@ -226,6 +226,10 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "RCControl.groovy"
+    ],
+    "https://github.com/madhephaestus/VexHighStakes2024.git:doughnut.groovy": [
+      "https://github.com/madhephaestus/VexHighStakes2024.git",
+      "doughnut.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
