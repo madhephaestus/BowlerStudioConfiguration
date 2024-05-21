@@ -218,14 +218,6 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
-    ],
-    "https://github.com/CommonWealthRobotics/HolonomicWheels.git:WheelFactory.groovy": [
-      "https://github.com/CommonWealthRobotics/HolonomicWheels.git",
-      "WheelFactory.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/VexWireless.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/VexWireless.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
