@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1716255116678"
+    ],
     "https://github.com/madhephaestus/VexHighStakes2024.git": [
       "madhephaestus/VexHighStakes2024",
       "1715892368015"
@@ -214,6 +218,14 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
+    ],
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "VexVitaminsRobot.xml"
+    ],
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "RCControl.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
