@@ -227,6 +227,14 @@
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "mobileSpike.groovy"
     ],
+    "https://github.com/madhephaestus/YoloJava.git:YoLoWithCamera.groovy": [
+      "https://github.com/madhephaestus/YoloJava.git",
+      "YoLoWithCamera.groovy"
+    ],
+    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
+      "https://github.com/madhephaestus/YoloJava.git",
+      "ResnetWithCamera.groovy"
+    ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "RCControl.groovy"
