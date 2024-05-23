@@ -32,7 +32,7 @@
   "workspace": {
     "": [
       "Project ",
-      "1716468787174"
+      "1716325877068"
     ],
     "https://github.com/madhephaestus/VexHighStakes2024.git": [
       "madhephaestus/VexHighStakes2024",
@@ -70,10 +70,6 @@
       "Courtnah/svgstorage",
       "1714920846745"
     ],
-    "https://github.com/BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout.git": [
-      "BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout",
-      "1716469347827"
-    ],
     "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
       "GIST: Demonstrate assembly instructions",
       "1714934983927"
@@ -106,6 +102,10 @@
       "CommonWealthRobotics/HolonomicWheels",
       "1716039639309"
     ],
+    "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git": [
+      "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git",
+      "1714749522449"
+    ],
     "https://github.com/madhephaestus/omniWheelRollerCadGenerator.git": [
       "https://github.com/madhephaestus/omniWheelRollerCadGenerator.git",
       "1716223482644"
@@ -135,7 +135,13 @@
       "XBOX",
       "GPD",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD"
     ],
     "linkDeviceName": "virtualDev",
     "robotName": "VexVitaminsRobot",
@@ -206,17 +212,12 @@
   "PhysicsWidget": {
     "movingObjects": "fieldElements.groovy",
     "gitStatic": "https://github.com/madhephaestus/VexHighStakes2024.git",
-    "staticObjects": "field.groovy",
     "gitMoving": "https://github.com/madhephaestus/VexHighStakes2024.git"
   },
   "studio-open-git": {
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
-    ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:field.groovy": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "field.groovy"
     ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
@@ -225,10 +226,6 @@
     "https://github.com/madhephaestus/VexHighStakes2024.git:mobileSpike.groovy": [
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "mobileSpike.groovy"
-    ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "fieldElements.groovy"
     ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
@@ -260,7 +257,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 28.0,
+    "fontsize": 12,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
