@@ -212,6 +212,7 @@
   "PhysicsWidget": {
     "movingObjects": "fieldElements.groovy",
     "gitStatic": "https://github.com/madhephaestus/VexHighStakes2024.git",
+    "staticObjects": "field.groovy",
     "gitMoving": "https://github.com/madhephaestus/VexHighStakes2024.git"
   },
   "studio-open-git": {
