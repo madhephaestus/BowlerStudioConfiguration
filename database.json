@@ -5,14 +5,16 @@
     "C": "a-mode",
     "Mode": "start",
     "rz": "r-joy-up-down",
-    "Right Thumb": "analog-trig",
     "x": "l-joy-left-right",
     "X": "x-mode",
     "y": "l-joy-up-down",
     "Y": "l-trig-button",
-    "Left Thumb 3": "select",
+    "Right Thumb 2": "select",
+    "pov-up-down": "arrow-up-down",
+    "pov-left-right": "arrow-left-right",
     "z": "r-joy-left-right",
-    "Z": "r-trig-button"
+    "Z": "r-trig-button",
+    "Left Thumb": "analog-trig"
   },
   "Gamesir-T4pro_21FD": {
     "A": "a-mode",
@@ -135,7 +137,13 @@
       "XBOX",
       "GPD",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD"
     ],
     "linkDeviceName": "virtualDev",
     "robotName": "VexVitaminsRobot",
