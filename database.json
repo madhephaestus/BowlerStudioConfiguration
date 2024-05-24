@@ -32,6 +32,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1716558626732"
+    ],
     "https://github.com/madhephaestus/VexHighStakes2024.git": [
       "madhephaestus/VexHighStakes2024",
       "1715892368015"
@@ -39,10 +43,6 @@
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1716214539211"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1714853573231"
     ],
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
