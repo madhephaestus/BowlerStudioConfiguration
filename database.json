@@ -230,6 +230,10 @@
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "mobileSpike.groovy"
     ],
+    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "javaCad.groovy"
+    ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "RCControl.groovy"
