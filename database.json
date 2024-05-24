@@ -226,10 +226,6 @@
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "mobileSpike.groovy"
     ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "fieldElements.groovy"
-    ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "RCControl.groovy"
