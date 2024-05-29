@@ -32,6 +32,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1716992855708"
+    ],
     "https://github.com/madhephaestus/VexHighStakes2024.git": [
       "madhephaestus/VexHighStakes2024",
       "1715892368015"
@@ -230,21 +234,13 @@
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "mobileSpike.groovy"
     ],
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "RCControl.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:ExportAllVexSTL.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "ExportAllVexSTL.groovy"
-    ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:doughnut.groovy": [
+    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
       "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "doughnut.groovy"
+      "fieldElements.groovy"
+    ],
+    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldLayout.json": [
+      "https://github.com/madhephaestus/VexHighStakes2024.git",
+      "fieldLayout.json"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
