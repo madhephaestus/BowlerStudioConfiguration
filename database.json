@@ -32,6 +32,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1717273674694"
+    ],
     "https://github.com/madhephaestus/VexHighStakes2024.git": [
       "madhephaestus/VexHighStakes2024",
       "1715892368015"
@@ -60,13 +64,13 @@
       "madhephaestus/VexVitaminsRobot",
       "1716254363090"
     ],
-    "https://github.com/Courtnah/svgstorage.git": [
-      "Courtnah/svgstorage",
-      "1714920846745"
-    ],
     "https://github.com/BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout.git": [
       "BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout",
       "1716469347827"
+    ],
+    "none": [
+      "Project none",
+      "1717273733187"
     ],
     "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
       "GIST: Demonstrate assembly instructions",
@@ -219,6 +223,10 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
+    ],
+    "none:/home/hephaestus/Documents/load.groovy": [
+      "none",
+      "/home/hephaestus/Documents/load.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
