@@ -126,6 +126,7 @@
   },
   "katapult": {
     "gameControllerNames": [
+      "Dragon",
       "Game",
       "Switch",
       "gamepad",
@@ -133,18 +134,12 @@
       "XBOX",
       "GPD",
       "X-Box",
-      "Dragon",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD"
+      "GPD Win 2 X-Box Controller"
     ],
-    "linkDeviceName": "virtualDev",
-    "robotName": "VexVitaminsRobot",
-    "robotGitFile": "VexVitaminsRobot.xml",
-    "robotGit": "https://github.com/madhephaestus/VexVitaminsRobot.git"
+    "linkDeviceName": "midnight",
+    "robotName": "Marcos",
+    "robotGitFile": "Marcos.xml",
+    "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
   },
   "GPD Win 2 X-Box Controller": {
     "A": "a-mode",
