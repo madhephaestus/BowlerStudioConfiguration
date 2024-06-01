@@ -5,16 +5,14 @@
     "C": "a-mode",
     "Mode": "start",
     "rz": "r-joy-up-down",
+    "Right Thumb": "analog-trig",
     "x": "l-joy-left-right",
     "X": "x-mode",
     "y": "l-joy-up-down",
     "Y": "l-trig-button",
-    "Right Thumb 2": "select",
-    "pov-up-down": "arrow-up-down",
-    "pov-left-right": "arrow-left-right",
+    "Left Thumb 3": "select",
     "z": "r-joy-left-right",
-    "Z": "r-trig-button",
-    "Left Thumb": "analog-trig"
+    "Z": "r-trig-button"
   },
   "Gamesir-T4pro_21FD": {
     "A": "a-mode",
@@ -34,7 +32,7 @@
   "workspace": {
     "": [
       "Project ",
-      "1717180059677"
+      "1717252652140"
     ],
     "https://github.com/madhephaestus/VexHighStakes2024.git": [
       "madhephaestus/VexHighStakes2024",
@@ -43,6 +41,10 @@
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1716214539211"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "Hephaestus-Arm/HephaestusArm2",
+      "1714853573231"
     ],
     "https://github.com/OperationSmallKat/Katapult.git": [
       "OperationSmallKat/Katapult",
@@ -67,10 +69,6 @@
     "https://github.com/Courtnah/svgstorage.git": [
       "Courtnah/svgstorage",
       "1714920846745"
-    ],
-    "https://github.com/BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout.git": [
-      "BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout",
-      "1716469347827"
     ],
     "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
       "GIST: Demonstrate assembly instructions",
@@ -104,13 +102,13 @@
       "CommonWealthRobotics/HolonomicWheels",
       "1716039639309"
     ],
+    "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git": [
+      "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git",
+      "1714749522449"
+    ],
     "https://github.com/madhephaestus/omniWheelRollerCadGenerator.git": [
       "https://github.com/madhephaestus/omniWheelRollerCadGenerator.git",
       "1716223482644"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1716571263008"
     ]
   },
   "Logitech Logitech Dual Action": {
@@ -138,12 +136,6 @@
       "GPD",
       "X-Box",
       "Dragon",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD",
       "Dragon",
       "X-Box",
       "Game",
@@ -228,10 +220,6 @@
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
     ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:field.groovy": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "field.groovy"
-    ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobot.xml"
@@ -240,17 +228,13 @@
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "mobileSpike.groovy"
     ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "fieldElements.groovy"
-    ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldLayout.json": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "fieldLayout.json"
-    ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobotCad.groovy": [
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:RCControl.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "VexVitaminsRobotCad.groovy"
+      "RCControl.groovy"
+    ],
+    "https://github.com/madhephaestus/VexHighStakes2024.git:doughnut.groovy": [
+      "https://github.com/madhephaestus/VexHighStakes2024.git",
+      "doughnut.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -274,7 +258,7 @@
     "tutorialBranch": "deploy",
     "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 28.0,
+    "fontsize": 18,
     "skinBranch": "1.45.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
