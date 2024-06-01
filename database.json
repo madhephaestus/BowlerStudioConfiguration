@@ -139,10 +139,10 @@
       "X-Box",
       "Dragon"
     ],
-    "linkDeviceName": "midnight",
-    "robotName": "Marcos",
-    "robotGitFile": "Marcos.xml",
-    "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
+    "linkDeviceName": "virtualDev",
+    "robotName": "VexVitaminsRobot",
+    "robotGitFile": "VexVitaminsRobot.xml",
+    "robotGit": "https://github.com/madhephaestus/VexVitaminsRobot.git"
   },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
