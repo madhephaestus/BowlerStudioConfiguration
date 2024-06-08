@@ -64,13 +64,13 @@
       "madhephaestus/VexVitaminsRobot",
       "1716254363090"
     ],
-    "https://github.com/Courtnah/svgstorage.git": [
-      "Courtnah/svgstorage",
-      "1714920846745"
-    ],
     "https://github.com/BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout.git": [
       "BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout",
       "1716469347827"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git": [
+      "OperationSmallKat/Marcos",
+      "1717719737072"
     ],
     "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
       "GIST: Demonstrate assembly instructions",
@@ -137,24 +137,29 @@
       "XBOX",
       "GPD",
       "X-Box",
-      "Dragon",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD",
-      "Dragon",
-      "X-Box",
-      "Game",
-      "XBOX",
-      "Microsoft",
-      "GPD"
+      "Dragon"
     ],
-    "linkDeviceName": "virtualDev",
-    "robotName": "VexVitaminsRobot",
-    "robotGitFile": "VexVitaminsRobot.xml",
-    "robotGit": "https://github.com/madhephaestus/VexVitaminsRobot.git"
+    "linkDeviceName": "midnight",
+    "robotName": "Marcos",
+    "robotGitFile": "Marcos.xml",
+    "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
+  },
+  "GPD Win 2 X-Box Controller": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "start",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "rz": "analog-trig",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "pov-up-down": "arrow-up-down",
+    "pov-left-right": "arrow-left-right",
+    "Left Thumb": "l-trig-button"
   },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
@@ -243,6 +248,10 @@
     "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "fieldElements.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosWalk.groovy"
     ],
     "https://github.com/madhephaestus/VexHighStakes2024.git:fieldLayout.json": [
       "https://github.com/madhephaestus/VexHighStakes2024.git",
