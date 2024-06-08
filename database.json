@@ -130,19 +130,36 @@
   },
   "katapult": {
     "gameControllerNames": [
-      "Dragon",
       "Game",
       "Switch",
       "gamepad",
       "Microsoft",
       "XBOX",
       "GPD",
-      "X-Box"
+      "X-Box",
+      "Dragon"
     ],
     "linkDeviceName": "midnight",
     "robotName": "Marcos",
     "robotGitFile": "Marcos.xml",
     "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
+  },
+  "GPD Win 2 X-Box Controller": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "start",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "rz": "analog-trig",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "pov-up-down": "arrow-up-down",
+    "pov-left-right": "arrow-left-right",
+    "Left Thumb": "l-trig-button"
   },
   "Microsoft X-Box 360 pad": {
     "A": "a-mode",
