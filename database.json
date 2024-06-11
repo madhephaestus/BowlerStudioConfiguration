@@ -34,10 +34,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "": [
-      "Project ",
-      "1718079729169"
-    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1716214539211"
@@ -89,10 +85,6 @@
     "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git": [
       "GIST: .gitignore",
       "1718077180156"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "madhephaestus/LewanSoulHornCadGenerator",
-      "1714934986048"
     ],
     "https://github.com/madhephaestus/YoloJava.git": [
       "madhephaestus/YoloJava",
