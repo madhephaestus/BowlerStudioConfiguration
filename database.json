@@ -32,6 +32,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1718129292731"
+    ],
     "https://github.com/madhephaestus/VexHighStakes2024.git": [
       "madhephaestus/VexHighStakes2024",
       "1715892368015"
@@ -228,30 +232,6 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
-    ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:field.groovy": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "field.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "VexVitaminsRobot.xml"
-    ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:mobileSpike.groovy": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "mobileSpike.groovy"
-    ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "fieldElements.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosWalk.groovy"
-    ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldLayout.json": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "fieldLayout.json"
     ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobotCad.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
