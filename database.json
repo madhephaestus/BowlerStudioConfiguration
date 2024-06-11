@@ -34,6 +34,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1718077174674"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1716214539211"
@@ -41,10 +45,6 @@
     "https://github.com/2442Steven/VexVitaminsRobot.git": [
       "https://github.com/2442Steven/VexVitaminsRobot.git",
       "1715970996658"
-    ],
-    "https://gist.github.com/4814b39ee72e9f590757.git": [
-      "GIST: JavaCadExample",
-      "1714932517152"
     ],
     "https://github.com/madhephaestus/VexVitaminScripts.git": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
