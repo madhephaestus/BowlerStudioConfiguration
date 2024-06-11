@@ -224,33 +224,9 @@
     "gitMoving": "https://github.com/madhephaestus/VexHighStakes2024.git"
   },
   "studio-open-git": {
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
-      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
-      "dhcad.groovy"
-    ],
     "https://github.com/madhephaestus/VexHighStakes2024.git:field.groovy": [
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "field.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "VexVitaminsRobot.xml"
-    ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:mobileSpike.groovy": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "mobileSpike.groovy"
-    ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "fieldElements.groovy"
-    ],
-    "https://github.com/madhephaestus/VexHighStakes2024.git:fieldLayout.json": [
-      "https://github.com/madhephaestus/VexHighStakes2024.git",
-      "fieldLayout.json"
-    ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobotCad.groovy": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "VexVitaminsRobotCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
