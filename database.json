@@ -34,6 +34,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1718080528122"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1716214539211"
@@ -42,13 +46,13 @@
       "madhephaestus/VexHighStakes2024",
       "1715892368015"
     ],
+    "https://github.com/madhephaestus/MuJoCoTest.git": [
+      "madhephaestus/MuJoCoTest",
+      "1718080540547"
+    ],
     "https://github.com/2442Steven/VexVitaminsRobot.git": [
       "https://github.com/2442Steven/VexVitaminsRobot.git",
       "1715970996658"
-    ],
-    "https://github.com/OperationSmallKat/Katapult.git": [
-      "OperationSmallKat/Katapult",
-      "1715182511564"
     ],
     "https://github.com/madhephaestus/steelPinCadGenerator.git": [
       "https://github.com/madhephaestus/steelPinCadGenerator.git",
