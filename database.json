@@ -74,6 +74,10 @@
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "1716252659898"
     ],
+    "https://github.com/madhephaestus/ShrinkAndLayout.git": [
+      "https://github.com/madhephaestus/ShrinkAndLayout.git",
+      "1718080540753"
+    ],
     "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git": [
       "CommonWealthRobotics/BowlerStudioExampleRobots",
       "1716246619410"
@@ -81,10 +85,6 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "TechnocopiaPlant/ForkyRobot",
       "1718079726639"
-    ],
-    "https://github.com/madhephaestus/GridfinityLazer.git": [
-      "https://github.com/madhephaestus/GridfinityLazer.git",
-      "1715301424875"
     ],
     "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git": [
       "GIST: .gitignore",
