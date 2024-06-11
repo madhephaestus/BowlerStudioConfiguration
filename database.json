@@ -5,6 +5,7 @@
     "C": "a-mode",
     "Mode": "start",
     "rz": "r-joy-up-down",
+    "Right Thumb": "analog-trig",
     "x": "l-joy-left-right",
     "X": "x-mode",
     "y": "l-joy-up-down",
@@ -12,6 +13,7 @@
     "Right Thumb 2": "select",
     "pov-up-down": "arrow-up-down",
     "pov-left-right": "arrow-left-right",
+    "Left Thumb 3": "select",
     "z": "r-joy-left-right",
     "Z": "r-trig-button",
     "Left Thumb": "analog-trig"
@@ -32,45 +34,21 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "https://github.com/madhephaestus/VexHighStakes2024.git": [
-      "madhephaestus/VexHighStakes2024",
-      "1715892368015"
+    "": [
+      "Project ",
+      "1704737692809"
     ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1716214539211"
     ],
-    "https://github.com/OperationSmallKat/Katapult.git": [
-      "OperationSmallKat/Katapult",
-      "1715182511564"
-    ],
     "https://github.com/2442Steven/VexVitaminsRobot.git": [
       "https://github.com/2442Steven/VexVitaminsRobot.git",
       "1715970996658"
     ],
-    "https://github.com/madhephaestus/steelPinCadGenerator.git": [
-      "https://github.com/madhephaestus/steelPinCadGenerator.git",
-      "1716223634302"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "GIST: JavaCadExample",
       "1714932517152"
-    ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git": [
-      "madhephaestus/VexVitaminsRobot",
-      "1716254363090"
-    ],
-    "https://github.com/Courtnah/svgstorage.git": [
-      "Courtnah/svgstorage",
-      "1714920846745"
-    ],
-    "https://github.com/BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout.git": [
-      "BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout",
-      "1716469347827"
-    ],
-    "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
-      "GIST: Demonstrate assembly instructions",
-      "1714934983927"
     ],
     "https://github.com/madhephaestus/VexVitaminScripts.git": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
@@ -107,6 +85,34 @@
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1716571263008"
+    ],
+    "https://github.com/madhephaestus/VexHighStakes2024.git": [
+      "madhephaestus/VexHighStakes2024",
+      "1715892368015"
+    ],
+    "https://github.com/OperationSmallKat/Katapult.git": [
+      "OperationSmallKat/Katapult",
+      "1715182511564"
+    ],
+    "https://github.com/madhephaestus/steelPinCadGenerator.git": [
+      "https://github.com/madhephaestus/steelPinCadGenerator.git",
+      "1716223634302"
+    ],
+    "https://github.com/madhephaestus/VexVitaminsRobot.git": [
+      "madhephaestus/VexVitaminsRobot",
+      "1716254363090"
+    ],
+    "https://github.com/Courtnah/svgstorage.git": [
+      "Courtnah/svgstorage",
+      "1714920846745"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout.git": [
+      "BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout",
+      "1716469347827"
+    ],
+    "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
+      "GIST: Demonstrate assembly instructions",
+      "1714934983927"
     ]
   },
   "Logitech Logitech Dual Action": {
@@ -220,6 +226,22 @@
     "gitMoving": "https://github.com/madhephaestus/VexHighStakes2024.git"
   },
   "studio-open-git": {
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git:hornVitamin.groovy": [
+      "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git",
+      "hornVitamin.groovy"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git:LetsPrintRobots.ino": [
+      "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git",
+      "LetsPrintRobots.ino"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosWalk.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosWalk.groovy"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "ForkyLift.xml"
+    ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
       "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
       "dhcad.groovy"
@@ -227,6 +249,18 @@
     "https://github.com/madhephaestus/VexHighStakes2024.git:field.groovy": [
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "field.groovy"
+    ],
+    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
+      "https://gist.github.com/d4312a0787456ec27a2a.git",
+      "helloWorld.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
+    ],
+    "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git:TrextExtrudeExample.groovy": [
+      "https://gist.github.com/a08d5e6ee435a502810a4eb24b823cce.git",
+      "TrextExtrudeExample.groovy"
     ],
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
@@ -236,9 +270,17 @@
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "mobileSpike.groovy"
     ],
+    "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "Marcos.xml"
+    ],
     "https://github.com/madhephaestus/VexHighStakes2024.git:fieldElements.groovy": [
       "https://github.com/madhephaestus/VexHighStakes2024.git",
       "fieldElements.groovy"
+    ],
+    "https://github.com/madhephaestus/ShrinkAndLayout.git:ShrinkAndLayout.groovy": [
+      "https://github.com/madhephaestus/ShrinkAndLayout.git",
+      "ShrinkAndLayout.groovy"
     ],
     "https://github.com/madhephaestus/VexHighStakes2024.git:fieldLayout.json": [
       "https://github.com/madhephaestus/VexHighStakes2024.git",
@@ -247,6 +289,10 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobotCad.groovy": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
       "VexVitaminsRobotCad.groovy"
+    ],
+    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
+      "https://github.com/madhephaestus/MuJoCoTest.git",
+      "MujocoMobileBase.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
