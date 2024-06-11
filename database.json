@@ -34,10 +34,6 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
-    "": [
-      "Project ",
-      "1704737692809"
-    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "madhephaestus/carl-the-hexapod",
       "1716214539211"
@@ -113,6 +109,10 @@
     "https://gist.github.com/c1b31b66288d1dd93640c8e3b26743f4.git": [
       "GIST: Demonstrate assembly instructions",
       "1714934983927"
+    ],
+    "https://github.com/BancroftSchoolOpenSource/LetsPrintRobots.git": [
+      "BancroftSchoolOpenSource/LetsPrintRobots",
+      "1718077170444"
     ]
   },
   "Logitech Logitech Dual Action": {
