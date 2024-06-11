@@ -74,6 +74,10 @@
       "CommonWealthRobotics/HolonomicWheels",
       "1716039639309"
     ],
+    "https://gist.github.com/d4312a0787456ec27a2a.git": [
+      "GIST: BowlerStudio Hello World",
+      "1718077174635"
+    ],
     "https://github.com/madhephaestus/omniWheelRollerCadGenerator.git": [
       "https://github.com/madhephaestus/omniWheelRollerCadGenerator.git",
       "1716223482644"
@@ -97,10 +101,6 @@
     "https://github.com/madhephaestus/VexVitaminsRobot.git": [
       "madhephaestus/VexVitaminsRobot",
       "1716254363090"
-    ],
-    "https://github.com/Courtnah/svgstorage.git": [
-      "Courtnah/svgstorage",
-      "1714920846745"
     ],
     "https://github.com/BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout.git": [
       "BancroftSchoolOpenSource/PrintedHouseShrinkAndLayout",
