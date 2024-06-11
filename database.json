@@ -221,7 +221,12 @@
     "staticObjects": "field.groovy",
     "gitMoving": "https://github.com/madhephaestus/VexHighStakes2024.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "VexVitaminsRobot.xml"
+    ]
+  },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
